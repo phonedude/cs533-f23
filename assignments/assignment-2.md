@@ -1,4 +1,4 @@
-## Assignment 2, CS 495/595 Web Security, Spring 2022
+## Assignment 2, CS 433/533 Web Security, Fall 2023
 
 Due: 2023-09-27
 
