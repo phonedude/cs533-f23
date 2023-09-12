@@ -4,9 +4,11 @@
   <li><a href="https://github.com/naynay288/cs533-f23/tree/main/assignments/HAUGH/1/javascript/javascripting">Javascripting</a></li>
   <li><a href="https://github.com/naynay288/cs533-f23/tree/main/assignments/HAUGH/1/node">Node</a></li>
 </ul>
+![image](https://github.com/naynay288/cs533-f23/assets/33230570/03835d9c-e6ad-4241-b04c-2a076e0896da)
+![Alt text](https://github.com/naynay288/cs533-f23/assets/33230570/03835d9c-e6ad-4241-b04c-2a076e0896da)
 
-<img src="assignments/HAUGH/1/learnyouhtml.PNG" alt="HTML">
-<img src="" alt="Javascripting">
-<img src="assignments/HAUGH/1/learnyounode.PNG" alt="Node">
+
+
+
 
 YouTube Walk-Through video URL: https://www.youtube.com/watch?v=zb83Ca2LsMs
