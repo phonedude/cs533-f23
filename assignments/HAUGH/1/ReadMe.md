@@ -6,10 +6,11 @@
   <li><a href="https://github.com/naynay288/cs533-f23/tree/main/assignments/HAUGH/1/node">Node</a></li>
 </ul>
 
-<img src="/learnyouhtml.PNG" width="700">
-<img src="/Javascripting.PNG" width="700">
-<img src="/learnyounode.PNG" width="700">
+![Javascripting jpg](https://github.com/naynay288/cs533-f23/assets/33230570/a622c1cd-4eea-4ebd-8891-f14a4a849a60)
 
+![learnyouhtml](https://github.com/naynay288/cs533-f23/assets/33230570/23699b69-9ecf-419e-8a1b-bf32df54905c)
+
+![learnyounode](https://github.com/naynay288/cs533-f23/assets/33230570/c9134997-3da6-4fbf-8869-34f2c677e6bc)
 
 
 YouTube Walk-Through video URL: https://www.youtube.com/watch?v=zb83Ca2LsMs
