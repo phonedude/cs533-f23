@@ -9,7 +9,7 @@
 
 <img src="html/Learnyouhtml_srceen_capture.png" width="700">
 
-* Screen shot of completion of jjavascripting.
+* Screen shot of completion of javascripting.
   
 <img src="javascript/Javascripting_screen_capture.png" width="700">
 
