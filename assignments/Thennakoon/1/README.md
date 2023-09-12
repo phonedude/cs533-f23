@@ -2,10 +2,13 @@
 
 * The directories
   * [html](html)
+    "This directory contains 11 html files per each task"
   * [javascript](javascript)
+    "This directory contains 20 javascript files per each task"
   * [node](node)
+   "This directory contains 14 javascript files per each task"
 
-* Screen shot of completion of learnyouhtml.
+* Screen shot of completion of learnyouhtml. 
 
 <img src="html/Learnyouhtml_srceen_capture.png" width="700">
 
