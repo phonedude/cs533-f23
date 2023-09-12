@@ -6,9 +6,9 @@
   <li><a href="https://github.com/naynay288/cs533-f23/tree/main/assignments/HAUGH/1/node">Node</a></li>
 </ul>
 
-<img src="assignments/HAUGH/1/learnyouhtml.PNG" width="700">
-<img src="assignments/HAUGH/1/Javascripting.PNG" width="700">
-<img src="assignments/HAUGH/1/learnyounode.PNG" width="700">
+<img src="/learnyouhtml.PNG" width="700">
+<img src="/Javascripting.PNG" width="700">
+<img src="/learnyounode.PNG" width="700">
 
 
 
