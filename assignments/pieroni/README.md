@@ -18,3 +18,9 @@
 **Learnyounode**:  Consists of challenges that teaches you the basics of node js and how to implement and use it for a variety of servers and requests. 
 
 ![learnyounode](https://github.com/AdamMPieroni/cs533-f23/assets/54948549/94081ab6-1626-4874-82bf-f8930421651f)
+
+
+Link to Youtube video:  https://www.youtube.com/watch?v=M1Od2v6h4NI
+
+
+If there is any questions please do not hesititate to ask! 
