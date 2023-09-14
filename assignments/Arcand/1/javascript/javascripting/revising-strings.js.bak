@@ -1,0 +1,10 @@
+// revising-strings.js
+
+// Define a variable named pizza that references the string 'pizza is alright'
+let pizza = 'pizza is alright';
+
+// Use the .replace() method to change 'alright' to 'wonderful'
+pizza = pizza.replace('alright', 'wonderful');
+
+// Print the result to the terminal
+console.log(pizza);
