@@ -11,3 +11,4 @@ completion of javascripting:https://drive.google.com/file/d/1eqh7X5pX37Mb_jFe1Iu
 completion of learnyounode: https://drive.google.com/file/d/18EisBEPFAqOAA1fcJC4GKc--YByd6vrH/view?usp=drive_link
 
 A link to a Youtube video showing you list the files in the directory and showing the end screen for each workshop.
+https://youtu.be/qpjb88yZsg0
