@@ -12,4 +12,4 @@
 <img alt="node module" src="https://github.com/mallywal/cs533-f23/assets/144044644/e6e652a0-9ca7-4b28-8cdc-e727851796e4" width="700">
 
 * The video of the files and test completion pages is available at: [https://youtu.be/WcoyxZ3p7ks]
-
+* Progress for partial credit updated video : [https://youtu.be/1MhqwIxgdmw]
