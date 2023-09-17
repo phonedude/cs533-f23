@@ -9,8 +9,7 @@
 
 *<img alt="javascript module" src="https://github.com/mallywal/cs533-f23/assets/144044644/61306156-0465-4d2c-aa10-7f98cf17b8b1" width="700">
 
-*<img alt="node module" src="https://github.com/mallywal/cs533-f23/assets/144044644/c6617775-f6f2-4987-b289-9d14e77c4cf5" width="700">
-
+<img alt="node module" src="https://github.com/mallywal/cs533-f23/assets/144044644/e6e652a0-9ca7-4b28-8cdc-e727851796e4" width="700">
 
 * The video of the files and test completion pages is available at: [https://youtu.be/WcoyxZ3p7ks]
 
