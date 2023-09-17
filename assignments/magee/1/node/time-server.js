@@ -3,6 +3,6 @@ var strftime = require('strftime')
 
 const portNumber = process.argv[2]
 const server = net.createServer(function (socket) {  
-    socket.write(strftime('%F %H:%M'))  //YYYY-MM-DD hh:mm
+    socket.end(strftime('%F %H:%M') + '\n')  //YYYY-MM-DD hh:mm
 })  
 server.listen(portNumber)
