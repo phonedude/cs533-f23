@@ -22,7 +22,7 @@ Relevant resources:
 
 * Create another directory ```5.2```; you can modify the files from ```5.1``` for this portion of the assignment if you'd like.
 
-* Demonstrate how three custom HTTP response headers (```X-CS33f23-*```, where ```*``` corresponds to your three favorite things from assignment 1) are both blocked and then allowed by one server.  
+* Demonstrate how three custom HTTP response headers (```X-CS533f23-*```, where ```*``` corresponds to your three favorite things from assignment 1) are both blocked and then allowed by one server.  
 
 ### Content-Security-Policy: embedding from another site (5 points)
 

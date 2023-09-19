@@ -50,13 +50,13 @@ his course materials (although any errors are mine).
    * [The Missing Semester of Your CS Education](https://missing.csail.mit.edu/)
    * Inside look at modern web browser: [1](https://developers.google.com/web/updates/2018/09/inside-browser-part1), [2](https://developers.google.com/web/updates/2018/09/inside-browser-part2), [3](https://developers.google.com/web/updates/2018/09/inside-browser-part3)
    * [Architecture of the World Wide Web, Volume One](https://www.w3.org/TR/webarch/)
-   * [Class slides](https://docs.google.com/presentation/d/1_zl0HjrtiUPBrCZw_neRHXQ22cwYgXSCDr4HO1wO3ag/edit)
+   * [Class slides](https://docs.google.com/presentation/d/1FaFNxFVoVhM7_iGNLu_SQPAVssxWv3Bsm8q7FyCPWjU/edit)
 
 * Week 02 - September 6 - Cookies, Sessions
    * [An overview of HTTP](https://developer.mozilla.org/en-US/docs/Web/HTTP/Overview)
    * [HTTP Cookies](https://developer.mozilla.org/en-US/docs/Web/HTTP/Cookies)
    * [HTTP Headers](https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers)
-   * [Class slides](https://docs.google.com/presentation/d/1tDYkblXjG_xGpxOAquWU5UrP3P6CvgbglGQxjvWKI80/edit)
+   * [Class slides](https://docs.google.com/presentation/d/1ECq0Q9aFiIWBrPq79nUihsLaknYczZt_c5xFZHFC1Rs/edit)
 
 * Week 03 - September 13 - Cross-Site Request Forgery, Same Origin Policy
    * [SameSite Cookies Explained](https://web.dev/samesite-cookies-explained/)
@@ -65,7 +65,7 @@ his course materials (although any errors are mine).
    * [Same Origin policy](https://developer.mozilla.org/en-US/docs/Web/Security/Same-origin_policy)
    * [Cross-Site Request Forgery Prevention](https://cheatsheetseries.owasp.org/cheatsheets/Cross-Site_Request_Forgery_Prevention_Cheat_Sheet.html)
    * [Origin](https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers/Origin)
-   * [Class slides](https://docs.google.com/presentation/d/144GMLCLIOrRMeT0Yzy_KpbOhvKk8-c49E5MYYJ1ydAc/edit)
+   * [Class slides](https://docs.google.com/presentation/d/1XYuu3Vu7GwwHM1KzSsG9IPMHglc3bfD-IIUADXIggVo/edit)
 
 * Week 04 - September 20 - Exceptions to the Same Origin Policy
    * [X-Frame-Options](https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers/X-Frame-Options), [RFC 7034](https://tools.ietf.org/html/rfc7034)
