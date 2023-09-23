@@ -17,4 +17,4 @@
    * **home.html**
      -Html file referring to the home page.
 
-* Youtube vedio link for viewing files, running server, and viewing output is available at: [https://youtu.be/VMmlqgsRWRQ] 
+* Youtube vedio link for viewing files, running server, and viewing output is available at: https://youtu.be/VMmlqgsRWRQ 
