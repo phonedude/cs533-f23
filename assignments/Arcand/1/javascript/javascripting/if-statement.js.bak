@@ -1,0 +1,9 @@
+// Declare a variable named fruit and assign it the string value "orange"
+var fruit = "orange";
+
+// Check the length of the fruit variable and print the appropriate message
+if (fruit.length > 5) {
+  console.log("The fruit name has more than five characters.");
+} else {
+  console.log("The fruit name has five characters or less.");
+}
