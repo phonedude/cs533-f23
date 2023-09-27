@@ -1,0 +1,21 @@
+const http = require('http');
+const map = require('through2-map');
+
+const port = process.argv[2];
+
+if (!port) {
+  console.error('Usage: node http-uppercaserer.js <port>');
+  process.exit(1);
+}
+
+const server = http.createServer((req, res) => {
+  if (req.method !== 'POST') {
+    return res.end('Only POST requests are accepted.\n');
+  }
+
+  req.pipe(map(chunk => chunk.toString().toUpperCase())).pipe(res);
+});
+
+server.listen(Number(port), () => {
+  console.log(`Server listening on port ${port}`);
+});
