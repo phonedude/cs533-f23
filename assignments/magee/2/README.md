@@ -6,7 +6,7 @@
 
 
     
-* Here are screen shots of completion..*
+* Here are screen shots of completion..
 
     *<img alt="musician" src="https://github.com/mallywal/cs533-f23/assets/144044644/f3626a68-8abf-433f-b5d3-bd5e4c1b2a69" width="500">
 
