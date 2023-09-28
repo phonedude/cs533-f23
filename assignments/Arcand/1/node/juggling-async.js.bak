@@ -1,0 +1,37 @@
+const http = require('http');
+
+// Define the URLs as command-line arguments
+const urls = process.argv.slice(2);
+
+// Initialize an array to store the collected data
+const collectedData = [];
+
+// Function to fetch data from a URL and store it in the collectedData array
+function fetchData(url, index) {
+  http.get(url, (response) => {
+    let data = '';
+    
+    // Set the encoding to UTF-8 to receive data as strings
+    response.setEncoding('utf8');
+    
+    response.on('data', (chunk) => {
+      data += chunk;
+    });
+
+    response.on('end', () => {
+      collectedData[index] = data;
+
+      // Check if all URLs have returned their data
+      if (collectedData.filter(Boolean).length === urls.length) {
+        collectedData.forEach((content) => {
+          console.log(content);
+        });
+      }
+    });
+  });
+}
+
+// Iterate through the URLs and fetch data for each
+urls.forEach((url, index) => {
+  fetchData(url, index);
+});

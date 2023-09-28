@@ -65,18 +65,18 @@ his course materials (although any errors are mine).
    * [Same Origin policy](https://developer.mozilla.org/en-US/docs/Web/Security/Same-origin_policy)
    * [Cross-Site Request Forgery Prevention](https://cheatsheetseries.owasp.org/cheatsheets/Cross-Site_Request_Forgery_Prevention_Cheat_Sheet.html)
    * [Origin](https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers/Origin)
-   * [Class slides](https://docs.google.com/presentation/d/144GMLCLIOrRMeT0Yzy_KpbOhvKk8-c49E5MYYJ1ydAc/edit)
+   * [Class slides](https://docs.google.com/presentation/d/1XYuu3Vu7GwwHM1KzSsG9IPMHglc3bfD-IIUADXIggVo/edit)
 
 * Week 04 - September 20 - Exceptions to the Same Origin Policy
    * [X-Frame-Options](https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers/X-Frame-Options), [RFC 7034](https://tools.ietf.org/html/rfc7034)
    * [Frame Hijacking](https://seclab.stanford.edu/websec/frames/)
    * [Busting Frame Busting](https://seclab.stanford.edu/websec/framebusting/)
-   * [Class slides](https://docs.google.com/presentation/d/1-BN2SL8N6nRg1pEbF7r7unH4ia1raOYGsHOdVFp21Qs/edit)
+   * [Class slides](https://docs.google.com/presentation/d/17h10fVeoSunelmmmM57fAfVBa14hy1wPhHfuUqHTfYQ/edit)
 
 * Week 05 - September 27 - Cross-Site Scripting (XSS)
    * [Cross Site Scripting Prevention Cheat Sheet](https://cheatsheetseries.owasp.org/cheatsheets/Cross_Site_Scripting_Prevention_Cheat_Sheet.html)
    * [XSS Filter Evasion Cheat Sheet](https://owasp.org/www-community/xss-filter-evasion-cheatsheet)
-   * [Class slides](https://docs.google.com/presentation/d/1gOQRmBsIXlTYa4M6a3jqx8nrl5Yf_P2YopDVb3YLSZk/edit)
+   * [Class slides](https://docs.google.com/presentation/d/1eaHS8z9UogRbuAkiY5XrypBwfkpyt29nH96jwVfy1KA/edit)
 
 * Week 06 - October 4 - XSS and Content Security Policy (CSP)
    * [Content Security Policy (CSP)](https://developer.mozilla.org/en-US/docs/Web/HTTP/CSP) 

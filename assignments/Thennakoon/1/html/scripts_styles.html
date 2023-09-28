@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+     <html>
+        <head>
+           <meta charset="utf-8">
+           <title>Hello, world!</title>
+
+            <style type="text/css">
+              body{
+                color: red;
+              }
+              
+            </style>
+
+            <link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
+
+        </head>
+       <body>
+         <script>
+        var user_name = document.getElementById("name");
+        document.getElementById("btn-alert").addEventListener("click", function(){
+            var value=user_name.value.trim();
+            if(!value)
+                alert("Name Cannot be empty!");
+            else
+                alert("Hello, " + value + "!\nGreetings.");
+            });
+          </script>
+       </body>
+     </html>
