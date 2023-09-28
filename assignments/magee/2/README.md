@@ -2,7 +2,7 @@
   * [musician](http://localhost:4000/musician)
   * [tv series](http://localhost:4000/tvseries.html)
   * [film](http://localhost:4000/film)
-  * *Extra Credit: [Favicon](http://localhost:4000/favicon.ico)*
+  * Extra Credit: [Favicon](http://localhost:4000/favicon.ico)
 
 
     
@@ -18,4 +18,4 @@
       <img alt="Favicon-House" src="https://github.com/mallywal/cs533-f23/assets/144044644/d0761ad6-abb5-47be-bee1-37619101dce9" width="500">
 
 
-* The video of the files and test completion pages is available at: [Placeholder]
+* The video of the files and test completion pages is available at: [https://youtu.be/W0YevMWQI7M)https://youtu.be/W0YevMWQI7M]
