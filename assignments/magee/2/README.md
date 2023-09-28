@@ -1,4 +1,4 @@
-<img width="712" alt="Screenshot 2023-09-27 at 11 07 22 PM" src="https://github.com/mallywal/cs533-f23/assets/144044644/8170a4be-6750-4c51-8ae3-aa23f52db3ad">* 3 Paths
+* 3 Paths
   * [musician](http://localhost:4000/musician)
   * [TV series](http://localhost:4000/tvseries.html)
   * [film](http://localhost:4000/film)
@@ -8,7 +8,7 @@
 
     *<img alt="musician" src="https://github.com/mallywal/cs533-f23/assets/144044644/f3626a68-8abf-433f-b5d3-bd5e4c1b2a69" width="700">
 
-    *<img alt="film" src="https://github.com/mallywal/cs533-f23/assets/144044644/84e6b2ad-b383-45ea-8258-beb8771f945e" width="700">
+    *<img alt="tv Series" src="https://github.com/mallywal/cs533-f23/assets/144044644/8170a4be-6750-4c51-8ae3-aa23f52db3ad" width="700">
 
     *<img alt="film" src="https://github.com/mallywal/cs533-f23/assets/144044644/e6e652a0-9ca7-4b28-8cdc-e727851796e4" width="700">
 
