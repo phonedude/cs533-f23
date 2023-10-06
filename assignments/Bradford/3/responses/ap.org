@@ -1,0 +1,14 @@
+> HTTP/1.1 200 OK
+> Content-Type: text/html;charset=UTF-8
+> Content-Length: 10268
+> Connection: keep-alive
+> Content-Encoding: gzip
+> Date: Fri, 06 Oct 2023 14:10:00 GMT
+> Server: Apache/2.4.52 (Ubuntu)
+> Vary: Accept-Encoding
+> X-Cache: Hit from cloudfront
+> Via: 1.1 3924198dd88678a1cab97875f32b6f20.cloudfront.net (CloudFront)
+> X-Amz-Cf-Pop: IAD89-C2
+> X-Amz-Cf-Id: LSNpAyOR83G_6HldnO4QDUMEm6pcPjwTohnz_f4IL4i-kUkCB7UUDA==
+> Age: 43
+> 

@@ -1,0 +1,19 @@
+> HTTP/1.1 200 OK
+> Cache-Control: must-revalidate, no-cache, no-store, post-check=0, pre-check=0, private
+> Content-Type: text/html; charset=UTF-8
+> Date: Fri, 06 Oct 2023 14:11:01 GMT
+> Set-Cookie: XSRF-TOKEN=eyJpdiI6IkZpaXRWNGRNcCtWSWZLM0xRaFdHU1E9PSIsInZhbHVlIjoiUDExZjNlT1VDcDU3dmpsRDArRmFSNTJwa3czRkhsRm1aRFAwWkZtVUg2VGo3bWdhemdaXC9vbEpEQWhTYjhIV3kiLCJtYWMiOiI0MzNmOWEwNDVlMzVhNGRlNjk5ZTc3Y2I5ZWYxZTA5YWQ3ODZhYTFkMWJlOWRlODhiZjRiNTYxYTNjMTQ1ZWY4In0%3D; expires=Fri, 06-Oct-2023 16:11:01 GMT; Max-Age=7200; path=/; secure
+> Set-Cookie: gootop=NE:0&SJA:0_1535601469&CST:851ec08b3eadcb146ab9db89fd64ef1a&SR:&PCE:1&SL:2_3_4_8_10_11_12_16_27_53; expires=Thu, 06-Oct-2039 14:11:01 GMT; Max-Age=504921600; path=/; secure
+> Set-Cookie: gootopstay=eyJpdiI6IlFsUkJxZnN1Q1M0VmdLTmVmVGgrUHc9PSIsInZhbHVlIjoidTVcL2tybHVZSUlGZFAwUDB4RFp6YVE9PSIsIm1hYyI6IjcyNWExYjBmOTVhZWYxNjA4ZDlkZDVhMWM1MjliOTg1YTQzZmU3MzYwZTdkZWZhZTc4MWRlODI5YWE2YzExYWUifQ==; expires=Sun, 06-Oct-2024 14:11:01 GMT; Max-Age=31622400; path=/; secure
+> Set-Cookie: mental=eyJpdiI6InZ3ZEc0MXluNk9jWkRiVzRmaEZ2eVE9PSIsInZhbHVlIjoiVzVhd2VcL0d5QWZXN3Ribm8xRWNLU3c9PSIsIm1hYyI6IjNkOTM3ZWRlMmMwMDU5MmU0NGJjMjAyNTcwZDY2MTkwNjdhMGU3N2I5M2Y4MzYyYWNmYTkxMDZlMDA5MDAyN2UifQ%3D%3D; expires=Sat, 07-Oct-2023 14:11:01 GMT; Max-Age=86400; path=/; secure; httponly
+> Set-Cookie: gooproperty=AR%3D%26HO%3D1%26MD%3D%26TH%3DM13%26HH%3D%26WEATHER%3D; expires=Mon, 06-Oct-2025 14:11:01 GMT; Max-Age=63158400; path=/; domain=.goo.ne.jp; secure
+> Set-Cookie: searchstate=deleted; expires=Thu, 06-Oct-2022 14:11:00 GMT; Max-Age=0; path=/; domain=goo.ne.jp; secure; httponly
+> Set-Cookie: TS01ea13e3=016952d21e2d5b4018e87513790d8740a8d9eb00a6ee3b6509520276fced5a4b4e0fa64ebc6cf79e0f36bc35267700303bf3c9ff6c93a09574f6a4399f037a2f0159121a30fc9170bedd88f742ab265568df61265f9fcdead64cff80505ada5d7941f137dadbe64d1f10bed6cc202b4ae85fe31b70; Path=/
+> Set-Cookie: TS011bfe84=016952d21e7076c24dbe55ae242311dd37287bad43ee3b6509520276fced5a4b4e0fa64ebc5a971157b49c082b836b118672eb646acc05b0314aafaf9b0bc8f970440d583d; path=/; domain=.goo.ne.jp
+> Set-Cookie: TS011667c7=016952d21eea61eef937739cce2862903633596045ee3b6509520276fced5a4b4e0fa64ebc9fb8a2de9abdd50b981256dec926bb26a1ba28d1a8a43805bce34d522d2ca015; path=/; domain=goo.ne.jp
+> X-Content-Type-Options: nosniff
+> X-Frame-Options: SAMEORIGIN
+> X-Vcap-Request-Id: a459a208-c0c4-4f8f-4e41-7425437efd5d
+> X-Xss-Protection: 1; mode=block
+> Transfer-Encoding: chunked
+> 

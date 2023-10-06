@@ -1,0 +1,21 @@
+> HTTP/1.1 200 OK
+> Content-Type: text/html;charset=UTF-8
+> Pragma: cache
+> X-Frame-Options: sameorigin
+> Content-Language: de
+> X-Backends-true-http-code: 200
+> X-Request-Id: 822b63df807ddb42ecc20827bab7ebf1
+> X-Dhc-Counter: HIT
+> X-Dhc-ReRouted: False
+> ETag: W/"09a9dc6675156bce53abb9450ee612b7d"
+> Accept-Ranges: bytes
+> grace: none
+> X-Cache-Z: MISS
+> X-XSS-Protection: 1; mode=block
+> Vary: Accept-Encoding
+> Content-Encoding: gzip
+> Cache-Control: max-age=6
+> Date: Fri, 06 Oct 2023 14:12:18 GMT
+> Content-Length: 297650
+> Connection: keep-alive
+> 

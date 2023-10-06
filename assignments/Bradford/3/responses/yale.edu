@@ -1,0 +1,29 @@
+> HTTP/1.1 200 OK
+> Connection: keep-alive
+> Content-Length: 27660
+> Cache-Control: public, max-age=21600
+> Content-Encoding: gzip
+> Content-Language: en
+> Content-Type: text/html; charset=utf-8
+> Etag: W/"1696599223-0"
+> Expires: Sun, 19 Nov 1978 05:00:00 GMT
+> Last-Modified: Fri, 06 Oct 2023 13:33:43 GMT
+> Link: <https://www.yale.edu/>; rel="canonical",<https://www.yale.edu/>; rel="shortlink"
+> Server: nginx
+> Strict-Transport-Security: max-age=31622400
+> X-Content-Type-Options: nosniff
+> X-Drupal-Cache: MISS
+> X-Frame-Options: SAMEORIGIN
+> X-Generator: Drupal 7 (https://www.drupal.org)
+> X-Pantheon-Styx-Hostname: styx-fe1-a-685d4d5969-ksmk4
+> X-Styx-Req-Id: f82313ca-644c-11ee-a117-42dc5f6a6a90
+> Age: 2313
+> Accept-Ranges: bytes
+> Via: 1.1 varnish, 1.1 varnish, 1.1 varnish
+> Date: Fri, 06 Oct 2023 14:12:17 GMT
+> X-Served-By: cache-chi-klot8100028-CHI, cache-iad-kcgs7200173-IAD, cache-iad-kiad7000124-IAD
+> X-Cache: HIT, HIT, MISS
+> X-Cache-Hits: 1, 92, 0
+> X-Timer: S1696601538.545875,VS0,VE2
+> Vary: Accept-Encoding, Cookie, Cookie, Cookie
+> 
