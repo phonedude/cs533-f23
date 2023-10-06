@@ -1,0 +1,4 @@
+> HTTP/1.1 200 OK
+> Set-Cookie: 1P_JAR=2023-10-06-14; expires=Sun, 05-Nov-2023 14:11:02 GMT; path=/; domain=.google.de; Secure
+> Set-Cookie: AEC=Ackid1RFw1-4dQjOZdL9Zh-SyYlk6K-dyGHtd12n_3tMTyg9lIVzOK3R6hc; expires=Wed, 03-Apr-2024 14:11:02 GMT; path=/; domain=.google.de; Secure; HttpOnly; SameSite=lax
+> Set-Cookie: NID=511=ISskEqKC8-VVgaBqMLDvGkQc2I6LqC9cxTJodoHmgtPbc20AYccxtR8785RULOixA93mKoP74St8BrsLosgTGoEFiR_Q2nvfSyR9wZk7tkALzZLfx3RCBxHFKvbrswIaobV9foq1suNlau5uJ7gpFSg14DKuV5pcF6Hw0lQeOrU; expires=Sat, 06-Apr-2024 14:11:02 GMT; path=/; domain=.google.de; HttpOnly
