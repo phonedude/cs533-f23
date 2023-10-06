@@ -14,8 +14,5 @@ def main():
             except requests.exceptions.ReadTimeout:
                 response.write("Request timed out")
 
-        
-
-
 if __name__ == "__main__":
     main()
