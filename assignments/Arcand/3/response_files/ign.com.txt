@@ -1,0 +1,31 @@
+HTTP/1.1 302 Found
+Connection: close
+Content-Length: 0
+Server: Varnish
+Retry-After: 0
+Location: https://www.ign.com/
+Accept-Ranges: bytes
+Date: Mon, 09 Oct 2023 20:14:02 GMT
+Via: 1.1 varnish
+X-Served-By: cache-pdk-kpdk1780146-PDK
+X-Cache: HIT
+X-Cache-Hits: 0
+X-Timer: S1696882443.840055,VS0,VE1
+Cache-Control: max-age:604800
+
+HTTP/1.1 403 Unavailable (IFW-U01)
+Connection: close
+Content-Length: 3445
+Retry-After: 0
+Accept-Ranges: bytes
+Date: Mon, 09 Oct 2023 20:14:03 GMT
+X-Served-By: cache-atl18426-ATL
+X-Cache: MISS
+X-Cache-Hits: 0
+X-Timer: S1696882443.120808,VS0,VE0
+Access-Control-Allow-Origin: *
+Access-Control-Allow-Methods: GET, POST, PUT
+Access-Control-Allow-Headers: Access-Control-Allow-Headers, Origin,Accept, X-Requested-With, Content-Type, Access-Control-Request-Method, Access-Control-Request-Headers, Authorization
+Set-Cookie: geoCC=US; path=/
+Strict-Transport-Security: max-age=300
+

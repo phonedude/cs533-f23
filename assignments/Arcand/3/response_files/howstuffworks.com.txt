@@ -1,0 +1,23 @@
+HTTP/1.1 301 Moved Permanently
+Content-Length: 0
+Connection: keep-alive
+Date: Mon, 09 Oct 2023 06:59:07 GMT
+Location: https://www.howstuffworks.com/
+Server: AmazonS3
+X-Cache: Hit from cloudfront
+Via: 1.1 8eaa38f96dd1cf2c24fe9323b624b766.cloudfront.net (CloudFront)
+X-Amz-Cf-Pop: ATL56-C1
+X-Amz-Cf-Id: WiT7zoghmQr_XKe50c5h-GM037rP1IiTamSVUjmrqR73hQklsGD2kw==
+Age: 47691
+
+HTTP/1.1 200 OK
+Content-Type: text/html;charset=UTF-8
+Connection: keep-alive
+Date: Mon, 09 Oct 2023 20:13:58 GMT
+Server: nginx
+Expires: Mon, 09 Oct 2023 16:23:58 -0400
+X-Cache: Miss from cloudfront
+Via: 1.1 d95b64cce83cf2283db48e77cc0ee81e.cloudfront.net (CloudFront)
+X-Amz-Cf-Pop: ATL56-C1
+X-Amz-Cf-Id: 6B-woGX3vVyBWZ9BkX60BWkzlkUyRDSpfuKdw9L4nau_1XzbSKgOIQ==
+
