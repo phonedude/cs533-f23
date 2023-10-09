@@ -1,4 +1,4 @@
-Assignemnt Description:
+Assignment Description:
 
 I created a README.md report containing a comprehensive table summarizing the cookie practices of the 100 unique, random websites from Mozilla's Top 500 Sites I was assigned. The report includes the following information for each website:
 
