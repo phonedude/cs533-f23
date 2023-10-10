@@ -312,3 +312,6 @@ The tabular data that the script also produced is shown below and is also stored
 | google.nl | / | True | False | False | N/A |
 | amazon.co.jp | / | False | False | False | N/A |
 | shopify.com | / | True | True | True | None |
+
+## It's turtles all the way down...  
+I have found that the exact origin of the phrase is uncertain, but is usually attributed to a story in which a scientist give a lecture about the position of the Earth in the universe. An audience member posits that the Earth is actually not situated in space, but rather rests on the back of a giant turtle. When pressed about what existed beyond the turtle, she said that that turtle rested on a slightly larger turtle. When pressed about that turtle, she said that it's actually turtles all the way down. This saying is usually used to describe infinite regress. 
