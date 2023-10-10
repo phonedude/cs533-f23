@@ -57,7 +57,7 @@ def main():
         print(f'{httponly_count} cookies set HttpOnly')
         print(f'{secure_count} cookies set Secure')
         print(f'{samesite_count} cookies set SameSite')
-        print(f'Of the cookies that set same site, {strict_count} were Strict, {lax_count} were Lax, and {none_count} were None')
+        print(f'Of the {samesite_count} cookies that set SameSite, {strict_count} were Strict, {lax_count} were Lax, and {none_count} were None')
         print(f'{path_count} cookies set Path, and {path_not_slash_count} had values other than "/"')
 
 if __name__ == "__main__":
