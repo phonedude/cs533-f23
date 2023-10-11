@@ -1,6 +1,5 @@
 import express from 'express'
 import cookieParser from 'cookie-parser'
-// import bodyParser from 'body-parser'
 import { createReadStream } from 'fs'
 
 import { dirname } from 'path'
@@ -11,6 +10,9 @@ const app = express()
 app.use(cookieParser())
 app.use(express.static(__dirname + "/public"))
 
+app.get('/', (_, res) => {
+  createReadStream('index.html').pipe(res)
+})
 app.get('/band', (_, res) => {
   createReadStream('band.html').pipe(res)
 })
