@@ -10,16 +10,16 @@ The server also serves a favicon.ico file (an ODU emblem).
 
 ## Images of rendered pages
 Below is my homepage that will be rendered if no path is given.
-![Home page](img/homepage.png)
+<img src="img/homepage.png" width="450"/>
 
 Below is the page located at /everything.
-![Everything Everywhere All at Once](img/everything.png)  
+<img src="img/everything.png" width="450"/>  
 
 Below is the page located at /jukebox.
-![Jukebox the Ghost](img/jukebox.png)
+<img src="img/jukebox.png" width="450"/>
 
 Below is the page located at /bear.  
-![The Bear](img/bear.png)
+<img src="img/bear.png" width="450"/>
 
 
 ## Youtube video
