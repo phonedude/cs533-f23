@@ -9,13 +9,13 @@ The server.js file is a JavaScript file that runs the HTTP server with express. 
 The server also serves a favicon.ico file (an ODU emblem).  
 
 ## Images of rendered pages
-Below is my homepage that will be rendered if no path is given.
+Below is my homepage that will be rendered if no path is given.  
 <img src="img/homepage.png" width="450"/>
 
-Below is the page located at /everything.
+Below is the page located at /everything.  
 <img src="img/everything.png" width="450"/>  
 
-Below is the page located at /jukebox.
+Below is the page located at /jukebox.  
 <img src="img/jukebox.png" width="450"/>
 
 Below is the page located at /bear.  
