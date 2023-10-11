@@ -12,3 +12,10 @@ This assignment consisted of creating and managing a webserver using Node.js.  W
 Within the mainpage can be found 3 webpages that contain my favorite band, movie, and tv show.
 
 # Link to Youtube Video:  https://youtu.be/V2FN4IqrB-o
+
+# Peach Pit 
+ 
+# Parasite 
+
+# The Wire 
+
