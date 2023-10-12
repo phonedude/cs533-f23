@@ -9,7 +9,7 @@ This directory contains files related to creating and running a node server on l
      -Html file referring to the home page.
      
    * Screenshot of [home.html](home.html) page
-   <kbd><img src="Screenshots/Screenshot_of_home_page.png" width="600" ></kbd>
+   <kbd><img src="Screenshots/Screenshot_of_home_page.png" width="700" ></kbd>
    
 * **The directories**
   * **html**
@@ -20,13 +20,13 @@ This directory contains files related to creating and running a node server on l
            suits.html
 
   * Screenshot of [taylor.html](taylor.html) page
-  <kbd><img src="Screenshots/Screenshot_of_fav_artist.png" width="600" ></kbd>
+  <kbd><img src="Screenshots/Screenshot_of_fav_artist.png" width="700" ></kbd>
 
   * Screenshot of [johnwick.html](johnwick.html) page
-  <kbd><img src="Screenshots/Screenshot_of_fav_movie.png" width="600" ></kbd>
+  <kbd><img src="Screenshots/Screenshot_of_fav_movie.png" width="700" ></kbd>
 
   * Screenshot of [suits.html](suits.html) page
-  <kbd><img src="Screenshots/Screenshot_of_fav_TV_show.png" width="600" ></kbd>
+  <kbd><img src="Screenshots/Screenshot_of_fav_TV_show.png" width="700" ></kbd>
   
   * **public/images**
     -Contains favicons.
