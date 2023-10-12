@@ -1,13 +1,15 @@
 ## Assignment 2 - Kumushini(01251889)
 
+This directory contains files related to creating and running a node server on local machine.
+
 * **The files**
    * **index.js**
      -The javascript file created for setting up the server.
    * **home.html**
      -Html file referring to the home page.
      
-   * Screen shot of home.html page
-   <kbd><img src="Screenshots/Screenshot_of_home_page.png" width="700" ></kbd>
+   * Screenshot of [home.html](home.html) page
+   <kbd><img src="Screenshots/Screenshot_of_home_page.png" width="600" ></kbd>
    
 * **The directories**
   * **html**
@@ -17,14 +19,14 @@
            johnwick.html 
            suits.html
 
-  * Screen shot of taylor.html page
-  <kbd><img src="Screenshots/Screenshot_of_fav_artist.png" width="700" ></kbd>
+  * Screenshot of [taylor.html](taylor.html) page
+  <kbd><img src="Screenshots/Screenshot_of_fav_artist.png" width="600" ></kbd>
 
-  * Screen shot of johnwick.html page
-  <kbd><img src="Screenshots/Screenshot_of_fav_movie.png" width="700" ></kbd>
+  * Screenshot of [johnwick.html](johnwick.html) page
+  <kbd><img src="Screenshots/Screenshot_of_fav_movie.png" width="600" ></kbd>
 
-  * Screen shot of suits.html page
-  <kbd><img src="Screenshots/Screenshot_of_fav_TV_show.png" width="700" ></kbd>
+  * Screenshot of [suits.html](suits.html) page
+  <kbd><img src="Screenshots/Screenshot_of_fav_TV_show.png" width="600" ></kbd>
   
   * **public/images**
     -Contains favicons.
@@ -36,7 +38,7 @@
   <kbd><img src="public/images/singer-cartoon.png" width="100" height ="100" ></kbd>
   <kbd><img src="public/images/television.png" width="100" height ="100" ></kbd>
 
-  * **node modules**
+  * **node_modules**
     -Contains node modules
          
 
