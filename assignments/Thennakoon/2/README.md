@@ -7,6 +7,11 @@
            taylor.html 
            johnwick.html 
            suits.html
+
+* Screen shot of taylor.html page
+
+<img src="Screenshots/Screenshot_of_fav_artist.png" width="700">
+
   * **public**
     -This directory contain images directory, and inside images favicon icons are included.
   * **node modules**
