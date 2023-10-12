@@ -2,31 +2,31 @@
 
 * Folder structure
 2:
-│   home.html - Html file referring to the home page
-│   index.js - The javascript file created for setting up the server
-│   package-lock.json
-│   package.json
-│   README.md
-│
-├───html
-│       johnwick.html
-│       suits.html
-│       taylor.html
-│
-├───node_modules
-│
-├───public
-│   └───images
-│           home-icon.png
-│           movie.png
-│           singer-cartoon.png
-│           television.png
-│
-└───Screenshots
-        Screenshot_of_fav_artist.png
-        Screenshot_of_fav_movie.png
-        Screenshot_of_fav_TV_show.png
-        Screenshot_of_home_page.png
+|---home.html
+|---index.js
+|---package-lock.json
+|---package.json
+|---README.md
+|
+|---html
+|     |---johnwick.html
+|     |---suits.html
+|     |---taylor.html
+|
+|───node_modules
+|
+|───public
+|    |---images
+|          |--home-icon.png
+|          |--movie.png
+|          |--singer-cartoon.png
+|          |--television.png
+|
+|---Screenshots
+       |--Screenshot_of_fav_artist.png
+       |--Screenshot_of_fav_movie.png
+       |--Screenshot_of_fav_TV_show.png
+       |--Screenshot_of_home_page.png
 
 * Screen shot of home.html page
 <kbd><img src="Screenshots/Screenshot_of_home_page.png" width="700" ></kbd>
