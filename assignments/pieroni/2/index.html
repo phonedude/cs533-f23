@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>My Website</title>
+    <link href="public/css/std.css" rel="stylesheet">   <!-- Stylesheet link -->
+    <link href="public/css/styles.css" rel="stylesheet"> <!-- Stylesheet link -->
+    <link rel="icon" href="./favicon.ico" type="image/x-icon">
+  </head>
+  <body>
+    <!-- Sidebar/menu -->
+  <!-- Would removing w3-collapse and w3-animate-left fix the mobile problem	
+  <nav class="w3-sidebar w3-collapse w3-white w3-animate-left" style="z-index:3;width:300px;" id="mySidebar"><br>
+  -->
+  <div class="w3-sidebar w3-collapse w3-white w3-animate-left" style="z-index:3;width:300px;" id="mySidebar"><br>
+  <!-- Button class for button inside sidebar -->
+  <button class="w3-bar-item w3-button w3-large w3-hide-large" onclick="w3_close()">Close &times;</button>
+    <div class="w3-container">
+      <a href="#" onclick="w3_close()" class="w3-hide-large w3-right w3-jumbo w3-padding w3-hover-grey" title="close menu">
+        <i class="fa fa-remove"></i>
+      </a>	
+      <img src="pictures/odu.png" style="width:100%;" class="w3-round"><br><br>	  
+      <h4><b><a href="index.html" onclick="w3_close()">Home</a></b></h4>
+      <p class="w3-text-grey"></p>
+    </div>
+    <div class="w3-bar-block">
+      <a href="peachpit.html" onclick="w3_close()" class="w3-bar-item w3-button w3-padding w3-text-teal"><i class="fa fa-user fa-fw w3-margin-right"></i>Peach Pit</a>
+      <a href="parasite.html" onclick="w3_close()" class="w3-bar-item w3-button w3-padding w3-text-teal"><i class="fa fa-th-large fa-fw w3-margin-right"></i>Parasite</a>
+      <a href="thewire.html" onclick="w3_close()" class="w3-bar-item w3-button w3-padding w3-text-teal"><i class="fa fa-th-large fa-fw w3-margin-right"></i>The Wire</a>
+     <!-- sidebar links -->
+     	
+  <!-- Let me see if commenting out this overlay effect on mobile small screens will permanently dispaly the sidebar on mobile -->
+  <!-- Overlay effect when opening sidebar on small screens -->
+  <!--	
+  <div class="w3-overlay w3-hide-large w3-animate-opacity" onclick="w3_close()" style="cursor:pointer" title="close side menu" id="myOverlay"></div>
+  -->
+  <div class="w3-overlay w3-hide-large w3-animate-opacity" onclick="w3_close()" style="cursor:pointer" title="close side menu" id="myOverlay"></div> 
+
+   </div>
+  </div>	
+
+    <main>
+        <h1>Assignment 2</h1>  
+    </main>	
+	<script src="app.js"></script>
+  </body>
+</html>
