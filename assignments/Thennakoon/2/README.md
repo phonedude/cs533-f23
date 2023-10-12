@@ -10,7 +10,7 @@
 
 * Screen shot of taylor.html page
 
-<img src="Screenshots/Screenshot_of_fav_artist.png" width="700">
+<img src="Screenshots/Screenshot_of_fav_artist.png" width="700" style="border: 2px black;>
 
   * **public**
     -This directory contain images directory, and inside images favicon icons are included.
