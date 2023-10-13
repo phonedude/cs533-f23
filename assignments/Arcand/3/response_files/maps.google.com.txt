@@ -1,0 +1,29 @@
+HTTP/1.1 302 Found
+Location: http://maps.google.com/maps
+Cache-Control: private
+Content-Type: text/html; charset=UTF-8
+Content-Security-Policy-Report-Only: object-src 'none';base-uri 'self';script-src 'nonce-xTgT2dM6pjOWM8neopOmwQ' 'strict-dynamic' 'report-sample' 'unsafe-eval' 'unsafe-inline' https: http:;report-uri https://csp.withgoogle.com/csp/gws/other-hp
+P3P: CP="This is not a P3P policy! See g.co/p3phelp for more info."
+Date: Mon, 09 Oct 2023 20:14:12 GMT
+Server: gws
+Content-Length: 224
+X-XSS-Protection: 0
+X-Frame-Options: SAMEORIGIN
+Set-Cookie: 1P_JAR=2023-10-09-20; expires=Wed, 08-Nov-2023 20:14:12 GMT; path=/; domain=.google.com; Secure
+Set-Cookie: AEC=Ackid1RdBxwUBCG97IQP4Y3DDDJqK7UOL1AnjjCgbt7MZsBBAofKpf6OG50; expires=Sat, 06-Apr-2024 20:14:12 GMT; path=/; domain=.google.com; Secure; HttpOnly; SameSite=lax
+Set-Cookie: NID=511=bGkn8tcPUMAN80w7EucWaIXJTg7kwbpyz6MbkYyKeEqKOOquLFJZa-dQQxBXWjIxSWPO7KGkJDX9AzgGzsTaVTHsgOAoLforJTQYbGv0G8IsvpKYgUMJaMaLajPsvS84xAHSdC3GM3M_HYS5MKt6pxi1tJdfimugfu-DqW8Vukc; expires=Tue, 09-Apr-2024 20:14:12 GMT; path=/; domain=.google.com; HttpOnly
+
+HTTP/1.1 200 OK
+Content-Type: text/html; charset=ISO-8859-1
+Content-Security-Policy-Report-Only: object-src 'none';base-uri 'self';script-src 'nonce-0Nr74UQAw8FXpSp92oYHbg' 'strict-dynamic' 'report-sample' 'unsafe-eval' 'unsafe-inline' https: http:;report-uri https://csp.withgoogle.com/csp/gws/maps-tactile
+P3P: CP="This is not a P3P policy! See g.co/p3phelp for more info."
+Date: Mon, 09 Oct 2023 20:14:12 GMT
+Server: gws
+X-XSS-Protection: 0
+X-Frame-Options: SAMEORIGIN
+Transfer-Encoding: chunked
+Expires: Mon, 09 Oct 2023 20:14:12 GMT
+Cache-Control: private
+Set-Cookie: 1P_JAR=2023-10-09-20; expires=Wed, 08-Nov-2023 20:14:12 GMT; path=/; domain=.google.com; Secure
+Set-Cookie: NID=511=K10h_rzYm_d1Q5rfGU1BBRX8Hcu-pbaer94niMHYizppkDMSFyGfvKUjy3NBgKkFc6tv05mMQXV1Oe53SRnPAm_sSGQ3owoHj4_wpelyaqcZ4YdUIQ8YQylyuvCb8Uhudq3Si_AIcjQnypW6CNpzp3uF4COO6YmAT958MJyarsw; expires=Tue, 09-Apr-2024 20:14:12 GMT; path=/; domain=.google.com; HttpOnly
+

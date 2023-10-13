@@ -1,0 +1,27 @@
+HTTP/1.1 301 Moved Permanently
+Date: Mon, 09 Oct 2023 20:13:22 GMT
+Connection: keep-alive
+Cache-Control: max-age=3600
+Expires: Mon, 09 Oct 2023 21:13:22 GMT
+Location: https://www.clarin.com/
+Set-Cookie: __cf_bm=Udpl7pbnuInPiKYDQLxN8Ro4mRdFZp.16sF2Yu9nMu0-1696882402-0-AROf5ffE+PAC6GZUMnxI1S782HWfkw9/Fd3hNca0kQsvenrYeACgFrIdf4CPuDHtxNbOyVPhFHioREKvYiiXIv4=; path=/; expires=Mon, 09-Oct-23 20:43:22 GMT; domain=.clarin.com; HttpOnly; SameSite=None
+Server: cloudflare
+CF-RAY: 813948a7d9c33b47-IAD
+alt-svc: h3=":443"; ma=86400
+
+HTTP/1.1 200 OK
+Date: Mon, 09 Oct 2023 20:13:22 GMT
+Content-Type: text/html; charset=utf-8
+Connection: keep-alive
+Last-Modified: Mon, 09 Oct 2023 19:52:17 GMT
+Vary: Accept-Encoding
+Cache-Control: private, max-age=120
+X-Powered-By: ASP.NET
+X-AspNet-Version: 4.0.30319
+CF-Cache-Status: HIT
+Age: 305
+Set-Cookie: __cf_bm=4LWYSw3crdcHWYMRLmoURIIvFq3a5tQgamgjfmP4ZIQ-1696882402-0-AeNf17H3boHVL7srgvQKbwVtAkatQ646WNDX+AgKv7okAbDkHmKM6nINa34OYw6SEuljuvN6Qqw0f4qoRZJpvic=; path=/; expires=Mon, 09-Oct-23 20:43:22 GMT; domain=.clarin.com; HttpOnly; Secure; SameSite=None
+Server: cloudflare
+CF-RAY: 813948a989c605f9-IAD
+alt-svc: h3=":443"; ma=86400
+
