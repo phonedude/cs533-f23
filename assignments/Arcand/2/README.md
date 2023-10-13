@@ -19,20 +19,20 @@ Images:
 
 Viewing the files
 
-<img src="Images/1.png" width="700">
-<img src="Images/2.png" width="700">
-<img src="Images/3.png" width="700">
-<img src="Images/4.png" width="700">
+<img src="images/1.png" width="700">
+<img src="images/2.png" width="700">
+<img src="images/3.png" width="700">
+<img src="images/4.png" width="700">
 
 Starting the server
 
-<img src="Images/5.png" width="700">
-<img src="Images/6.png" width="700">
-<img src="Images/7.png" width="700">
-<img src="Images/8.png" width="700">
+<img src="images/5.png" width="700">
+<img src="images/6.png" width="700">
+<img src="images/7.png" width="700">
+<img src="images/8.png" width="700">
 
 Loading each of the three paths in my browser
 
-<img src="Images/9.png" width="700">
-<img src="Images/10.png" width="700">
-<img src="Images/11.png" width="700">
+<img src="images/9.png" width="700">
+<img src="images/10.png" width="700">
+<img src="images/11.png" width="700">
