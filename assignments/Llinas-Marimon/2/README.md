@@ -10,6 +10,19 @@
   * [http://localhost:4000/coldplay.html](coldplay.html)
   * [http://localhost:4000/suits.html](suits.html)
 
+## Steps
+1. Run the server
+<img src=server.png>
+2. Copy the link `http://localhost:4000` and paste it in the browser 
+<img src=app.png>
+3. Click in each path to see my favorite artist, band and serie
+3.1. My favorite artist...
+<img src=ariana-grande.png>
+3.2. My favorite band...
+<img src=coldplay.png>
+3.3. My favorite serie...
+<img src=suits.png>
+
 ## Youtube video
 
 * The video of the files and test completion pages is available at: [https://youtu.be/oZCs9BxFL2U](https://youtu.be/oZCs9BxFL2U)
