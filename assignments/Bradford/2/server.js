@@ -5,22 +5,22 @@ const bodyParser = require('body-parser');
 
 const app = express();
 app.use(bodyParser.urlencoded({extended: false}))
-app.use(favicon(__dirname + '/favicon.ico'));
+app.use(favicon(__dirname + '/img/favicon.ico'));
 
 app.get('/', (req, res) => {
-    createReadStream('index.html').pipe(res)
+    createReadStream('html/index.html').pipe(res)
 });
 
 app.get('/jukebox', (req, res) => {
-    createReadStream('jukebox.html').pipe(res)
+    createReadStream('html/jukebox.html').pipe(res)
 });
 
 app.get('/bear', (req, res) => {
-    createReadStream('bear.html').pipe(res)
+    createReadStream('html/bear.html').pipe(res)
 });
 
 app.get('/everything', (req, res) => {
-    createReadStream('everything.html').pipe(res)
+    createReadStream('html/everything.html').pipe(res)
 });
 
 app.listen(4000);
