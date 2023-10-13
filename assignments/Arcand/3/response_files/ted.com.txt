@@ -1,0 +1,48 @@
+HTTP/1.1 301 https://ted.com/
+Date: Mon, 09 Oct 2023 20:14:51 GMT
+Connection: keep-alive
+Server: nginx
+Location: https://ted.com/
+Accept-Ranges: bytes
+Age: 0
+Strict-Transport-Security: max-age=31536001
+
+HTTP/1.1 301 Moved Permanently
+Date: Mon, 09 Oct 2023 20:14:51 GMT
+Content-Type: text/html
+Content-Length: 162
+Connection: keep-alive
+Server: nginx
+Location: https://www.ted.com/
+Accept-Ranges: bytes
+Age: 0
+Strict-Transport-Security: max-age=31536001
+
+HTTP/1.1 200 OK
+Connection: keep-alive
+Content-Length: 299140
+Content-Type: text/html; charset=utf-8
+X-Powered-By: Zenith
+x-frame-options: SAMEORIGIN
+x-xss-protection: 1; mode=block
+x-content-type-options: nosniff
+x-download-options: noopen
+x-permitted-cross-domain-policies: none
+referrer-policy: strict-origin-when-cross-origin
+strict-transport-security: max-age=31536000; includeSubDomains
+x-nextjs-cache: STALE
+ETag: "78fatrg30e6esv"
+Cache-Control: s-maxage=30, stale-while-revalidate
+Accept-Ranges: bytes
+Date: Mon, 09 Oct 2023 20:14:51 GMT
+Via: 1.1 varnish
+Age: 1
+X-Served-By: td_c0d9b3ae40ec, cache-iad-kcgs7200177-IAD, cache-pdk-kpdk1780075-PDK
+X-Cache: HIT, HIT
+X-Cache-Hits: 41, 1
+Vary: Accept-Encoding, Accept-Encoding
+Set-Cookie: _nu=1696882492; Expires=Sat, 07 Oct 2028 20:14:51 GMT; path=/
+Set-Cookie: _abby=TFxfT4uIv6qVvYZ; Expires=Sat, 07 Oct 2028 20:14:51 GMT; Path=/; Domain=.ted.com
+Set-Cookie: _abby_post15s=b; Expires=Mon, 23 Oct 2023 20:14:51 GMT; Path=/
+Set-Cookie: _abby_hero_form=a; Expires=Mon, 23 Oct 2023 20:14:51 GMT; Path=/
+

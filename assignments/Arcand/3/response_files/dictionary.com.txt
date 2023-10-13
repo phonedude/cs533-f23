@@ -1,0 +1,34 @@
+HTTP/1.1 301 Moved Permanently
+Connection: close
+Content-Length: 0
+Server: Varnish
+Retry-After: 0
+Accept-Ranges: bytes
+Date: Mon, 09 Oct 2023 20:13:35 GMT
+Via: 1.1 varnish
+Location: https://www.dictionary.com/
+Content-Security-Policy: upgrade-insecure-requests
+X-Served-By: cache-pdk-kpdk1780110-PDK
+X-Cache: HIT
+X-Cache-Hits: 0
+
+HTTP/1.1 200 OK
+Connection: keep-alive
+Content-Length: 187978
+x-powered-by: Express
+content-type: text/html; charset=utf-8
+via: 1.1 varnish, 1.1 varnish, 1.1 varnish
+etag: W/"2de4a-tql/tk04qu3x810PrDT3+wEnX7c"
+Cache-Control: max-age=7200, public
+show-do-not-sell-link: true
+platform: Desktop
+Accept-Ranges: bytes
+Date: Mon, 09 Oct 2023 20:13:35 GMT
+Age: 6745
+Content-Security-Policy: upgrade-insecure-requests
+X-Served-By: cache-iad-kcgs7200083-IAD, cache-iad-kcgs7200083-IAD, cache-pdk-kpdk1780089-PDK
+X-Cache: MISS, HIT, HIT
+X-Cache-Hits: 0, 17, 14
+X-Timer: S1696882416.674605,VS0,VE1
+Vary: Accept-Encoding, show-do-not-sell-link, platform, X-OPTIONS
+

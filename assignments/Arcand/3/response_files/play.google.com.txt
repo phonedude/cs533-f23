@@ -1,0 +1,78 @@
+HTTP/1.1 302 Found
+Content-Type: application/binary
+Cache-Control: no-cache, no-store, max-age=0, must-revalidate
+Pragma: no-cache
+Expires: Mon, 01 Jan 1990 00:00:00 GMT
+Date: Mon, 09 Oct 2023 20:14:35 GMT
+Location: http://play.google.com/store
+Content-Length: 0
+P3P: CP="This is not a P3P policy! See g.co/p3phelp for more info."
+Server: ESF
+X-XSS-Protection: 0
+X-Frame-Options: SAMEORIGIN
+X-Content-Type-Options: nosniff
+Set-Cookie: NID=511=hNf2UmEOeO_tHSN43v5dfSy8LwIa5SBoTu2ebPN2EOTBqwx4EuqslUbpqdZT-VTCr_MHWpNFPasXFDJckq2iUOAhpP3dJI4rNhDuCu8oIPlaPiZakl8o4Vw70LtURb_mbgkkT_VHkUJJjK7KVV-bnqB166jIKZqvuiqNbw_UP3g; expires=Tue, 09-Apr-2024 20:14:35 GMT; path=/; domain=.google.com; HttpOnly
+
+HTTP/1.1 301 Moved Permanently
+Content-Type: application/binary
+Cache-Control: no-cache, no-store, max-age=0, must-revalidate
+Pragma: no-cache
+Expires: Mon, 01 Jan 1990 00:00:00 GMT
+Date: Mon, 09 Oct 2023 20:14:35 GMT
+Location: https://play.google.com/store
+Content-Length: 0
+P3P: CP="This is not a P3P policy! See g.co/p3phelp for more info."
+Server: ESF
+X-XSS-Protection: 0
+X-Frame-Options: SAMEORIGIN
+X-Content-Type-Options: nosniff
+Set-Cookie: NID=511=HvxxkGDQY_mm5VYth5Wt_AUhG25-laJBNPOa6JPpT-9rD3K6H88SEFqqjqRi9B_4mXqSzfiodVmj0WMjP9Z5W8NucHv7Kdwz03wD3IRbxWmcozzdDNEewxq63JgzK0xZlDCgtXzN_rlg4Dlr1QOo6bdiaPWotzKBP0iJ72ktMgQ; expires=Tue, 09-Apr-2024 20:14:35 GMT; path=/; domain=.google.com; HttpOnly
+
+HTTP/1.1 302 Found
+Content-Type: application/binary
+Vary: Sec-Fetch-Dest, Sec-Fetch-Mode, Sec-Fetch-Site
+Cache-Control: no-cache, no-store, max-age=0, must-revalidate
+Pragma: no-cache
+Expires: Mon, 01 Jan 1990 00:00:00 GMT
+Date: Mon, 09 Oct 2023 20:14:35 GMT
+Location: https://play.google.com/store/games
+Content-Length: 0
+P3P: CP="This is not a P3P policy! See g.co/p3phelp for more info."
+Strict-Transport-Security: max-age=31536000
+Permissions-Policy: ch-ua-arch=*, ch-ua-bitness=*, ch-ua-full-version=*, ch-ua-full-version-list=*, ch-ua-model=*, ch-ua-wow64=*, ch-ua-form-factor=*, ch-ua-platform=*, ch-ua-platform-version=*
+Cross-Origin-Opener-Policy: same-origin-allow-popups
+Cross-Origin-Resource-Policy: same-site
+Accept-CH: Sec-CH-UA-Arch, Sec-CH-UA-Bitness, Sec-CH-UA-Full-Version, Sec-CH-UA-Full-Version-List, Sec-CH-UA-Model, Sec-CH-UA-WoW64, Sec-CH-UA-Form-Factor, Sec-CH-UA-Platform, Sec-CH-UA-Platform-Version
+Content-Security-Policy: require-trusted-types-for 'script';report-uri /_/PlayStoreUi/cspreport
+Content-Security-Policy: script-src 'nonce-Uu_CqSA7ksbMEuf5fTV-pA' 'unsafe-inline' 'unsafe-eval';object-src 'none';base-uri 'self';report-uri /_/PlayStoreUi/cspreport;worker-src 'self'
+Server: ESF
+X-XSS-Protection: 0
+X-Frame-Options: SAMEORIGIN
+X-Content-Type-Options: nosniff
+Set-Cookie: NID=511=stdxLOWosK4UVuIMF8bAYgErEzYUSkah2KoPZYKZyzPuU-USgx8_4lf1T56-HIvVc54Iiynweavkqgz8y8a-XmsB_jLdbHWlL8a5bXqb9ZRkkQkW6s7SeE2wvwPfvPWu6zQXXi5AaGd3XjRaHzutCJObNoypLhKdPt2R6Hy63yY; expires=Tue, 09-Apr-2024 20:14:35 GMT; path=/; domain=.google.com; HttpOnly
+Alt-Svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+
+HTTP/1.1 200 OK
+Content-Type: text/html; charset=utf-8
+Vary: Sec-Fetch-Dest, Sec-Fetch-Mode, Sec-Fetch-Site
+x-ua-compatible: IE=edge
+Cache-Control: no-cache, no-store, max-age=0, must-revalidate
+Pragma: no-cache
+Expires: Mon, 01 Jan 1990 00:00:00 GMT
+Date: Mon, 09 Oct 2023 20:14:35 GMT
+Content-Length: 2385078
+P3P: CP="This is not a P3P policy! See g.co/p3phelp for more info."
+Strict-Transport-Security: max-age=31536000
+Cross-Origin-Opener-Policy: same-origin-allow-popups
+Accept-CH: Sec-CH-UA-Arch, Sec-CH-UA-Bitness, Sec-CH-UA-Full-Version, Sec-CH-UA-Full-Version-List, Sec-CH-UA-Model, Sec-CH-UA-WoW64, Sec-CH-UA-Form-Factor, Sec-CH-UA-Platform, Sec-CH-UA-Platform-Version
+Cross-Origin-Resource-Policy: same-site
+Permissions-Policy: ch-ua-arch=*, ch-ua-bitness=*, ch-ua-full-version=*, ch-ua-full-version-list=*, ch-ua-model=*, ch-ua-wow64=*, ch-ua-form-factor=*, ch-ua-platform=*, ch-ua-platform-version=*
+Content-Security-Policy: require-trusted-types-for 'script';report-uri /_/PlayStoreUi/cspreport
+Content-Security-Policy: script-src 'nonce-bZrFzYC28QYJRVVLF0LCgw' 'unsafe-inline' 'unsafe-eval';object-src 'none';base-uri 'self';report-uri /_/PlayStoreUi/cspreport;worker-src 'self'
+Server: ESF
+X-XSS-Protection: 0
+X-Frame-Options: SAMEORIGIN
+X-Content-Type-Options: nosniff
+Set-Cookie: NID=511=l7wk-V2_JDZ99Bn5OOIddwgbnjmWIchhdVYi8EJE-iKR4LmJ964ypFiSOsV47Ovhcs_Me6GmYB_4WvbJj6seiTBD6k1n1TUk9YSJ1Qa2p4uVzP2Y_IOfqYLNLyep7V_OIGJxRfM2vFCH2Lh3hyS26GF9M7bNAzvr7wwoB7iboJg; expires=Tue, 09-Apr-2024 20:14:35 GMT; path=/; domain=.google.com; HttpOnly
+Alt-Svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+
