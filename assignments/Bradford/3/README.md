@@ -48,9 +48,9 @@ From the raw HTTP responses, I needed to extract only the lines of the responses
 ## Tabulating data about each site  
 For each of the 100 sites, I needed to document their HTTP response code, and the number of cookies they set in table format. I also needed to gather the maximum, minimum, mean, and median of the number of cookies set by the 100 sites. To accomplish this, I wrote a Python script called [write_sites.py](src/write_sites.py). It combined the tasks of reading each filtered response for the status and the number of cookies they set and writing that information to a valid markdown table. It also printed out the required statistics to the console. The statistics output for my data is shown below:  
 ```
-There were 141 cookies set in the 100 web sites
-The average number of cookies is 1.41
-The median number of cookies is 1.0
+There were 141 cookies set in the 97 web sites that could be reached
+The average number of cookies is 1.4536082474226804
+The median number of cookies is 1
 The minimum number of cookies was 0
 The maximum number of cookies was 10
 ```

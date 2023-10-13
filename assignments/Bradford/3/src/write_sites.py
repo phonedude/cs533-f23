@@ -15,7 +15,6 @@ def main():
                 lines = file.readlines()
                 if 'timed out' in lines[0]:
                     output.write(f'| {site} | Timed out | 0 |\n')
-                    count_list.append(0)
                     continue
                 status_code = lines[0].split('HTTP/1.1 ')[1].rstrip()
                 try:
@@ -25,7 +24,7 @@ def main():
                 except IndexError:
                     output.write(f'| {site} | {status_code} | 0 |\n')
                     count_list.append(0)
-        print(f'There were {sum(count_list)} cookies set in the {len(count_list)} web sites')
+        print(f'There were {sum(count_list)} cookies set in the {len(count_list)} web sites that could be reached')
         print(f'The average number of cookies is {statistics.mean(count_list)}')
         print(f'The median number of cookies is {statistics.median(count_list)}')
         print(f'The minimum number of cookies was {min(count_list)}')
