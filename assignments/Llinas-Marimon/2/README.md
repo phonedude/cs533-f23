@@ -15,7 +15,7 @@
 <img src=server.png>
 2. Copy the link `http://localhost:4000` and paste it in the browser 
 <img src=app.png>
-3. Click in each path to see my favorite artist, band and serie
+3. Click in each path to see my favorite artist, band and serie <br>
 3.1. My favorite artist...
 <img src=ariana-grande.png>
 3.2. My favorite band...
