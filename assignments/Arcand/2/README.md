@@ -15,7 +15,7 @@ The main file is fairly unique, but the html files are all fairly similar.
 A link to a Youtube video showing me recording my screen of me 1) viewing the files, 2) starting the server, 3) loading each of the three paths in my browser.
 https://www.youtube.com/watch?v=srhbWgJHgXM
 
-Images:
+Images that document the behavior of the assignment:
 
 Viewing the files
 
