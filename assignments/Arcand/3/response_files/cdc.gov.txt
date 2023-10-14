@@ -9,21 +9,21 @@ Content-Length: 143
 Content-Type: text/html; charset=UTF-8
 Location: https://www.cdc.gov/
 Strict-Transport-Security: max-age=31536000; includeSubDomains; preload
-SRV: 2
+SRV: 5
 Access-Control-Allow-Origin: *
 X-UA-Compatible: IE=edge
-Date: Mon, 09 Oct 2023 20:13:21 GMT
+Date: Sat, 14 Oct 2023 20:03:46 GMT
 Connection: close
-Set-Cookie: TS01b4334d=015d0abe871a37c106aca1802025d0694e3dfeed5a702e8c2b5c77988f5ded7b96b37aad7d08773e19b82cfa0e454e79e11fa20c64; Path=/; Domain=.cdc.gov; Secure; HttpOnly; 
+Set-Cookie: TS01b4334d=012409b353d3cc8cf2b69e542ed92176028a2a586ad93c0cb0ed8f6c4915fc2ac69eccfa270f877c0662f736a6fc9d7f1653ffad3f; Path=/; Domain=.cdc.gov; Secure; HttpOnly; 
 
 HTTP/1.0 200 OK
 Content-Type: text/html
-SRV: 3
+SRV: 4
 Access-Control-Allow-Origin: *
 X-UA-Compatible: IE=edge
-Date: Mon, 09 Oct 2023 20:13:22 GMT
+Date: Sat, 14 Oct 2023 20:03:47 GMT
 Connection: close
-Set-Cookie: akamai_visit_id=1b34d51782402f918408; expires=Wed, 08-Oct-2025 20:13:22 GMT; path=/; domain=.cdc.gov; secure
+Set-Cookie: akamai_visit_id=2d5f1ab813827c455e7e; expires=Mon, 13-Oct-2025 20:03:47 GMT; path=/; domain=.cdc.gov; secure
 Strict-Transport-Security: max-age=31536000 ; includeSubDomains ; preload
-Set-Cookie: Akamai-Request-ID=1b34d51782402f918408; path=/; domain=cdc.gov
+Set-Cookie: Akamai-Request-ID=2d5f1ab813827c455e7e; path=/; domain=cdc.gov
 

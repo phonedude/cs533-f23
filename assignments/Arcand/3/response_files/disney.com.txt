@@ -4,16 +4,16 @@ location: https://www.disney.com/
 
 HTTP/1.1 200 OK
 Content-Type: text/html;charset=utf-8
-Content-Length: 677832
+Content-Length: 667521
 x-xss-protection: 1; mode=block
 x-content-type-options: nosniff
 x-ua-compatible: IE=edge,chrome=1
-ETag: W/"ef987dea17973b1db4c97836e78a3bb1"
+ETag: W/"1797f93e4cce2412c8b9f4e11d8d386f"
 Accept-Ranges: bytes
 x-server: px-mh-ha-f
-Cache-Control: public, max-age=545
-Expires: Mon, 09 Oct 2023 20:22:42 GMT
-Date: Mon, 09 Oct 2023 20:13:37 GMT
+Cache-Control: public, max-age=116
+Expires: Sat, 14 Oct 2023 20:05:58 GMT
+Date: Sat, 14 Oct 2023 20:04:02 GMT
 Connection: keep-alive
 X-Origin: Matterhorn_TLS
 

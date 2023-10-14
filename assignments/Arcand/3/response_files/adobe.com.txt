@@ -2,23 +2,25 @@ HTTP/1.1 301 Moved Permanently
 Server: AkamaiGHost
 Content-Length: 0
 Location: https://adobe.com/
-Date: Mon, 09 Oct 2023 20:12:31 GMT
+Date: Sat, 14 Oct 2023 20:01:40 GMT
 Connection: keep-alive
 
 HTTP/1.1 301 Moved Permanently
 Server: AkamaiGHost
 Content-Length: 0
 Location: https://www.adobe.com/
-Date: Mon, 09 Oct 2023 20:12:32 GMT
+Date: Sat, 14 Oct 2023 20:01:40 GMT
 Connection: keep-alive
 Strict-Transport-Security: max-age=86400
 
 HTTP/1.1 200 OK
-Content-Type: text/html
-Last-Modified: Sat, 26 Oct 2019 00:39:25 GMT
-ETag: "1c4c608238ef565b0d9413e9d152ccbb:1572050365"
+Accept-Ranges: bytes
 Content-Length: 7
-Date: Mon, 09 Oct 2023 20:13:10 GMT
+Content-Type: text/html
+ETag: "1c4c608238ef565b0d9413e9d152ccbb:1572050365"
+Last-Modified: Sat, 26 Oct 2019 00:39:25 GMT
+Server: AkamaiNetStorage
+Date: Sat, 14 Oct 2023 20:03:34 GMT
 Connection: keep-alive
 Cache-Control: no-store
 

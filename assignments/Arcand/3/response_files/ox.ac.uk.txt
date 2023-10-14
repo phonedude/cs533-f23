@@ -5,12 +5,12 @@ Server: Varnish
 Retry-After: 0
 Location: https://ox.ac.uk/
 Accept-Ranges: bytes
-Date: Mon, 09 Oct 2023 20:14:30 GMT
+Date: Sat, 14 Oct 2023 20:04:52 GMT
 Via: 1.1 varnish
-X-Served-By: cache-pdk-kpdk1780117-PDK
+X-Served-By: cache-pdk-kpdk1780056-PDK
 X-Cache: HIT
 X-Cache-Hits: 0
-X-Timer: S1696882470.252873,VS0,VE0
+X-Timer: S1697313893.719542,VS0,VE1
 Strict-Transport-Security: max-age=300
 
 HTTP/1.1 301 Moved Permanently
@@ -18,31 +18,31 @@ Connection: keep-alive
 Content-Length: 162
 Content-Type: text/html
 Location: https://www.ox.ac.uk/
-Traceresponse: 00-178c87e2769271c69ec280af2655cb04-5d92fe99dade52b3-01
+Traceresponse: 00-178e105554535c5e3b02ccd74f95b6e9-281bec5c2f9a9a34-01
 X-Debug-Info: eyJyZXRyaWVzIjowfQ==
 X-Platform-Cluster: z2uh6ocdweans-master-7rqtwti
 X-Platform-Router: zpyfg66sv7ekuxqrsi4xxxffgy
 Via: 1.1 varnish, 1.1 varnish
 Accept-Ranges: bytes
-Date: Mon, 09 Oct 2023 20:14:30 GMT
-Age: 0
-X-Served-By: cache-lcy-eglc8600053-LCY, cache-pdk-kpdk1780049-PDK
-X-Cache: HIT, MISS
-X-Cache-Hits: 60, 0
+Date: Sat, 14 Oct 2023 20:04:52 GMT
+Age: 660
+X-Served-By: cache-lcy-eglc8600053-LCY, cache-pdk-kpdk1780025-PDK
+X-Cache: HIT, HIT
+X-Cache-Hits: 33, 1
 Strict-Transport-Security: max-age=300
 
 HTTP/1.1 200 OK
 Connection: keep-alive
-Content-Length: 98903
+Content-Length: 94486
 Cache-Control: public, max-age=1800
 Content-Language: en
 Content-Security-Policy: default-src * 'self' 'unsafe-inline' 'unsafe-eval' clapi.civiccomputing.com cc.cdn.civiccomputing.com apikeys.civiccomputing.com data:;; frame-ancestors 'self' canvas.ox.ac.uk; report-uri /report-csp-violation
 Content-Type: text/html; charset=utf-8
-Etag: "1696880879-1"
+Etag: "1697312880-1"
 Expires: Sun, 19 Nov 1978 05:00:00 GMT
-Last-Modified: Mon, 09 Oct 2023 19:47:59 GMT
+Last-Modified: Sat, 14 Oct 2023 19:48:00 GMT
 Link: <https://www.ox.ac.uk/>; rel="canonical",<https://www.ox.ac.uk/>; rel="shortlink"
-Traceresponse: 00-178c8865826ed7f2bd62cf277db20b10-cf0c59098632ade5-01
+Traceresponse: 00-178e1142542531a6ab1d47625b728b9a-e24b6064eb7a2fe8-01
 X-Content-Type-Options: nosniff
 X-Debug-Info: eyJyZXRyaWVzIjowfQ==
 X-Drupal-Cache: HIT
@@ -51,11 +51,11 @@ X-Platform-Processor: nyyaffsw6pbmph2vbnhbx26g24
 X-Platform-Router: zpyfg66sv7ekuxqrsi4xxxffgy
 Via: 1.1 varnish, 1.1 varnish
 Accept-Ranges: bytes
-Date: Mon, 09 Oct 2023 20:14:31 GMT
-Age: 1342
-X-Served-By: cache-lcy-eglc8600078-LCY, cache-pdk-kpdk1780114-PDK
+Date: Sat, 14 Oct 2023 20:04:53 GMT
+Age: 807
+X-Served-By: cache-lcy-eglc8600078-LCY, cache-pdk-kpdk1780058-PDK
 X-Cache: HIT, HIT
-X-Cache-Hits: 43, 1
+X-Cache-Hits: 34, 1
 Vary: Cookie, Accept-Encoding
 Strict-Transport-Security: max-age=300
 

@@ -1,36 +1,36 @@
 HTTP/1.1 301 Moved Permanently
-Date: Mon, 09 Oct 2023 20:13:37 GMT
+Date: Sat, 14 Oct 2023 20:04:02 GMT
 Connection: keep-alive
 Cache-Control: max-age=3600
-Expires: Mon, 09 Oct 2023 21:13:37 GMT
+Expires: Sat, 14 Oct 2023 21:04:02 GMT
 Location: https://doi.org/
-Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=ZIbH%2FCHBB1xYfQ0F6GaBG59B6f%2BlipXbvAJS1PfeHGzZ%2BH3O7Lf1LsXExyJEptppLcHOKFuGXioUbkfnboxOiUDdarVJiTwgcLSlflNKsRDVxGsA0z29JUomfXea5thJdG2FHYo%3D"}],"group":"cf-nel","max_age":604800}
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=%2BHl%2Bbyxb8UQSqh7KGPbA7GPrsiW465lEkXhVXv2x6tI3fCgWcJwjj4l6FsflkO6Qu64h0MRMmsBYI%2BaQaL7dO6JOKmjDXn2GSTk%2FWiX5tHdZsTfIgaQmJHuNMMELk6XxNqfb5F4%3D"}],"group":"cf-nel","max_age":604800}
 NEL: {"success_fraction":0,"report_to":"cf-nel","max_age":604800}
 Server: cloudflare
-CF-RAY: 81394905aa336fd7-IAD
+CF-RAY: 81626dddeb3b2012-IAD
 alt-svc: h3=":443"; ma=86400
 
 HTTP/1.1 301 Moved Permanently
-Date: Mon, 09 Oct 2023 20:13:37 GMT
+Date: Sat, 14 Oct 2023 20:04:03 GMT
 Content-Length: 0
 Connection: keep-alive
 location: https://www.doi.org/
 permissions-policy: interest-cohort=(),browsing-topics=()
 Cache-Control: max-age=14400
 CF-Cache-Status: HIT
-Age: 11486
-Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=wxoJAzwXjj1EOiyPGXvjF%2BBRgMtKcTiZTqpEHgArgUPkXWPAEkGTNTwJ6WOTSM1gnUEOV5GBaEAJpRqES%2FGDOdOaF4ONZ6d3RwQ%2BLBvfq4qCF%2FVUe9EbkMzOHAsfORr%2B0uBBi6Q%3D"}],"group":"cf-nel","max_age":604800}
+Age: 12995
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=O3yALOy7hmDLEH9lkALd50nW4ozc8UiarShYn03vaDGZsvDsda4do%2FbgAWQMEartyxHxanzbJJNVlq0yDvYj2Yo06iZhKKInUbwDtSHo7DIHFs1AOnY5WmG3cLJbjFcbMpZxnQs%3D"}],"group":"cf-nel","max_age":604800}
 NEL: {"success_fraction":0,"report_to":"cf-nel","max_age":604800}
 Strict-Transport-Security: max-age=31536000; includeSubDomains; preload
 Server: cloudflare
-CF-RAY: 81394906cf636feb-IAD
+CF-RAY: 81626ddf0e6820b4-IAD
 alt-svc: h3=":443"; ma=86400
 
 HTTP/1.1 200 OK
 Content-Type: text/html
 Content-Length: 6819
 Connection: keep-alive
-Date: Mon, 09 Oct 2023 20:13:39 GMT
+Date: Sat, 14 Oct 2023 20:04:04 GMT
 Last-Modified: Mon, 10 Apr 2023 08:52:49 GMT
 ETag: "738314b5665f38027821605b70311c81"
 x-amz-server-side-encryption: AES256
@@ -39,7 +39,7 @@ Content-Encoding: gzip
 Accept-Ranges: bytes
 Server: AmazonS3
 X-Cache: Miss from cloudfront
-Via: 1.1 a562f14b2c08b760a0c76599ed0eaf98.cloudfront.net (CloudFront)
+Via: 1.1 c21cc2dcbb86a72ada5c844ca6f58e42.cloudfront.net (CloudFront)
 X-Amz-Cf-Pop: ATL58-P7
-X-Amz-Cf-Id: eLXJh8XzABU2Mebyw7fylp4iYQeoPnA74FljrKoJ-705HrsiCqvsgQ==
+X-Amz-Cf-Id: CeipgcuJ5s5Xu5ESyvcTMJvN4gWHFPk-cdOBkE7iFNxhkdVRX1cBiw==
 
