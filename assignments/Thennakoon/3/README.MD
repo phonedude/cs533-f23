@@ -21,8 +21,8 @@ The websites are available in EDUfilelink
 * Output files
 
   * [cookie_report.csv](cookie_report.csv) - Output file from cookie_report.py
-  * [cookie_report_updated.csv](**Data table**) - Updated data table
-  * [cookie_report_errors.csv](**Data table - erroe**) - Table containing error responses
+  * [Data table](cookie_report_updated.csv) - Updated data table
+  * [cookie_report_errors.csv](cookie_report_errors.csv) - Table containing error responses
 
 ### Summary
 **Summaryy of the number of cookies which have set following attributes:**
