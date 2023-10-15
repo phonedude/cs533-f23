@@ -3,7 +3,7 @@
 This directory contains details and an analysis of cookies set for 100 websitessites.
 The websites are available in EDUfilelink
 
-###List of directories and files
+### List of directories and files
 
   * KTHEN001@ODU.EDU
     -Assigned list of 100 websites
@@ -24,7 +24,7 @@ The websites are available in EDUfilelink
   * cookie_report_updated.csv
   * cookie_report_errors.csv
 
-###Summary
+### Summary
 **Summaryy of the number of cookies which have set following attributes:**
 * HTTPOnly -
 * Secure -
@@ -35,7 +35,7 @@ The websites are available in EDUfilelink
 * Path -
   * Path other than "/" -
 
-###Min/Max/Mean/Median
+### Min/Max/Mean/Median
 **Minimum, maximum, mean, and median number of the cookies extracted from 100 websites**
   * Minimum number of cookies -
   * Maximum number of cookies -
@@ -46,7 +46,7 @@ The websites are available in EDUfilelink
 
 <kbd><img src="Screenshots/Screenshot_of_home_page.png" width="700" ></kbd>
 
-###Extra credit
+### Extra credit
 * extra_credit.md
 
   
