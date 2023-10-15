@@ -13,16 +13,16 @@ The websites are available in EDUfilelink
     -Contain text files obtained per each curl header response for 100 websites.
   <kbd><img src="Screenshots/Screenshot_of_home_page.png" width="700" ></kbd>
 
-* Code
+* **Code**
   * [curl_output.sh](curl_output.sh)
   * [cookie_report.py](cookie_report.py)
   * [cookie_report_summary.py](cookie_report_summary.py)
 
-* Output files
+* **Output files**
 
   * [cookie_report.csv](cookie_report.csv) - Output file from cookie_report.py
-  * [Data table](cookie_report_updated.csv) - Updated data table
-  * [cookie_report_errors.csv](cookie_report_errors.csv) - Table containing error responses
+  * [Data table](cookie_report_updated.csv) - Final output
+  * [Data table -error](cookie_report_errors.csv) - Table containing error responses
 
 ### Summary
 **Summaryy of the number of cookies which have set following attributes:**
@@ -47,7 +47,7 @@ The websites are available in EDUfilelink
 <kbd><img src="Screenshots/Screenshot_of_home_page.png" width="700" ></kbd>
 
 ### Extra credit
-* extra_credit.md
+* [extra_credit.md](extra_credit.md)
 
   
 
