@@ -1,0 +1,24 @@
+HTTP/1.1 301 Moved Permanently
+Date: Tue, 10 Oct 2023 00:36:17 GMT
+Content-Type: text/html
+Content-Length: 169
+Connection: keep-alive
+Server: nginx/1.19.8
+Location: https://www.channel4.com/
+
+HTTP/2 200 
+content-type: text/html; charset=utf-8
+content-length: 6208
+x-dns-prefetch-control: off
+x-frame-options: SAMEORIGIN
+x-download-options: noopen
+x-xss-protection: 1; mode=block
+cache-control: no-cache, no-store, must-revalidate
+etag: W/"1840-D0wguvPLfCzCWHlr6kh5xxkNwOk"
+vary: Accept-Encoding
+date: Tue, 10 Oct 2023 00:36:17 GMT
+strict-transport-security: max-age=31536000
+set-cookie: _abck=78984791B7876F7AC677C369CD67EA58~-1~YAAQDN/aFzv/3/qKAQAA2loDFwpAqtYoUgHdNbxrJ/BTosN6Wk7SzYXMkEnOXr1lrvAajQ9OP7b0zvw2w+YoVkYKOs8+jsXGT6nIHPyAaz+dVfYbY0onWAVPqf4u8qzTfZdNd4qpKyI2DZ43GN9Ox8ZSBBuf0Yrmo+zb+aNEzWSAB7/A7iySzY9ff1l1yGVjrJJcX2Pii3xADklDE7lWzL6fGHlAmlJlt9b/3jcLHjsviCoWedetuTth7kh/yKkHFDr3ROpNN0pknPIvJWJeOF7sldn567qBSibh0Ow95Ktvkik6NRD7NwL5ha3F8/9J6UZ9a3HK0kyMd9GE1uCbC3IC+ilXnxTtOGA7rM1pb+z8p41KbdTD9Y6YJw==~-1~-1~-1; Domain=.channel4.com; Path=/; Expires=Wed, 09 Oct 2024 00:36:17 GMT; Max-Age=31536000; Secure
+set-cookie: bm_sz=DA87F681435CA416E0895E2E660FEF1F~YAAQDN/aFzz/3/qKAQAA2loDFxV2KSUQYLfnuNQGHZauuxNiXNwGziOMnO++1rT6SPQyS/fn8HW1Vc/W4amWLKbuJ9+8yWtNNrJ7GcgSOtyyyIvgKdFlMfGTOWsa9HAfbW9CuXJK2vufs7bv5KMuP+BSaXbk7YK6o3Net6Pv1o27UEDoSH2v8wz+dAycGvZwSrFjgFzEVeXDlhHyak1jJdkQhHpOmJR4tUBotYTz3nlwT2zcI/7FhpJG/pvG3/ZeshYN+nh1yEgytAmN+CDuYyjEFWqeHtD7UMytlszETfS3m8ygQg==~4340017~4404293; Domain=.channel4.com; Path=/; Expires=Tue, 10 Oct 2023 04:36:17 GMT; Max-Age=14400
+server-timing: ak_p; desc="1696898177561_400219916_1538306874_12981_5805_23_52_15";dur=1
+

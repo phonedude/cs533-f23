@@ -1,0 +1,65 @@
+HTTP/1.1 301 Moved Permanently
+Connection: keep-alive
+Content-Length: 162
+Content-Type: text/html
+Location: https://utexas.edu/
+Server: nginx
+X-Pantheon-Styx-Hostname: styx-fe4-a-84955cf4f5-nh2pv
+X-Styx-Req-Id: 33637423-666b-11ee-9f50-3a26ae58c00f
+Cache-Control: public, max-age=86400
+Date: Tue, 10 Oct 2023 00:37:05 GMT
+X-Served-By: cache-chi-klot8100033-CHI, cache-iad-kjyo7100093-IAD
+X-Cache: HIT, HIT
+X-Cache-Hits: 6, 1
+X-Timer: S1696898225.475923,VS0,VE1
+Vary: Cookie, Cookie
+Age: 66114
+Accept-Ranges: bytes
+Via: 1.1 varnish, 1.1 varnish
+
+HTTP/2 301 
+cache-control: public, max-age=1209600
+content-type: text/html; charset=UTF-8
+location: https://www.utexas.edu/
+server: nginx
+strict-transport-security: max-age=300
+x-pantheon-styx-hostname: styx-fe4-b-75fb65bc5f-29k5z
+x-styx-req-id: 88350e47-612f-11ee-b615-92e67b977614
+date: Tue, 10 Oct 2023 00:37:05 GMT
+x-served-by: cache-chi-klot8100126-CHI, cache-iad-kiad7000048-IAD
+x-cache: HIT, HIT
+x-cache-hits: 1864, 2
+x-timer: S1696898226.566717,VS0,VE0
+vary: Cookie, Cookie
+age: 641499
+accept-ranges: bytes
+via: 1.1 varnish, 1.1 varnish
+content-length: 0
+
+HTTP/2 200 
+cache-control: public, max-age=300
+content-language: en
+content-type: text/html; charset=utf-8
+etag: W/"1696894641-0"
+expires: Sun, 19 Nov 1978 05:00:00 GMT
+last-modified: Mon, 09 Oct 2023 23:37:21 GMT
+link: <https://www.utexas.edu>; rel="canonical",<https://www.utexas.edu>; rel="shortlink"
+server: nginx
+strict-transport-security: max-age=300
+x-content-type-options: nosniff
+x-drupal-cache: HIT
+x-frame-options: SAMEORIGIN
+x-generator: Drupal 7 (http://drupal.org)
+x-pantheon-styx-hostname: styx-fe4-b-75fb65bc5f-2g46h
+x-styx-req-id: fd4a1f15-66fc-11ee-9977-d6364b7623ca
+date: Tue, 10 Oct 2023 00:37:05 GMT
+x-served-by: cache-chi-klot8100133-CHI, cache-iad-kiad7000170-IAD
+x-cache: HIT, HIT
+x-cache-hits: 9, 1
+x-timer: S1696898226.732780,VS0,VE2
+vary: Accept-Encoding, Cookie, Cookie, Cookie
+age: 161
+accept-ranges: bytes
+via: 1.1 varnish, 1.1 varnish
+content-length: 84243
+

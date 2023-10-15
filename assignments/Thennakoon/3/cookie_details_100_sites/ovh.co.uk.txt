@@ -1,0 +1,64 @@
+HTTP/1.1 301 Moved Permanently
+content-length: 0
+location: https://ovh.co.uk/
+date: Tue, 10 Oct 2023 00:36:41 GMT
+x-cdn-pop: bhs
+x-cdn-pop-ip: 137.74.122.0/26
+x-request-id: 1027441135
+x-cacheable: Cacheable
+x-iplb-request-id: 46B1D35B:E712_C61B5C07:0050_65249C99_2F30:25F2C
+x-iplb-instance: 32181
+
+HTTP/2 302 
+date: Tue, 10 Oct 2023 00:36:42 GMT
+content-type: text/html; charset=iso-8859-1
+location: https://www.ovh.co.uk/
+cache-control: max-age=60
+expires: Tue, 10 Oct 2023 00:37:42 GMT
+x-iplb-request-id: 0A6C8D1B:14AA_8D5FBAC8:01BB_65249C99_1E3D6271:7E86
+x-iplb-request-id: 90D90222:4F08_C063418B:01BB_65249C99_21DB:8939
+x-iplb-instance: 43263
+vary: Accept-Encoding
+x-cdn-pop: bhs
+x-cdn-pop-ip: 137.74.122.0/26
+x-request-id: 1050018132
+x-cacheable: Cacheable
+
+HTTP/2 301 
+date: Tue, 10 Oct 2023 00:36:42 GMT
+content-type: text/html
+location: https://www.ovhcloud.com/en-gb/
+x-frame-options: SAMEORIGIN
+x-xss-protection: 1; mode=block
+x-content-type-options: nosniff
+x-toujours-debout-location: BHS
+x-toujours-debout-branch: A
+cache-control: public, must-revalidate, max-age=90
+x-iplb-request-id: 90D90252:3CAA_C063418B:01BB_65249C9A_2175:2A636
+x-iplb-instance: 49213
+vary: Accept-Encoding
+x-cdn-pop: bhs
+x-cdn-pop-ip: 137.74.122.0/26
+x-request-id: 960038701
+x-cacheable: Cacheable
+
+HTTP/2 200 
+date: Tue, 10 Oct 2023 00:36:42 GMT
+content-type: text/html
+last-modified: Mon, 09 Oct 2023 15:02:37 GMT
+vary: Accept-Encoding
+etag: W/"6524160d-6f31e"
+x-frame-options: SAMEORIGIN
+x-xss-protection: 1; mode=block
+x-content-type-options: nosniff
+x-toujours-debout-location: BHS
+x-toujours-debout-branch: B
+cache-control: public, must-revalidate, max-age=90
+x-iplb-request-id: 90D9024F:D958_C063418B:01BB_65249C9A_204A:741F
+x-iplb-instance: 49220
+x-cdn-pop: bhs
+x-cdn-pop-ip: 137.74.122.0/26
+x-request-id: 803291616
+x-cacheable: Cacheable
+accept-ranges: bytes
+

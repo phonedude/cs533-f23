@@ -1,0 +1,19 @@
+HTTP/1.1 301 Moved permanently
+Content-Length: 0
+Location: https://yadi.sk/
+
+HTTP/1.1 302 Moved temporarily
+Location: https://yadi.sk/showcaptcha?cc=1&mt=6F8B42DE501DE3043305F7CFFB0D64D243804D4582D0D39F96EF02EE8109707206A2B8E1F42BF25CBC5D3D9FCEDC6292AB348D04FEF49AC559779A2AAB095EC4ED7020E5F6B87CFE7327C738CBB1FCAF3416040315F4DE5982220C403E0E242BE6B4CC121D7E9396F9B2B89D5BBB48&retpath=aHR0cHM6Ly95YWRpLnNrLz8%2C_3b3a42069e8aa5eb981933bf21ebfb4b&t=2/1696898238/ed6bc993833c9654cfce2eb25e8cfb05&u=3ffb09fa-627b9804-d95da61a-b23abe7e&s=7dcf3deb9925e08c5515b32374d95b0f
+Set-Cookie: spravka=dD0xNjY1MzYyMjM4O2k9NzAuMTc3LjIxMS45MTtEPTY0NkFEOUE0QzIxMDFCODNBMzY5MEI2OUM4NjUwMUMyM0Y1M0EzOUNBRkU1MzdENUI0RkQ0OTA0QUJDODUxQkU3MDMyN0ZGMjk3MzcwRkI0O3U9MTY2NTM2MjIzODAzNDQzMjI5MTtoPTY4MmM2NjBjODcxNTUwZGVkODUyYjE0ZWQ1YTY1ODI5; domain=.yadi.sk; path=/; expires=Thu, 09 Nov 2023 00:37:18 GMT
+Set-Cookie: _yasc=y7ugHPBYUVL5v2O3iWZiDr0XIQVuIDtu0DTKtxsGvTPQLg5Y587NVt+2FW8xSLA6; domain=.yadi.sk; path=/; expires=Fri, 07 Oct 2033 00:37:18 GMT; secure
+X-Yandex-Captcha: captcha
+X-Yandex-EU-Request: 0
+
+HTTP/1.1 200 Ok
+Access-Control-Allow-Origin: yastatic.net
+Content-Length: 12997
+Content-Type: text/html
+Set-Cookie: _yasc=KUDSh4qWfaLGZRGF3BdiCKBUtYk6LwitSss/gNJYXm41vFsaT39tHyw9tGNjlPDb90U=; domain=.yadi.sk; path=/; expires=Fri, 07 Oct 2033 00:37:18 GMT; secure
+X-Yandex-Captcha: captcha
+X-Yandex-EU-Request: 0
+

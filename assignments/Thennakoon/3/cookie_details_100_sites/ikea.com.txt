@@ -1,0 +1,40 @@
+HTTP/1.1 301 Moved Permanently
+Server: AkamaiGHost
+Content-Length: 0
+Location: https://ikea.com/
+Cache-Control: max-age=0
+Expires: Tue, 10 Oct 2023 00:36:29 GMT
+Date: Tue, 10 Oct 2023 00:36:29 GMT
+Connection: keep-alive
+
+HTTP/2 301 
+server: AkamaiGHost
+content-length: 0
+location: https://www.ikea.com/
+cache-control: max-age=0
+expires: Tue, 10 Oct 2023 00:36:29 GMT
+date: Tue, 10 Oct 2023 00:36:29 GMT
+strict-transport-security: max-age=31536000
+
+HTTP/2 200 
+content-length: 74378
+content-type: text/html
+content-md5: um7FdEdvN4NN0oqyucR/5Q==
+last-modified: Thu, 05 Oct 2023 07:27:40 GMT
+accept-ranges: bytes
+etag: "0x8DBC5748E97CB5B"
+x-ms-request-id: 5d815f5d-a01e-000d-375d-f755e2000000
+x-ms-version: 2018-03-28
+mpulse_cdn_cache: HIT
+mpulse_origin_time: 0
+cache-control: max-age=900
+expires: Tue, 10 Oct 2023 00:51:29 GMT
+date: Tue, 10 Oct 2023 00:36:29 GMT
+x-frame-options: SAMEORIGIN
+x-content-type-options: nosniff
+strict-transport-security: max-age=31536000
+server: IKEA Server
+set-cookie: _abck=E8C75DB17852498439505778E98F77BF~-1~YAAQkGjcF8Kb7gyLAQAAr4oDFwr32gwR7ZsVfPqFZNForSleeA9KF/dR99PZtbu+HsX5exCBPV08dR/NbU/Jt+FTG9h9A+uDnTIsri5ft5J0XHCLXbIwID2Y9d61V+qM8ns7qpAod42Z+92Cz3PIc03CUlZvNTDV21waSiTPrgiCoWgYOoXImGmmnIxcm+DBfEQtVjxjwj9Lf5lhggVWVuqfnqaXXTvUqK/GItwD35bsm4IqnRA/EcHi+SKMyG3wm1lTyqH1GZWRNCyMFXeGsmcXX37A/eNPcTMROv85y/MCf16TSGuR5BnZqo+gf/K3wC6RwYIH5aQggBHQDCIaf1Jm+M2whV6qJoj7QZ0CDaVUwcBR+5fg~-1~-1~1696901677; Domain=.ikea.com; Path=/; Expires=Wed, 09 Oct 2024 00:36:29 GMT; Max-Age=31536000; Secure
+set-cookie: bm_sz=1CB115707903173004A8192A35526FFC~YAAQkGjcF8Ob7gyLAQAAr4oDFxULtpm8uoIeqmsX3Ob2tDsZLnt97cF9Ixl3mGVNLBUMPw2iRhC0PjttT6iv/9ZefRIMTC90R2C1IsFWekpKO7yK/9ct6I0LbR47ei0EBawaiaszMoxWAqgRdg4PfGjCwraxjSshVQhBzR5BF7+PRMcKHLT+CPTFxaiVehe86+Leag6y4F6cJqupcKnV/ENYjiREncxHdNVMrNvN9w47+BkrDkuAFXTOoUFZIhwzGm7yk8jJb1x8u7M39RvndxhpLo6CphwQJ8L48aKMkUSI~4600113~3224885; Domain=.ikea.com; Path=/; Expires=Tue, 10 Oct 2023 04:36:29 GMT; Max-Age=14400
+server-timing: ak_p; desc="1696898189945_400320656_368928581_22_15211_35_38_15";dur=1
+

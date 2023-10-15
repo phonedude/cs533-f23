@@ -1,0 +1,27 @@
+HTTP/1.1 301 Moved Permanently
+Location: http://www.google.co.th/
+Content-Type: text/html; charset=UTF-8
+Content-Security-Policy-Report-Only: object-src 'none';base-uri 'self';script-src 'nonce-uUT4DksG5f_no8MqSIYNtA' 'strict-dynamic' 'report-sample' 'unsafe-eval' 'unsafe-inline' https: http:;report-uri https://csp.withgoogle.com/csp/gws/other-hp
+Date: Tue, 10 Oct 2023 00:36:24 GMT
+Expires: Thu, 09 Nov 2023 00:36:24 GMT
+Cache-Control: public, max-age=2592000
+Server: gws
+Content-Length: 221
+X-XSS-Protection: 0
+X-Frame-Options: SAMEORIGIN
+
+HTTP/1.1 200 OK
+Content-Type: text/html; charset=windows-874
+Content-Security-Policy-Report-Only: object-src 'none';base-uri 'self';script-src 'nonce-sQrcwvnVooWWT0sFL50DdQ' 'strict-dynamic' 'report-sample' 'unsafe-eval' 'unsafe-inline' https: http:;report-uri https://csp.withgoogle.com/csp/gws/other-hp
+P3P: CP="This is not a P3P policy! See g.co/p3phelp for more info."
+Date: Tue, 10 Oct 2023 00:36:24 GMT
+Server: gws
+X-XSS-Protection: 0
+X-Frame-Options: SAMEORIGIN
+Transfer-Encoding: chunked
+Expires: Tue, 10 Oct 2023 00:36:24 GMT
+Cache-Control: private
+Set-Cookie: 1P_JAR=2023-10-10-00; expires=Thu, 09-Nov-2023 00:36:24 GMT; path=/; domain=.google.co.th; Secure
+Set-Cookie: AEC=Ackid1RnmkOU6hVZHcwz-aP-p47pj6NDEuL4tt2SG42ZdI5koFlGsEa9X_I; expires=Sun, 07-Apr-2024 00:36:24 GMT; path=/; domain=.google.co.th; Secure; HttpOnly; SameSite=lax
+Set-Cookie: NID=511=djyTU-GQ0d9cGH9A4ZccyMECAo8U_YLi3xK3dd3fAlg_6H-HYuyG_W8lZBWvkGaMZBdhNSkTDeaoAmLLCHZQ3-AyrkSpcIb4xmXZ8M4yhFjBVf4Jedb4kvrX5oyQBbeCcOt3mOt8LvrYAABTggcvft_z-bjwzmzN9No-qPfOcjE; expires=Wed, 10-Apr-2024 00:36:24 GMT; path=/; domain=.google.co.th; HttpOnly
+

@@ -1,0 +1,26 @@
+HTTP/1.1 301 Redirect
+Date: Tue, 10 Oct 2023 00:37:18 GMT
+Connection: keep-alive
+Cache-Control: no-store
+Location: https://www.yahoo.co.jp:443/
+Content-Type: text/html
+Content-Language: en
+Accept-CH: Sec-CH-UA-Full-Version-List, Sec-CH-UA-Model, Sec-CH-UA-Platform-Version, Sec-CH-UA-Arch
+Permissions-Policy: ch-ua-full-version-list=*, ch-ua-model=*, ch-ua-platform-version=*, ch-ua-arch=*
+Content-Length: 1
+
+HTTP/2 200 
+server: nginx
+date: Tue, 10 Oct 2023 00:37:19 GMT
+content-type: text/html; charset=utf-8
+content-length: 0
+etag: W/"0-2jmj7l5rSw0yVb/vlWAYkK/YBwk"
+traceresponse: 00-e273754709e586cbfc6805b6beb9cc9d-26945588fa49ca5c-01
+vary: Accept-Encoding
+x-dt-tracestate: 945f54dd-87dd099b@dt
+x-vcap-request-id: 9128aa30-6d1e-40a1-5f0d-e8d03e463ce5
+x-xss-protection: 1; mode=block
+age: 0
+accept-ch: Sec-CH-UA-Full-Version-List, Sec-CH-UA-Model, Sec-CH-UA-Platform-Version, Sec-CH-UA-Arch
+permissions-policy: ch-ua-full-version-list=*, ch-ua-model=*, ch-ua-platform-version=*, ch-ua-arch=*
+
