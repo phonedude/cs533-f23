@@ -26,21 +26,22 @@ This directory contains details and an analysis of cookies set for 100 websites.
 
 ### Summary
 **Summaryy of the number of cookies which have set following attributes:**
-* HTTPOnly -
-* Secure -
-* Samesite -
-  * None -
-  * Lax -
-  * Strict -
-* Path -
-  * Path other than "/" -
+* Total number of cookies for 100 sites - 234
+* HTTPOnly - 103
+* Secure - 139
+* Samesite - 60
+  * None - 50
+  * Lax - 8
+  * Strict - 2
+* Path -224
+  * Path other than "/" - 0
 
 ### Min/Max/Mean/Median
 **Minimum, maximum, mean, and median number of the cookies extracted from 100 websites**
-  * Minimum number of cookies -
-  * Maximum number of cookies -
-  * Mean number of cookies -
-  * Median number of cookies -
+  * Minimum number of cookies per site - 0
+  * Maximum number of cookies per site - 18
+  * Mean number of cookies - 2.41
+  * Median number of cookies - 2.0
 
 * Screenshots 
 
