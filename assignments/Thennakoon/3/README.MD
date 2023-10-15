@@ -24,7 +24,7 @@ This directory contains details and an analysis of cookies set for 100 websites.
 *******
 
 ### Summary
-**Summaryy of the number of cookies which have set following attributes:**
+**Summary of the cookies which have following attributes:**
 * Total number of cookies for 100 sites - 234
 * HTTPOnly - 103
 * Secure - 139
