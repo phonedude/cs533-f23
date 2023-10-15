@@ -88,15 +88,17 @@ for i,file in enumerate(file_list):
                 if "HttpOnly".lower() in cookie.lower():
                     http_only = 'y'
                     
-                    http_data.append({cookie_key:'Y'})  
+                    http_data.append({cookie_key:'Y'}) 
+
                     
                     dict_['http_only'] = http_only
                     http_only_count+=1
                     print("HTTpOnly=",http_only)
                 else:
                     http_data.append({cookie_key:'N'}) 
+
                 
-                if "Secure" in cookie:
+                if "Secure".lower() in cookie.lower():
                     secure = 'y'
                     secure_count += 1 
                     dict_['secure'] = secure
@@ -107,14 +109,15 @@ for i,file in enumerate(file_list):
                     secure_data.append({cookie_key:'No'}) 
                     
                     
-                if "SameSite" in cookie:
+                if "SameSite".lower() in cookie.lower():
                     same_site = 'y'
                     same_site_val = 'N_A'
+
                     
                     same_site_dummy_list = cookie.split(';')
                     
                     for val in same_site_dummy_list:
-                        if 'SameSite' in val:
+                        if 'SameSite'.lower() in val.lower():
                             same_site_val = val.replace("SameSite=",'')
                             break
                     
@@ -141,7 +144,7 @@ for i,file in enumerate(file_list):
                 if "None".lower() in cookie.lower():
 
                     same_site_none_count += 1 
-                   
+
                 if "lax".lower() in cookie.lower():
                     
                     same_site_lax_count += 1 
@@ -169,7 +172,7 @@ for i,file in enumerate(file_list):
     print("\n\n\n\n") 
     
     if i == 100:
-         break
+        break
     
 df_test = pd.DataFrame.from_records(data)
 
