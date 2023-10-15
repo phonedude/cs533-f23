@@ -1,5 +1,4 @@
 ## Assignment 3 - Kumushini(01251889)
-### A third-level heading
 
 This directory contains details and an analysis of cookies set for 100 websitessites.
 The websites are available in EDUfilelink
