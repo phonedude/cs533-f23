@@ -5,7 +5,7 @@ The websites are available in EDUfilelink
 
 ### List of directories and files
 
-  * KTHEN001@ODU.EDU
+  *  [KTHEN001@ODU.EDU](KTHEN001@ODU.EDU)
     -Assigned list of 100 websites
   <kbd><img src="Screenshots/Screenshot_of_home_page.png" width="700" ></kbd>
 
@@ -14,15 +14,15 @@ The websites are available in EDUfilelink
   <kbd><img src="Screenshots/Screenshot_of_home_page.png" width="700" ></kbd>
 
 * Code
-  * curl_output.sh
-  * cookie_report.py
-  * cookie_report_summary.py
+  * [curl_output.sh](curl_output.sh)
+  * [cookie_report.py](cookie_report.py)
+  * [cookie_report_summary.py](cookie_report_summary.py)
 
 * Output files
 
-  * cookie_report.csv
-  * cookie_report_updated.csv
-  * cookie_report_errors.csv
+  * [cookie_report.csv](cookie_report.csv) - Output file from cookie_report.py
+  * [cookie_report_updated.csv](**Data table**) - Updated data table
+  * [cookie_report_errors.csv](**Data table - erroe**) - Table containing error responses
 
 ### Summary
 **Summaryy of the number of cookies which have set following attributes:**
