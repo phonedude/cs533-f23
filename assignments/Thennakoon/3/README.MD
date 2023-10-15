@@ -1,4 +1,5 @@
 ## Assignment 3 - Kumushini(01251889)
+### A third-level heading
 
 This directory contains details and an analysis of cookies set for 100 websitessites.
 The websites are available in EDUfilelink
@@ -59,8 +60,4 @@ The websites are available in EDUfilelink
 
 
 
-  * **node_modules**
-    -Contains node modules
-         
-
-* Youtube video link for viewing files, running server, and viewing output is available at: https://youtu.be/VMmlqgsRWRQ 
+  
