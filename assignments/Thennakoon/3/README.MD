@@ -43,8 +43,11 @@ This directory contains details and an analysis of cookies set for 100 websites.
   * Median number of cookies - 2.0
 
 * Screenshots 
+
 <kbd><img src="images_and_screenshots/assigned_sites.png" width="700" ></kbd>
+
 <kbd><img src="images_and_screenshots/response_files.png" width="700" ></kbd>
+
 <kbd><img src="images_and_screenshots/summary_output.PNG" width="700" ></kbd>
 
 ******
