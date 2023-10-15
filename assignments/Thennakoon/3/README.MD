@@ -7,12 +7,8 @@ This directory contains details and an analysis of cookies set for 100 websites.
   *  [KTHEN001@ODU.EDU](KTHEN001@ODU.EDU)
     -Assigned list of 100 websites
 
-  <kbd><img src="images_and_screenshots/assigned_sites.png" width="700" ></kbd>
-
   * **cookie_details_100_sites**
-    -Contain text files obtained per each curl response header for 100 websites.
-
-  <kbd><img src="images_and_screenshots/response_files.png" width="700" ></kbd>
+    -Contain text files obtained per each curl response header for 100 websites. 
 
 * **Code**
   * [curl_output.sh](curl_output.sh)
@@ -25,7 +21,7 @@ This directory contains details and an analysis of cookies set for 100 websites.
   * [Data table](cookie_report_updated.csv) - Final output
   * [Data table -error](cookie_report_errors.csv) - Table containing error responses
 
-(*******)
+*******
 
 ### Summary
 **Summaryy of the number of cookies which have set following attributes:**
@@ -47,10 +43,11 @@ This directory contains details and an analysis of cookies set for 100 websites.
   * Median number of cookies - 2.0
 
 * Screenshots 
-
+<kbd><img src="images_and_screenshots/assigned_sites.png" width="700" ></kbd>
+<kbd><img src="images_and_screenshots/response_files.png" width="700" ></kbd>
 <kbd><img src="images_and_screenshots/summary_output.PNG" width="700" ></kbd>
 
-(******)
+******
 
 ### Extra credit
 * [extra_credit.md](extra_credit.md)
