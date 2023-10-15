@@ -1,6 +1,6 @@
 #### X frame options
 
-X-frame options is a security feature in HTTP response header to protect websites from being used in an invisible frame by attackers. This controls whether a browser should be allowed to render a page in a <frame>, <iframe>, <embed> or <object>. This feature depends on whether the browser supports the X-frame-options.
+X-frame options is a security feature in HTTP response header to protect websites from being used in an invisible frame by attackers. This controls whether a browser should be allowed to render a page in a frame, iframe, embed or object. This feature depends on whether the browser supports the X-frame-options.
 
 * There are two possible directives as DENY and SAMEORIGIN.
 
