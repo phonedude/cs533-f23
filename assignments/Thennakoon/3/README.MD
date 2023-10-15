@@ -43,8 +43,9 @@ This directory contains details and an analysis of cookies set for 100 websites.
   * Maximum number of cookies per site - 18
   * Mean number of cookies - 2.41
   * Median number of cookies - 2.0
+******
 
-* Screenshots 
+### Screenshots 
 
 <kbd><img src="images_and_screenshots/assigned_sites.png" width="700" ></kbd>
 
