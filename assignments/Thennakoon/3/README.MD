@@ -1,7 +1,7 @@
 ## Assignment 3 - Kumushini(01251889)
 
-This directory contains details and an analysis of cookies set for 100 websitessites.
-The websites are available in EDUfilelink
+This directory contains details and an analysis of cookies set for 100 websites.
+
 
 ### List of directories and files
 
@@ -10,7 +10,7 @@ The websites are available in EDUfilelink
   <kbd><img src="Screenshots/Screenshot_of_home_page.png" width="700" ></kbd>
 
   * **cookie_details_100_sites**
-    -Contain text files obtained per each curl header response for 100 websites.
+    -Contain text files obtained per each curl response header for 100 websites.
   <kbd><img src="Screenshots/Screenshot_of_home_page.png" width="700" ></kbd>
 
 * **Code**
