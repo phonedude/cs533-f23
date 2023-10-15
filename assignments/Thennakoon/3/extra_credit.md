@@ -11,9 +11,12 @@ X-frame options is a security feature in HTTP response header to protect website
 
 1. The browsers were used to check the X-frame option “sameorigin” only against the top most window earlier. So attackers still can act on the site with multiple levels of embedding.
 
+ <kbd><img src="images_and_screenshots/img1.png" width="700" ></kbd>
+
 2. But if the browser can implement a method to check all the cascading levels with X-frame option “sameorigin” and decide based on a condition, there is a less chance of being attacked.
 
+<kbd><img src="images_and_screenshots/img2.png" width="700" ></kbd>
 
-The X-frame options header directive “Allow-from”, which is out of date, has been improved by content security policy directive “frame-ancestors” to provide a solution to the issue in (1).
+The X-frame options header directive “Allow-from”, which is out of date, has been improved by content security policy directive “frame-ancestors” to provide a solution to the issue in (1.).
 
 
