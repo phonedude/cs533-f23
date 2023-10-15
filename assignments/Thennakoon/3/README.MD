@@ -8,7 +8,7 @@ This directory contains details and an analysis of cookies set for 100 websites.
     -Assigned list of 100 websites
 
   * **cookie_details_100_sites**
-    -Contain text files obtained per each curl response header for 100 websites. 
+    -Contain text files including curl responses for each websites. 
 
 * **Code**
   * [curl_output.sh](curl_output.sh)
