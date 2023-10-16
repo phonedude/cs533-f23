@@ -1,0 +1,50 @@
+HTTP/1.1 308 Permanent Redirect
+content-length: 0
+location: https://cnil.fr/
+
+HTTP/2 301 
+date: Mon, 16 Oct 2023 05:33:02 GMT
+server: Apache
+x-drupal-route-normalizer: 1
+x-ua-compatible: IE=edge
+content-language: fr
+x-content-type-options: nosniff
+cache-control: must-revalidate, no-cache, private
+expires: Sun, 19 Nov 1978 05:00:00 GMT
+x-generator: Drupal 9 (https://www.drupal.org)
+location: https://cnil.fr/fr
+content-security-policy: default-src *.openstreetmap.org *.openlayers.org *.arcgisonline.com 'self' data: blob:; script-src 'self' 'unsafe-inline' 'unsafe-eval' cdnjs.cloudflare.com cdn.jsdelivr.net unpkg.com *.openstreetmap.org *.openlayers.org *.cnil.fr; script-src-elem 'self' data: 'unsafe-inline' 'unsafe-eval' cdnjs.cloudflare.com cdn.jsdelivr.net unpkg.com *.openstreetmap.org *.openlayers.org *.cnil.fr; style-src 'self' 'unsafe-inline' cdn.jsdelivr.net cdnjs.cloudflare.com *.openstreetmap.org *.openlayers.org *.cnil.fr; img-src 'self' *.openstreetmap.org *.openlayers.org *.cnil.fr data:; font-src 'self' *.openstreetmap.org *.openlayers.org *.cnil.fr; object-src 'self' *.openstreetmap.org *.openlayers.org *.cnil.fr; frame-src 'self' *.openstreetmap.org *.openlayers.org *.cnil.fr; frame-ancestors 'self' *.openstreetmap.org *.openlayers.org *.cnil.fr ; form-action 'self' *.signal-spam.fr *.cnil.fr ; block-all-mixed-content; base-uri 'self'
+strict-transport-security: max-age=63072000; includeSubdomains; preload
+referrer-policy: strict-origin-when-cross-origin
+x-xss-protection: 1; mode=block
+content-type: text/html; charset=UTF-8
+x-varnish: 3553442
+age: 0
+via: 1.1 varnish (Varnish/6.5)
+cache-tags: MISS
+set-cookie: SERVERID=dvs84128.eva.produhost.net; path=/
+
+HTTP/2 200 
+date: Mon, 16 Oct 2023 05:33:04 GMT
+server: Apache
+cache-control: must-revalidate, no-cache, private
+x-drupal-dynamic-cache: UNCACHEABLE
+x-ua-compatible: IE=edge
+content-language: fr
+x-content-type-options: nosniff
+expires: Sun, 19 Nov 1978 05:00:00 GMT
+x-generator: Drupal 9 (https://www.drupal.org)
+vary: Accept-Encoding
+content-security-policy: default-src *.openstreetmap.org *.openlayers.org *.arcgisonline.com 'self' data: blob:; script-src 'self' 'unsafe-inline' 'unsafe-eval' cdnjs.cloudflare.com cdn.jsdelivr.net unpkg.com *.openstreetmap.org *.openlayers.org *.cnil.fr; script-src-elem 'self' data: 'unsafe-inline' 'unsafe-eval' cdnjs.cloudflare.com cdn.jsdelivr.net unpkg.com *.openstreetmap.org *.openlayers.org *.cnil.fr; style-src 'self' 'unsafe-inline' cdn.jsdelivr.net cdnjs.cloudflare.com *.openstreetmap.org *.openlayers.org *.cnil.fr; img-src 'self' *.openstreetmap.org *.openlayers.org *.cnil.fr data:; font-src 'self' *.openstreetmap.org *.openlayers.org *.cnil.fr; object-src 'self' *.openstreetmap.org *.openlayers.org *.cnil.fr; frame-src 'self' *.openstreetmap.org *.openlayers.org *.cnil.fr; frame-ancestors 'self' *.openstreetmap.org *.openlayers.org *.cnil.fr ; form-action 'self' *.signal-spam.fr *.cnil.fr ; block-all-mixed-content; base-uri 'self'
+strict-transport-security: max-age=63072000; includeSubdomains; preload
+referrer-policy: strict-origin-when-cross-origin
+x-xss-protection: 1; mode=block
+content-length: 12222
+content-type: text/html; charset=UTF-8
+x-varnish: 1986396
+age: 0
+via: 1.1 varnish (Varnish/6.5)
+cache-tags: MISS
+accept-ranges: bytes
+set-cookie: SERVERID=dvs40528.eva.produhost.net; path=/
+
