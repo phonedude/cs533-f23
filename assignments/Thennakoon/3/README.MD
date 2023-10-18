@@ -18,7 +18,7 @@ This directory contains details and an analysis of cookies set for 100 websites.
 * **Output files**
 
   * [cookie_report.csv](cookie_report.csv) - Output file from cookie_report.py
-  * [Data table](cookie_report_updated.csv) - **Cookie report** -final output
+  * [Data table](cookie_report_updated.csv) - **Cookie report** - updated table obtained from cookie_report.csv
   * [Data table with error responses](cookie_report_errors.csv) - Table containing error responses
 
 *******
