@@ -91,7 +91,7 @@ his course materials (although any errors are mine).
 * Week 08 - October 18 - Transport Layer Security
     * [Looking back at the Snowden revelations](https://blog.cryptographyengineering.com/2019/09/24/looking-back-at-the-snowden-revelations/)
     * [HTTPS encryption on the web](https://transparencyreport.google.com/https/overview)
-    * [Class slides](https://docs.google.com/presentation/d/1IsqT_E3vNElJX9_mphzac-ka9Qcac6PSe6FzP4-kNrM/edit)
+    * [Class slides](https://docs.google.com/presentation/d/1XCbpbbsOII5B2bu35Y2ZB9DWUU2VI_fhdiF0_jlLHfI/edit)
 
 * Week 09 - October 25 - HSTS, Certificate Transparency
     * [Strict-Transport-Security](https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers/Strict-Transport-Security)
