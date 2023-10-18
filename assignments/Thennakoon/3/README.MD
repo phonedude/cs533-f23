@@ -51,11 +51,11 @@ This directory contains details and an analysis of cookies set for 100 websites.
 
 <kbd><img src="images_and_screenshots/assigned_sites.png" width="700" ></kbd>
 
-*Received curl responses saved into text files separately.
+* Received curl responses saved into text files separately.
 
 <kbd><img src="images_and_screenshots/response_files.png" width="700" ></kbd>
 
-*Running the code of cookie_report_summary.py 
+* Running the code of cookie_report_summary.py 
 
 <kbd><img src="images_and_screenshots/summary_output.PNG" width="700" ></kbd>
 
