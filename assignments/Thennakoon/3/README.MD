@@ -18,8 +18,8 @@ This directory contains details and an analysis of cookies set for 100 websites.
 * **Output files**
 
   * [cookie_report.csv](cookie_report.csv) - Output file from cookie_report.py
-  * [Data table](cookie_report_updated.csv) - **Cookie report**
-  * [Data table -error](cookie_report_errors.csv) - Table containing error responses
+  * [Data table](cookie_report_updated.csv) - **Cookie report** -final output
+  * [Data table with error responses](cookie_report_errors.csv) - Table containing error responses
 
 *******
 
@@ -45,11 +45,17 @@ This directory contains details and an analysis of cookies set for 100 websites.
   * Median number of cookies - 2.0
 ******
 
-### Screenshots 
+### Screenshots
+
+* Viewing the list of the assigned websites.
 
 <kbd><img src="images_and_screenshots/assigned_sites.png" width="700" ></kbd>
 
+*Received curl responses saved into text files separately.
+
 <kbd><img src="images_and_screenshots/response_files.png" width="700" ></kbd>
+
+*Running the code of cookie_report_summary.py 
 
 <kbd><img src="images_and_screenshots/summary_output.PNG" width="700" ></kbd>
 
