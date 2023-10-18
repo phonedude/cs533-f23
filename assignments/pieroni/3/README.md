@@ -11,8 +11,7 @@ Points available: 15
 
 | Website        | Response Code | # of Cookies  | HTTPOnly? | SameSite mode |
 | -------------  |:-------------:| -----:        |-------:   |----:          |
-
-cloudflare.com | 301 | 2 | 2 | none |
+|cloudflare.com | 301 | 2 | 2 | none |
 | 20minutos.es | 301 | 0 | 0 | none |
 | abc.net.au | 301 | 3 | 0 | none |
 | adobe.com | 301 | 0 | 0 | none |
