@@ -20,7 +20,7 @@ while read p; do
   echo $code
   cookie=$(grep -o -i 'Set-Cookie' cat.txt | wc -l)
   echo $cookie
-
+  
   httponly=$(grep -o -i 'HttpOnly' cat.txt | wc -l)
   echo $httponly
 

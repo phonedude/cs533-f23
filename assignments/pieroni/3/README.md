@@ -112,3 +112,16 @@ Points available: 15
 | youtube.com | 301 | 4 | 4 | none |
 | zendesk.com | 301 | 1 | 1 | none |
 | zippyshare.com | 200 | 0 | 0 | none |
+
+
+## Statistics of Cookies!
+
+Minimum Cookie:  0
+Maximum Cookie:  13
+Mean Cookie:    ~1.97
+Median Cookie:   0 ¯\_(ツ)_/¯
+
+
+### Extra Credit -- 2 points
+
+* The title of slide 48 in week 4 is a literary reference.  Briefly describe this literary reference, both the origin and the meaning in the slides.
