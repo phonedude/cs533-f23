@@ -1,0 +1,84 @@
+HTTP/1.1 301 Moved Permanently
+Connection: close
+Content-Length: 0
+Server: Varnish
+Retry-After: 0
+Location: https://forbes.com/
+Accept-Ranges: bytes
+Date: Thu, 19 Oct 2023 01:04:27 GMT
+Via: 1.1 varnish
+X-Served-By: cache-iad-kiad7000020-IAD
+X-Cache: HIT
+X-Cache-Hits: 0
+X-Timer: S1697677467.231319,VS0,VE0
+X-Country-Code: US
+X-Postal-Code: 22026
+X-Region: VA
+X-City-Code: dumfries
+X-Frame-Options: SAMEORIGIN
+Content-Security-Policy: upgrade-insecure-requests
+Access-Control-Allow-Credentials: true
+state: HIT-SYNTH
+alt-svc: h3=":443";ma=86400,h3-29=":443";ma=86400,h3-27=":443";ma=86400
+
+HTTP/1.1 301 Moved Permanently
+Connection: close
+Content-Length: 0
+Server: Varnish
+Retry-After: 0
+Location: https://www.forbes.com/
+Accept-Ranges: bytes
+Date: Thu, 19 Oct 2023 01:04:27 GMT
+Via: 1.1 varnish
+X-Served-By: cache-iad-kiad7000166-IAD
+X-Cache: HIT
+X-Cache-Hits: 0
+X-Timer: S1697677467.331603,VS0,VE0
+X-Country-Code: US
+X-Postal-Code: 22026
+X-Region: VA
+X-City-Code: dumfries
+X-Frame-Options: SAMEORIGIN
+Content-Security-Policy: upgrade-insecure-requests
+Strict-Transport-Security: max-age=31536000; includeSubDomains; preload
+Access-Control-Allow-Credentials: true
+state: HIT-SYNTH
+alt-svc: h3=":443";ma=86400,h3-29=":443";ma=86400,h3-27=":443";ma=86400
+
+HTTP/1.1 200 OK
+Connection: keep-alive
+Content-Length: 545521
+Server: rhino-core-shield
+Content-Type: text/html; charset=utf-8
+cache-control: public, max-age=300
+x-envoy-upstream-service-time: 586
+x-envoy-decorator-operation: production.dns-proxy.svc.cluster.local:80/*
+Backend: dnsresolver
+x-backend: simple-site-prod
+X-YourTtl: 300.000
+X-Cicero-Cache: HIT 2
+Via: 1.1 google, 1.1 google, 1.1 varnish
+X-Fastly-Backend: 24YyrkkiTBhSwXWzJgvwW6--F_GCP_Cicero_Varnish
+X-Fastly-X-is-CN: false
+X-Fastly-X-is-US-DPA: true
+X-Fastly-X-is-US: true
+X-FastlyTTL: 300.000
+Accept-Ranges: bytes
+Date: Thu, 19 Oct 2023 01:04:27 GMT
+Age: 0
+X-Served-By: cache-iad-kiad7000067-IAD
+X-Cache: MISS
+X-Cache-Hits: 0
+X-Timer: S1697677467.426535,VS0,VE71
+Vary: Accept-Encoding, Accept-Encoding, X-is-EU, X-Device, canary, X-Is-Ad-Light, x-malcolm, X-is-EU, X-is-CN, X-is-US-DPA, X-is-US, X-Device, x-backend, canary, X-Is-Ad-Light, x-fire-nr-browser
+X-Country-Code: US
+X-Postal-Code: 22026
+X-Region: VA
+X-City-Code: dumfries
+X-Frame-Options: SAMEORIGIN
+Content-Security-Policy: upgrade-insecure-requests
+Strict-Transport-Security: max-age=31536000; includeSubDomains; preload
+Access-Control-Allow-Credentials: true
+x-device: pc
+state: MISS-CLUSTER
+alt-svc: h3=":443";ma=86400,h3-29=":443";ma=86400,h3-27=":443";ma=86400

@@ -1,0 +1,33 @@
+HTTP/1.1 301 Moved Permanently
+Location: https://workspace.google.com/
+X-Content-Type-Options: nosniff
+Server: sffe
+Content-Length: 226
+X-XSS-Protection: 0
+Date: Thu, 19 Oct 2023 01:17:35 GMT
+Expires: Thu, 19 Oct 2023 01:47:35 GMT
+Cache-Control: public, max-age=1800
+Content-Type: text/html; charset=UTF-8
+Age: 1708
+
+HTTP/1.1 200 OK
+Accept-Ranges: bytes
+Vary: Accept-Encoding
+Content-Type: text/html
+Content-Length: 194316
+Content-Security-Policy-Report-Only: script-src 'nonce-mxKwMxriPoRCweqxr0Kl5g' 'report-sample' 'strict-dynamic' 'unsafe-eval' 'unsafe-inline' http: https:; object-src 'none'; report-uri https://csp.withgoogle.com/csp/workspace-web-team; base-uri 'none'
+Cross-Origin-Resource-Policy: cross-origin
+Cross-Origin-Opener-Policy-Report-Only: same-origin; report-to="workspace-web-team"
+Report-To: {"group":"workspace-web-team","max_age":2592000,"endpoints":[{"url":"https://csp.withgoogle.com/csp/report-to/workspace-web-team"}]}
+P3P: CP="This is not a P3P policy! See g.co/p3phelp for more info."
+Date: Thu, 19 Oct 2023 01:46:03 GMT
+Pragma: no-cache
+Expires: Fri, 01 Jan 1990 00:00:00 GMT
+Cache-Control: no-cache, must-revalidate
+Last-Modified: Thu, 12 Oct 2023 22:18:00 GMT
+Strict-Transport-Security: max-age=31536000; includeSubDomains; preload
+X-Content-Type-Options: nosniff
+Server: sffe
+X-XSS-Protection: 0
+Set-Cookie: NID=511=Kjul3V7pZQXacrGMjszZg7a61X8KgglJutzr7GxSGK_CZCDsJnHHzgCd7Jcn3IPbDqkaGMoWFEjg-KvsYaVlhQ7ENvDCr6U-KToYKSgIuk7d4nCiNQBmOLJnoL7pGgrgN4oaotOM-Msrf7i_jCkqTkeQ9SqXESdBuwb2CqXtJSc; expires=Fri, 19-Apr-2024 01:46:03 GMT; path=/; domain=.google.com; HttpOnly
+Alt-Svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000

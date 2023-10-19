@@ -1,0 +1,34 @@
+HTTP/1.1 301 Moved Permanently
+Date: Thu, 19 Oct 2023 01:27:24 GMT
+Content-Type: text/html
+Content-Length: 157
+Connection: keep-alive
+Location: https://oracle.com:443/
+
+HTTP/1.1 301 Moved Permanently
+Date: Thu, 19 Oct 2023 01:27:25 GMT
+Content-Type: text/html
+Content-Length: 175
+Connection: keep-alive
+Location: https://www.oracle.com/
+
+HTTP/1.1 200 OK
+Content-Type: text/html; charset=utf-8
+ETag: "3g5zvdztfx5n2t"
+MPULSE_ORIGIN_TIME: 4238
+MPULSE_CDN_CACHE: MISS
+Expires: Thu, 19 Oct 2023 01:27:25 GMT
+Cache-Control: max-age=0, no-cache, no-store
+Pragma: no-cache
+Date: Thu, 19 Oct 2023 01:27:25 GMT
+Connection: keep-alive
+Akamai-GRN: 0.846adc17.1697678845.50fc59d2
+Set-Cookie: akaas_aud-seg-ocom-prod=2147483647~rv=65~id=10007936997305c2c4d93d79507d32b8; path=/; Secure; SameSite=None
+X-Frame-Options: sameorigin
+Content-Security-Policy: frame-ancestors 'self' https://my.oracle.com https://eeho.fa.us2.oraclecloud.com https://blogs.oracle.com
+X-Content-Type-Options: nosniff
+X-XSS-Protection: 1
+Origin-Cache-Control: max-age=1800
+Origin-Edge-Control: NO_HEADER_PRESENTED
+Actual-Object-TTL: 31536000
+Server-Timing: ak_p; desc="1697678845373_400321156_1358715346_21_9783_19_13_-";dur=1

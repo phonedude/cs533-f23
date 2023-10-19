@@ -1,0 +1,26 @@
+HTTP/1.1 301 Moved Permanently
+Location: http://www.google.es/
+Content-Type: text/html; charset=UTF-8
+Content-Security-Policy-Report-Only: object-src 'none';base-uri 'self';script-src 'nonce-IMSEvxiQ0-uLYqWqia7UWQ' 'strict-dynamic' 'report-sample' 'unsafe-eval' 'unsafe-inline' https: http:;report-uri https://csp.withgoogle.com/csp/gws/other-hp
+Date: Thu, 19 Oct 2023 01:06:19 GMT
+Expires: Sat, 18 Nov 2023 01:06:19 GMT
+Cache-Control: public, max-age=2592000
+Server: gws
+Content-Length: 218
+X-XSS-Protection: 0
+X-Frame-Options: SAMEORIGIN
+
+HTTP/1.1 200 OK
+Content-Type: text/html; charset=ISO-8859-1
+Content-Security-Policy-Report-Only: object-src 'none';base-uri 'self';script-src 'nonce-ji9pX9onrTqLyZTBsoQblQ' 'strict-dynamic' 'report-sample' 'unsafe-eval' 'unsafe-inline' https: http:;report-uri https://csp.withgoogle.com/csp/gws/other-hp
+P3P: CP="This is not a P3P policy! See g.co/p3phelp for more info."
+Date: Thu, 19 Oct 2023 01:06:19 GMT
+Server: gws
+X-XSS-Protection: 0
+X-Frame-Options: SAMEORIGIN
+Transfer-Encoding: chunked
+Expires: Thu, 19 Oct 2023 01:06:19 GMT
+Cache-Control: private
+Set-Cookie: 1P_JAR=2023-10-19-01; expires=Sat, 18-Nov-2023 01:06:19 GMT; path=/; domain=.google.es; Secure
+Set-Cookie: AEC=Ackid1SynPyuV53KBenagii1meQnHOUL0blrP6fPiNMGMSkVrFBMD2SN9xA; expires=Tue, 16-Apr-2024 01:06:19 GMT; path=/; domain=.google.es; Secure; HttpOnly; SameSite=lax
+Set-Cookie: NID=511=MHqHKQsUrndtD1GvpRLRl3tjrfH6dM4jjPxBJQpf5Ub82NipNakNC7r7kPVIRHZl-dPqc6ZRKhzNpWiaEHM2echBvdOIeVO20TQIKK-ngavl2JEQyYc6Pge-086qowCGKBgAxJz0U0GK91tSzTTKNNYtyzG0G5gzgt-MgCsWYrM; expires=Fri, 19-Apr-2024 01:06:19 GMT; path=/; domain=.google.es; HttpOnly

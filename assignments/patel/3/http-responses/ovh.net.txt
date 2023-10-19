@@ -1,0 +1,13 @@
+HTTP/1.1 301 Moved Permanently
+content-length: 0
+location: https://ovh.net/
+
+HTTP/1.1 301 Moved Permanently
+content-length: 0
+location:  https://proof.ovh.net
+
+HTTP/1.1 200 OK
+Server: nginx
+Date: Thu, 19 Oct 2023 01:28:06 GMT
+Content-Type: text/html; charset=UTF-8
+Connection: keep-alive
