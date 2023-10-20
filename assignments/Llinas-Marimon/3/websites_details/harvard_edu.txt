@@ -1,0 +1,53 @@
+HTTP/1.1 301 Moved Permanently
+Content-Length: 0
+Server: Varnish
+Retry-After: 0
+Location: https://harvard.edu/
+Accept-Ranges: bytes
+Date: Thu, 19 Oct 2023 20:51:08 GMT
+Via: 1.1 varnish, HTTP/1.1 forward.http.proxy:3128
+X-Served-By: cache-iad-kiad7000142-IAD
+X-Cache: HIT
+X-Cache-Hits: 0
+Strict-Transport-Security: max-age=300
+Connection: close
+
+HTTP/2 301 
+server: Varnish
+retry-after: 0
+location: https://www.harvard.edu/
+accept-ranges: bytes
+date: Thu, 19 Oct 2023 20:51:09 GMT
+via: 1.1 varnish
+x-served-by: cache-iad-kiad7000058-IAD
+x-cache: HIT
+x-cache-hits: 0
+x-timer: S1697748669.052263,VS0,VE0
+strict-transport-security: max-age=300
+content-length: 0
+
+HTTP/2 200 
+cache-control: public, max-age=1200
+content-type: text/html; charset=UTF-8
+link: <https://www.harvard.edu/>; rel=shortlink
+permissions-policy: geolocation=(self)
+referrer-policy: no-referrer-when-downgrade
+server: nginx
+strict-transport-security: max-age=31622400
+x-content-type-options: nosniff
+x-frame-options: SAMEORIGIN
+x-pantheon-styx-hostname: styx-fe1-a-58d4585478-qzd8g
+x-pingback: https://www.harvard.edu/xmlrpc.php
+x-styx-req-id: ffc58b18-6ec0-11ee-bae2-b2390ebeae9e
+x-xss-protection: 1; mode=block
+age: 99
+accept-ranges: bytes
+via: 1.1 varnish, 1.1 varnish, 1.1 varnish, 1.1 varnish
+date: Thu, 19 Oct 2023 20:51:09 GMT
+x-served-by: cache-chi-klot8100144-CHI, cache-iad-kiad7000067-IAD, cache-iad-kjyo7100042-IAD, cache-iad-kjyo7100064-IAD
+x-cache: HIT, MISS, MISS, MISS
+x-cache-hits: 28, 0, 0, 0
+x-timer: S1697748669.112218,VS0,VE36
+vary: Accept-Encoding, Cookie, Cookie, orig-host
+content-length: 249967
+

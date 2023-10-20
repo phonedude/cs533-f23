@@ -1,0 +1,23 @@
+HTTP/1.1 301 Moved Permanently
+content-length: 0
+location: https://www.afternic.com/
+Via: HTTP/1.1 forward.http.proxy:3128
+Connection: keep-alive
+
+HTTP/2 200 
+server: Apache/2.4.10 (Debian)
+x-powered-by: PHP/5.5.38
+expires: Thu, 19 Nov 1981 08:52:00 GMT
+cache-control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+pragma: no-cache
+content-type: text/html
+x-frame-options: SAMEORIGIN
+x-backend: www.afternic.com
+strict-transport-security: max-age=63072000
+date: Thu, 19 Oct 2023 20:50:59 GMT
+content-length: 0
+set-cookie: PHPSESSID=5b6b8d1dc3737943ca1cca5cec2584fe; path=/
+set-cookie: AFTERNICSERVERID=p3plamfosv1-03; path=/
+set-cookie: _abck=DF61B8E36E8EC1359B50EC77E12FCBD8~-1~YAAQlmvcFzCOLj2LAQAAA660SQrIp91Mbe2IWYQG7q7WhDn3ngg24x/o6ihJs9T5vDB98MxpcjNgY7IatUgFScDlgcN+ds1U/MNkKokB7qK6sLgsmC6wc+4yPWh+855KvvivpqjDZco3Ziw5d1ByCaDT2qkH0KeZwz8vwGGkKd02ySs1esw2zL7Zjv+fF002xOM/cnyU5x6UfU/YEDF+WFZM/UL7dNjay4qLyDmnPd8RsdpS1jx2Ho0wzXU2OW4m0crwEp6PW72Ao9aCskj65WgRoblKwWh1qsif6L5+ZwJuGh7ELIqSByBYta4Xct30AsJl0Akt1C3b0GJZeGzYze7WdQ8dedzRTQbTFVsSaQLQFHrvIQUK5cebwQ==~-1~-1~-1; Domain=.afternic.com; Path=/; Expires=Fri, 18 Oct 2024 20:50:59 GMT; Max-Age=31536000; Secure
+set-cookie: bm_sz=19EDC6F26A7287D267EFBE558B7EAB79~YAAQlmvcFzGOLj2LAQAAA660SRW48Mf2ae3FEer30JaV6vYaxGIa5NIe236pnvwiRT5vw9hvGVa/ZiWpdWqTPZ0+Ox458UE3swXFMpOrH4U6KrPH34lcu6OpvKknjchZmIoQXJ/MeQ0j2g6AdEPrDyA/4h1mb4Y2QNmPNbo6I4msE+pwsImWj7o5utE2FUZhkDEjiDSMnpX/Ex5pDgvGj12fVHv1hGi9uXeMFWuaTPbOReqOYbknRnx2lJkV6MX470RtK/OkbvUEf8+tyO7+dhpDu0BddwJ0I4SiX20LDsb4tLldOQ==~4339255~3225398; Domain=.afternic.com; Path=/; Expires=Fri, 20 Oct 2023 00:50:58 GMT; Max-Age=14399
+

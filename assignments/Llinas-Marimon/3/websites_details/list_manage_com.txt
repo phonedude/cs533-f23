@@ -1,0 +1,29 @@
+HTTP/1.1 302 Found
+Server: openresty
+Date: Thu, 19 Oct 2023 20:57:19 GMT
+Content-Type: text/html; charset=UTF-8
+Set-Cookie: _mcid=1.868afbd1ff73440b7d847bad34ac6500.ea022e0c54fdbe83e755d1b77b8d9560d242064ac0fe60909b12e492c7c05ece; expires=Fri, 18-Oct-2024 20:57:19 GMT; Max-Age=31536000; path=/
+Set-Cookie: _mc_anon_id=deleted; expires=Thu, 01-Jan-1970 00:00:01 GMT; Max-Age=0; path=/
+X-UA-Compatible: IE=edge,chrome=1
+Location: https://mailchimp.com/about/mcsv-static
+Referrer-Policy: same-origin
+Via: HTTP/1.1 forward.http.proxy:3128
+Connection: keep-alive
+
+HTTP/2 200 
+server: openresty
+content-length: 628
+last-modified: Tue, 24 Aug 2021 21:16:38 GMT
+etag: "274-5ca54a6419eaf"
+accept-ranges: bytes
+x-frame-options: SAMEORIGIN
+mpulse_cdn_cache: HIT
+mpulse_origin_time: 0
+cache-control: max-age=28494948
+expires: Fri, 13 Sep 2024 16:13:07 GMT
+date: Thu, 19 Oct 2023 20:57:19 GMT
+content-type: text/plain; charset=utf-8
+set-cookie: _abck=A408CB8B1F606A85EB3269538F7F5BB0~-1~YAAQk2rcFwddnUKLAQAAvnm6SQpdaY6/D7CsyA2Ccclh0gyTp0kIS+yv0t7buBk7VvQERDddcGD7qKEVXcBUU6N7UXi9KgE1D/5wOGGfGLwpT6LYluX9RI8T3QnoUCXHvRmWBVIuoD1hh3sWmuuQGYZJKZ+keJESOuX87p8awY7iXwSzBIdbnWOM2pPr6mJwlAX1/wOSOP7q5OoE9/G4Tios0rQpPvqWq6dj6XVuOtPrHCc13fNvcJFwGsAoqMq2xTaTVIdASpUhE+xAgZDKds/qF4+FR4vmcEuMPUZUObPtqDdzNV9pFmbSZfs5In2BV2EwbMcbyPIUaX/T3/8ixP5kwo23GREwI63KuJSwofVRLtH842g6AZL5alI=~-1~-1~-1; Domain=.mailchimp.com; Path=/; Expires=Fri, 18 Oct 2024 20:57:19 GMT; Max-Age=31536000; SameSite=None; Secure
+set-cookie: bm_sz=072A3FE607DA5B04229BA2594E2105B3~YAAQk2rcFwhdnUKLAQAAvnm6SRUQgv7rEW/o+u2Z0qPOm5egVjuBH1YurYCjC72VF+CwTKLqD1oRnOA+0XfD8qxn25KdjYripOSxXRT04yy+iLR55r55pUMwleFwT+Ryu5Y1iSzcLeEXkrp1jFsWJoqFDGwxWO4334GDZky0iXeZGymq1KRGJeI2RZaPTv4kIHYCQh11Z7QlkeoPu5yOHIx4XTGVRhc9LPPDdtxBvunA6z/6dgYk4hP97e8BNBju52X8YDdIcJ1JezmBHOLTVMXJk/N6Y2Ud6DbYCdgFelQ07ci6X00=~3619137~4274226; Domain=.mailchimp.com; Path=/; Expires=Fri, 20 Oct 2023 00:57:19 GMT; Max-Age=14400; SameSite=None; Secure
+server-timing: ak_p; desc="1697749039523_400321171_427955129_85_8719_5_13_15";dur=1
+

@@ -1,0 +1,44 @@
+HTTP/1.1 301 Moved Permanently
+Content-Length: 0
+Server: Varnish
+Retry-After: 0
+Location: https://www.vox.com/
+Accept-Ranges: bytes
+Date: Thu, 19 Oct 2023 20:57:35 GMT
+Via: 1.1 varnish, HTTP/1.1 forward.http.proxy:3128
+X-Served-By: cache-iad-kiad7000021-IAD
+X-Cache: HIT
+X-Cache-Hits: 0
+X-Timer: S1697749056.647582,VS0,VE0
+Set-Cookie: vmidv1=c1ec4326-64ed-4610-a4f3-cc937c257efc;Expires=Tue, 17 Oct 2028 20:57:35 GMT;Domain=vox.com;Path=/;SameSite=Lax;Secure
+alt-svc: h3=":443";ma=86400,h3-29=":443";ma=86400,h3-27=":443";ma=86400
+Connection: close
+
+HTTP/2 200 
+content-type: text/html; charset=utf-8
+server: nginx
+x-frame-options: SAMEORIGIN
+x-xss-protection: 1; mode=block
+x-content-type-options: nosniff
+x-download-options: noopen
+x-permitted-cross-domain-policies: none
+referrer-policy: strict-origin-when-cross-origin
+cache-control: max-age=0, public, must-revalidate
+etag: W/"020469d25b87621341005c4558f64918"
+x-request-id: 5364019032f3716a09818f67f179b430b4497491
+x-runtime: 0.229343
+strict-transport-security: max-age=31556952; preload
+accept-ranges: bytes
+date: Thu, 19 Oct 2023 20:57:36 GMT
+via: 1.1 varnish
+age: 0
+set-cookie: _chorus_geoip_continent=NA; expires=Fri, 20 Oct 2023 20:57:36 GMT; path=/;
+x-served-by: cache-iad-kiad7000109-IAD
+x-cache: MISS
+x-cache-hits: 0
+x-timer: S1697749056.700484,VS0,VE603
+vary: Accept-Encoding, X-Chorus-Unison-Testing, X-Chorus-Require-Privacy-Consent, X-Chorus-Restrict-In-Privacy-Consent-Region, Origin, X-Forwarded-Proto, X-Chorus-Unison-Testing, X-Chorus-Require-Privacy-Consent, X-Chorus-Restrict-In-Privacy-Consent-Region
+set-cookie: vmidv1=821ecbaf-365f-4800-8197-c1c486471915;Expires=Tue, 17 Oct 2028 20:57:36 GMT;Domain=www.vox.com;Path=/;SameSite=Lax;Secure
+alt-svc: h3=":443";ma=86400,h3-29=":443";ma=86400,h3-27=":443";ma=86400
+content-length: 316486
+

@@ -1,0 +1,30 @@
+HTTP/1.1 301 Moved Permanently
+Date: Thu, 19 Oct 2023 20:57:29 GMT
+Cache-Control: max-age=3600
+Expires: Thu, 19 Oct 2023 21:57:29 GMT
+Location: https://stackoverflow.com/
+Set-Cookie: __cf_bm=_2q0pLgAECD_K1.KY8yWxSnUAmRxxQeIcs8DyfKaKVU-1697749049-0-AbxXcW41ZPUmt13sTibfMS2L58ttU9TN2uwNXcFSap2X775Gplye/dFOFc+0fcarLlksege+SmOljE1Ov9pMobE=; path=/; expires=Thu, 19-Oct-23 21:27:29 GMT; domain=.stackoverflow.com; HttpOnly; SameSite=None
+X-DNS-Prefetch-Control: off
+Server: cloudflare
+CF-RAY: 818bef05f87f4fd5-ORF
+Via: HTTP/1.1 forward.http.proxy:3128
+Connection: keep-alive
+
+HTTP/2 200 
+date: Thu, 19 Oct 2023 20:57:29 GMT
+content-type: text/html; charset=utf-8
+cache-control: private
+vary: Accept-Encoding
+strict-transport-security: max-age=15552000
+x-frame-options: SAMEORIGIN
+x-request-guid: 5ee3c576-a198-4697-b5b4-6dfc45f5c2b4
+set-cookie: prov=e069d1f5-ff6f-459c-bec2-df329ef98099; expires=Sat, 19 Oct 2024 20:57:29 GMT; domain=.stackoverflow.com; path=/; secure; samesite=none; httponly
+feature-policy: microphone 'none'; speaker 'none'
+content-security-policy: upgrade-insecure-requests; frame-ancestors 'self' https://stackexchange.com
+x-stack-debug: 1
+cf-cache-status: DYNAMIC
+set-cookie: __cf_bm=4zri2ZvEuR9KSLr69sSJCUX0rISo2X9mI24SFI4xlmU-1697749049-0-AbDNrFdazt+tN2Fa2FzrMTWLu3YTozyjse5ZUTZ6z1iF0GJCbOG7ij2rSAE7ln7iUv1WsL/+gFpxyPUc69OKluA=; path=/; expires=Thu, 19-Oct-23 21:27:29 GMT; domain=.stackoverflow.com; HttpOnly; Secure; SameSite=None
+x-dns-prefetch-control: off
+server: cloudflare
+cf-ray: 818bef062c564fe4-ORF
+
