@@ -14,7 +14,7 @@ Relevant resources:
 
 ### CORS: Blocking and reading responses from another origin (5 points)
 
-* Create node.js, HTML, and json files in the directory ```5.1``` that demonstrate Javascript running in one HTML file requesting a .json response from another origin.  Show how the json response from one server is both blocked, and what is necessary to allow the response. 
+* Create node.js, HTML, and json files in the directory ```5.1``` that demonstrate Javascript running in one HTML file requesting a .json response from another origin.  Show how the json response from one server is blocked, and what is necessary to allow the response. 
 
 * Keep your json response simple, but make it convey information about your three favorite things from assignment 2.
 
@@ -22,7 +22,7 @@ Relevant resources:
 
 * Create another directory ```5.2```; you can modify the files from ```5.1``` for this portion of the assignment if you'd like.
 
-* Demonstrate how three custom HTTP response headers (```X-CS533f23-*```, where ```*``` corresponds to your three favorite things from assignment 1) are both blocked and then allowed by one server.  
+* Demonstrate how three custom HTTP response headers (```X-CS533f23-*```, where ```*``` corresponds to your three favorite things from assignment 2) are both blocked and then allowed by one server.  
 
 ### Content-Security-Policy: embedding from another site (5 points)
 
