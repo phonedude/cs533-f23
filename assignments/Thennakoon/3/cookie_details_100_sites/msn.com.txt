@@ -1,0 +1,32 @@
+HTTP/1.1 301 Moved Permanently
+Content-Length: 0
+Location: https://msn.com/
+X-MSEdge-Ref: Ref A: F80F2BAB0BCE4C81AE111436D22873CC Ref B: BL2EDGE1610 Ref C: 2023-10-10T00:36:35Z
+Date: Tue, 10 Oct 2023 00:36:35 GMT
+
+HTTP/2 301 
+content-length: 0
+location: https://www.msn.com/
+strict-transport-security: max-age=63072000; includeSubDomains; preload
+accept-ch: Sec-CH-UA-Arch, Sec-CH-UA-Bitness, Sec-CH-UA-Full-Version, Sec-CH-UA-Full-Version-List, Sec-CH-UA-Mobile, Sec-CH-UA-Model, Sec-CH-UA-Platform, Sec-CH-UA-Platform-Version
+x-msedge-ref: Ref A: 8078075CCB4640B4BD209F6C365BC7F7 Ref B: ASHEDGE1518 Ref C: 2023-10-10T00:36:36Z
+date: Tue, 10 Oct 2023 00:36:35 GMT
+
+HTTP/2 404 
+cache-control: no-store, no-cache
+pragma: no-cache
+content-length: 0
+set-cookie: _C_ETH=1; domain=.msn.com; path=/; secure; httponly
+set-cookie: MUID=3CE08DC5CB1866280C909E63CA8167FB; expires=Sun, 03 Nov 2024 00:36:36 GMT; domain=.msn.com; path=/; secure; samesite=none
+set-cookie: MUIDB=3CE08DC5CB1866280C909E63CA8167FB; expires=Sun, 03 Nov 2024 00:36:36 GMT; path=/; httponly
+set-cookie: _EDGE_S=F=1&SID=179C147BB02F647C07C207DDB13E6547; domain=.msn.com; path=/; httponly
+set-cookie: _EDGE_V=1; expires=Sun, 03 Nov 2024 00:36:36 GMT; domain=.msn.com; path=/; httponly
+x-fabric-cluster: pmeprodeus
+nel: {"report_to":"network-errors","max_age":604800,"success_fraction":0.001,"failure_fraction":0.5}
+report-to: {"group":"network-errors","max_age":604800,"endpoints":[{"url":"https://deff.nelreports.net/api/report?cat=msn"}]},{"group":"csp-endpoint","max_age":86400,"endpoints":[{"url":"https://deff.nelreports.net/api/report"}]}
+x-ceto-ref: 46D9F4AE7D054E01881CD7F5FB79DA26|2023-10-10T00:36:36.326Z
+x-cache: CONFIG_NOCACHE
+accept-ch: Sec-CH-UA-Arch, Sec-CH-UA-Bitness, Sec-CH-UA-Full-Version, Sec-CH-UA-Full-Version-List, Sec-CH-UA-Mobile, Sec-CH-UA-Model, Sec-CH-UA-Platform, Sec-CH-UA-Platform-Version
+x-msedge-ref: Ref A: 46D9F4AE7D054E01881CD7F5FB79DA26 Ref B: BL2EDGE2510 Ref C: 2023-10-10T00:36:36Z
+date: Tue, 10 Oct 2023 00:36:35 GMT
+

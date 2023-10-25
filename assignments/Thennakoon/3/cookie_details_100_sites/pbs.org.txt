@@ -1,0 +1,41 @@
+HTTP/1.1 301 Moved Permanently
+Server: openresty
+Date: Tue, 10 Oct 2023 00:36:43 GMT
+Content-Type: text/html
+Content-Length: 166
+Connection: keep-alive
+Location: http://www.pbs.org/
+X-PBS-fwsrvname: ip-10-193-111-220.ec2.internal
+
+HTTP/1.1 301 Moved Permanently
+Server: CloudFront
+Date: Tue, 10 Oct 2023 00:36:43 GMT
+Content-Type: text/html
+Content-Length: 167
+Connection: keep-alive
+Location: https://www.pbs.org/
+X-Cache: Redirect from cloudfront
+Via: 1.1 a53ebc5c4d12bc9682b9c11ea18dccbe.cloudfront.net (CloudFront)
+X-Amz-Cf-Pop: IAD12-P1
+X-Amz-Cf-Id: XZHLFZkTm0cble6D1EGBrpjyrnFqPvXBUquhCG4XmAcPI6mfKb0N7w==
+
+HTTP/2 200 
+content-type: text/html; charset=utf-8
+content-length: 229422
+date: Tue, 10 Oct 2023 00:35:08 GMT
+expires: Tue, 10 Oct 2023 00:45:08 GMT
+cache-control: max-age=600
+content-security-policy: script-src 'self' *.pbs.org *.googlesyndication.com adservice.google.com adservice.google.co.in connect.facebook.net fundingchoicesmessages.google.com *.2mdn.net *.nr-data.net sb.scorecardresearch.com securepubads.g.doubleclick.net www.google-analytics.com www.googletagmanager.com *.googletagservices.com 'unsafe-inline' 'unsafe-eval' *.cookielaw.org www.redditstatic.com alb.reddit.com analytics.tiktok.com s.pinimg.com; frame-src 'self' *.pbs.org *.doubleclick.net *.2mdn.net *.googlesyndication.com www.facebook.com www.google.com *.googletagservices.com ct.pinterest.com; style-src 'self' *.pbs.org 'unsafe-inline'; default-src 'self' *.pbs.org; img-src 'self' data: *.pbs.org *.doubleclick.net *.cookielaw.org *.googlesyndication.com sb.scorecardresearch.com www.googletagmanager.com www.facebook.com graph.facebook.com platform-lookaside.fbsbx.com *.2mdn.net *.agkn.com *.fbsbx.com *.fbcdn.net www.google-analytics.com www.google.com *.googleusercontent.com tags.w55c.net www.redditstatic.com alb.reddit.com analytics.tiktok.com ct.pinterest.com impressions.onelink.me; connect-src 'self' *.pbs.org *.doubleclick.net *.googlesyndication.com *.2mdn.net *.nr-data.net *.eloqua.com *.cookielaw.org *.onetrust.com csi.gstatic.com fundingchoicesmessages.google.com www.google-analytics.com www.redditstatic.com alb.reddit.com analytics.tiktok.com ct.pinterest.com
+permissions-policy: accelerometer=(), autoplay=(self "https://player.pbs.org" "https://player-staging.pbs.org"), camera=(), display-capture=(), document-domain=(), encrypted-media=(self "https://player.pbs.org" "https://player-staging.pbs.org"), fullscreen=(self "https://player.pbs.org" "https://player-staging.pbs.org"), geolocation=(self "https://player.pbs.org" "https://player-staging.pbs.org"), gyroscope=(), magnetometer=(), microphone=(), midi=(), payment=(), usb=()
+x-frame-options: DENY
+etag: "45fe0fe2aac00d078eb62645ece807ab"
+strict-transport-security: max-age=31536000
+x-content-type-options: nosniff
+referrer-policy: no-referrer-when-downgrade
+vary: Accept-Encoding,Cloudfront-Viewer-Country,Cookie
+x-cache: Hit from cloudfront
+via: 1.1 7699e4f17e72e42cba0c247c650005d2.cloudfront.net (CloudFront)
+x-amz-cf-pop: IAD12-P1
+x-amz-cf-id: nToehzTn7TAbYR4shMila1U5AgpkmpBWlNOBLulyYFO52LF6RAp0aA==
+age: 95
+

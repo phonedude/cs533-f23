@@ -1,0 +1,56 @@
+HTTP/1.1 301 Moved Permanently
+content-length: 0
+location: https://webnode.page/
+
+HTTP/2 301 
+server: nginx
+date: Tue, 10 Oct 2023 00:37:10 GMT
+content-type: text/html; charset=UTF-8
+set-cookie: PHPSESSID=c18e889ba7626b207cc72e028f73df56; path=/; secure; HttpOnly
+expires: Thu, 19 Nov 1981 08:52:00 GMT
+cache-control: no-store, no-cache, must-revalidate
+pragma: no-cache
+set-cookie: ubh=268a6e9a2c29f40bd8bf0278ac7ba0e07d631e88; expires=Fri, 10-Oct-2025 00:37:10 GMT; Max-Age=63158400; path=/; domain=webnode.page; secure; HttpOnly
+set-cookie: usi=169689823065249cb60ca6e; path=/; domain=webnode.page; secure; HttpOnly
+set-cookie: tu=268a6e9a2c29f40bd8bf0278ac7ba0e07d631e88.169689823065249cb60ca6e
+set-cookie: mfd=1; expires=Wed, 11-Oct-2023 00:37:10 GMT; Max-Age=86400
+set-cookie: mfdp=1; expires=Mon, 10-Oct-2033 00:37:10 GMT; Max-Age=315619200
+location: https://www.webnode.page/
+x-frame-options: DENY
+strict-transport-security: max-age=16000000; preload;
+
+HTTP/2 301 
+server: nginx
+date: Tue, 10 Oct 2023 00:37:10 GMT
+content-type: text/html; charset=UTF-8
+set-cookie: PHPSESSID=13acfe6135a9c73c1286027469cd4581; path=/; secure; HttpOnly
+expires: Thu, 19 Nov 1981 08:52:00 GMT
+cache-control: no-store, no-cache, must-revalidate
+pragma: no-cache
+set-cookie: ubh=268a6e9a2c29f40bd8bf0278ac7ba0e07d631e88; expires=Fri, 10-Oct-2025 00:37:10 GMT; Max-Age=63158400; path=/; domain=www.webnode.page; secure; HttpOnly
+set-cookie: usi=169689823065249cb688463; path=/; domain=www.webnode.page; secure; HttpOnly
+set-cookie: tu=268a6e9a2c29f40bd8bf0278ac7ba0e07d631e88.169689823065249cb688463
+set-cookie: mfd=1; expires=Wed, 11-Oct-2023 00:37:10 GMT; Max-Age=86400
+set-cookie: mfdp=1; expires=Mon, 10-Oct-2033 00:37:10 GMT; Max-Age=315619200
+location: https://www.webnode.com/
+content-security-policy: default-src *;script-src 'self' resource://pdf.js 'unsafe-hashes' 'unsafe-inline' 'unsafe-eval' *.teamblue.services d1rv23qj5kas56.cloudfront.net d3nn3278imm5nr.cloudfront.net d1di2lzuh97fh2.cloudfront.net events.webnode.com js.stripe.com www.gstatic.com www.googleadservices.com www.googletagmanager.com bat.bing.com connect.facebook.net a.quora.com www.google-analytics.com googleads.g.doubleclick.net c.imedia.cz www.google.com www.google.de www.google.com.br cdn.inspectlet.com *.clarity.ms *.bing.com c.seznam.cz pagead2.googlesyndication.com s.yimg.jp cdn.euc-freshbots.ai blob: euc-widget.freshworks.com/widgets/101000002785.js euc-widget.freshworks.com/widgetBase/ b98.yahoo.co.jp https://s.pinimg.com https://track.adform.net https://s2.adform.net;style-src 'self' 'unsafe-inline' 'unsafe-eval' d1rv23qj5kas56.cloudfront.net d3nn3278imm5nr.cloudfront.net www.gstatic.com js.stripe.com d11bh4d8fhuq47.cloudfront.net d1di2lzuh97fh2.cloudfront.net use.typekit.net p.typekit.net cdn.euc-freshbots.ai euc-widget.freshworks.com/widgetBase/static/media/;img-src 'self' data: mediastream: blob: filesystem: *.teamblue.services d1rv23qj5kas56.cloudfront.net d3nn3278imm5nr.cloudfront.net du5rkdszt1kq5.cloudfront.net d11bh4d8fhuq47.cloudfront.net d1bz77arbww182.cloudfront.net d1me9yvfki5736.cloudfront.net d6scj24zvfbbo.cloudfront.net *.pbhom-cdnwnd.com *.cbaul-cdnwnd.com *.clvaw-cdnwnd.com www.webnode.com www.gstatic.com q.stripe.com bat.bing.com q.quora.com www.google.com www.google.cz www.google.de www.google.com.br www.google-analytics.com googleads.g.doubleclick.net cx.atdmt.com c.seznam.cz www.facebook.com www.googletagmanager.com *.clarity.ms *.bing.com *.webnode.com *.webnode.cz *.webnode.sk *.webnode.at *.webnode.es *.webnode.cl *.webnode.com.ve *.webnode.com.uy *.webnode.mx *.webnode.com.co *.webnode.co *.webnode.com.ar *.webnode.com.py *.webnode.bo *.webnode.do *.webnode.ec *.webnode.pe *.webnode.cr *.webnode.com.br *.webnode.pt *.webnode.it *.webnode.fr *.webnode.us *.webnode.in *.webnode.gr *.webnode.com.tr *.webnode.cn *.webnode.tw *.webnode.nl *.webnode.be *.webnode.jp *.webnode.hu *.webnode.ru *.webnode.com.ua *.webnode.se *.webnode.dk *.webnode.lv *.webnode.hr *.webnode.no *.webnode.co.uk *.webnode.vn *.webnode.ro *.webnode.cat *.webnode.kr *.webnode.fi ct.capterra.com d1di2lzuh97fh2.cloudfront.net cdn.euc-freshbots.ai cdn.freshbots.ai fc-euc1-00-pics-bkt-00.s3.eu-central-1.amazonaws.com https://s3-eu-central-1.amazonaws.com/euc-cdn.freshdesk.com/ https://ct.pinterest.com https://track.adform.net;frame-ancestors 'self';
+x-frame-options: DENY
+strict-transport-security: max-age=16000000; preload;
+
+HTTP/2 200 
+server: nginx
+date: Tue, 10 Oct 2023 00:37:11 GMT
+content-type: text/html; charset=UTF-8
+set-cookie: PHPSESSID=9a9b07b16eba095ae0d513162f8962f3; path=/; secure; HttpOnly
+expires: Thu, 19 Nov 1981 08:52:00 GMT
+pragma: no-cache
+set-cookie: ubh=0f9029b03e12ba7a49328f0ec1d0d2f3e786372a; expires=Fri, 10-Oct-2025 00:37:11 GMT; Max-Age=63158400; path=/; domain=www.webnode.com; secure; HttpOnly
+set-cookie: usi=169689823165249cb753034; path=/; domain=www.webnode.com; secure; HttpOnly
+set-cookie: tu=0f9029b03e12ba7a49328f0ec1d0d2f3e786372a.169689823165249cb753034
+set-cookie: mfd=1; expires=Wed, 11-Oct-2023 00:37:11 GMT; Max-Age=86400
+set-cookie: mfdp=1; expires=Mon, 10-Oct-2033 00:37:11 GMT; Max-Age=315619200
+cache-control: private,max-age=0,no-cache,no-store
+content-security-policy: default-src *;script-src 'self' resource://pdf.js 'unsafe-hashes' 'unsafe-inline' 'unsafe-eval' *.teamblue.services d1rv23qj5kas56.cloudfront.net d3nn3278imm5nr.cloudfront.net d1di2lzuh97fh2.cloudfront.net events.webnode.com js.stripe.com www.gstatic.com www.googleadservices.com www.googletagmanager.com bat.bing.com connect.facebook.net a.quora.com www.google-analytics.com googleads.g.doubleclick.net c.imedia.cz www.google.com www.google.de www.google.com.br cdn.inspectlet.com *.clarity.ms *.bing.com c.seznam.cz pagead2.googlesyndication.com s.yimg.jp cdn.euc-freshbots.ai blob: euc-widget.freshworks.com/widgets/101000002785.js euc-widget.freshworks.com/widgetBase/ b98.yahoo.co.jp https://s.pinimg.com https://track.adform.net https://s2.adform.net;style-src 'self' 'unsafe-inline' 'unsafe-eval' d1rv23qj5kas56.cloudfront.net d3nn3278imm5nr.cloudfront.net www.gstatic.com js.stripe.com d11bh4d8fhuq47.cloudfront.net d1di2lzuh97fh2.cloudfront.net use.typekit.net p.typekit.net cdn.euc-freshbots.ai euc-widget.freshworks.com/widgetBase/static/media/;img-src 'self' data: mediastream: blob: filesystem: *.teamblue.services d1rv23qj5kas56.cloudfront.net d3nn3278imm5nr.cloudfront.net du5rkdszt1kq5.cloudfront.net d11bh4d8fhuq47.cloudfront.net d1bz77arbww182.cloudfront.net d1me9yvfki5736.cloudfront.net d6scj24zvfbbo.cloudfront.net *.pbhom-cdnwnd.com *.cbaul-cdnwnd.com *.clvaw-cdnwnd.com www.webnode.com www.gstatic.com q.stripe.com bat.bing.com q.quora.com www.google.com www.google.cz www.google.de www.google.com.br www.google-analytics.com googleads.g.doubleclick.net cx.atdmt.com c.seznam.cz www.facebook.com www.googletagmanager.com *.clarity.ms *.bing.com *.webnode.com *.webnode.cz *.webnode.sk *.webnode.at *.webnode.es *.webnode.cl *.webnode.com.ve *.webnode.com.uy *.webnode.mx *.webnode.com.co *.webnode.co *.webnode.com.ar *.webnode.com.py *.webnode.bo *.webnode.do *.webnode.ec *.webnode.pe *.webnode.cr *.webnode.com.br *.webnode.pt *.webnode.it *.webnode.fr *.webnode.us *.webnode.in *.webnode.gr *.webnode.com.tr *.webnode.cn *.webnode.tw *.webnode.nl *.webnode.be *.webnode.jp *.webnode.hu *.webnode.ru *.webnode.com.ua *.webnode.se *.webnode.dk *.webnode.lv *.webnode.hr *.webnode.no *.webnode.co.uk *.webnode.vn *.webnode.ro *.webnode.cat *.webnode.kr *.webnode.fi ct.capterra.com d1di2lzuh97fh2.cloudfront.net cdn.euc-freshbots.ai cdn.freshbots.ai fc-euc1-00-pics-bkt-00.s3.eu-central-1.amazonaws.com https://s3-eu-central-1.amazonaws.com/euc-cdn.freshdesk.com/ https://ct.pinterest.com https://track.adform.net;frame-ancestors 'self';
+x-frame-options: DENY
+strict-transport-security: max-age=16000000; preload;
+

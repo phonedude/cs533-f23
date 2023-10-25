@@ -1,0 +1,32 @@
+HTTP/1.1 301 Moved Permanently
+Connection: close
+Content-Length: 0
+Server: Varnish
+Retry-After: 0
+Accept-Ranges: bytes
+Date: Tue, 10 Oct 2023 00:36:33 GMT
+Via: 1.1 varnish
+X-Served-By: cache-iad-kiad7000027-IAD
+X-Cache: MISS
+X-Cache-Hits: 0
+X-Timer: S1696898193.117380,VS0,VE0
+Location: https://www.lemonde.fr/
+
+HTTP/2 200 
+content-type: text/html;charset=UTF-8
+content-security-policy: default-src data: 'unsafe-inline' 'unsafe-eval' https:; script-src data: 'unsafe-inline' 'unsafe-eval' https: blob:; style-src data: 'unsafe-inline' https:; img-src data: https: blob:; font-src data: https:; connect-src https: wss:; media-src https: blob:; object-src https:; child-src https: data: blob:; form-action https:; block-all-mixed-content;
+x-content-type-options: nosniff
+x-frame-options: SAMEORIGIN
+x-xss-protection: 1; mode=block
+accept-ranges: bytes
+date: Tue, 10 Oct 2023 00:36:33 GMT
+via: 1.1 varnish
+age: 98
+x-served-by: cache-iad-kiad7000102-IAD
+x-cache: HIT
+x-cache-hits: 1
+x-timer: S1696898193.307270,VS0,VE2
+vary: Accept-Encoding
+strict-transport-security: max-age=31557600
+content-length: 237086
+

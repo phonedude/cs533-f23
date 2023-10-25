@@ -1,0 +1,43 @@
+HTTP/1.1 301 Moved Permanently
+Date: Tue, 10 Oct 2023 00:37:07 GMT
+Server: Apache
+Location: https://www.webmd.com/
+Content-Type: text/html; charset=iso-8859-1
+
+HTTP/2 200 
+date: Tue, 10 Oct 2023 00:37:08 GMT
+content-type: text/html
+cf-cache-status: HIT
+access-control-allow-origin: *
+age: 84
+cache-control: no-cache, no-store, must-revalidate
+set-cookie: lrt_wrk=lrt1_cached_k8_worker_1_40S_21S_2023-10-05_15:04:12_gdbp_false_gtedgefrom_MA1_E_false_UC_false_UD_false_mp_false_active_true_from_MA1_ovr__config_envName_.k8s.lb._envNameFound_true_actv_true_blk_N/A_1696898228170_hvid_false; domain=.webmd.com; path=/
+cf-edge-cache-control: s-maxage=119, maxage=10, proxy-revalidate, stale-while-revalidate=30
+cf-wrk: lrt1_cached_k8_worker_1_40S_21S_2023-10-05_15:04:12_gdbp_false_gtedgefrom_MA1_E_false_UC_false_UD_false_mp_false_active_true_from_MA1_ovr__config_envName_.k8s.lb._envNameFound_true_actv_true_blk_N/A_1696898228170
+content-security-policy: upgrade-insecure-requests
+set-cookie: gtinfo={"ct":"Norfolk","c":"Norfolk City","cc":"51710","st":"VA","sc":"47","z":"23509","lat":"36.88","lon":"-76.26","dma":"544","cntr":"usa","cntrc":"840","tz":null,"ci":"70.177.211.91"}; domain=.webmd.com; path=/
+set-cookie: VisitorId=93438673-cafe-467f-8180-4bd179c088be; Expires=Mon, 10 Oct 2033 00:37:08 GMT; domain=.webmd.com; path=/
+set-cookie: ab=default; domain=.webmd.com; path=/; expires=Thu, 01 Jan 1970 00:00:00 GMT
+x-backend: default
+x-backend-by: default
+x-cache: HIT
+x-cache-control-by: override
+x-cache-duration: 0.083333333333333h
+x-cache-expiry: Tuesday, 10-Oct-2023 00:35:19 GMT
+x-cache-reason: routing
+x-cache-time: Tuesday, 10-Oct-2023 00:30:20 GMT
+x-datacenter: MA1
+x-dbg-gt: gtinfo={"ct":"Huntington","c":"Suffolk","cc":"36103","st":"NY","sc":"33","z":"11743","lat":"40.87","lon":"-73.41","dma":"501","cntr":"usa","cntrc":"840","tz":null,"ci":"68.132.36.183"}
+x-edge-cache-duration: 0.033333333333333h
+x-edge-cache-expiry: Tuesday, 10-Oct-2023 00:32:19 GMT
+x-gt-setter: usr
+x-redis: redis_server_2
+x-route: pg
+x-route-akamai: N/A
+x-runtime: new
+x-true-client-ip: 70.177.211.91
+report-to: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=DPPbVvsAFAstmAq%2BB1IZbrXOJVX7%2F1dlQ8y8fYHcQw3Wy36%2FKY0Kb6tU09ODvqeElIsT%2B0lcm2yHCR1I1Tm%2B%2B4mQp604fVE41PnD14Y3CHyTiIIuFK%2BN0nfeQ4INFGQ%3D"}],"group":"cf-nel","max_age":604800}
+nel: {"success_fraction":0.01,"report_to":"cf-nel","max_age":604800}
+server: cloudflare
+cf-ray: 813acb05bba65ae6-IAD
+

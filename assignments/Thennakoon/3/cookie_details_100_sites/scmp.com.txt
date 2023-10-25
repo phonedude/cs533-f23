@@ -1,0 +1,24 @@
+HTTP/1.1 301 Moved Permanently
+Date: Tue, 10 Oct 2023 00:36:50 GMT
+Connection: keep-alive
+Cache-Control: max-age=3600
+Expires: Tue, 10 Oct 2023 01:36:50 GMT
+Location: https://www.scmp.com/
+Set-Cookie: __cf_bm=.XZfEgkASNiZFMj132vvbBpCOIOofhEW52RHn2lQPGI-1696898210-0-AX1prL5/m2cUp6xDOPrIST8amUaACejIt+fn+ADbTEcX8S3CNiOIssY9qyd0t63qTIgCFc8d33X3nuoqVqdeO3M=; path=/; expires=Tue, 10-Oct-23 01:06:50 GMT; domain=.scmp.com; HttpOnly; SameSite=None
+Server: cloudflare
+CF-RAY: 813aca98fd284fe3-ORF
+alt-svc: h3=":443"; ma=86400
+
+HTTP/2 403 
+date: Tue, 10 Oct 2023 00:36:50 GMT
+content-type: text/plain; charset=UTF-8
+content-length: 16
+x-frame-options: SAMEORIGIN
+referrer-policy: same-origin
+cache-control: private, max-age=0, no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+expires: Thu, 01 Jan 1970 00:00:01 GMT
+set-cookie: __cf_bm=nbAEM2zrxKQCVPxbDVdzSMxx9AE8y8qHEMYO88THvpw-1696898210-0-AdHXkrJTNM0R4wEs7Mac0BxaV3PUsVeH7mHfXF9I//v1OGFKGjADyuTvnIqnrkVSJDiNuup+c3qWfobrfvf3Rtg=; path=/; expires=Tue, 10-Oct-23 01:06:50 GMT; domain=.scmp.com; HttpOnly; Secure; SameSite=None
+server: cloudflare
+cf-ray: 813aca99c8ec4fe1-ORF
+alt-svc: h3=":443"; ma=86400
+

@@ -1,0 +1,31 @@
+HTTP/1.1 301 Moved Permanently
+Date: Tue, 10 Oct 2023 00:36:19 GMT
+Connection: keep-alive
+Cache-Control: max-age=3600
+Expires: Tue, 10 Oct 2023 01:36:19 GMT
+Location: https://www.economist.com/
+Set-Cookie: __cf_bm=oj5GDtEZWRs200qSQxx5yYZ4f_fUSH69IWCVTQQotpQ-1696898179-0-ARE2oDAv6YU03aiXZC5N+0i9qs4kmbHDtW3LLKjEiJQ0+dr1ryXlTdMk3ATdobZLu/P2H1S/6xYBH8BojYXV+bY=; path=/; expires=Tue, 10-Oct-23 01:06:19 GMT; domain=.economist.com; HttpOnly; SameSite=None
+Set-Cookie: _cfuvid=X31ZnEIXXuCSedwymLCdhMZLDudyuuLSza0SasgFm2A-1696898179755-0-604800000; path=/; domain=.economist.com; HttpOnly
+Server: cloudflare
+CF-RAY: 813ac9d76cf4200f-IAD
+alt-svc: h3=":443"; ma=86400
+
+HTTP/2 200 
+date: Tue, 10 Oct 2023 00:36:20 GMT
+content-type: text/html; charset=utf-8
+cache-control: public,must-revalidate,max-age=300,s-maxage=0
+x-economist-env: ecs
+x-economist-features: SF_SIGNPOSTING,SOURCEPOINT,ONBOARDING_NOTIFICATION,ONBOARDING_GROUP_NOTIFICATION,OPTIMIZELY_SELF_HOSTING,LAPSED_USER_NOTIFICATION,CP2,IN_THIS_REPORT,REGISTRANT_ONBOARDING,SITEMAP,APP_PROMO_PAGE,CLOUDFLARE_IMAGE_FORMAT,NEXT_SCRIPT_THIRD_PARTIES,PODCAST_SHOW_PROMO_LINK_WIB,SHOW_ARTICLE_UPDATED_DATE,SUMMER_EDITION_1843,CP2_MIXING,CP2_LEAD_IMAGES,CP2_SKELETON,CP2_BODY,CP2_FEATURE_HEADER,PODCAST_NATIVE_AUDIO_PLAYER
+set-cookie: economist_has_visited_app_before=true; Path=/; expires=Wed, 10 Jan 2024 00:36:20 GMT;
+x-amz-cf-pop: IAD12-P1
+x-amz-cf-pop: IAD55-P3
+x-cache: Miss from cloudfront
+via: 1.1 4ae0902ea4e10dc74700d1753a74440a.cloudfront.net (CloudFront)
+x-amz-cf-id: qO4ALMS3G5Na1Fo4otxKLPTHaiEnhSDccOJtufolfUJDMTDdoft11w==
+cf-cache-status: DYNAMIC
+set-cookie: __cf_bm=BGl_0aXaXKoxr7NwQ86HPRmdGAXn1UjhqsLDAqrcNL4-1696898180-0-AUtjjwhErlSSoxeTub2ZqpHJdZIpCNLmiCmdd/ZSvgjqFgFmXDhfIuPGD3sqFSNZwm3JR6Zyj+cqBPGXWz75E1w=; path=/; expires=Tue, 10-Oct-23 01:06:20 GMT; domain=.economist.com; HttpOnly; Secure; SameSite=None
+set-cookie: _cfuvid=1zqzbyVVk769uYlgP.a1pI4YHWE8BvUgLdWBZCvqZbc-1696898180107-0-604800000; path=/; domain=.economist.com; HttpOnly; Secure; SameSite=None
+server: cloudflare
+cf-ray: 813ac9d83fc105fd-IAD
+alt-svc: h3=":443"; ma=86400
+

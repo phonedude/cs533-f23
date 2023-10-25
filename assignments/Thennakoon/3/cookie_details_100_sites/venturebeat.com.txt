@@ -1,0 +1,24 @@
+HTTP/1.1 301 Moved Permanently
+Server: nginx
+Date: Tue, 10 Oct 2023 00:37:05 GMT
+Content-Type: text/html
+Content-Length: 162
+Connection: keep-alive
+Location: https://venturebeat.com/
+
+HTTP/2 200 
+server: nginx
+date: Tue, 10 Oct 2023 00:37:05 GMT
+content-type: text/html; charset=UTF-8
+content-length: 176835
+x-hacker: If you're reading this, you should visit wpvip.com/careers and apply to join the fun, mention this header.
+x-powered-by: WordPress VIP <https://wpvip.com>
+host-header: a9130478a60e5f9135f765b23f26593b
+x-rq: dca6 96 184 443
+cache-control: max-age=300, must-revalidate
+age: 594
+x-cache: hit
+vary: Accept-Encoding
+accept-ranges: bytes
+strict-transport-security: max-age=31536000
+
