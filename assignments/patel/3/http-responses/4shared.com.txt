@@ -1,0 +1,19 @@
+HTTP/1.1 301 Moved Permanently
+Server: nginx
+Date: Thu, 19 Oct 2023 00:37:10 GMT
+Content-Type: text/html
+Content-Length: 178
+Connection: keep-alive
+Location: https://www.4shared.com
+Cache-Control: max-age=31536000, public
+
+HTTP/1.1 200 OK
+Server: 558
+Set-Cookie: day1host=h; Domain=.4shared.com; Expires=Fri, 20-Oct-2023 00:37:10 GMT; Path=/
+Pragma: no-cache
+Expires: Thu, 01 Jan 1970 00:00:00 GMT
+Cache-Control: no-cache
+Content-Type: text/html;charset=UTF-8
+Content-Language: en
+Content-Length: 79427
+Date: Thu, 19 Oct 2023 00:37:10 GMT

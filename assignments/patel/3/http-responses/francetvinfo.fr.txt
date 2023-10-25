@@ -1,0 +1,23 @@
+HTTP/1.1 301 Moved Permanently
+server: nginx
+date: Thu, 19 Oct 2023 01:05:30 GMT
+content-type: text/plain; charset=utf-8
+content-length: 62
+x-redirector: dw
+location: https://www.francetvinfo.fr/
+vary: Accept
+
+HTTP/1.1 200 OK
+x-content-type-options: nosniff
+x-xss-protection: 1; mode=block
+Access-Control-Allow-Origin: https://jeux.francetvinfo.fr
+strict-transport-security: max-age=10080
+ETag: "8aac621defd3c196419a8d89f20c690d-gzip"
+x-content-type-options: nosniff
+x-xss-protection: 1; mode = block
+Content-Type: text/html; charset=UTF-8
+Cache-Control: max-age=60, public
+version: 1.0
+Server: Microsoft IIS 4.0
+Date: Thu, 19 Oct 2023 01:05:31 GMT
+Connection: keep-alive

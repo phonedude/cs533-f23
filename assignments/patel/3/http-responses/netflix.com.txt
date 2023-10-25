@@ -1,0 +1,35 @@
+HTTP/1.1 301 Moved Permanently
+Location: https://netflix.com/
+Content-Length: 0
+Via: 1.1 i-08b832e8e093526b1 (us-east-1)
+Server: nq_website_nonmember-prod-release UNKNOWN
+X-Xss-Protection: 1; mode=block; report=https://www.netflix.com/ichnaea/log/freeform/xssreport
+X-Content-Type-Options: nosniff
+Strict-Transport-Security: max-age=31536000; includeSubDomains
+X-Originating-URL: http://netflix.com/
+Set-Cookie: nfvdid=BQFmAAEBEEa5Z01XLFQYXLjrF07li2lAleoIYg04HW-IUKA0dShrDRu2y0YxJh0OfAQL9Vd9j9-Tmpry6qJykSiiV3_n-F_0Ai4icwIee_yPtMHJTOjOZw%3D%3D; Domain=.netflix.com; Path=/; Max-Age=31536000
+X-Netflix.nfstatus: 1_21
+X-Netflix.proxy.execution-time: 1
+
+HTTP/1.1 405 Method Not Allowed
+Server: nq_website_nonmember-prod-release 21602612-70fd-4c61-8193-f7f5ee9cef01
+x-frame-options: DENY
+allow: GET, OPTIONS, POST
+date: Thu, 19 Oct 2023 01:26:31 GMT
+x-envoy-upstream-service-time: 2
+x-b3-traceid: 88e1e8aaae0bbe60
+x-request-id: b3c42909-f361-42de-a97c-85dc432327a5
+x-envoy-decorator-operation: lo_svc
+Via: 1.1 i-06fa46592b32d7981 (us-east-1)
+X-Xss-Protection: 1; mode=block; report=https://www.netflix.com/ichnaea/log/freeform/xssreport
+X-Content-Type-Options: nosniff
+Strict-Transport-Security: max-age=31536000; includeSubDomains
+X-Originating-URL: http://netflix.com/
+Edge-Control: no-cache, no-store
+Cache-Control: no-cache, no-store
+Set-Cookie: nfvdid=BQFmAAEBEAL2EKZ5M81TFmOhiI5orOxAY8qY5ZwO5cxu_7kgE7e6FQHLjOYOJPbYTblx_r6WyN2G9N_rNcoml2MxWQFiynKHORTlR3ODwdNBAaXaldRnkw%3D%3D; Domain=.netflix.com; Path=/; Max-Age=31536000
+Set-Cookie: SecureNetflixId=v%3D2%26mac%3DAQEAEQABABRt8sUm7kWoNBQgKSZRo_M8N-EVg4QPAMo.%26dt%3D1697678791657; Domain=.netflix.com; Expires=Fri, 18 Oct 2024 01:26:31 GMT; Path=/; HttpOnly; Secure; SameSite=Strict
+Set-Cookie: NetflixId=v%3D2%26ct%3DBQAOAAEBED_tdYMTwpZotUt0fCUuMDyBAAeHsE0JVLnkF7tn_F_fR-IaD1_0yZPuD6Df0Qz1dLyFbEg-RLjwtMKbS-Ygj7HUJWFZlS9meuzG3Y3K2YrBVrivY7kUV_VwCdv-jfREIeI2Jxr8Dd-BysF87137N_qsI1TYFi7cpi3nCxzvmRuak1PTqw8kv3FCugzs55xB2EibKvEax0-lGKJaqK-lJ1BiKTyiltmTOOsMzqLAkFP1Do-YELUOIfLMeXWrWAOTQAuh5uQLnGhydArEtvLxXU3IKYMSR9n8Vr2Bl-9mZxjJGAntmoW2ik6IowVoWvN88E5MgLmvAfwhG0TjKXQmuf4gxVJw2x-M5rwDhMNS92h7tAM.%26bt%3Ddev%26mac%3DAQEAEAABABRxDuSi-Afv2LbKZJ9-ybmRjy3oIaZJkKo.; Domain=.netflix.com; Expires=Fri, 18 Oct 2024 01:26:31 GMT; Path=/; HttpOnly; Secure; SameSite=Lax
+X-Netflix.nfstatus: 1_1
+X-Netflix.proxy.execution-time: 91
+transfer-encoding: chunked

@@ -1,0 +1,40 @@
+HTTP/1.1 301 Moved Permanently
+Location: https://whatsapp.com/
+Content-Type: text/plain
+Server: proxygen-bolt
+Date: Thu, 19 Oct 2023 01:44:38 GMT
+Connection: keep-alive
+Content-Length: 0
+
+HTTP/1.1 302 Found
+Location: https://www.whatsapp.com/
+Strict-Transport-Security: max-age=31536000; preload; includeSubDomains
+Content-Type: text/plain
+Server: proxygen-bolt
+Date: Thu, 19 Oct 2023 01:44:38 GMT
+Alt-Svc: h3=":443"; ma=86400
+Connection: keep-alive
+Content-Length: 0
+
+HTTP/1.1 200 OK
+Vary: Accept-Encoding
+Set-Cookie: wa_lang_pref=en; expires=Thu, 26-Oct-2023 01:44:39 GMT; Max-Age=604800; path=/; domain=.whatsapp.com; secure
+Set-Cookie: wa_ul=187fbcfb-1e02-438e-bbdf-375df8da4976; expires=Wed, 17-Jan-2024 01:44:39 GMT; Max-Age=7776000; path=/; domain=.www.whatsapp.com; secure; httponly
+Set-Cookie: wa_csrf=_RB-40Lq_NmI2Ur3Md4oHT; path=/; domain=.whatsapp.com; secure; httponly
+content-security-policy: default-src 'self' data: blob:;script-src 'self' data: blob: *.whatsapp.com *.whatsapp.net *.twitter.com *.facebook.com *.facebook.net 'unsafe-inline' 'unsafe-eval';style-src 'self' data: blob: *.whatsapp.com *.whatsapp.net 'unsafe-inline' *.facebook.com;connect-src 'self' data: blob: *.whatsapp.com *.whatsapp.net wss://*.facebook.com:* *.fbcdn.net;font-src data: *.whatsapp.com *.whatsapp.net *.facebook.com static.xx.fbcdn.net fonts.gstatic.com;img-src 'self' data: blob: *.whatsapp.com *.whatsapp.net *.facebook.com *.fbcdn.net static.xx.fbcdn.net *.ytimg.com *.twitter.com;media-src 'self' data: blob: *.fbcdn.net;frame-src 'self' data: blob: *.twitter.com *.facebook.com *.youtube-nocookie.com *.youtube.com *.whatsapp.com;block-all-mixed-content;upgrade-insecure-requests;
+document-policy: force-load-at-top
+permissions-policy: accelerometer=(), ambient-light-sensor=(), bluetooth=(), camera=(), gyroscope=(), hid=(), idle-detection=(), magnetometer=(), microphone=(), midi=(), payment=(), screen-wake-lock=(), serial=(), usb=()
+cross-origin-resource-policy: rollout
+cross-origin-opener-policy: same-origin-allow-popups
+Pragma: no-cache
+Cache-Control: private, no-cache, no-store, must-revalidate
+Expires: Sat, 01 Jan 2000 00:00:00 GMT
+X-Content-Type-Options: nosniff
+X-XSS-Protection: 0
+X-Frame-Options: DENY
+Strict-Transport-Security: max-age=31536000; preload; includeSubDomains
+Content-Type: text/html; charset="utf-8"
+X-FB-Debug: FAYSjWBQRf2M+wO3MsXGgLQzYmnkeq0bNYoOzM4VQ4E/APUIVOWH8Bp1w3YjtgA1Cs1bzPELusBac86NS/qjlQ==
+Date: Thu, 19 Oct 2023 01:44:39 GMT
+Alt-Svc: h3=":443"; ma=86400
+Connection: keep-alive

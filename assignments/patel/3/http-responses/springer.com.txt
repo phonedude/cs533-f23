@@ -1,0 +1,64 @@
+HTTP/1.0 301 Moved Permanently
+Location: http://www.springer.com/
+Server: BigIP
+Connection: Keep-Alive
+Content-Length: 0
+
+HTTP/1.1 301 Moved Permanently
+Connection: close
+Content-Length: 166
+Cache-Control: public,max-age=600
+Content-Security-Policy: upgrade-insecure-requests;
+Content-Type: text/html
+Location: https://www.springer.com/
+Server: Oscar Platform 0.1085.0
+X-Vcap-Request-Id: 3f3bee21-5b95-488a-6101-0932fd5293ba
+Via: 1.1 google, 1.1 varnish
+X-Cdn-Origin: SNPaaS
+Accept-Ranges: bytes
+Date: Thu, 19 Oct 2023 01:34:42 GMT
+Age: 0
+X-Served-By: cache-iad-kiad7000096-IAD
+X-Cache: MISS
+X-Cache-Hits: 0
+X-Timer: S1697679283.855522,VS0,VE94
+Vary: x-forwarded-host, upgrade-insecure-requests
+alt-svc: h3=":443";ma=86400,h3-29=":443";ma=86400,h3-27=":443";ma=86400
+
+HTTP/1.1 303 See Other
+Connection: close
+Content-Length: 0
+Age: 0
+Location: https://www.springer.com/us
+Server: Oscar Platform 0.1085.0
+Set-Cookie: springercomcountry=us; Path=/; Domain=springer.com
+X-Vcap-Request-Id: 792fb7f3-cd26-4166-7c6d-9f824df7956d
+Via: 1.1 google, 1.1 varnish
+X-Cdn-Origin: SNPaaS
+Accept-Ranges: bytes
+Date: Thu, 19 Oct 2023 01:34:43 GMT
+X-Served-By: cache-21ede6d3-internal, cache-iad-kiad7000029-IAD
+X-Cache: MISS, MISS
+X-Cache-Hits: 0
+X-Timer: S1697679283.028477,VS0,VE103
+alt-svc: h3=":443";ma=86400,h3-29=":443";ma=86400,h3-27=":443";ma=86400
+
+HTTP/1.1 200 OK
+Connection: close
+Accept-Ranges: bytes
+Age: 0
+Cache-Control: private,must-revalidate,max-age=0,no-store
+Content-Type: text/html; charset=utf-8
+Server: Oscar Platform 0.1085.0
+Set-Cookie: springercomcountry=us; Path=/; Domain=springer.com
+Strict-Transport-Security: max-age=31536000;preload
+X-Vcap-Request-Id: 47f6e18b-25f5-4d3a-6ff7-3f01cdbc2d94
+Via: 1.1 google, 1.1 varnish
+X-Cdn-Origin: SNPaaS
+Date: Thu, 19 Oct 2023 01:34:43 GMT
+X-Served-By: cache-e3bb812c-internal, cache-iad-kiad7000101-IAD
+X-Cache: MISS, MISS
+X-Cache-Hits: 0
+X-Timer: S1697679283.171581,VS0,VE202
+Vary: Accept-Encoding
+alt-svc: h3=":443";ma=86400,h3-29=":443";ma=86400,h3-27=":443";ma=86400

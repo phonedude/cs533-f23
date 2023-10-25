@@ -1,0 +1,27 @@
+HTTP/1.1 301 Moved Permanently
+Date: Thu, 19 Oct 2023 03:34:04 GMT
+Location: https://spiegel.de/
+Content-Type: text/html
+Content-Length: 106
+Connection: close
+
+HTTP/1.1 301 Moved Permanently
+Location: https://www.spiegel.de/
+Date: Thu, 19 Oct 2023 01:34:04 GMT
+Transfer-Encoding: chunked
+Alt-Svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+Via: 1.1 google
+
+HTTP/1.1 200 OK
+Accept-Ranges: bytes
+Cache-Control: public, max-age=0,s-maxage=90
+Content-Length: 1374498
+Content-Security-Policy: frame-ancestors 'self'
+Content-Type: text/html; charset=utf-8
+Date: Thu, 19 Oct 2023 01:32:42 GMT
+Strict-Transport-Security: max-age=2592000;
+Vary: X-Forwarded-Proto, X-Authorized-Sppur, Accept-Encoding
+X-Cache: HIT
+X-Cache-Grace: 3600.000
+Alt-Svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+Via: 1.1 google

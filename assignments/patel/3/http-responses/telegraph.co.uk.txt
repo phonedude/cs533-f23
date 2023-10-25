@@ -1,0 +1,58 @@
+HTTP/1.1 301 Moved Permanently
+Server: CloudFront
+Date: Thu, 19 Oct 2023 01:38:51 GMT
+Content-Type: text/html
+Content-Length: 167
+Connection: keep-alive
+Location: https://telegraph.co.uk/
+X-Cache: Redirect from cloudfront
+Via: 1.1 6400936fc4525d1c60e3e8fee9d4806e.cloudfront.net (CloudFront)
+X-Amz-Cf-Pop: IAD12-P2
+X-Amz-Cf-Id: AqeUdOtZ20Ehiw4ZXl-MnzLI3ziutC4mCMnWCDjvm_Jr4UVgfQv0Bg==
+
+HTTP/1.1 301 Moved Permanently
+Content-Length: 0
+Connection: keep-alive
+Date: Wed, 18 Oct 2023 22:30:25 GMT
+Location: https://www.telegraph.co.uk/
+Server: AmazonS3
+X-Cache: Hit from cloudfront
+Via: 1.1 b63906e2da6fa6b0ef48be29690d7a98.cloudfront.net (CloudFront)
+X-Amz-Cf-Pop: IAD12-P2
+X-Amz-Cf-Id: FKJa6rUv3vK3J3xuYWtfZmIjD0EdbERvUiIoLw5RD5MsVZUXiFELmw==
+Age: 11307
+
+HTTP/1.1 302 Moved Temporarily
+Server: AkamaiGHost
+Content-Length: 0
+Location: https://www.telegraph.co.uk/us/
+Date: Thu, 19 Oct 2023 01:38:51 GMT
+Connection: keep-alive
+Akamai-X-True-Cache-TTL: -1
+X-TMG-Geo-Action: US_ON_UK_HP
+X-Akamai-UserLocation: US
+X-TMG-Pref-Exists: false
+Server-Timing: ak_p; desc="1697679531201_400219928_5615430_3861_4051_12_94_-";dur=1
+
+HTTP/1.1 200 OK
+x-frame-options: SAMEORIGIN
+strict-transport-security: max-age=31536000; includeSubDomains
+x-vhost: publish
+Content-Security-Policy: frame-ancestors 'self' www.stumbleupon.com stumbleupon.com;
+x-vhost: ${SERVER_NAME}
+Content-Type: text/html; charset=UTF-8
+X-Content-Type-Options: nosniff
+X-Served-By: cache-iad-kiad7000104-IAD
+X-Timer: S1697679341.329506,VS0,VS0,VE2
+MPULSE_CDN_CACHE: HIT
+MPULSE_ORIGIN_TIME: 0
+Expires: Thu, 19 Oct 2023 01:38:51 GMT
+Cache-Control: max-age=0, no-cache
+Pragma: no-cache
+Date: Thu, 19 Oct 2023 01:38:51 GMT
+Connection: keep-alive
+Akamai-X-True-Cache-TTL: 300
+X-TMG-Geo-Action: US_ON_US_HP
+X-Akamai-UserLocation: US
+X-TMG-Pref-Exists: false
+Server-Timing: ak_p; desc="1697679531367_400219928_5615543_2207_4099_13_0_-";dur=1
