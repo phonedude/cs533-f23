@@ -1,0 +1,28 @@
+HTTP/1.1 301 Moved Permanently
+Server: AkamaiGHost
+Content-Length: 0
+Location: https://www.estadao.com.br/
+Expires: Tue, 10 Oct 2023 00:36:20 GMT
+Cache-Control: max-age=0, no-cache, no-store
+Pragma: no-cache
+Date: Tue, 10 Oct 2023 00:36:20 GMT
+Connection: keep-alive
+
+HTTP/2 200 
+content-type: text/html; charset=utf-8
+server: openresty
+etag: W/"14961d-K5UajYNDft3FNLF8fX3S0u6y4NI"
+last-modified: Tue, 10 Oct 2023 00:34:40 GMT
+prerender-cache-tag: prerender-estadao-estadao-prod-b308edcd
+x-arc-pb-request-id: 3c1706b1-46f4-4ca4-9a2c-1576fba1b33c
+x-amz-cf-pop: IAD55-P5
+x-amz-cf-id: Fi7IrVa3wyEycuBzbObDA297UxEYK5DHlxpI0fDk4Ar0fHgTIhxc-g==
+x-edgeconnect-cache-status: 1
+cache-control: private, max-age=60
+expires: Tue, 10 Oct 2023 00:37:21 GMT
+date: Tue, 10 Oct 2023 00:36:21 GMT
+content-security-policy: upgrade-insecure-requests
+x-arc-request-id: 0.257e2617.1696898181.18543ca8
+akamai-true-ttl: 120
+server-timing: ak_p; desc="1696898181138_388398629_408173736_3007_3878_135_87_15";dur=1
+

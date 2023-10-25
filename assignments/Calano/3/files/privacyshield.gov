@@ -1,0 +1,91 @@
+HTTP/1.1 301 Moved Permanently
+Content-Length: 153
+Content-Type: text/html; charset=UTF-8
+Location: https://www.privacyshield.gov/
+Server: Microsoft-IIS/10.0
+X-Powered-By: ASP.NET
+Date: Mon, 16 Oct 2023 05:33:47 GMT
+
+HTTP/2 301 
+strict-transport-security: max-age=31536000; includeSubDomains
+cache-control: no-cache,must-revalidate,max-age=0,no-store,private
+location: https://www.privacyshield.gov/ps/
+expires: Thu, 01 Jan 1970 00:00:00 GMT
+content-length: 1
+date: Mon, 16 Oct 2023 05:33:48 GMT
+set-cookie: CookieConsentPolicy=0:1; path=/; expires=Tue, 15-Oct-2024 05:33:48 GMT; Max-Age=31536000
+set-cookie: LSKey-c$CookieConsentPolicy=0:1; path=/; expires=Tue, 15-Oct-2024 05:33:48 GMT; Max-Age=31536000
+x-origin-cache-control: no-cache,must-revalidate,max-age=0,no-store,private
+akamai-grn: 0.0c6adc17.1697434428.13a165d1
+
+HTTP/2 301 
+strict-transport-security: max-age=31536000; includeSubDomains
+content-security-policy: upgrade-insecure-requests 
+cache-control: no-cache,must-revalidate,max-age=0,no-store,private
+location: https://www.privacyshield.gov/welcome
+expires: Thu, 01 Jan 1970 00:00:00 GMT
+content-length: 1
+date: Mon, 16 Oct 2023 05:33:48 GMT
+set-cookie: CookieConsentPolicy=0:1; path=/; expires=Tue, 15-Oct-2024 05:33:48 GMT; Max-Age=31536000
+set-cookie: LSKey-c$CookieConsentPolicy=0:1; path=/; expires=Tue, 15-Oct-2024 05:33:48 GMT; Max-Age=31536000
+x-origin-cache-control: no-cache,must-revalidate,max-age=0,no-store,private
+akamai-grn: 0.0c6adc17.1697434428.13a169c5
+
+HTTP/2 301 
+strict-transport-security: max-age=31536000; includeSubDomains
+cache-control: no-cache,must-revalidate,max-age=0,no-store,private
+location: https://www.privacyshield.gov/ps/welcome
+expires: Thu, 01 Jan 1970 00:00:00 GMT
+content-length: 1
+date: Mon, 16 Oct 2023 05:33:48 GMT
+set-cookie: CookieConsentPolicy=0:1; path=/; expires=Tue, 15-Oct-2024 05:33:48 GMT; Max-Age=31536000
+set-cookie: LSKey-c$CookieConsentPolicy=0:1; path=/; expires=Tue, 15-Oct-2024 05:33:48 GMT; Max-Age=31536000
+x-origin-cache-control: no-cache,must-revalidate,max-age=0,no-store,private
+akamai-grn: 0.0c6adc17.1697434428.13a16d5e
+
+HTTP/2 301 
+strict-transport-security: max-age=31536000; includeSubDomains
+content-security-policy: upgrade-insecure-requests 
+cache-control: no-cache,must-revalidate,max-age=0,no-store,private
+location: https://www.dataprivacyframework.gov/
+expires: Thu, 01 Jan 1970 00:00:00 GMT
+content-length: 1
+date: Mon, 16 Oct 2023 05:33:48 GMT
+set-cookie: CookieConsentPolicy=0:1; path=/; expires=Tue, 15-Oct-2024 05:33:48 GMT; Max-Age=31536000
+set-cookie: LSKey-c$CookieConsentPolicy=0:1; path=/; expires=Tue, 15-Oct-2024 05:33:48 GMT; Max-Age=31536000
+x-origin-cache-control: no-cache,must-revalidate,max-age=0,no-store,private
+akamai-grn: 0.0c6adc17.1697434428.13a17057
+
+HTTP/1.1 301 Moved Permanently
+Date: Mon, 16 Oct 2023 05:33:49 GMT
+Set-Cookie: CookieConsentPolicy=0:1; path=/; expires=Tue, 15-Oct-2024 05:33:49 GMT; Max-Age=31536000
+Set-Cookie: LSKey-c$CookieConsentPolicy=0:1; path=/; expires=Tue, 15-Oct-2024 05:33:49 GMT; Max-Age=31536000
+Strict-Transport-Security: max-age=63072000; includeSubDomains
+X-Content-Type-Options: nosniff
+X-XSS-Protection: 1; mode=block
+Content-Security-Policy: upgrade-insecure-requests 
+Cache-Control: no-cache,must-revalidate,max-age=0,no-store,private
+Location: https://www.dataprivacyframework.gov/s/
+Content-Length: 0
+
+HTTP/1.1 200 OK
+Date: Mon, 16 Oct 2023 05:33:49 GMT
+Set-Cookie: CookieConsentPolicy=0:1; path=/; expires=Tue, 15-Oct-2024 05:33:49 GMT; Max-Age=31536000
+Set-Cookie: LSKey-c$CookieConsentPolicy=0:1; path=/; expires=Tue, 15-Oct-2024 05:33:49 GMT; Max-Age=31536000
+Strict-Transport-Security: max-age=63072000; includeSubDomains
+X-Content-Type-Options: nosniff
+X-XSS-Protection: 1; mode=block
+Content-Security-Policy: upgrade-insecure-requests 
+Cache-Control: no-cache,must-revalidate,max-age=0,no-store,private
+Set-Cookie: renderCtx=%7B%22pageId%22%3A%223faa44cd-97c1-43c6-a5d7-07338a23fca8%22%2C%22schema%22%3A%22Published%22%2C%22viewType%22%3A%22Published%22%2C%22brandingSetId%22%3A%22a47f0ea4-b77d-4b56-9879-29424808b0ef%22%2C%22audienceIds%22%3A%22%22%7D; path=/s; secure
+Expires: Sun, 16 Oct 2022 05:33:49 GMT
+Content-Type: text/html;charset=UTF-8
+Vary: Origin
+Last-Modified: Sun, 16 Oct 2022 05:33:49 GMT
+Link: </s/sfsites/auraFW/javascript/LU1oNENmckdVUXNqVGtLeG5odmktZ2Rkdk8xRWxIam5GeGw0LU1mRHRYQ3cyNDYuMTUuMS0zLjAuNA/aura_prod.js>;rel=preload;as=script;nopush,</s/sfsites/l/%7B%22mode%22%3A%22PROD%22%2C%22app%22%3A%22siteforce%3AcommunityApp%22%2C%22serializationVersion%22%3A%221-246.15.1-3.0.4-b%22%2C%22parts%22%3A%22f%22%2C%22loaded%22%3A%7B%22APPLICATION%40markup%3A%2F%2Fsiteforce%3AcommunityApp%22%3A%228srl03VqKMnukxbiM5O73w%22%7D%2C%22dns%22%3A%22c%22%2C%22ls%22%3A1%2C%22lrmc%22%3A%22-386269907%22%7D/app.js?2=>;rel=preload;as=script;nopush
+X-FRAME-OPTIONS: SAMEORIGIN
+Content-Security-Policy: default-src 'self'; script-src 'self' 'unsafe-eval' 'unsafe-inline' https://service.force.com/embeddedservice/ https://cdn.content.aws-dev2-uswest2.aws.sfdc.cl/ https://cdn.content.aws-prod1-useast1.aws.sfdc.cl/ https://payments.salesforce.com/ https://js.stripe.com/ https://www.paypal.com/sdk/js import: blob: https://uip.canary.lwc.dev https://google.com https://www.gstatic.com https://www.google.com/recaptcha/api.js; object-src 'self' www.google.com; style-src 'self' 'unsafe-inline' https://service.force.com/embeddedservice/ https://fonts.googleapis.com/css2 https://fonts.googleapis.com/css blob: www.google.com https://trade.my.salesforce.com; img-src 'self' data: blob: https://trade.my.salesforce.com https://trade.file.force.com https://img.youtube.com https://i.ytimg.com https://i.vimeocdn.com https://login.salesforce.com/icons/ https://payments.salesforce.com/icons/ https://cdn.content.aws-prod1-useast1.aws.sfdc.cl/icons/ https://cdn.content.aws-dev2-uswest2.aws.sfdc.cl/icons/ https://www.sandbox.paypal.com https://www.paypal.com https://na107.salesforce.com/icons/ www.google.com; media-src 'self' blob: www.google.com https://trade.my.salesforce.com; frame-ancestors 'self'; frame-src 'self' https://service.force.com/embeddedservice/ https://na107.salesforce.com https://sfdc-link-preview-staging.sfdc.sh https://sfdc-link-preview.hk.salesforce.com https://cdn.embedly.com https://www.youtube.com https://player.vimeo.com https://play.vidyard.com https://player.cloudinary.com https://fast.wistia.net https://players.brightcove.net https://s1.adis.ws https://scormanywhere.secure.force.com https://appiniummastertrial.secure.force.com https://js.stripe.com/ https://www.paypal.com https://www.sandbox.paypal.com https://*.c.forceusercontent.com/lightningmaps/ https://*.c.forceusercontent.com https://location.force.com https://trade.file.force.com www.google.com https://trade.my.salesforce.com; font-src 'self' data: https://fonts.gstatic.com/ www.google.com https://trade.my.salesforce.com; connect-src 'self' https://www.paypal.com https://www.sandbox.paypal.com https://trade.my.salesforce-scrt.com www.google.com https://trade.my.salesforce.com
+Server-Timing: Total;dur=97
+Timing-Allow-Origin: *
+Content-Length: 14349
+

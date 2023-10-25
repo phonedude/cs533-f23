@@ -1,0 +1,35 @@
+HTTP/1.1 301 Moved Permanently
+Server: nginx
+Date: Thu, 19 Oct 2023 20:57:40 GMT
+Content-Type: text/html; charset=iso-8859-1
+Content-Length: 363
+Keep-Alive: timeout=50
+Location: https://www.livejournal.com/
+X-Varnish: 17147695
+Age: 0
+X-VWS-Id: kr-varn07.lj.rambler.tech
+X-SplitTest: none
+Via: HTTP/1.1 forward.http.proxy:3128
+Connection: keep-alive
+
+HTTP/1.1 200 OK
+Server: nginx
+Date: Thu, 19 Oct 2023 20:57:41 GMT
+Content-Type: text/html; charset=utf-8
+Connection: keep-alive
+Keep-Alive: timeout=50
+Referrer-Policy: no-referrer-when-downgrade
+X-AWS-Id: 3dt-ws20
+X-LJ-Flow-ID: ZTGYHHlKS@Fi9hQHGVduJgAAABk
+Vary: Accept-Encoding,ETag
+Cache-Control: private, proxy-revalidate
+Content-MD5: K/DukLM980EK9OUUKigh0Q
+X-Varnish: 17561655 22521840
+Age: 40
+X-VWS-Id: kr-varn01.lj.rambler.tech
+ETag: GgZzW/K/DukLM980EK9OUUKigh0Q
+Accept-Ranges: bytes
+X-SplitTest: rec_sys_medius
+Set-Cookie: luid=URNKAGUxmEVf3oWoE7SVAgB=; expires=Thu, 31-Dec-37 23:55:55 GMT; domain=.livejournal.com; path=/; secure; samesite=none
+P3P: CP="NON DSP NID ADMa DEVa TAIa PSAa PSDa OUR IND UNI COM NAV"
+

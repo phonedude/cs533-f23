@@ -1,0 +1,30 @@
+HTTP/1.1 301 Moved Permanently
+Date: Mon, 16 Oct 2023 05:34:05 GMT
+Content-Type: text/html; charset=iso-8859-1
+Content-Length: 233
+Connection: keep-alive
+X-Http-Reason: Moved Permanently
+Location: https://www.terra.com.br/
+Cache-Control: max-age=604800
+Expires: Sat, 21 Oct 2023 12:17:07 GMT
+X-Mt-Cache: HIT
+X-Xact-Uuid: 809e3561-88e1-4781-8fbc-14e345f3e364
+Vary: Accept-Encoding
+X-Frame-Options: SAMEORIGIN
+
+HTTP/2 200 
+content-type: text/html; charset=utf-8
+x-xact-uuid: 7a1b76fa-0c64-43d3-ac14-c4ca6b27d66b
+x-xact-montador-time: 1697434446
+x-http-reason: OK
+x-cache-profile: terra360-cover
+cache-control: max-age=30, stale-if-error=3600
+x-cms-delivery-uuid: 589bd0c8-152a-43b9-865a-10d1ccd0d314
+x-original-ua: Zabbix
+strict-transport-security: max-age=15552000
+x-mt-cache: HIT
+x-frame-options: SAMEORIGIN
+date: Mon, 16 Oct 2023 05:34:06 GMT
+set-cookie: X-XAct-ID=77a89696-0a6b-403c-a491-601d07d638c8; Domain=terra.com.br; expires=Wed, 31 Dec 2036 00:00:00 GMT; Path=/; SameSite=None; Secure
+set-cookie: trrgeo=36.8504%7C-76.2886%7CNORFOLK%7CVIRGINIA%7CUS%7C1; Domain=terra.com.br; expires=Tue, 17 Oct 2023 05:34:06 GMT; SameSite=None; Secure
+

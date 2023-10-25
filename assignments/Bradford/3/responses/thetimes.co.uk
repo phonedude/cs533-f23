@@ -1,0 +1,30 @@
+> HTTP/1.1 200 OK
+> Content-Type: text/html; charset=utf-8
+> Content-Length: 170337
+> Connection: keep-alive
+> Server: CloudFront
+> Accept-Ranges: bytes
+> Content-Encoding: gzip
+> Date: Fri, 06 Oct 2023 14:10:51 GMT
+> ETag: W/"142e97-dnr2dwZrVywJYkouBbkvOF9h6Xs"
+> Expires: Fri, 06 Oct 2023 14:13:50 GMT
+> Via: 1.1 varnish (Varnish/6.2), 1.1 1e54a46a2c47322a41a5f070c060e878.cloudfront.net (CloudFront)
+> X-Content-Type-Options: nosniff
+> X-Frame-Options: SAMEORIGIN
+> X-Varnish: 3683750 6919994
+> X-XSS-Protection: 0
+> X-ACS-Version: 2
+> Cache-Control: public, max-age=180, stale-if-error=178
+> Vary: Accept-Encoding
+> x-ni-statuscode: acsaz-307
+> x-ni-statusmessage: Teaser pages are enabled for the requested article
+> set-cookie: nuk_customer_location_hint=GLOBAL; path=/; domain=.thetimes.co.uk
+> set-cookie: nuk_ni_statuscode=acsaz-307; max-age=120
+> set-cookie: nuk_customer_country_code=US; path=/; domain=.thetimes.co.uk; secure
+> set-cookie: euconsent-v2=expire; expires=Tue, 01-Jan-2019 00:00:00 GMT; path=/
+> X-Cache: Hit from cloudfront
+> X-Amz-Cf-Pop: IAD61-P3
+> Alt-Svc: h3=":443"; ma=86400
+> X-Amz-Cf-Id: 5TgKhwuYi37cNN2DET6SBYdCp1RT6rLEd_5TY_jX6eU89I_nLXzy3w==
+> Age: 57
+> 

@@ -1,0 +1,33 @@
+HTTP/1.1 308 Permanent Redirect
+Content-Length: 164
+Content-Type: text/html
+Date: Thu, 19 Oct 2023 20:57:25 GMT
+Location: https://quora.com/
+Server: nginx
+Strict-Transport-Security: max-age=63072000; includeSubDomains; preload
+X-Q-Stat: ,15a256b4decaeb49825e9dc3fbbdd1e3,10.0.0.235,33990,184.188.7.142,,593339830804,1,1697749045.339,0.000,,.,0,0,,,,,,,170,85,10,35796,,,,,,-,
+Via: HTTP/1.1 forward.http.proxy:3128
+Connection: keep-alive
+
+HTTP/1.1 308 Permanent Redirect
+Content-Length: 164
+Content-Type: text/html
+Date: Thu, 19 Oct 2023 20:57:25 GMT
+Location: https://www.quora.com/
+Server: nginx
+Strict-Transport-Security: max-age=63072000; includeSubDomains; preload
+X-Q-Stat: ,2562980ea82f148c7e11e756ff13426a,10.0.0.235,11800,184.188.7.142,,593015558858,1,1697749045.383,0.000,,.,0,0,,,,,,,199,99,10,35796,,,,,,-,
+Connection: keep-alive
+
+HTTP/2 403 
+date: Thu, 19 Oct 2023 20:57:25 GMT
+content-type: text/html
+content-length: 2820
+etag: "6500f07c-b04"
+strict-transport-security: max-age=63072000; includeSubDomains; preload
+x-q-stat: ,41d386024e6e830cb4701b4418cb8943,10.0.0.88,35798,184.188.7.142,,593015559568,1,1697749045.432,0.000,,.,0,0,,,,,,,191,95,10,35796,,,,,,-,
+cf-cache-status: DYNAMIC
+server: cloudflare
+cf-ray: 818beeedef5a505a-ORF
+alt-svc: h3=":443"; ma=86400
+

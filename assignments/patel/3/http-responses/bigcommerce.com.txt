@@ -1,0 +1,36 @@
+HTTP/1.1 301 Moved Permanently
+Cache-Control: private
+Location: https://bigcommerce.com:443/
+Content-Length: 0
+Date: Thu, 19 Oct 2023 00:42:27 GMT
+Content-Type: text/html; charset=UTF-8
+
+HTTP/1.1 301 Moved Permanently
+Cache-Control: private
+Location: https://www.bigcommerce.com:443/
+Content-Length: 0
+Date: Thu, 19 Oct 2023 00:42:27 GMT
+Content-Type: text/html; charset=UTF-8
+Alt-Svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+
+HTTP/1.1 200 OK
+Date: Thu, 19 Oct 2023 00:42:27 GMT
+Content-Type: text/html; charset=utf-8
+Content-Length: 0
+Connection: keep-alive
+Age: 82209
+Cache-Control: public, max-age=0, must-revalidate
+etag: "48p08g9fcs6yso"
+strict-transport-security: max-age=31536000; includeSubDomains; preload
+x-frame-options: DENY
+x-matched-path: /en-us/[[...slug]]
+x-nextjs-matched-path: /en-us/[[...slug]]
+x-powered-by: Next.js
+x-robots-tag: all
+x-vercel-cache: STALE
+x-vercel-id: iad1::iad1::j27jg-1697676147624-461fefafd38e
+CF-Cache-Status: DYNAMIC
+BC-Ray: 1
+Server: cloudflare
+CF-RAY: 8184fb329c518018-IAD
+alt-svc: h3=":443"; ma=86400

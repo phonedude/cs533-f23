@@ -1,0 +1,22 @@
+> HTTP/1.1 200 OK
+> Content-Type: text/html;charset=utf-8
+> Content-Length: 1732
+> Server: Apache
+> X-Dispatcher: dispatcher2cacentral1
+> X-Vhost: publish
+> X-Content-Type-Options: nosniff
+> Last-Modified: Fri, 06 Oct 2023 13:54:22 GMT
+> Accept-Ranges: bytes
+> Content-Encoding: gzip
+> X-Frame-Options: SAMEORIGIN
+> X-Frame-Options: SAMEORIGIN
+> MPULSE_ORIGIN_TIME: 35
+> MPULSE_CDN_CACHE: MISS
+> Date: Fri, 06 Oct 2023 14:10:46 GMT
+> Connection: keep-alive
+> Vary: Accept-Encoding
+> Set-Cookie: aka-ca-site-token=54dc606868aa1e00661520654a01000083520c00; path=/; secure
+> Access-Control-Allow-Origin: *
+> Strict-Transport-Security: max-age=31536000
+> Server-Timing: ak_p; desc="1696601446269_1751178324_368644320_22_7509_21_53_-";dur=1
+> 

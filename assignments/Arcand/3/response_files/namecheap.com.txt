@@ -1,5 +1,5 @@
 HTTP/1.1 301 Moved Permanently
-Date: Mon, 09 Oct 2023 20:14:18 GMT
+Date: Sat, 14 Oct 2023 20:04:39 GMT
 Content-Type: text/html
 Content-Length: 166
 Connection: keep-alive
@@ -8,20 +8,20 @@ Server: namecheap-nginx
 Strict-Transport-Security: max-age=16000000
 
 HTTP/1.1 200 OK
-Date: Mon, 09 Oct 2023 20:14:19 GMT
+Date: Sat, 14 Oct 2023 20:04:39 GMT
 Content-Type: text/html; charset=UTF-8
 Connection: keep-alive
-CF-Ray: 81394a08c99a44cf-ATL
+CF-Ray: 81626ec36b8853c0-ATL
 CF-Cache-Status: EXPIRED
 Cache-Control: public, max-age=14400
-Expires: Tue, 10 Oct 2023 00:14:19 GMT
-Last-Modified: Mon, 09 Oct 2023 20:12:33 GMT
-Set-Cookie: __cflb=02DiuJ7dRDeDqrVicRhJqrVRixjQApyUVgxn9AnBUmrMA; SameSite=Lax; path=/; expires=Tue, 10-Oct-23 19:14:19 GMT; HttpOnly
+Expires: Sun, 15 Oct 2023 00:04:39 GMT
+Last-Modified: Sat, 14 Oct 2023 20:02:11 GMT
+Set-Cookie: __cflb=02DiuJ7dRDeDqrVicRhJqrVRixjQApyUWTNypXddsB2y2; SameSite=Lax; path=/; expires=Sun, 15-Oct-23 19:04:39 GMT; HttpOnly
 Strict-Transport-Security: max-age=16000000; includeSubDomains
 Vary: Accept-Encoding
 x-frame-options: SAMEORIGIN
 x-xss-protection: 1; mode=block
-Set-Cookie: x-ab-promoted-home-different-content=0;expires=Wed, 08 Nov 2023 20:14:19 GMT
-Set-Cookie: __cfruid=1aa8d062ccb21c5e9708be1491a0108a4968704c-1696882459; path=/; domain=.namecheap.com; HttpOnly; Secure; SameSite=None
+Set-Cookie: x-ab-promoted-home-different-content=1;expires=Mon, 13 Nov 2023 20:04:39 GMT
+Set-Cookie: __cfruid=efeef93de82aa56438bcd7eb8e8c6d472d483956-1697313879; path=/; domain=.namecheap.com; HttpOnly; Secure; SameSite=None
 Server: cloudflare
 

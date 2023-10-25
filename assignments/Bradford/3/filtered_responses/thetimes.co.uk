@@ -1,0 +1,5 @@
+> HTTP/1.1 200 OK
+> set-cookie: nuk_customer_location_hint=GLOBAL; path=/; domain=.thetimes.co.uk
+> set-cookie: nuk_ni_statuscode=acsaz-307; max-age=120
+> set-cookie: nuk_customer_country_code=US; path=/; domain=.thetimes.co.uk; secure
+> set-cookie: euconsent-v2=expire; expires=Tue, 01-Jan-2019 00:00:00 GMT; path=/

@@ -1,0 +1,20 @@
+HTTP/1.1 301 Moved Permanently
+location: https://www.rambler.ru/
+date: Thu, 19 Oct 2023 01:30:36 GMT
+server: envoy
+transfer-encoding: chunked
+
+HTTP/1.1 200 OK
+server: envoy
+date: Thu, 19 Oct 2023 01:30:37 GMT
+content-type: text/html; charset=utf-8
+content-length: 365349
+document-policy: no-font-display-late-swap
+x-app-version: 2.70.1
+accept-ch: Sec-CH-UA-Model, Sec-CH-UA-Platform-Version, Sec-CH-UA-Mobile
+etag: W/"59325-fVw3Q1P6O90mXtbPhalJsj8faQg"
+x-srv-addr: 10.149.10.235:8080
+x-frame-options: SAMEORIGIN
+set-cookie: ruid=vAsAAL2GMGUNUdSjAWYAAAB=; expires=Thu, 31-Dec-37 23:55:55 GMT; domain=.rambler.ru; path=/; Secure; SameSite=None
+p3p: CP="NON DSP NID ADMa DEVa TAIa PSAa PSDa OUR IND UNI COM NAV"
+x-envoy-upstream-service-time: 110

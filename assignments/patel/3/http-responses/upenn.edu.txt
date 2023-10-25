@@ -1,0 +1,57 @@
+HTTP/1.1 301 Moved Permanently
+Connection: close
+Content-Length: 0
+Server: Varnish
+Retry-After: 0
+Location: https://upenn.edu/
+Accept-Ranges: bytes
+Date: Thu, 19 Oct 2023 01:41:44 GMT
+Via: 1.1 varnish
+X-Served-By: cache-iad-kiad7000033-IAD
+X-Cache: HIT
+X-Cache-Hits: 0
+Strict-Transport-Security: max-age=300
+
+HTTP/1.1 301 Moved Permanently
+Connection: close
+Content-Length: 0
+Server: Varnish
+Retry-After: 0
+location: https://www.upenn.edu/
+Accept-Ranges: bytes
+Date: Thu, 19 Oct 2023 01:41:44 GMT
+Via: 1.1 varnish
+X-Served-By: cache-iad-kiad7000132-IAD
+X-Cache: HIT
+X-Cache-Hits: 0
+X-Timer: S1697679705.559637,VS0,VE1
+Strict-Transport-Security: max-age=300
+
+HTTP/1.1 200 OK
+Connection: keep-alive
+Content-Length: 161249
+Cache-Control: max-age=3600, public
+Content-Language: en
+Content-Type: text/html; charset=UTF-8
+Etag: W/"1697669854"
+Expires: Sun, 19 Nov 1978 05:00:00 GMT
+Last-Modified: Wed, 18 Oct 2023 22:57:34 GMT
+Server: nginx
+Strict-Transport-Security: max-age=300
+X-Content-Type-Options: nosniff
+X-Drupal-Cache: HIT
+X-Drupal-Dynamic-Cache: MISS
+X-Frame-Options: SAMEORIGIN
+X-Generator: Drupal 9 (https://www.drupal.org)
+X-Pantheon-Styx-Hostname: styx-fe1-a-58d4585478-4b9nl
+X-Styx-Req-Id: 9df49331-6e1e-11ee-bdce-f681841730b4
+X-Ua-Compatible: IE=edge
+Age: 877
+Accept-Ranges: bytes
+Via: 1.1 varnish, 1.1 varnish, 1.1 varnish
+Date: Thu, 19 Oct 2023 01:41:44 GMT
+X-Served-By: cache-chi-klot8100032-CHI, cache-iad-kjyo7100139-IAD, cache-iad-kiad7000129-IAD
+X-Cache: HIT, HIT, MISS
+X-Cache-Hits: 7, 1, 0
+X-Timer: S1697679705.753255,VS0,VE4
+Vary: Accept-Encoding, Cookie, Cookie, Cookie

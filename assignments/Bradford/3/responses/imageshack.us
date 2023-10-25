@@ -1,0 +1,14 @@
+> HTTP/1.1 204 No Content
+> Server: nginx/1.2.8
+> Date: Fri, 06 Oct 2023 14:11:16 GMT
+> Connection: keep-alive
+> X-Frame-Options: SAMEORIGIN
+> Accept-Ranges: bytes
+> X-Varnish: 297240565
+> Age: 0
+> Via: 1.1 varnish
+> X-Varnish-Hits: 0
+> X-Varnish-IP: 208.94.3.33
+> X-Varnish-Port: 17001
+> Vary: User-Agent
+> 

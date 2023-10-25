@@ -1,0 +1,48 @@
+HTTP/1.1 301 Moved Permanently
+Server: awselb/2.0
+Date: Tue, 10 Oct 2023 00:36:14 GMT
+Content-Type: text/html
+Content-Length: 134
+Connection: keep-alive
+Location: https://bloomberg.com:443/
+
+HTTP/2 301 
+server: awselb/2.0
+date: Tue, 10 Oct 2023 00:36:14 GMT
+content-type: text/html; charset=UTF-8
+content-length: 80
+location: https://www.bloomberg.com/
+strict-transport-security: max-age=31536000
+
+HTTP/2 307 
+server: Varnish
+retry-after: 0
+location: https://www.bloomberg.com/tosv2.html?vid=&uuid=04ebe6e2-6705-11ee-b86a-af05a177609e&url=Lw==
+accept-ranges: bytes
+date: Tue, 10 Oct 2023 00:36:15 GMT
+set-cookie: _pxhd=Hdt2xACS5gf/moRIXmQqIH0VZtSQ4L7a/MaC9O4U1RXPcvREvXab-O/vneMzTsq2VpluLNMvf9dXacP2S/A7lA==:UCyakjajEnErK0XEAa6njp65Y2o3o7d4cj3h5pe52ksBP/QoS0CUsfOWyQFDMUT//PzqgMlxSqhmLLUxJi2fY4fnuROHGE1JxPjcVJYAZ/4=; Expires=Fri, 01 Jan 2021 00:00:00 GMT; path=/;
+x-served-by: cache-iad-kjyo7100068-IAD
+x-cache: HIT
+x-cache-hits: 0
+strict-transport-security: max-age=31557600
+content-length: 0
+
+HTTP/2 200 
+accept-ranges: bytes
+cache-control: public, max-age=5, private, no-store, no-cache, must-revalidate, proxy-revalidate, max-age=0
+content-type: text/html
+content-type: text/html; charset=utf-8
+etag: "65203b6c-2dca"
+last-modified: Fri, 06 Oct 2023 16:53:00 GMT
+server: openresty
+date: Tue, 10 Oct 2023 00:36:15 GMT
+x-served-by: cache-iad-kjyo7100068-IAD
+x-cache: MISS
+x-cache-hits: 0
+x-timer: S1696898175.061155,VS0,VE7
+strict-transport-security: max-age=31557600
+link: <https://assets.bwbx.io>; rel=preconnect; crossorigin, <https://assets.bwbx.io>; rel=preconnect, <https://sourcepointcmp.bloomberg.com>; rel=preconnect; crossorigin, <https://tpc.googlesyndication.com	>; rel=preconnect; crossorigin, <https://www.google-analytics.com>; rel=preconnect; crossorigin, <https://www.googletagmanager.com>; rel=preconnect, <https://www.googletagmanager.com>; rel=preconnect; crossorigin
+vary: Accept-Encoding
+alt-svc: h3=":443";ma=86400,h3-29=":443";ma=86400,h3-27=":443";ma=86400
+content-length: 11722
+

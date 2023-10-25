@@ -1,0 +1,4 @@
+> HTTP/1.1 200 OK
+> Set-Cookie: GS_GROUP=2; Path=/; Expires=Sun, 05 Nov 2023 14:11:28 GMT
+> Set-Cookie: GS_REVENUE_LOC=1; Path=/; Expires=Sun, 05 Nov 2023 14:11:28 GMT
+> Set-Cookie: GS_RESTRICT=0; Path=/

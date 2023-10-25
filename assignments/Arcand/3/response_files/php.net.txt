@@ -1,6 +1,6 @@
 HTTP/1.1 301 Moved Permanently
 Server: myracloud
-Date: Mon, 09 Oct 2023 20:14:32 GMT
+Date: Sat, 14 Oct 2023 20:04:53 GMT
 Content-Type: text/html
 Content-Length: 161
 Connection: keep-alive
@@ -8,7 +8,7 @@ Location: https://php.net/
 
 HTTP/1.1 301 Moved Permanently
 Server: myracloud
-Date: Mon, 09 Oct 2023 20:14:32 GMT
+Date: Sat, 14 Oct 2023 20:04:54 GMT
 Content-Type: text/html
 Content-Length: 161
 Connection: keep-alive
@@ -16,16 +16,16 @@ Location: https://www.php.net/
 
 HTTP/1.1 200 OK
 Server: myracloud
-Date: Mon, 09 Oct 2023 20:14:33 GMT
+Date: Sat, 14 Oct 2023 20:04:55 GMT
 Content-Type: text/html; charset=utf-8
 Connection: keep-alive
-Last-Modified: Mon, 09 Oct 2023 20:00:14 GMT
+Last-Modified: Sat, 14 Oct 2023 19:50:11 GMT
 Content-language: en
 Permissions-Policy: interest-cohort=()
 X-Frame-Options: SAMEORIGIN
-Set-Cookie: COUNTRY=NA%2C45.91.157.134; expires=Mon, 16-Oct-2023 20:14:33 GMT; Max-Age=604800; path=/; domain=.php.net
-Set-Cookie: LAST_NEWS=1696882473; expires=Tue, 08-Oct-2024 20:14:33 GMT; Max-Age=31536000; path=/; domain=.php.net
+Set-Cookie: COUNTRY=NA%2C45.91.157.134; expires=Sat, 21-Oct-2023 20:04:55 GMT; Max-Age=604800; path=/; domain=.php.net
+Set-Cookie: LAST_NEWS=1697313895; expires=Sun, 13-Oct-2024 20:04:55 GMT; Max-Age=31536000; path=/; domain=.php.net
 Link: <https://www.php.net/index>; rel=shorturl
-Expires: Mon, 09 Oct 2023 20:14:33 GMT
+Expires: Sat, 14 Oct 2023 20:04:55 GMT
 Cache-Control: max-age=0
 

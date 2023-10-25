@@ -1,0 +1,45 @@
+HTTP/1.1 301 Moved Permanently
+Date: Thu, 19 Oct 2023 01:09:59 GMT
+Connection: keep-alive
+Cache-Control: max-age=3600
+Expires: Thu, 19 Oct 2023 02:09:59 GMT
+Location: https://hugedomains.com/
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=rvyd0jXOcxrQUrdezxasHtvs%2BV%2BjPnsVxRw81beiQfPAi056YW3TMCFXBIOCqrjWAZWY2aAUOeHgvSZjN9V8NGT4Y%2FI1wMbqLCF8m8aCbWuuaJD2H4%2BOf50%2Fh8%2Bvo2%2FIyg%3D%3D"}],"group":"cf-nel","max_age":604800}
+NEL: {"success_fraction":0,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+CF-RAY: 818523862acb3b5c-IAD
+
+HTTP/1.1 302 Moved Temporarily
+Date: Thu, 19 Oct 2023 01:09:59 GMT
+Connection: keep-alive
+Cache-Control: private, max-age=0, no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+Expires: Thu, 01 Jan 1970 00:00:01 GMT
+Location: https://www.hugedomains.com/
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=3L6eblYs3y6uJdCQAc0l%2FwawcO3zxxEnnemCf6%2BTJc0kWEWQxkN4dDOVgJim49xGWCqr2pvkNTYOARJ2L7OFrTZX%2BhWHdWHjfOP9bx9NHg44wfA1p14Ykoo0Dn7YC%2Fs94w%3D%3D"}],"group":"cf-nel","max_age":604800}
+NEL: {"success_fraction":0,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+CF-RAY: 818523868a4f3b7a-IAD
+
+HTTP/1.1 200 OK
+Date: Thu, 19 Oct 2023 01:09:59 GMT
+Content-Type: text/html;charset=UTF-8
+Connection: keep-alive
+cache-control: private
+vary: Accept-Encoding
+set-cookie: SHOPPINGCART=;Path=/;Expires=Sat, 18-Nov-2023 01:09:59 UTC
+set-cookie: REFLOC=;Path=/;Expires=Fri, 17-Oct-2053 09:01:29 UTC
+set-cookie: PV=710DC18BD7942257B5599FB79338CE2B;Path=/;Expires=Fri, 17-Oct-2053 09:01:29 UTC
+set-cookie: DE3OOK=11AD6A283AD26C0A053A7EBAE25C0843B554054FA1F2E0B9678A5B51262E57DE037D92839BF4C9899857C46053AEE596;Path=/;Expires=Fri, 17-Oct-2053 09:01:29 UTC;Secure;HTTPOnly
+set-cookie: site_version_phase=108; expires=Sun, 13-Oct-2024 01:09:59 GMT; path=/
+set-cookie: site_version=HDv3; expires=Sun, 13-Oct-2024 01:09:59 GMT; path=/
+x-frame-options: ALLOW-FROM https://hugedomains.com/
+content-security-policy: frame-ancestors https://hugedomains.com/
+x-aspnet-version: 4.0.30319
+access-control-allow-origin: *
+x-powered-by: ASP.NET
+lb: TclPrdLbHd3
+CF-Cache-Status: DYNAMIC
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=tIzFrk15PAdknFYchYISs0nDKAOkKEHgPx2m5dF%2Bs6l8zYGNUkTHkPBSwvWFUlrUF5iXwFH%2F8JAKq5gbG%2F%2FkdwlHEhbzXb8Tn3u%2FCSjn5OsHgU9nKpnEzBp3rB8vr2tGgnu3b8g%3D"}],"group":"cf-nel","max_age":604800}
+NEL: {"success_fraction":0,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+CF-RAY: 818523876fdc8257-IAD

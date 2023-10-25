@@ -1,0 +1,44 @@
+HTTP/1.1 301 Moved Permanently
+Date: Tue, 10 Oct 2023 00:36:28 GMT
+Connection: keep-alive
+Cache-Control: max-age=3600
+Expires: Tue, 10 Oct 2023 01:36:28 GMT
+Location: https://hugedomains.com/
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=qAomJKlWmZDvYr5%2FBuznfMXXM8YNTdeHTJ9bdzo23AbPzRPUUj5lOKxUZQKwLejeur5UmNS8xacAWMOQY7lB48SWgH9KcsSwdcGMq8mbNexqc%2FWX6scFn483N6HaRg%2FMww%3D%3D"}],"group":"cf-nel","max_age":604800}
+NEL: {"success_fraction":0,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+CF-RAY: 813aca10aa487fd9-IAD
+
+HTTP/2 302 
+date: Tue, 10 Oct 2023 00:36:29 GMT
+location: https://www.hugedomains.com/
+cache-control: private, max-age=0, no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+expires: Thu, 01 Jan 1970 00:00:01 GMT
+report-to: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=d1F0bZfYRatExg8CO%2FaIzOHbSlTqOhKFDyjOKcfquw%2FMr5cZdaEDQH0XUgMZJyUUih%2BY2dF8p9mvQ0vi7WFd2lSnY7IslI48%2BVeNYqOR0Q1dGuFcrzQdeGP6V9Cj4355lA%3D%3D"}],"group":"cf-nel","max_age":604800}
+nel: {"success_fraction":0,"report_to":"cf-nel","max_age":604800}
+server: cloudflare
+cf-ray: 813aca114a083931-IAD
+
+HTTP/2 200 
+date: Tue, 10 Oct 2023 00:36:29 GMT
+content-type: text/html;charset=UTF-8
+cache-control: private
+vary: Accept-Encoding
+set-cookie: SHOPPINGCART=;Path=/;Expires=Thu, 09-Nov-2023 00:36:29 UTC
+set-cookie: REFLOC=;Path=/;Expires=Wed, 08-Oct-2053 08:27:59 UTC
+set-cookie: PV=710DC18BD7942257B5599FB79338CE2B;Path=/;Expires=Wed, 08-Oct-2053 08:27:59 UTC
+set-cookie: DE3OOK=11AD6A283AD26C0A053A7EBAE25C0843B554054FA1F2E0B9678A5B51262E57DE037D92839BF4C9899857C46053AEE596;Path=/;Expires=Wed, 08-Oct-2053 08:27:59 UTC;Secure;HTTPOnly
+set-cookie: site_version_phase=108; expires=Fri, 04-Oct-2024 00:36:29 GMT; path=/
+set-cookie: site_version=HDv3; expires=Fri, 04-Oct-2024 00:36:29 GMT; path=/
+x-frame-options: ALLOW-FROM https://hugedomains.com/
+content-security-policy: frame-ancestors https://hugedomains.com/
+x-aspnet-version: 4.0.30319
+access-control-allow-origin: *
+x-powered-by: ASP.NET
+lb: TclPrdLbHd3
+cf-cache-status: DYNAMIC
+report-to: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=9HLd5gLI%2BPkIjxq36JRQ1X%2FhZT36qcLtBrVdBMVPMJRH5XP0koyH7hsw6GIHZESA%2BtIZOi2l1XI6aHbeGjLFeVZRnrQWE5P%2F6cSdGwJRmSey96ChoDYrYgFDP23CJts5xFfiFvo%3D"}],"group":"cf-nel","max_age":604800}
+nel: {"success_fraction":0,"report_to":"cf-nel","max_age":604800}
+server: cloudflare
+cf-ray: 813aca121ddb20b4-IAD
+

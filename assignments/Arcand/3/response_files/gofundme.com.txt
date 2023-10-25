@@ -3,45 +3,45 @@ Content-Type: text/html
 Content-Length: 134
 Connection: keep-alive
 Server: awselb/2.0
-Date: Mon, 09 Oct 2023 20:13:51 GMT
+Date: Sat, 14 Oct 2023 20:04:15 GMT
 Location: https://gofundme.com:443/
-Set-Cookie: gdid=46d45ab8-093a-4f65-8bd1-0d78d7d59530; path=/; domain=gofundme.com
+Set-Cookie: gdid=fe87ac5c-0f30-4d6f-b831-fbfb995a7852; path=/; domain=gofundme.com
 X-Cache: Miss from cloudfront
-Via: 1.1 af7ccd7ee52b9d2db7e10a7abcefaa2e.cloudfront.net (CloudFront)
-X-Amz-Cf-Pop: ATL58-P3
-X-Amz-Cf-Id: -zL8SiPJLgvF5Yhub_sqlldjGgvVyCKD9ZrGoHkXPokcC0Jb4LlZuA==
+Via: 1.1 68536efcab2672b0482f05414de9f06c.cloudfront.net (CloudFront)
+X-Amz-Cf-Pop: ATL51-C1
+X-Amz-Cf-Id: QvQ31ECQA1eIeXfkJwHPgcddFlrRUF1veajO3aRg6bfog2s4O2XL4w==
 
 HTTP/1.1 301 Moved Permanently
 Content-Type: text/html
 Content-Length: 162
 Connection: keep-alive
-Date: Mon, 09 Oct 2023 20:13:51 GMT
+Date: Sat, 14 Oct 2023 20:04:15 GMT
 Server: nginx
 Location: https://www.gofundme.com/
 Content-Security-Policy-Report-Only: frame-ancestors gofundme.com *.gofundme.com *.hopin.com;
 Strict-Transport-Security: max-age=31536000; includeSubDomains; preload
-Set-Cookie: gdid=df89d7bd-1826-431d-ae2e-a066ff9dac5e; path=/; domain=gofundme.com
+Set-Cookie: gdid=d10c2f21-cf20-4c01-85f5-bf33903fb68d; path=/; domain=gofundme.com
 X-Cache: Miss from cloudfront
-Via: 1.1 1fa68a86ca4a85ffd1e6bd20ac668bd8.cloudfront.net (CloudFront)
-X-Amz-Cf-Pop: ATL58-P3
-X-Amz-Cf-Id: 7cS02qh-V0tKOwIDquj9l8LZl_OkyM_gNqP6QT-L3OnrdrzYQQDHRg==
+Via: 1.1 812defed1167ca00304e9ce555dcf6e2.cloudfront.net (CloudFront)
+X-Amz-Cf-Pop: ATL51-C1
+X-Amz-Cf-Id: 4Z7S1k1QUqrf7LoKWvwncHnp1jXP-x7gp5mGOal__nFpw9npzNwbLw==
 
 HTTP/1.1 200 OK
 Content-Type: text/html; charset=utf-8
-Content-Length: 596370
+Content-Length: 597582
 Connection: keep-alive
-Date: Mon, 09 Oct 2023 20:13:11 GMT
+Date: Sat, 14 Oct 2023 20:02:43 GMT
 Server: nginx
 Set-Cookie: visitor={"locale":"en_US","shimLocale":"en_US","country":"US"}; path=/; domain=.gofundme.com
-Set-Cookie: gdid=f4b399d8-d6b2-4736-b65d-7f85dc227707; path=/; domain=.gofundme.com
+Set-Cookie: gdid=87eb597a-f1a0-4d46-9a0b-c6c622feae9a; path=/; domain=.gofundme.com
 Cache-Control: max-age=60, s-maxage=60, stale-while-revalidate=6000, stale-if-error=86400
+ETag: "s0x55q4ymrcs3a"
 Content-Security-Policy-Report-Only: frame-ancestors gofundme.com *.gofundme.com *.hopin.com;
 Strict-Transport-Security: max-age=31536000; includeSubDomains; preload
-ETag: "w4pc5xlb7jcr5m"
 Vary: Accept-Encoding
-X-Cache: Hit from cloudfront
-Via: 1.1 80ee77b022771e780970eec64460c65e.cloudfront.net (CloudFront)
-X-Amz-Cf-Pop: ATL58-P3
-X-Amz-Cf-Id: XjVcL-8C2BF_uVjjHdmOE2ebdw9bAuGZ8d50ao6v6IBoX6i6NgErYQ==
-Age: 40
+X-Cache: RefreshHit from cloudfront
+Via: 1.1 71e79e1e6108b748582f22a7451be222.cloudfront.net (CloudFront)
+X-Amz-Cf-Pop: ATL51-C1
+X-Amz-Cf-Id: WtYKb0qIqrADaXg5IDN7bYB5XoSaam8rA5b414GMGJNuxOfhA4S3GQ==
+Age: 92
 

@@ -1,0 +1,57 @@
+HTTP/1.1 301 Moved Permanently
+Content-Length: 0
+Server: Varnish
+Retry-After: 0
+Location: https://slideshare.net/
+Accept-Ranges: bytes
+Date: Thu, 19 Oct 2023 20:57:28 GMT
+Via: 1.1 varnish, HTTP/1.1 forward.http.proxy:3128
+X-Served-By: cache-iad-kjyo7100173-IAD
+X-Cache: HIT
+X-Cache-Hits: 0
+X-Timer: S1697749048.293165,VS0,VE0
+Set-Cookie: browser_id=442330e8-7477-49ec-8256-9eb952890726; Domain=.slideshare.net; Path=/; Expires=Tue, 17 Oct 2028 20:57:28 GMT
+Strict-Transport-Security: max-age=63072000; includeSubDomains; preload
+alt-svc: h3=":443";ma=86400,h3-29=":443";ma=86400,h3-27=":443";ma=86400
+Connection: close
+
+HTTP/2 301 
+content-type: text/html
+server: nginx
+location: https://www.slideshare.net/
+p3p: CP="OTI DSP COR CUR ADM DEV PSD IVD CONo OUR IND"
+x-content-type-options: nosniff
+cache-control: private, no-store
+accept-ranges: bytes
+date: Thu, 19 Oct 2023 20:57:28 GMT
+via: 1.1 varnish
+x-served-by: cache-iad-kjyo7100029-IAD
+x-cache: MISS
+x-cache-hits: 0
+x-timer: S1697749048.330947,VS0,VE6
+set-cookie: browser_id=acfe826a-516d-4388-ba33-407aaaf5362f; Domain=.slideshare.net; Path=/; Expires=Tue, 17 Oct 2028 20:57:28 GMT
+strict-transport-security: max-age=63072000; includeSubDomains; preload
+alt-svc: h3=":443";ma=86400,h3-29=":443";ma=86400,h3-27=":443";ma=86400
+content-length: 162
+
+HTTP/2 200 
+content-type: text/html; charset=utf-8
+server: nginx
+x-powered-by: Next.js
+etag: "t3489sanb22gi8"
+cache-control: private, no-cache, no-store, max-age=0, must-revalidate
+p3p: CP="OTI DSP COR CUR ADM DEV PSD IVD CONo OUR IND"
+x-content-type-options: nosniff
+accept-ranges: bytes
+date: Thu, 19 Oct 2023 20:57:28 GMT
+via: 1.1 varnish
+x-served-by: cache-iad-kiad7000033-IAD
+x-cache: MISS
+x-cache-hits: 0
+x-timer: S1697749048.396880,VS0,VE105
+vary: Accept-Encoding
+set-cookie: browser_id=2355a729-c02e-411d-9649-35ed6a364025; Domain=.slideshare.net; Path=/; Expires=Tue, 17 Oct 2028 20:57:28 GMT
+strict-transport-security: max-age=63072000; includeSubDomains; preload
+alt-svc: h3=":443";ma=86400,h3-29=":443";ma=86400,h3-27=":443";ma=86400
+content-length: 114743
+

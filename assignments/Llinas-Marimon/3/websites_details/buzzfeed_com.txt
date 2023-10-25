@@ -1,0 +1,38 @@
+HTTP/1.1 301 Moved Permanently
+Content-Length: 0
+Location: https://www.buzzfeed.com/
+Date: Thu, 19 Oct 2023 13:24:58 GMT
+X-Cache: Hit from cloudfront
+Via: 1.1 3a60765023a93f6346539d2ca40f0b12.cloudfront.net (CloudFront), HTTP/1.1 forward.http.proxy:3128
+X-Amz-Cf-Pop: IAD61-P2
+X-Amz-Cf-Id: or51Rnt9Bgy-mg7oY_BM9-boDsEE4O0qXsN5A20zUWOdHR7q1_4RLA==
+Age: 26764
+Connection: keep-alive
+
+HTTP/2 200 
+content-type: text/html; charset=utf-8
+cache-control: no-cache, no-store, must-revalidate
+content-language: en
+document-policy: js-profiling
+etag: "12fc8c-Or9BX6V3dGbJl5mldlzstLuPRQU"
+expires: 0
+pragma: no-cache
+set-cookie: next-i18next=en; path=/; expires=Sat, 19 Oct 2024 20:50:05 GMT
+x-request-id: 57647c28286982f9a7227384fcf38c46
+accept-ranges: bytes
+date: Thu, 19 Oct 2023 20:51:02 GMT
+age: 57
+x-frame-options: SAMEORIGIN
+set-cookie: dsl25_frhf=control;expires=Thu, 16 Nov 2023 20:51:02 GMT;
+set-cookie: bf-geo-country=US; expires=Fri, 20 Oct 2023 20:51:02 GMT; path=/; domain=.buzzfeed.com;
+set-cookie: ccpa=true; expires=Thu, 02 Nov 2023 20:51:02 GMT; path=/; domain=www.buzzfeed.com;
+content-security-policy: upgrade-insecure-requests
+strict-transport-security: max-age=31536000; preload
+timing-allow-origin: *
+x-served-by: cache-iad-kjyo7100064-IAD
+x-cache: HIT
+x-cache-hits: 1
+x-timer: S1697748663.810445,VS0,VE6
+vary: X-BF-User-Edition, X-BF-Homepage-Alias, X-BF-Mission-Possible, Accept-Encoding
+content-length: 1244300
+

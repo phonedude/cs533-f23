@@ -1,0 +1,51 @@
+HTTP/1.1 301 Moved Permanently
+Server: CloudFront
+Date: Thu, 19 Oct 2023 00:43:29 GMT
+Content-Type: text/html
+Content-Length: 167
+Connection: keep-alive
+Location: https://booking.com/
+X-Cache: Redirect from cloudfront
+Via: 1.1 dd169cfdbbafbb3da513bede6bc6640e.cloudfront.net (CloudFront)
+X-Amz-Cf-Pop: IAD89-C1
+X-Amz-Cf-Id: ntwOwyc3RVzD7Qs54n6jahmyE_bhLkH-rgD0TZB-N-UqftHP1pKQ1w==
+
+HTTP/1.1 301 Moved Permanently
+Connection: keep-alive
+server: nginx
+date: Thu, 19 Oct 2023 00:43:29 GMT
+location: https://www.booking.com/
+nel: {"report_to":"default","max_age":604800}
+report-to: {"group":"default","max_age":604800,"endpoints":[{"url":"https://nellie.booking.com/report"}]}
+set-cookie: _pxhd=XRkmoKyzSZEH5Ru42evI9OVYYubg9RR9jFGhKpQJV3TOzuiK4aKG9sz1TZkiRyWLou%2FCfntd3Owst628AL68Hg%3D%3D%3APyWZGa-DVjFjW2HYiGCi%2Fq1mqR9EbZdfvmitUxab6Fv0abw-z0Bonapiuek%2FUpDYNSWWm2zdVh7XNDpNt6UIS3o6OLFQEvQDkhLDiCgwQ7k%3D; domain=booking.com; path=/; expires=Fri, 18-Oct-2024 00:43:29 GMT
+strict-transport-security: max-age=300; includeSubDomains
+content-security-policy-report-only: frame-ancestors 'none'; report-uri https://nellie.booking.com/csp-report-uri?type=report&tag=112&pid=f33905185ce90112&e=UmFuZG9tSVYkc2RlIyh9YdPFJGDFjZSqK4Z-4dNTMVtDEzM6yr8a7spwTyTxFeHViAmMT7Vwisw
+x-terms-of-service: https://www.booking.com/content/terms.html
+x-xss-protection: 1; mode=block
+X-Cache: Miss from cloudfront
+Via: 1.1 55b6418a8a2f714a67d8e4d292154ef2.cloudfront.net (CloudFront)
+X-Amz-Cf-Pop: IAD89-C1
+X-Amz-Cf-Id: A0ZX2cYeCFWc9xml4A5IVhQmJqlMU9e7fqvuB3BkHC6iTEOZ9oFnQw==
+
+HTTP/1.1 200 OK
+Content-Type: text/html; charset=UTF-8
+Connection: keep-alive
+server: nginx
+date: Thu, 19 Oct 2023 00:43:30 GMT
+nel: {"max_age":604800,"report_to":"default"}
+report-to: {"endpoints":[{"url":"https://nellie.booking.com/report"}],"group":"default","max_age":604800}
+set-cookie: _pxhd=xGPzFVypdfYsUtiTCnyuyQlvspstoSfFLuUF5GUlQG%252FX7rrLFGK818CeMdtdTqwEdbhRAK15yxZeImokaLfMOw%253D%253D%253AgLHBO4QAcRYGOitVpP1jBT2ym8K8gJyS62LsDE%252FIV0TAI6z7Ez7pSUii2fP4mAwlr4%252FVhNTIfQLxvbfiKtxuSYlmjz8Acul7Rd%252FaCWVWSoM%253D; domain=booking.com; path=/; expires=Fri, 18-Oct-2024 00:43:30 GMT
+set-cookie: _implmdnbl=2__1__0; path=/; expires=Sat, 20-Oct-2018 00:43:30 GMT; HttpOnly
+set-cookie: px_init=100; domain=booking.com; expires=Mon, 04-Oct-2077 01:27:00 GMT; SameSite=Strict; secure; HttpOnly
+set-cookie: bkng=11UmFuZG9tSVYkc2RlIyh9Yaa29%2F3xUOLbca8KLfxLPed%2BX37AzbwG35ivJ7qq570N3zkH%2FglKGXozJeEjGs%2BrLf9w8wmOm31GobanPUySZk9hks9B1ZLEbKudITgXkXJ1f%2BFR5BhLlsLexIk0DK%2B95SmvPf5qpJ7rvtiVOPhoZbBzkyXAk88gaEFFdbTayNH%2B; domain=.booking.com; path=/; expires=Tue, 17-Oct-2028 00:43:30 GMT; Secure; HTTPOnly; SameSite=None
+strict-transport-security: max-age=300; includeSubDomains
+x-content-type-options: nosniff
+x-recruiting: Like HTTP headers? Come write ours: https://careers.booking.com
+x-terms-of-service: https://www.booking.com/content/terms.html
+x-xss-protection: 1; mode=block
+set-cookie: pcm_consent=analytical%3Dtrue%26countryCode%3DUS%26consentId%3Dba886fe1-adaf-4946-8f16-2515aee3f6fe%26consentedAt%3D2023-10-19T00%3A43%3A29.976Z%26expiresAt%3D2024-04-16T00%3A43%3A29.976Z%26implicit%3Dtrue%26marketing%3Dtrue%26regionCode%3DVA%26regulation%3Dnone%26legacyRegulation%3Dnone; Domain=.booking.com; Path=/; Expires=Thu, 26 Oct 2023 00:43:29 GMT; HttpOnly; Secure
+set-cookie: bkng_sso_auth=CAIQsOnuTRpyeSZcktHaAQYU6Xll8whiLf193ftvGNFmKEr+2vciqNLX9E007BaieB0Pl8cWdr12JeNI9pW1huK11IGq3VY8WCCU3r98JaXda3UgjvY88lXuHDUPz+yxyEXSl3xMT7C77cZwGcAiAuH1FRYJh3dFV7GV; Domain=.booking.com; Path=/; Expires=Thu, 26 Oct 2023 00:43:29 GMT; HttpOnly; Secure
+X-Cache: Miss from cloudfront
+Via: 1.1 5eb5e19c1a78889d10ff38f1551ed2aa.cloudfront.net (CloudFront)
+X-Amz-Cf-Pop: IAD89-C1
+X-Amz-Cf-Id: jO1M5kprj-MFC-9S7n6X3wLGUtZDE19laBQMwzPD8KF_vknJUtT85Q==
