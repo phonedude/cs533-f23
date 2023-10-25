@@ -1,0 +1,23 @@
+HTTP/1.1 301 Moved Permanently
+Date: Thu, 19 Oct 2023 20:57:38 GMT
+Content-Length: 0
+location: https://www.canalblog.com/
+CF-Cache-Status: DYNAMIC
+Server: cloudflare
+CF-RAY: 818bef3feb243b14-IAD
+alt-svc: h3=":443"; ma=86400
+Via: HTTP/1.1 forward.http.proxy:3128
+Connection: keep-alive
+
+HTTP/2 200 
+date: Thu, 19 Oct 2023 20:57:38 GMT
+content-type: text/html;charset=utf-8
+set-cookie: JSESSIONID=s6~C632D4D5663FAC2EEFB5A0F51C70B881; Path=/; HttpOnly
+x-cb-server: VOYAGER6
+cache-control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+vary: Accept-Encoding,User-Agent
+cf-cache-status: DYNAMIC
+server: cloudflare
+cf-ray: 818bef40e80a0a8b-IAD
+alt-svc: h3=":443"; ma=86400
+

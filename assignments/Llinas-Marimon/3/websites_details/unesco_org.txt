@@ -1,0 +1,34 @@
+HTTP/1.0 302 Moved Temporarily
+Location: https://www.unesco.org/
+Server: BigIP
+Content-Length: 0
+Via: HTTP/1.1 forward.http.proxy:3128
+Connection: keep-alive
+
+HTTP/2 302 
+location: https://www.unesco.org/en
+server: BigIP
+content-length: 0
+
+HTTP/2 200 
+date: Thu, 19 Oct 2023 20:31:22 GMT
+cache-control: max-age=3600, public
+content-language: en
+x-content-type-options: nosniff
+expires: Sun, 19 Nov 1978 05:00:00 GMT
+last-modified: Thu, 19 Oct 2023 20:31:21 GMT
+content-type: text/html; charset=UTF-8
+x-cacheable: YES
+x-storage: memoire
+x-cache: ZIP
+etag: W/"1697747481"
+vary: Cookie, Accept-Encoding
+age: 351
+accept-ranges: bytes
+x-cache-hits: 2022
+content-length: 148350
+x-xss-protection: 1; mode=block
+x-content-type-options: nosniff
+strict-transport-security: max-age=31536000
+set-cookie: TS0121e8f2=015207929594bd3e653f215dadb1eb8b88f24d875fef949acaf9668f50bfbf196a5ccca4129ec82c7f8616f7ccf9cbf665ce6d679b; Path=/; Domain=.www.unesco.org; samesite=None; Secure
+

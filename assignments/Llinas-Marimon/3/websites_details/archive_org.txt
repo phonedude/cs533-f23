@@ -1,0 +1,13 @@
+HTTP/1.1 200 OK
+Server: nginx/1.25.1
+Date: Thu, 19 Oct 2023 20:51:00 GMT
+Content-Type: text/html; charset=utf-8
+vary: Accept-Encoding
+content-security-policy: base-uri 'self'; default-src *; img-src * data:; object-src 'none'; script-src https://archive.org/offshoot_assets/ https://*.archive.org/offshoot_assets/ https://offshoot.prod.archive.org/offshoot_assets/ https://archive.org/includes/ https://*.archive.org/includes/ https://offshoot.prod.archive.org/includes/ https://archive.org/components/ https://*.archive.org/components/ https://offshoot.prod.archive.org/components/ https://archive.org/jw/ https://*.archive.org/jw/ https://offshoot.prod.archive.org/jw/ https://av.prod.archive.org/js/ https://esm.archive.org/ https://polyfill.archive.org/v3/polyfill.min.js 'sha256-CoX53XgCdkM1zegYEEpMUeYIZnv663inNm8bQv2VRbM='; style-src 'unsafe-inline' https://archive.org/ https://*.archive.org/ https://offshoot.prod.archive.org/;
+Strict-Transport-Security: max-age=15724800
+Expires: Thu, 19 Oct 2023 21:06:00 GMT
+Cache-Control: max-age=900
+Referrer-Policy: no-referrer-when-downgrade
+Via: HTTP/1.1 forward.http.proxy:3128
+Connection: keep-alive
+

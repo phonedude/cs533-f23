@@ -1,0 +1,44 @@
+HTTP/1.1 301 Moved Permanently
+Server: awselb/2.0
+Date: Thu, 19 Oct 2023 20:57:18 GMT
+Content-Type: text/html
+Content-Length: 134
+Location: https://justjared.com:443/
+Via: HTTP/1.1 forward.http.proxy:3128
+Connection: keep-alive
+
+HTTP/2 301 
+date: Thu, 19 Oct 2023 20:57:18 GMT
+content-type: text/html; charset=UTF-8
+location: http://www.justjared.com/
+server: nginx
+vary: Cookie
+x-pingback: https://www.justjared.com/xmlrpc.php
+expires: Thu, 19 Oct 2023 20:57:17 GMT
+cache-control: no-cache
+nc: MISS
+
+HTTP/1.1 301 Moved Permanently
+Date: Thu, 19 Oct 2023 20:57:18 GMT
+Accept-Ranges: bytes
+Cache-Control: max-age=0
+Content-Length: 0
+Location: https://www.justjared.com/
+X-HW: 1697749038.dop206.dc2.t,1697749038.cds053.dc2.c
+Access-Control-Allow-Origin: *
+Via: HTTP/1.1 forward.http.proxy:3128
+Connection: keep-alive
+
+HTTP/1.1 200 OK
+Date: Thu, 19 Oct 2023 20:57:19 GMT
+Connection: close
+Cache-Control: no-cache
+Content-Type: text/html; charset=UTF-8
+Last-Modified: Thu, 19 Oct 2023 20:55:54 +0000
+Server: nginx
+Vary: Cookie
+Expires: Thu, 19 Oct 2023 20:57:18 GMT
+NC: MISS
+Access-Control-Allow-Origin: *
+X-HW: 1697749038.dop043.dc2.t,1697749039.cds007.dc2.shn,1697749039.dop043.dc2.t,1697749039.cds053.dc2.sc,1697749039.cds053.dc2.p
+

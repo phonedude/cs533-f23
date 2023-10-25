@@ -1,0 +1,20 @@
+HTTP/1.1 302 Moved Temporarily
+Server: nginx
+Date: Thu, 19 Oct 2023 20:51:02 GMT
+Content-Type: text/html
+Content-Length: 154
+Location: https://bitly.com/
+Via: 1.1 google, HTTP/1.1 forward.http.proxy:3128
+Connection: keep-alive
+
+HTTP/2 405 
+server: nginx
+date: Thu, 19 Oct 2023 20:51:02 GMT
+content-type: text/plain; charset=utf-8
+content-length: 19
+allow: GET, OPTIONS
+x-content-type-options: nosniff
+strict-transport-security: max-age=31536000
+via: 1.1 google, 1.1 google
+alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+

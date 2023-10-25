@@ -1,0 +1,28 @@
+HTTP/1.1 301 Moved Permanently
+Location: https://support.google.com/
+Date: Thu, 19 Oct 2023 20:57:29 GMT
+Expires: Thu, 19 Oct 2023 20:57:29 GMT
+Cache-Control: private, max-age=0
+Content-Type: text/html; charset=UTF-8
+X-Content-Type-Options: nosniff
+Server: support-content-ui
+Content-Length: 224
+X-XSS-Protection: 0
+X-Frame-Options: SAMEORIGIN
+Via: HTTP/1.1 forward.http.proxy:3128
+Connection: keep-alive
+
+HTTP/2 404 
+p3p: CP="This is not a P3P policy! See g.co/p3phelp for more info."
+p3p: CP="This is not a P3P policy! See g.co/p3phelp for more info."
+content-type: text/html; charset=UTF-8
+x-content-type-options: nosniff
+date: Thu, 19 Oct 2023 20:57:29 GMT
+server: support-content-ui
+content-length: 1561
+x-xss-protection: 0
+x-frame-options: SAMEORIGIN
+set-cookie: NID=511=Za-kqa-FUZqe42e7VV_UV07dce44C6S05JadKkehdKuyCI3OuYqVGDGFqV3S541vVnd6hUKj58HoiV18Iy2lx9e3volURBITkOZfCSl0d7WBhRIZ7TxXXftZ_AaH9DCXaAqVzptv1k5b_0h-DFvUKo0WQALJLiJm_aeD9u9KjpY; expires=Fri, 19-Apr-2024 20:57:29 GMT; path=/; domain=.google.com; HttpOnly
+set-cookie: NID=511=Za-kqa-FUZqe42e7VV_UV07dce44C6S05JadKkehdKuyCI3OuYqVGDGFqV3S541vVnd6hUKj58HoiV18Iy2lx9e3volURBITkOZfCSl0d7WBhRIZ7TxXXftZ_AaH9DCXaAqVzptv1k5b_0h-DFvUKo0WQALJLiJm_aeD9u9KjpY; expires=Fri, 19-Apr-2024 20:57:29 GMT; path=/; domain=.google.com; HttpOnly
+alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+

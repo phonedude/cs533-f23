@@ -1,0 +1,39 @@
+HTTP/1.1 301 Moved Permanently
+Server: nginx/1.18.0 (Ubuntu)
+Date: Thu, 19 Oct 2023 20:56:13 GMT
+Content-Type: text/html
+Content-Length: 178
+Location: http://www.ig.com.br/
+Via: HTTP/1.1 forward.http.proxy:3128
+Connection: keep-alive
+
+HTTP/1.1 301 Moved Permanently
+Date: Thu, 19 Oct 2023 20:56:14 GMT
+Cache-Control: max-age=3600
+Expires: Thu, 19 Oct 2023 21:56:14 GMT
+Location: https://www.ig.com.br/
+X-Content-Type-Options: nosniff
+Server: cloudflare
+CF-RAY: 818bed30c9c14fe3-ORF
+alt-svc: h3=":443"; ma=86400
+Via: HTTP/1.1 forward.http.proxy:3128
+Connection: keep-alive
+
+HTTP/2 200 
+date: Thu, 19 Oct 2023 20:56:15 GMT
+content-type: text/html; charset=UTF-8
+cf-ray: 818bed3109134fe2-ORF
+cf-cache-status: HIT
+access-control-allow-origin: *
+last-modified: Thu, 19 Oct 2023 20:54:40 GMT
+vary: Accept-Encoding
+x-xrds-location: https://login.ig.com.br/discovery
+access-control-allow-headers: origin, content-type, accept, ajax
+edge-control: max-age=30s,downstream-ttl=30s
+x-url: /
+x-user-agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36
+x-xss-protection: 1; mode=block
+x-content-type-options: nosniff
+server: cloudflare
+alt-svc: h3=":443"; ma=86400
+

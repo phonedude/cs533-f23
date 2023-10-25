@@ -1,0 +1,38 @@
+HTTP/1.1 301 Moved Permanently
+Content-Length: 2047
+Server: Varnish
+Retry-After: 0
+Content-Type: text/html; charset=utf-8
+Accept-Ranges: bytes
+Date: Thu, 19 Oct 2023 20:56:15 GMT
+Via: 1.1 varnish, HTTP/1.1 forward.http.proxy:3128
+X-Served-By: cache-iad-kiad7000153-IAD
+X-Cache: MISS
+X-Cache-Hits: 0
+X-Timer: S1697748976.697979,VS0,VE0
+Strict-Transport-Security: max-age=31536000
+Location: https://www.insider.com/
+Connection: close
+
+HTTP/2 200 
+content-type: text/html; charset=utf-8
+x-powered-by: Fenrir
+last-modified: Thu, 19 Oct 2023 20:55:33 GMT
+cache-control: public, max-age=120
+x-frame-options: sameorigin
+access-control-allow-headers: Origin, X-Requested-With, Content-Type, Accept
+link: </styles/landing-page.6ad6ea7a5b27f5ac739b.css>; rel=preload; as=style; nopush, </scripts/main.fa1e9a65b931e8c3c461.js>; rel=preload; as=script; nopush, </scripts/vendors.f1c31d14dbc7b2db42d0.js>; rel=preload; as=script; nopush, </scripts/utilities.b48926f4b9eded159e20.js>; rel=preload; as=script; nopush, </public/fonts/subset/LabGrotesque-Black-subset.woff2>; rel=preload; as=font; type=font/woff2; crossorigin; nopush
+etag: W/"50600-EUS8J0i6QkvzHKD7DWCB2avL+to"
+x-country-code: US
+accept-ranges: bytes
+date: Thu, 19 Oct 2023 20:56:15 GMT
+via: 1.1 varnish
+age: 43
+x-served-by: cache-iad-kjyo7100157-IAD
+x-cache: HIT
+x-cache-hits: 1
+x-timer: S1697748976.748487,VS0,VE2
+vary: Accept-Encoding, Authorization, Fastly-SSL, X-Device, X-Continent-Code, X-Piano-Disabled, X-User-Logged-In, X-User-Has-Access, X-ABTest-smart-banner, X-ABTest-taboola-widgets-for-review, X-ABTest-ad-unit-launch
+strict-transport-security: max-age=31536000
+content-length: 329216
+
