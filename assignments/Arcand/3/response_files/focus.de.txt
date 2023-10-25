@@ -4,21 +4,21 @@ Content-Length: 162
 Server: nginx
 Location: https://www.focus.de/
 Cache-Control: max-age=2592000
-Expires: Wed, 08 Nov 2023 20:13:47 GMT
-Date: Mon, 09 Oct 2023 20:13:47 GMT
+Expires: Mon, 13 Nov 2023 20:04:11 GMT
+Date: Sat, 14 Oct 2023 20:04:11 GMT
 Connection: keep-alive
 
 HTTP/1.1 200 OK
 Content-Type: text/html;charset=UTF-8
-Last-Modified: Mon, 09 Oct 2023 20:13:23 GMT
+Last-Modified: Sat, 14 Oct 2023 20:03:47 GMT
 cmstype: s
 cmsid: s1
 Content-Language: de-DE
 Access-Control-Allow-Origin: *
 Xkey: s1
 Cache-Control: max-age=60
-Expires: Mon, 09 Oct 2023 20:14:47 GMT
-Date: Mon, 09 Oct 2023 20:13:47 GMT
+Expires: Sat, 14 Oct 2023 20:05:12 GMT
+Date: Sat, 14 Oct 2023 20:04:12 GMT
 Connection: keep-alive
 Permissions-Policy: ch-ua-model=*,ch-ua-platform-version=*
 Accept-CH: sec-ch-ua-model,sec-ch-ua-platform-version

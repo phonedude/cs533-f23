@@ -20,7 +20,6 @@ cloudflare.com
 cnbc.com
 com.com
 creativecommons.org
-dictionary.com
 discord.com
 disney.com
 doi.org
@@ -28,7 +27,6 @@ dropcatch.com
 e-monsite.com
 esa.int
 evernote.com
-facebook.com
 fastcompany.com
 fifa.com
 files.wordpress.com
@@ -38,7 +36,6 @@ get.google.com
 gettyimages.com
 gofundme.com
 goo.gl
-google.com
 goodreads.com
 gravatar.com
 gstatic.com

@@ -1,6 +1,6 @@
 HTTP/1.1 301 Moved Permanently
 Server: nginx
-Date: Mon, 09 Oct 2023 20:14:16 GMT
+Date: Sat, 14 Oct 2023 20:04:37 GMT
 Content-Type: text/html
 Content-Length: 178
 Connection: keep-alive
@@ -9,7 +9,7 @@ Location: https://narod.ru/
 
 HTTP/1.1 200 OK
 Server: nginx
-Date: Mon, 09 Oct 2023 20:14:17 GMT
+Date: Sat, 14 Oct 2023 20:04:37 GMT
 Content-Type: text/html; charset=UTF-8
 Content-Length: 2024
 Last-Modified: Fri, 29 Sep 2023 11:25:23 GMT

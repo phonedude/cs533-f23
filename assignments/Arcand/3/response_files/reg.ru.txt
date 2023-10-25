@@ -1,6 +1,6 @@
 HTTP/1.1 301 Moved Permanently
 Server: nginx
-Date: Mon, 09 Oct 2023 20:14:38 GMT
+Date: Sat, 14 Oct 2023 20:05:00 GMT
 Content-Type: text/html
 Content-Length: 178
 Connection: keep-alive
@@ -8,7 +8,7 @@ Location: https://www.reg.ru/
 
 HTTP/1.1 200 OK
 Server: nginx
-Date: Mon, 09 Oct 2023 20:14:39 GMT
+Date: Sat, 14 Oct 2023 20:05:01 GMT
 Content-Type: text/html
 Content-Length: 282748
 Connection: keep-alive
@@ -20,7 +20,7 @@ Vary: Origin
 X-Xss-Protection: 1; mode=block
 x-amz-meta-md5chksum: 4LTooCTqKo2lI5S7Mba7jQ==
 x-amz-meta-mtime: 1696609162.87181932
-Expires: Mon, 09 Oct 2023 20:16:39 GMT
+Expires: Sat, 14 Oct 2023 20:07:01 GMT
 Cache-Control: max-age=120
 Accept-Ranges: bytes
 X-Frame-Options: Deny

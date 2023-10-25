@@ -11,17 +11,17 @@ Cache-Control: public,max-age=600
 Content-Security-Policy: upgrade-insecure-requests;
 Content-Type: text/html
 Location: https://www.springer.com/
-Server: Oscar Platform 0.1078.0
-X-Vcap-Request-Id: 84bf3fb0-3d11-45ff-6c95-09f0afbf30d4
+Server: Oscar Platform 0.1082.0
+X-Vcap-Request-Id: 153165d8-fde9-4c4a-537c-f0e7d47f2189
 Via: 1.1 google, 1.1 varnish
 X-Cdn-Origin: SNPaaS
 Accept-Ranges: bytes
-Date: Mon, 09 Oct 2023 20:14:48 GMT
-Age: 565
-X-Served-By: cache-atl18476-ATL
-X-Cache: HIT
-X-Cache-Hits: 1
-X-Timer: S1696882488.169800,VS0,VE1
+Date: Sat, 14 Oct 2023 20:05:12 GMT
+Age: 0
+X-Served-By: cache-atl18484-ATL
+X-Cache: MISS
+X-Cache-Hits: 0
+X-Timer: S1697313912.222586,VS0,VE107
 Vary: x-forwarded-host, upgrade-insecure-requests
 alt-svc: h3=":443";ma=86400,h3-29=":443";ma=86400,h3-27=":443";ma=86400
 
@@ -30,17 +30,17 @@ Connection: close
 Content-Length: 0
 Age: 0
 Location: https://www.springer.com/us
-Server: Oscar Platform 0.1078.0
+Server: Oscar Platform 0.1082.0
 Set-Cookie: springercomcountry=us; Path=/; Domain=springer.com
-X-Vcap-Request-Id: e66e6b6a-371d-46ed-455e-967180af16f9
+X-Vcap-Request-Id: 4d91fa54-153a-418d-750f-c77efc0c6303
 Via: 1.1 google, 1.1 varnish
 X-Cdn-Origin: SNPaaS
 Accept-Ranges: bytes
-Date: Mon, 09 Oct 2023 20:14:48 GMT
-X-Served-By: cache-21ede6d3-internal, cache-atl18490-ATL
+Date: Sat, 14 Oct 2023 20:05:12 GMT
+X-Served-By: cache-21ede6d3-internal, cache-atl18497-ATL
 X-Cache: MISS, MISS
 X-Cache-Hits: 0
-X-Timer: S1696882488.344605,VS0,VE117
+X-Timer: S1697313913.504690,VS0,VE116
 alt-svc: h3=":443";ma=86400,h3-29=":443";ma=86400,h3-27=":443";ma=86400
 
 HTTP/1.1 200 OK
@@ -49,17 +49,17 @@ Accept-Ranges: bytes
 Age: 0
 Cache-Control: private,must-revalidate,max-age=0,no-store
 Content-Type: text/html; charset=utf-8
-Server: Oscar Platform 0.1078.0
+Server: Oscar Platform 0.1082.0
 Set-Cookie: springercomcountry=us; Path=/; Domain=springer.com
 Strict-Transport-Security: max-age=31536000;preload
-X-Vcap-Request-Id: 05bf6171-a71e-4278-6213-443503245fce
+X-Vcap-Request-Id: 54723c4c-28ea-44c3-55b2-d7188e70d021
 Via: 1.1 google, 1.1 varnish
 X-Cdn-Origin: SNPaaS
-Date: Mon, 09 Oct 2023 20:14:48 GMT
-X-Served-By: cache-e3bb812c-internal, cache-atl18491-ATL
+Date: Sat, 14 Oct 2023 20:05:12 GMT
+X-Served-By: cache-e3bb812c-internal, cache-atl18457-ATL
 X-Cache: MISS, MISS
 X-Cache-Hits: 0
-X-Timer: S1696882489.616549,VS0,VE182
+X-Timer: S1697313913.739952,VS0,VE220
 Vary: Accept-Encoding
 alt-svc: h3=":443";ma=86400,h3-29=":443";ma=86400,h3-27=":443";ma=86400
 

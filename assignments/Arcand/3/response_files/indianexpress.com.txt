@@ -2,7 +2,7 @@ HTTP/1.1 301 Moved Permanently
 Server: AkamaiGHost
 Content-Length: 0
 Location: https://indianexpress.com/
-Date: Mon, 09 Oct 2023 20:14:03 GMT
+Date: Sat, 14 Oct 2023 20:04:27 GMT
 Connection: keep-alive
 
 HTTP/1.1 200 OK
@@ -15,8 +15,8 @@ Host-Header: a9130478a60e5f9135f765b23f26593b
 X-FRAME-OPTIONS: SAMEORIGIN
 Link: <https://indianexpress.com/wp-json/>; rel="https://api.w.org/"
 X-rq: atl1 123 242 443
-Cache-Control: must-revalidate, max-age=300
-Date: Mon, 09 Oct 2023 20:14:03 GMT
+Cache-Control: must-revalidate, max-age=128
+Date: Sat, 14 Oct 2023 20:04:27 GMT
 Connection: keep-alive
 Alt-Svc: h3=":443"; ma=93600
 

@@ -3,12 +3,12 @@ Content-Type: text/html
 Content-Length: 134
 Connection: keep-alive
 Server: awselb/2.0
-Date: Mon, 09 Oct 2023 20:12:29 GMT
+Date: Sat, 14 Oct 2023 20:01:38 GMT
 Location: https://academia.edu:443/
 X-Cache: Miss from cloudfront
-Via: 1.1 2b86b68b88bf2d52f91c28bd655accee.cloudfront.net (CloudFront)
+Via: 1.1 5c42606592ccd5dbe3b02deff8a08eda.cloudfront.net (CloudFront)
 X-Amz-Cf-Pop: ATL56-C1
-X-Amz-Cf-Id: n57vEHeThGMz0GJGYeNbTahGKrKKOjryEYNG4sIYdXlx5seAiMKCEA==
+X-Amz-Cf-Id: 3CUAF0KDwpulZqFxYxtDH_JiTOywZJ_netaiVsLqc8Q6-1pxh4BEEQ==
 X-Accelerating: The World's Research
 
 HTTP/1.1 301 Moved Permanently
@@ -16,18 +16,18 @@ Content-Type: text/html
 Content-Length: 134
 Connection: keep-alive
 Server: awselb/2.0
-Date: Mon, 09 Oct 2023 20:12:29 GMT
+Date: Sat, 14 Oct 2023 20:01:38 GMT
 Location: https://www.academia.edu:443/
 X-Cache: Miss from cloudfront
-Via: 1.1 50c161984e0792f4aa6097c4c43afbb4.cloudfront.net (CloudFront)
+Via: 1.1 53156c32646e5c327b8d0710201f38d8.cloudfront.net (CloudFront)
 X-Amz-Cf-Pop: ATL56-C1
-X-Amz-Cf-Id: zN76Xs7T7-Y6DuCxDctZ1ybNKmW8FUNaYQuWQFJakTEVgDrEQZjW0g==
+X-Amz-Cf-Id: w-dwvvKSasRoTjFuC0NerwX47EHT6tggyUeXzG7U-Jv4HNuy5NZPYQ==
 X-Accelerating: The World's Research
 
 HTTP/1.1 200 OK
 Content-Type: text/html; charset=utf-8
 Connection: keep-alive
-Date: Mon, 09 Oct 2023 20:12:30 GMT
+Date: Sat, 14 Oct 2023 20:01:38 GMT
 Server: nginx
 Vary: Accept-Encoding
 Status: 200 OK
@@ -41,22 +41,22 @@ X-Hit-User-Id:
 X-Hit-LoginStatus: 0
 X-Hit-Route: home#show
 Vary: Accept
-Set-Cookie: request_id=N7ryHr7gOrJLGK1vBfbjbm7MQJalnQaxjvmQ6wJRFi6g-3EWOlRliQ%3D%3D; max-age=600; secure
-Set-Cookie: overridden_user_tests=%7B%7D; domain=academia.edu; path=/; expires=Wed, 09 Oct 2024 20:12:30 GMT; secure
-Set-Cookie: auvid=MTY5Njg4MjM1MDI3OTowLjAyNjgyMDU3ODgyNTE4MzUxNg%3D%3D; domain=.academia.edu; path=/; expires=Wed, 09 Oct 2024 20:12:30 GMT; secure
+Set-Cookie: request_id=trWF4dY9qtFptmt-5G5JNEX4Af9uStd9f5zvKrZsuP-PADePqWR23A%3D%3D; max-age=600; secure
+Set-Cookie: overridden_user_tests=%7B%7D; domain=academia.edu; path=/; expires=Mon, 14 Oct 2024 20:01:38 GMT; secure
+Set-Cookie: auvid=MTY5NzMxMzY5ODU1OTowLjQ4MjY3MDQxODIyODg1NzM3; domain=.academia.edu; path=/; expires=Mon, 14 Oct 2024 20:01:38 GMT; secure
 Set-Cookie: single_request_tracker=null; domain=academia.edu; path=/; expires=Thu, 01 Jan 1970 00:00:00 GMT; secure
-Set-Cookie: last_load_time=1696882350; domain=.academia.edu; path=/; expires=Wed, 09 Oct 2024 20:12:30 GMT; secure
-Set-Cookie: _cookie_session=MVZaMXc3NFVpNzZUcEkxQUNBN1lsNmtFSk5nb1c3dXdoelYwRDRiWXdDSldxZTc2b0pFdVBTdS9EU1VrQVVsUk5JbzhMRGRHY2lZejdId2wwSGhaOVZPQzBsaW9Rb2xtcFJRdVRydE55bXZxM2Y2RkVJYXZ2WFNMRXV1SHBGTzJYcGZBRDJFQ28rWk5NcE8ySDFxL3JPWnA1b2J5TE9tbEZCajNCVDMzMFR1Z1FtWk82NXdrdHNNQXFIRWZaZDVScFh0MlYrMGVndDlmdFphckRZZEp1RHg3ZytMOW5neWdoUHVUL3dMWlR0ST0tLXVscThXYVdJck9qNGhJajFVNkVHYUE9PQ%3D%3D--692373cc45bc388b6cb5427e57f1c0f327ee5f6c; domain=.academia.edu; path=/; secure; HttpOnly; SameSite=None
+Set-Cookie: last_load_time=1697313698; domain=.academia.edu; path=/; expires=Mon, 14 Oct 2024 20:01:38 GMT; secure
+Set-Cookie: _cookie_session=Qm5SZVVyWklmR1dpUThsTlVycTl1UDhUdG1jb20zM3cvdFczcm9ZWHMvbGdWNnlndCsyeDBWNXNqbjB5a08zQ0RvUHllaDlDQS94cXRlS2QvK1ZLdDZhbFd6UGJGRk4vOXB2S0dYN1VQcWlmc0JRTFFJaldEMWIwZDNtWkR2OXQwZUtRSS9jMGIyRUkwYnBuNXFwVzUvenVhWThRQ3RnVU9uTi9Gb05aQmxGaVNSMjA0cWsyRmJKQ3VRRGRxdmRDQ3Vhd0EwbmhDenNsQXkwUk9hd3hoZ2ZNQnAzS2paR05RSHh1MlRWVDhYUT0tLStsb3FneUZUQlhGcnRZRExUNXdnb3c9PQ%3D%3D--c6b61d1db150b44ec5b4f91630f4312fe291db3f; domain=.academia.edu; path=/; secure; HttpOnly; SameSite=None
 X-Logged-In: false
 Cache-Control: max-age=0, private, must-revalidate
-X-Request-Id: ab477f88-3e7d-4d23-b40c-49ca173abb75
-X-Runtime: 0.155676
+X-Request-Id: 4a0cb9dc-008a-4d5d-b5fb-a42ffec2d0fd
+X-Runtime: 0.098395
 Strict-Transport-Security: max-age=63072000; includeSubDomains
 expires: 0
 pragma: no-cache
 X-Cache: Miss from cloudfront
-Via: 1.1 aa0fa064079716ae61c0ecfc2ec8da66.cloudfront.net (CloudFront)
+Via: 1.1 26275b77eb56740a48a71f66cd81d18a.cloudfront.net (CloudFront)
 X-Amz-Cf-Pop: ATL56-C1
-X-Amz-Cf-Id: N7ryHr7gOrJLGK1vBfbjbm7MQJalnQaxjvmQ6wJRFi6g-3EWOlRliQ==
+X-Amz-Cf-Id: trWF4dY9qtFptmt-5G5JNEX4Af9uStd9f5zvKrZsuP-PADePqWR23A==
 X-Accelerating: The World's Research
 
