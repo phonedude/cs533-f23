@@ -1,5 +1,24 @@
 ## Assignment 3 - Kumushini(01251889)
+​
+This directory contains details and an analysis of cookies set for 100 websites.
 
+### List of directories and files
+
+  *  [KTHEN001@ODU.EDU](KTHEN001@ODU.EDU)
+    -Assigned list of 100 websites
+
+  * **cookie_details_100_sites**
+    -Contain text files including curl responses for each website. 
+
+* **Code**
+  * [curl_output.sh](curl_output.sh)
+  * [cookie_report.py](cookie_report.py)
+  * [cookie_report_summary.py](cookie_report_summary.py)
+
+* **Output files**
+
+  * [cookie_report.csv](cookie_report.csv) - Output file from cookie_report.py
+  * [Data table](cookie_report_updated.csv) - **Cookie report** - updated table obtained from cookie_report.csv
 |    | url                   |   status_code |   total_cookies |   sum_http_only |   sum_secure |   sum_same_site |   sum_set_path | http_only                                                                                                                                                                                                                                                                                                                                                       | secure                                                                                                                                                                                                                                                                                                                                                                                     | same_site                                                                                                                                                                                                                                                                                                                                                                                           | path    |   same_site_none |   same_site_lax |   same_site_strict |
 |---:|:----------------------|--------------:|----------------:|----------------:|-------------:|----------------:|---------------:|:----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|:-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|:----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|:--------|-----------------:|----------------:|-------------------:|
 |  0 | addthis.com           |           405 |               0 |               0 |            0 |               0 |              0 | []                                                                                                                                                                                                                                                                                                                                                              | []                                                                                                                                                                                                                                                                                                                                                                                         | []                                                                                                                                                                                                                                                                                                                                                                                                  | nan     |                0 |               0 |                  0 |
@@ -99,26 +118,7 @@
 | 94 | youronlinechoices.com |           200 |               0 |               0 |            0 |               0 |              0 | []                                                                                                                                                                                                                                                                                                                                                              | []                                                                                                                                                                                                                                                                                                                                                                                         | []                                                                                                                                                                                                                                                                                                                                                                                                  | nan     |                0 |               0 |                  0 |
 | 95 | youtu.be              |           200 |               6 |               6 |            6 |               4 |              6 | [{'Cookie_1': 'Y'}, {'Cookie_2': 'Y'}, {'Cookie_3': 'Y'}, {'Cookie_4': 'Y'}, {'Cookie_5': 'Y'}, {'Cookie_6': 'Y'}]                                                                                                                                                                                                                                              | [{'Cookie_1': 'Yes'}, {'Cookie_2': 'Yes'}, {'Cookie_3': 'Yes'}, {'Cookie_4': 'Yes'}, {'Cookie_5': 'Yes'}, {'Cookie_6': 'Yes'}]                                                                                                                                                                                                                                                             | [{'Cookie_1': 'N_A'}, {'Cookie_2': ' none'}, {'Cookie_3': 'N_A'}, {'Cookie_4': ' none'}, {'Cookie_5': ' none'}, {'Cookie_6': ' lax'}]                                                                                                                                                                                                                                                               | Path=/; |                3 |               1 |                  0 |
 | 96 | zdf.de                |           200 |               0 |               0 |            0 |               0 |              0 | []                                                                                                                                                                                                                                                                                                                                                              | []                                                                                                                                                                                                                                                                                                                                                                                         | []                                                                                                                                                                                                                                                                                                                                                                                                  | nan     |                0 |               0 |                  0 |
-​
-This directory contains details and an analysis of cookies set for 100 websites.
 
-### List of directories and files
-
-  *  [KTHEN001@ODU.EDU](KTHEN001@ODU.EDU)
-    -Assigned list of 100 websites
-
-  * **cookie_details_100_sites**
-    -Contain text files including curl responses for each website. 
-
-* **Code**
-  * [curl_output.sh](curl_output.sh)
-  * [cookie_report.py](cookie_report.py)
-  * [cookie_report_summary.py](cookie_report_summary.py)
-
-* **Output files**
-
-  * [cookie_report.csv](cookie_report.csv) - Output file from cookie_report.py
-  * [Data table](cookie_report_updated.csv) - **Cookie report** - updated table obtained from cookie_report.csv
   * [Data table with error responses](cookie_report_errors.csv) - Table containing error responses
 
 *******
