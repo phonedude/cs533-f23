@@ -1,0 +1,24 @@
+> HTTP/1.1 200 OK
+> date: Fri, 06 Oct 2023 04:19:22 GMT
+> server: mw1475.eqiad.wmnet
+> last-modified: Mon, 18 Sep 2023 15:35:20 GMT
+> cache-control: s-maxage=86400, must-revalidate, max-age=3600
+> content-type: text/html
+> etag: W/"1514f-605a3e3d54982"
+> content-encoding: gzip
+> vary: Accept-Encoding
+> age: 35574
+> x-cache: cp1079 miss, cp1085 hit/348143
+> x-cache-status: hit-front
+> server-timing: cache;desc="hit-front", host;desc="cp1085"
+> strict-transport-security: max-age=106384710; includeSubDomains; preload
+> report-to: { "group": "wm_nel", "max_age": 604800, "endpoints": [{ "url": "https://intake-logging.wikimedia.org/v1/events?stream=w3c.reportingapi.network_error&schema_uri=/w3c/reportingapi/network_error/1.0.0" }] }
+> nel: { "report_to": "wm_nel", "max_age": 604800, "failure_fraction": 0.05, "success_fraction": 0.0}
+> set-cookie: WMF-Last-Access=06-Oct-2023;Path=/;HttpOnly;secure;Expires=Tue, 07 Nov 2023 12:00:00 GMT
+> set-cookie: WMF-Last-Access-Global=06-Oct-2023;Path=/;Domain=.wikipedia.org;HttpOnly;secure;Expires=Tue, 07 Nov 2023 12:00:00 GMT
+> set-cookie: GeoIP=US:VA:Newport_News:37.07:-76.50:v4; Path=/; secure; Domain=.wikipedia.org
+> set-cookie: NetworkProbeLimit=0.001;Path=/;Secure;Max-Age=3600
+> x-client-ip: 98.190.61.123
+> accept-ranges: bytes
+> content-length: 20367
+> 

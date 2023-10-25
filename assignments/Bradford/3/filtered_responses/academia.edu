@@ -1,0 +1,7 @@
+> HTTP/1.1 200 OK
+> Set-Cookie: request_id=oZt5oxA4jaPtPsC2F6JdVHrcyUPmj-4zBwJ1jJhyzJAskZ1X70Wxkw%3D%3D; max-age=600; secure
+> Set-Cookie: overridden_user_tests=%7B%7D; domain=academia.edu; path=/; expires=Sun, 06 Oct 2024 14:10:38 GMT; secure
+> Set-Cookie: auvid=MTY5NjYwMTQzODY2MzowLjQ1NTU5NDMyNTU0MTA5NTQ3; domain=.academia.edu; path=/; expires=Sun, 06 Oct 2024 14:10:38 GMT; secure
+> Set-Cookie: single_request_tracker=null; domain=academia.edu; path=/; expires=Thu, 01 Jan 1970 00:00:00 GMT; secure
+> Set-Cookie: last_load_time=1696601438; domain=.academia.edu; path=/; expires=Sun, 06 Oct 2024 14:10:38 GMT; secure
+> Set-Cookie: _cookie_session=WUMwc0s3RjREOStjcFNmUDFTeVN4Q2NCUjhRWEdoTlhXUXhkTENLSFNiYnBhdDBCZjZzVEVsZkFSRzJwYXl1Y0dXYTdIUnArci9pdWRQNTRFVEN3Qk14NWI3a29Da1Q2Ly9QbzZ6cXhuTVJxVEVrR1JyVEFlS1NhekZ2QkdqS05EVHNxODd4RXNLeGlvWDBWVDdEVzE5bjFyMWR4MXFkbGczSzdVR1ZYekRRa3p1TVpucVE1bmVscGRHMDVPenUxLzlrTXZaRGdybkRpK0pkN1JBVVhCTVRvQ1FhTVBZQUQwRkNRcDFlRDN5MD0tLVUzYkZEY3RiekZiUG5XVVdrNVdOOXc9PQ%3D%3D--584ef213ec8721a4114c75e050ffbfb5b3d2ada1; domain=.academia.edu; path=/; secure; HttpOnly; SameSite=None

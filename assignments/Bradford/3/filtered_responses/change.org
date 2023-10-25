@@ -1,0 +1,4 @@
+> HTTP/1.1 200 OK
+> set-cookie: _change_session=5a2aadd2260695140ef73f8063957b9a; Path=/; HttpOnly; Secure; SameSite=Lax
+> set-cookie: _change_lang=%7B%22locale%22%3A%22en-US%22%2C%22countryCode%22%3A%22US%22%7D; Max-Age=86400; Path=/; Expires=Sat, 07 Oct 2023 14:10:47 GMT; Secure; SameSite=Strict
+> set-cookie: __cfruid=59d1f152e3e61b2fb742f80099f59a680d63f60d-1696601447; path=/; domain=.change.org; HttpOnly; Secure; SameSite=None

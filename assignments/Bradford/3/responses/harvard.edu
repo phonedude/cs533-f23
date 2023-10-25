@@ -1,0 +1,27 @@
+> HTTP/1.1 200 OK
+> Connection: keep-alive
+> Content-Length: 57666
+> Cache-Control: public, max-age=1200
+> Content-Encoding: gzip
+> Content-Type: text/html; charset=UTF-8
+> Link: <https://www.harvard.edu/>; rel=shortlink
+> Permissions-Policy: geolocation=(self)
+> Referrer-Policy: no-referrer-when-downgrade
+> Server: nginx
+> Strict-Transport-Security: max-age=31622400
+> X-Content-Type-Options: nosniff
+> X-Frame-Options: SAMEORIGIN
+> X-Pantheon-Styx-Hostname: styx-fe1-a-685d4d5969-rh5q5
+> X-Pingback: https://www.harvard.edu/xmlrpc.php
+> X-Styx-Req-Id: 6c206395-644f-11ee-b5ff-feb851941f53
+> X-Xss-Protection: 1; mode=block
+> Age: 1187
+> Accept-Ranges: bytes
+> Via: 1.1 varnish, 1.1 varnish, 1.1 varnish, 1.1 varnish
+> Date: Fri, 06 Oct 2023 14:11:03 GMT
+> X-Served-By: cache-chi-klot8100144-CHI, cache-iad-kjyo7100042-IAD, cache-iad-kjyo7100042-IAD, cache-iad-kiad7000111-IAD
+> X-Cache: HIT, HIT, MISS, MISS
+> X-Cache-Hits: 2, 123, 0, 0
+> X-Timer: S1696601464.925922,VS0,VE7
+> Vary: Accept-Encoding, Cookie, Cookie, orig-host
+> 
