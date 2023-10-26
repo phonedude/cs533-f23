@@ -33,6 +33,7 @@ Mapping the terminating response codes to sites
 
 | Website              | Response Code |
 | ---------------------- | --- |
+| abc.net.au             | 200           |
 | about.com              | 200 |
 | abril.com.br           | 200 |
 | academia.edu           | 403 |
