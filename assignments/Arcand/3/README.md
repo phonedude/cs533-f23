@@ -168,6 +168,7 @@ planalto.gov.br
 Kind of error it gave: Connection reset -> Connection Reset (curl: (56) Recv failure: Connection was reset).
 
 New, single table with 97 rows:
+Each row has for columns: host, the status code, the number of cookies
 
 | host                   | status code | number of cookies |
 | ---------------------- | ----------- | ----------------- |
@@ -268,3 +269,9 @@ New, single table with 97 rows:
 | vk.com                 | 418         | 0                 |
 | zendesk.com            | 403         | 1                 |
 | zoom.us                | 200         | 12                |
+
+Extra Credit
+
+The literary reference "It's turtles all the way down" originates from a hypothetical cosmological concept involving the idea that the Earth is supported by a sequence of cosmic turtles stacked upon one another, with no end in sight.
+
+In the context of the class slides, "It's turtles all the way down" refers to a scenario in which a malicious actor could use recursive frames to exploit web pages. This technique could be used to evade same-origin policies for a web page, creating a cascading sequence of embedded frames, much like the concept of turtles stacked on top of each other in the literary reference.
