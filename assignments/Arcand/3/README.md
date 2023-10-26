@@ -159,7 +159,6 @@ Kind of error it gave: Time out -> It took longer than 60 seconds to load.
 nokia.com
 
 <img src="images/7.png" width="700">
-<img src="images/8.png" width="700">
 Kind of error it gave: Time out -> It took longer than 60 seconds to load.
 
 planalto.gov.br
@@ -167,3 +166,105 @@ planalto.gov.br
 <img src="images/9.png" width="700">
 <img src="images/10.png" width="700">
 Kind of error it gave: Connection reset -> Connection Reset (curl: (56) Recv failure: Connection was reset).
+
+New, single table with 97 rows:
+
+| host                   | status code | number of cookies |
+| ---------------------- | ----------- | ----------------- |
+| abc.net.au             | 200         | 3                 |
+| about.com              | 200         | 0                 |
+| abril.com.br           | 200         | 1                 |
+| academia.edu           | 403         | 6                 |
+| addthis.com            | 200         | 0                 |
+| adobe.com              | 405         | 0                 |
+| adssettings.google.com | 200         | 4                 |
+| afternic.com           | 200         | 4                 |
+| amazon.co.uk           | 200         | 0                 |
+| asahi.com              | 405         | 0                 |
+| biglobe.ne.jp          | 200         | 0                 |
+| bloomberg.com          | 200         | 1                 |
+| bp0.blogger.com        | 400         | 0                 |
+| bp1.blogger.com        | 400         | 0                 |
+| britannica.com         | 400         | 0                 |
+| calendar.google.com    | 200         | 1                 |
+| cdc.gov                | 200         | 3                 |
+| clarin.com             | 200         | 2                 |
+| cloudflare.com         | 200         | 2                 |
+| cnbc.com               | 503         | 0                 |
+| com.com                | 200         | 0                 |
+| creativecommons.org    | 200         | 0                 |
+| discord.com            | 200         | 6                 |
+| disney.com             | 200         | 0                 |
+| doi.org                | 200         | 0                 |
+| dropcatch.com          | 200         | 0                 |
+| e-monsite.com          | 200         | 0                 |
+| esa.int                | 200         | 0                 |
+| evernote.com           | 200         | 0                 |
+| fastcompany.com        | 200         | 1                 |
+| fifa.com               | 403         | 0                 |
+| files.wordpress.com    | 401         | 0                 |
+| focus.de               | 200         | 0                 |
+| ft.com                 | 200         | 1                 |
+| get.google.com         | 200         | 3                 |
+| gettyimages.com        | 200         | 0                 |
+| gofundme.com           | 200         | 4                 |
+| goo.gl                 | 200         | 0                 |
+| goodreads.com          | 200         | 3                 |
+| gravatar.com           | 200         | 0                 |
+| gstatic.com            | 200         | 0                 |
+| home.pl                | 404         | 0                 |
+| howstuffworks.com      | 200         | 0                 |
+| huawei.com             | 200         | 0                 |
+| hubspot.com            | 200         | 3                 |
+| ietf.org               | 200         | 0                 |
+| ign.com                | 403         | 1                 |
+| indianexpress.com      | 200         | 0                 |
+| lg.com                 | 200         | 0                 |
+| liveinternet.ru        | 200         | 0                 |
+| loc.gov                | 200         | 0                 |
+| m.wikipedia.org        | 200         | 0                 |
+| maps.google.com        | 200         | 5                 |
+| mediafire.com          | 200         | 3                 |
+| mirror.co.uk           | 200         | 3                 |
+| mozilla.com            | 200         | 0                 |
+| mozilla.org            | 200         | 0                 |
+| myaccount.google.com   | 200         | 3                 |
+| namecheap.com          | 200         | 3                 |
+| narod.ru               | 200         | 0                 |
+| nature.com             | 200         | 4                 |
+| nginx.com              | 200         | 0                 |
+| nydailynews.com        | 200         | 0                 |
+| nytimes.com            | 200         | 7                 |
+| ok.ru                  | 200         | 3                 |
+| ovh.com                | 200         | 0                 |
+| ox.ac.uk               | 200         | 0                 |
+| php.net                | 200         | 2                 |
+| pinterest.com          | 200         | 0                 |
+| play.google.com        | 200         | 4                 |
+| plus.google.com        | 200         | 0                 |
+| pt.wikipedia.org       | 200         | 0                 |
+| reg.ru                 | 200         | 0                 |
+| ru.wikipedia.org       | 200         | 0                 |
+| sakura.ne.jp           | 200         | 0                 |
+| sky.com                | 200         | 3                 |
+| slideshare.net         | 200         | 3                 |
+| soundcloud.com         | 200         | 0                 |
+| springer.com           | 200         | 2                 |
+| ssl-images-amazon.com  | 200         | 0                 |
+| support.google.com     | 404         | 2                 |
+| t.co                   | 200         | 0                 |
+| techcrunch.com         | 200         | 0                 |
+| ted.com                | 200         | 4                 |
+| themeforest.net        | 200         | 3                 |
+| twitter.com            | 403         | 0                 |
+| uol.com.br             | 200         | 0                 |
+| vkontakte.ru           | 418         | 0                 |
+| wa.me                  | 200         | 0                 |
+| wikihow.com            | 200         | 1                 |
+| www.wix.com            | 200         | 3                 |
+| yadi.sk                | 200         | 0                 |
+| youtu.be               | 200         | 3                 |
+| ytimg.com              | 403         | 6                 |
+| vk.com                 | 418         | 0                 |
+| zendesk.com            | 403         | 1                 |
+| zoom.us                | 200         | 12                |
