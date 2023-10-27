@@ -1,0 +1,40 @@
+HTTP/1.1 301 Moved Permanently
+Date: Mon, 16 Oct 2023 18:06:57 GMT
+Connection: keep-alive
+Cache-Control: max-age=3600
+Expires: Mon, 16 Oct 2023 19:06:57 GMT
+Location: https://discord.com/
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=FBLGMe9KeJ8IlhSWWK0uY7Z78%2B8x%2BjF44h4%2B9B0QXW5%2BcQxSnWHy9IsKmv%2BiAcCC0hQ4POTFuldik1CyogzyLkCiMBkJxvQTQR5Cr2VJjpjHRwMuECQrEXB5JEQE"}],"group":"cf-nel","max_age":604800}
+NEL: {"success_fraction":0,"report_to":"cf-nel","max_age":604800}
+X-Content-Type-Options: nosniff
+Set-Cookie: __cfruid=46770f56869112b07f6066a4db69a74f17507ae9-1697479617; path=/; domain=.discord.com; HttpOnly
+Set-Cookie: _cfuvid=MF1H67aEVudpciDHY4IhB2DhQizDtvEYkLnR8Mf8lU4-1697479617658-0-604800000; path=/; domain=.discord.com; HttpOnly
+Server: cloudflare
+CF-RAY: 81723d1a4aadadb0-ATL
+alt-svc: h3=":443"; ma=86400
+
+HTTP/1.1 200 OK
+Date: Mon, 16 Oct 2023 18:06:57 GMT
+Content-Type: text/html
+Connection: keep-alive
+CF-Ray: 81723d1b7a1f44d6-ATL
+CF-Cache-Status: HIT
+Accept-Ranges: bytes
+Cache-Control: private
+Last-Modified: Fri, 13 Oct 2023 23:48:44 GMT
+Set-Cookie: __dcfduid=cbdde5706c4e11ee8db91bb5d94ccb55; Expires=Sat, 14 Oct 2028 18:06:57 GMT; Max-Age=157680000; Path=/; Secure; HttpOnly; SameSite=Lax
+Strict-Transport-Security: max-age=31536000; includeSubDomains; preload
+Content-Security-Policy: default-src 'self'; script-src 'self' 'unsafe-inline' 'nonce-MjYsODEsMTM4LDIwNSwxMjcsNDAsMjM1LDE3NA==' https://discord.com https://www.googletagmanager.com https://connect.facebook.net https://www.google-analytics.com https://ssl.google-analytics.com https://www.gstatic.com/recaptcha/ https://www.google.com/recaptcha/ https://recaptcha.net/recaptcha/ https://hcaptcha.com https://*.hcaptcha.com https://s.ytimg.com/yts/jsbin/ https://www.youtube.com/iframe_api https://geolocation.onetrust.com/cookieconsentpub/v1/geo/location; style-src 'self' 'unsafe-inline' https://fonts.googleapis.com https://*.hcaptcha.com https://hcaptcha.com; img-src 'self' https://www.google-analytics.com https://www.googletagmanager.com https://www.facebook.com https://cdn.discordapp.com https://hackerone-api.discord.workers.dev/user-avatars/ https://safety.discord.com https://discordmoderatoracademy.zendesk.com; font-src 'self' https://fonts.gstatic.com; connect-src 'self' https://discordapp.com https://discord.com https://connect.facebook.net https://api.greenhouse.io https://api.github.com https://sentry.io https://www.google-analytics.com https://hackerone-api.discord.workers.dev https://*.hcaptcha.com https://hcaptcha.com https://geolocation.onetrust.com/cookieconsentpub/v1/geo/location ws://127.0.0.1:* http://127.0.0.1:*; media-src 'self' https://cdn.discordapp.com/assets/; frame-src https://discordapp.com/domain-migration https://www.google.com/recaptcha/ https://recaptcha.net/recaptcha/ https://*.hcaptcha.com https://hcaptcha.com https://www.youtube.com/embed/ https://hackerone.com/631fba12-9388-43c3-8b48-348f11a883c0/ https://10851314.fls.doubleclick.net/;
+Permissions-Policy: interest-cohort=()
+X-Build-Id: b13ff414c9be225908c0151782592e4a72607d39
+X-Content-Type-Options: nosniff
+X-Frame-Options: DENY
+X-XSS-Protection: 1; mode=block
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=RfTiDRkZje1gAVpdBkvtHOzWif6Cfz4DnzaCq5N4jfNjFpa0lMSBRhI8iIQ7Nb7PWHNnJ%2BbKTuG5WcVeDFPb2liIwL5%2Bmd7wp5KgvPLZjWJQCTE50HJUa2%2FaoYKT"}],"group":"cf-nel","max_age":604800}
+NEL: {"success_fraction":0,"report_to":"cf-nel","max_age":604800}
+Set-Cookie: __sdcfduid=cbdde5716c4e11ee8db91bb5d94ccb55050b56c5fd8c3f4d3c77ca263a3818dca60e88e4da659e28f9d3d2703b63c4d3; Expires=Sat, 14 Oct 2028 18:06:57 GMT; Max-Age=157680000; Path=/; Secure; HttpOnly; SameSite=Lax
+Set-Cookie: __cfruid=46770f56869112b07f6066a4db69a74f17507ae9-1697479617; path=/; domain=.discord.com; HttpOnly; Secure; SameSite=None
+Set-Cookie: _cfuvid=feQlHjTEkxnIAVQm2kByRE2URH7kfMB9GhcCoRdMYZg-1697479617866-0-604800000; path=/; domain=.discord.com; HttpOnly; Secure; SameSite=None
+Server: cloudflare
+alt-svc: h3=":443"; ma=86400
+

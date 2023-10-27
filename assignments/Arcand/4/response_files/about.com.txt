@@ -1,0 +1,59 @@
+HTTP/1.1 301 Moved Permanently
+Connection: keep-alive
+Content-Length: 232
+Content-Type: text/html; charset=iso-8859-1
+Location: https://www.dotdash.com/
+Server: Apache/2.4.56 (Amazon) OpenSSL/1.0.2k-fips
+Via: 1.1 varnish, 1.1 varnish
+Accept-Ranges: bytes
+Date: Mon, 16 Oct 2023 18:06:25 GMT
+Age: 464478
+cache-control: max-age=3600
+X-Served-By: cache-iad-kjyo7100077-IAD, cache-pdk-kpdk1780087-PDK
+X-Cache: HIT, HIT
+X-Cache-Hits: 6749, 192
+X-Timer: S1697479586.513288,VS0,VE0
+
+HTTP/1.1 301 Moved Permanently
+Connection: close
+Content-Length: 0
+Server: Varnish
+Retry-After: 0
+Location: https://www.dotdashmeredith.com/
+Accept-Ranges: bytes
+Date: Mon, 16 Oct 2023 18:06:25 GMT
+Via: 1.1 varnish
+cache-control: max-age=60
+X-Served-By: cache-atl18453-ATL
+X-Cache: HIT
+X-Cache-Hits: 0
+X-Timer: S1697479586.886588,VS0,VE0
+
+HTTP/1.1 200 OK
+Connection: keep-alive
+Content-Length: 130276
+etag: "1fce4-f+D45IRRGXloZEZ5yVshF9H3f7c"
+x-download-options: noopen
+strict-transport-security: max-age=15552000; includeSubDomains
+x-frame-options: SAMEORIGIN
+referrer-policy: no-referrer
+x-sigsci-agentresponse: 200
+x-xss-protection: 0
+x-content-type-options: nosniff
+content-security-policy: script-src 'sha256-7HTkqKjSY2WBs3+tMOsL7y18FCEYBob3Jn1tq99Cn+E=' 'self' jobs.jobvite.com www.googletagmanager.com
+x-sigsci-tags: DATACENTER,site.dotdashmeredith
+content-type: text/html; charset=utf-8
+x-permitted-cross-domain-policies: none
+x-sigsci-decision-ms: 9
+expect-ct: max-age=0
+x-dns-prefetch-control: off
+Via: 1.1 varnish, 1.1 varnish
+Accept-Ranges: bytes
+Date: Mon, 16 Oct 2023 18:06:26 GMT
+Age: 524630
+cache-control: max-age=60
+X-Served-By: cache-iad-kiad7000075-IAD, cache-iad-kiad7000075-IAD, cache-pdk-kpdk1780121-PDK
+X-Cache: HIT, HIT
+X-Cache-Hits: 118, 1
+Vary: Accept-Encoding
+

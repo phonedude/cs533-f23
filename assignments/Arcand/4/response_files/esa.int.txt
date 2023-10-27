@@ -1,0 +1,38 @@
+HTTP/1.1 301 Moved Permanently
+Date: Mon, 16 Oct 2023 18:07:03 GMT
+Server: Apache
+Strict-Transport-Security: max-age=604800
+Location: https://esa.int/
+Connection: close
+Content-Type: text/html; charset=iso-8859-1
+
+HTTP/1.1 301 Moved Permanently
+Date: Mon, 16 Oct 2023 18:07:03 GMT
+Server: Apache
+Strict-Transport-Security: max-age=604800
+Location: https://www.esa.int/
+Cache-Control: max-age=600
+Expires: Mon, 16 Oct 2023 18:17:03 GMT
+Connection: close
+Content-Type: text/html; charset=iso-8859-1
+
+HTTP/1.1 200 OK
+Connection: keep-alive
+Content-Length: 55650
+Expires: Mon, 16 Oct 2023 18:11:50 GMT
+Served-by: www.esa.int
+Content-language: en-GB
+Strict-Transport-Security: max-age=604800
+Cache-Control: max-age=600
+Last-Modified: Mon, 16 Oct 2023 18:02:20 GMT
+Content-Type: text/html; charset=utf-8
+Via: 1.1 varnish, 1.1 varnish
+Accept-Ranges: bytes
+Date: Mon, 16 Oct 2023 18:07:04 GMT
+Age: 283
+X-Served-By: cache-par-lfpg1960064-PAR, cache-atl18499-ATL
+X-Cache: HIT, MISS
+X-Cache-Hits: 7, 0
+X-Timer: S1697479624.120669,VS0,VE332
+Vary: Accept-Encoding,Origin
+

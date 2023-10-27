@@ -1,0 +1,24 @@
+HTTP/1.1 301 Moved Permanently
+Server: nginx
+Date: Mon, 16 Oct 2023 18:08:21 GMT
+Content-Type: text/html
+Content-Length: 162
+Connection: keep-alive
+Location: https://www.zendesk.com/
+X-Zendesk-Zorg: yes
+X-Request-ID: 8dcb50df9fe50ca5c97edafda1297602
+
+HTTP/1.1 403 Forbidden
+Date: Mon, 16 Oct 2023 18:08:21 GMT
+Content-Type: text/html; charset=UTF-8
+Content-Length: 4542
+Connection: keep-alive
+X-Frame-Options: SAMEORIGIN
+Referrer-Policy: same-origin
+Cache-Control: max-age=15
+Expires: Mon, 16 Oct 2023 18:08:36 GMT
+Set-Cookie: __cf_bm=9Z41O3Grebc74o1Mn58nRsAb.p9mDOeYYzlQopWPyyg-1697479701-0-Aes+kq2cVy7nOGbM+nq7rirzo+t8cWaD3Gfi7FVC5R3x3/ZgRiR6/qqhOTeYn/hZ1qfhTjo64wDoAxJT/azNsB4=; path=/; expires=Mon, 16-Oct-23 18:38:21 GMT; domain=.www.zendesk.com; HttpOnly; Secure; SameSite=None
+Strict-Transport-Security: max-age=0; preload
+Server: cloudflare
+CF-RAY: 81723f28f9ba3b3b-IAD
+
