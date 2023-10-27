@@ -23,6 +23,7 @@ get_responses.sh creates the response files.
 The README.md helps explain the assignment and provide documentation.
 website_list.txt is a list of the 100 unique, random websites from Mozilla's Top 500 Sites I was assigned excluding sites that give errors.
 
+Instruction 0: The report will primarily contain a giant table summarizing the 100 sites:
 Here is my table.
 
 | Termination Status Codes | For each site, the number of different cookies that are set. | How many cookies set HttpOnly? | How many cookies set Secure? | How many cookies set SameSite? | How many are Strict? | How many are Lax? | How many are None? | How many cookies set a Path? | How many of those are values other than "/"? | Min number of cookies | Max number of cookies | Mean number of cookies | Median number of cookies |
@@ -30,6 +31,7 @@ Here is my table.
 | ['200', '200', '403', '200', '405', '200', '200', '200', '405', '200', '200', '200', '400', '400', '200', '200', '302', '200', '200', '503', '200', '302', '200', '200', '200', '200', '200', '200', '200', '403', '401', '200', '200', '200', '200', '200', '200', '200', '200', '200', '404', '200', '200', '200', '200', '200', '302', '200', '200', '200', '200', '200', '302', '200', '200', '200', '200', '200', '200', '200', '200', '200', '200', '200', '200', '200', '200', '200', '308', '302', '200', '200', '200', '200', '200', '302', '200', '200', '200', '404', '200', '200', '200', '200', '403', '200', '418', '200', '200', '200', '200', '200', '403', '200'] | [3, 0, 1, 6, 0, 0, 4, 4, 0, 0, 0, 1, 0, 0, 0, 1, 3, 2, 2, 0, 0, 0, 6, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 1, 3, 0, 4, 0, 3, 0, 0, 0, 0, 0, 3, 0, 1, 0, 0, 0, 0, 0, 5, 3, 3, 0, 0, 3, 3, 0, 4, 0, 0, 7, 3, 0, 0, 2, 0, 4, 0, 0, 0, 0, 0, 3, 3, 0, 2, 0, 2, 0, 0, 4, 3, 0, 0, 0, 0, 1, 3, 0, 3, 6, 0, 1, 12] | 61 | 47 | 33 | 0 | 9 | 24 | 50 | 0 | 0 | 12 | 1.3 | 0 |
 
 Mapping the terminating response codes to sites
+Instruction 1: The terminating status codes for each site.
 
 | Website              | Response Code |
 | ---------------------- | --- |
@@ -169,7 +171,9 @@ Kind of error it gave: Connection reset -> Connection Reset (curl: (56) Recv fai
 
 New, single table with 97 rows:
 Each row has for columns: host, the status code, the number of cookies
+Instruction: The terminating status codes for each site. Note this is the final status code, not the 301s, 302, etc. that you may encounter on your way to the final status code. More on that below. For each site, the number of different cookies that are set. Keep in mind that each HTTP reponse can have multiple "Set-Cookie:" headers.
 
+Instruction 2: For each site, the number of different cookies that are set.
 | host                   | status code | number of cookies |
 | ---------------------- | ----------- | ----------------- |
 | abc.net.au             | 200         | 3                 |
@@ -269,6 +273,886 @@ Each row has for columns: host, the status code, the number of cookies
 | vk.com                 | 418         | 0                 |
 | zendesk.com            | 403         | 1                 |
 | zoom.us                | 200         | 12                |
+Instruction 3: For each cookie, extract the attributes: HttpOnly, Secure, SameSite (and the corresponding policy), Path (and the corresponding value).
+Cookie Attributes:
+Response 1:
+  Cookie 1:
+    HttpOnly: False
+    Secure: False
+    SameSite: None
+    Path: None
+
+  Cookie 2:
+    HttpOnly: False
+    Secure: False
+    SameSite: None
+    Path: None
+
+  Cookie 3:
+    HttpOnly: False
+    Secure: False
+    SameSite: None
+    Path: None
+
+Response 2:
+Response 3:
+  Cookie 1:
+    HttpOnly: False
+    Secure: False
+    SameSite: None
+    Path: None
+
+Response 4:
+  Cookie 1:
+    HttpOnly: False
+    Secure: False
+    SameSite: None
+    Path: None
+
+  Cookie 2:
+    HttpOnly: False
+    Secure: False
+    SameSite: None
+    Path: None
+
+  Cookie 3:
+    HttpOnly: False
+    Secure: False
+    SameSite: None
+    Path: None
+
+  Cookie 4:
+    HttpOnly: False
+    Secure: False
+    SameSite: None
+    Path: None
+
+  Cookie 5:
+    HttpOnly: False
+    Secure: False
+    SameSite: None
+    Path: None
+
+  Cookie 6:
+    HttpOnly: True
+    Secure: False
+    SameSite: none
+    Path: None
+
+Response 5:
+Response 6:
+Response 7:
+  Cookie 1:
+    HttpOnly: True
+    Secure: False
+    SameSite: None
+    Path: None
+
+  Cookie 2:
+    HttpOnly: True
+    Secure: False
+    SameSite: None
+    Path: None
+
+  Cookie 3:
+    HttpOnly: False
+    Secure: True
+    SameSite: None
+    Path: None
+
+  Cookie 4:
+    HttpOnly: False
+    Secure: True
+    SameSite: None
+    Path: None
+
+Response 8:
+  Cookie 1:
+    HttpOnly: False
+    Secure: False
+    SameSite: None
+    Path: None
+
+  Cookie 2:
+    HttpOnly: False
+    Secure: False
+    SameSite: None
+    Path: None
+
+  Cookie 3:
+    HttpOnly: False
+    Secure: True
+    SameSite: None
+    Path: /
+
+  Cookie 4:
+    HttpOnly: False
+    Secure: False
+    SameSite: None
+    Path: /
+
+Response 9:
+Response 10:
+Response 11:
+Response 12:
+  Cookie 1:
+    HttpOnly: False
+    Secure: False
+    SameSite: None
+    Path: None
+
+Response 13:
+Response 14:
+Response 15:
+Response 16:
+  Cookie 1:
+    HttpOnly: True
+    Secure: False
+    SameSite: None
+    Path: None
+
+Response 17:
+  Cookie 1:
+    HttpOnly: True
+    Secure: True
+    SameSite: None
+    Path: /
+
+  Cookie 2:
+    HttpOnly: False
+    Secure: False
+    SameSite: None
+    Path: None
+
+  Cookie 3:
+    HttpOnly: False
+    Secure: False
+    SameSite: None
+    Path: None
+
+Response 18:
+  Cookie 1:
+    HttpOnly: True
+    Secure: False
+    SameSite: none
+    Path: None
+
+  Cookie 2:
+    HttpOnly: True
+    Secure: True
+    SameSite: none
+    Path: None
+
+Response 19:
+  Cookie 1:
+    HttpOnly: True
+    Secure: False
+    SameSite: none
+    Path: None
+
+  Cookie 2:
+    HttpOnly: True
+    Secure: True
+    SameSite: none
+    Path: None
+
+Response 20:
+Response 21:
+Response 22:
+Response 23:
+  Cookie 1:
+    HttpOnly: True
+    Secure: False
+    SameSite: None
+    Path: None
+
+  Cookie 2:
+    HttpOnly: True
+    Secure: False
+    SameSite: None
+    Path: None
+
+  Cookie 3:
+    HttpOnly: True
+    Secure: True
+    SameSite: lax
+    Path: /
+
+  Cookie 4:
+    HttpOnly: True
+    Secure: True
+    SameSite: lax
+    Path: /
+
+  Cookie 5:
+    HttpOnly: True
+    Secure: True
+    SameSite: none
+    Path: None
+
+  Cookie 6:
+    HttpOnly: True
+    Secure: True
+    SameSite: none
+    Path: None
+
+Response 24:
+Response 25:
+Response 26:
+Response 27:
+Response 28:
+Response 29:
+Response 30:
+  Cookie 1:
+    HttpOnly: False
+    Secure: True
+    SameSite: lax
+    Path: /
+
+Response 31:
+Response 32:
+Response 33:
+Response 34:
+  Cookie 1:
+    HttpOnly: False
+    Secure: False
+    SameSite: None
+    Path: /
+
+Response 35:
+  Cookie 1:
+    HttpOnly: False
+    Secure: True
+    SameSite: None
+    Path: None
+
+  Cookie 2:
+    HttpOnly: True
+    Secure: True
+    SameSite: lax
+    Path: None
+
+  Cookie 3:
+    HttpOnly: True
+    Secure: False
+    SameSite: None
+    Path: None
+
+Response 36:
+Response 37:
+  Cookie 1:
+    HttpOnly: False
+    Secure: False
+    SameSite: None
+    Path: None
+
+  Cookie 2:
+    HttpOnly: False
+    Secure: False
+    SameSite: None
+    Path: None
+
+  Cookie 3:
+    HttpOnly: False
+    Secure: False
+    SameSite: None
+    Path: None
+
+  Cookie 4:
+    HttpOnly: False
+    Secure: False
+    SameSite: None
+    Path: None
+
+Response 38:
+Response 39:
+  Cookie 1:
+    HttpOnly: False
+    Secure: False
+    SameSite: None
+    Path: None
+
+  Cookie 2:
+    HttpOnly: False
+    Secure: False
+    SameSite: None
+    Path: None
+
+  Cookie 3:
+    HttpOnly: True
+    Secure: False
+    SameSite: None
+    Path: None
+
+Response 40:
+Response 41:
+Response 42:
+Response 43:
+Response 44:
+Response 45:
+  Cookie 1:
+    HttpOnly: True
+    Secure: False
+    SameSite: none
+    Path: None
+
+  Cookie 2:
+    HttpOnly: True
+    Secure: True
+    SameSite: none
+    Path: None
+
+  Cookie 3:
+    HttpOnly: True
+    Secure: True
+    SameSite: none
+    Path: None
+
+Response 46:
+Response 47:
+  Cookie 1:
+    HttpOnly: False
+    Secure: False
+    SameSite: None
+    Path: None
+
+Response 48:
+Response 49:
+Response 50:
+Response 51:
+Response 52:
+Response 53:
+  Cookie 1:
+    HttpOnly: False
+    Secure: True
+    SameSite: None
+    Path: None
+
+  Cookie 2:
+    HttpOnly: True
+    Secure: True
+    SameSite: lax
+    Path: None
+
+  Cookie 3:
+    HttpOnly: True
+    Secure: False
+    SameSite: None
+    Path: None
+
+  Cookie 4:
+    HttpOnly: False
+    Secure: True
+    SameSite: None
+    Path: None
+
+  Cookie 5:
+    HttpOnly: True
+    Secure: False
+    SameSite: None
+    Path: None
+
+Response 54:
+  Cookie 1:
+    HttpOnly: True
+    Secure: False
+    SameSite: none
+    Path: None
+
+  Cookie 2:
+    HttpOnly: True
+    Secure: False
+    SameSite: None
+    Path: None
+
+  Cookie 3:
+    HttpOnly: True
+    Secure: True
+    SameSite: none
+    Path: None
+
+Response 55:
+  Cookie 1:
+    HttpOnly: False
+    Secure: False
+    SameSite: None
+    Path: /
+
+  Cookie 2:
+    HttpOnly: False
+    Secure: False
+    SameSite: None
+    Path: /
+
+  Cookie 3:
+    HttpOnly: False
+    Secure: False
+    SameSite: None
+    Path: /
+
+Response 56:
+Response 57:
+Response 58:
+  Cookie 1:
+    HttpOnly: True
+    Secure: False
+    SameSite: None
+    Path: None
+
+  Cookie 2:
+    HttpOnly: True
+    Secure: False
+    SameSite: None
+    Path: None
+
+  Cookie 3:
+    HttpOnly: True
+    Secure: False
+    SameSite: None
+    Path: None
+
+Response 59:
+  Cookie 1:
+    HttpOnly: True
+    Secure: False
+    SameSite: lax
+    Path: None
+
+  Cookie 2:
+    HttpOnly: False
+    Secure: False
+    SameSite: None
+    Path: None
+
+  Cookie 3:
+    HttpOnly: True
+    Secure: True
+    SameSite: none
+    Path: None
+
+Response 60:
+Response 61:
+  Cookie 1:
+    HttpOnly: True
+    Secure: True
+    SameSite: none
+    Path: /
+
+  Cookie 2:
+    HttpOnly: True
+    Secure: False
+    SameSite: None
+    Path: /
+
+  Cookie 3:
+    HttpOnly: True
+    Secure: False
+    SameSite: None
+    Path: /
+
+  Cookie 4:
+    HttpOnly: False
+    Secure: False
+    SameSite: None
+    Path: /
+
+Response 62:
+Response 63:
+Response 64:
+  Cookie 1:
+    HttpOnly: False
+    Secure: False
+    SameSite: None
+    Path: /
+
+  Cookie 2:
+    HttpOnly: False
+    Secure: False
+    SameSite: None
+    Path: /
+
+  Cookie 3:
+    HttpOnly: False
+    Secure: True
+    SameSite: none
+    Path: /
+
+  Cookie 4:
+    HttpOnly: False
+    Secure: False
+    SameSite: None
+    Path: /
+
+  Cookie 5:
+    HttpOnly: False
+    Secure: True
+    SameSite: lax
+    Path: /
+
+  Cookie 6:
+    HttpOnly: False
+    Secure: False
+    SameSite: None
+    Path: /
+
+  Cookie 7:
+    HttpOnly: False
+    Secure: True
+    SameSite: none
+    Path: /
+
+Response 65:
+  Cookie 1:
+    HttpOnly: True
+    Secure: True
+    SameSite: None
+    Path: /
+
+  Cookie 2:
+    HttpOnly: True
+    Secure: True
+    SameSite: None
+    Path: /
+
+  Cookie 3:
+    HttpOnly: False
+    Secure: True
+    SameSite: None
+    Path: /
+
+Response 66:
+Response 67:
+Response 68:
+  Cookie 1:
+    HttpOnly: False
+    Secure: False
+    SameSite: None
+    Path: None
+
+  Cookie 2:
+    HttpOnly: False
+    Secure: False
+    SameSite: None
+    Path: None
+
+Response 69:
+Response 70:
+  Cookie 1:
+    HttpOnly: True
+    Secure: False
+    SameSite: None
+    Path: None
+
+  Cookie 2:
+    HttpOnly: True
+    Secure: False
+    SameSite: None
+    Path: None
+
+  Cookie 3:
+    HttpOnly: True
+    Secure: False
+    SameSite: None
+    Path: None
+
+  Cookie 4:
+    HttpOnly: True
+    Secure: False
+    SameSite: None
+    Path: None
+
+Response 71:
+Response 72:
+Response 73:
+Response 74:
+Response 75:
+Response 76:
+  Cookie 1:
+    HttpOnly: False
+    Secure: False
+    SameSite: None
+    Path: None
+
+  Cookie 2:
+    HttpOnly: False
+    Secure: True
+    SameSite: None
+    Path: /
+
+  Cookie 3:
+    HttpOnly: False
+    Secure: False
+    SameSite: None
+    Path: /
+
+Response 77:
+  Cookie 1:
+    HttpOnly: False
+    Secure: False
+    SameSite: None
+    Path: /
+
+  Cookie 2:
+    HttpOnly: False
+    Secure: False
+    SameSite: None
+    Path: /
+
+  Cookie 3:
+    HttpOnly: False
+    Secure: False
+    SameSite: None
+    Path: /
+
+Response 78:
+Response 79:
+  Cookie 1:
+    HttpOnly: False
+    Secure: False
+    SameSite: None
+    Path: /
+
+  Cookie 2:
+    HttpOnly: False
+    Secure: False
+    SameSite: None
+    Path: /
+
+Response 80:
+Response 81:
+  Cookie 1:
+    HttpOnly: True
+    Secure: False
+    SameSite: None
+    Path: None
+
+  Cookie 2:
+    HttpOnly: True
+    Secure: False
+    SameSite: None
+    Path: None
+
+Response 82:
+Response 83:
+Response 84:
+  Cookie 1:
+    HttpOnly: False
+    Secure: False
+    SameSite: None
+    Path: None
+
+  Cookie 2:
+    HttpOnly: False
+    Secure: False
+    SameSite: None
+    Path: /
+
+  Cookie 3:
+    HttpOnly: False
+    Secure: False
+    SameSite: None
+    Path: /
+
+  Cookie 4:
+    HttpOnly: False
+    Secure: False
+    SameSite: None
+    Path: /
+
+Response 85:
+  Cookie 1:
+    HttpOnly: True
+    Secure: False
+    SameSite: none
+    Path: None
+
+  Cookie 2:
+    HttpOnly: False
+    Secure: False
+    SameSite: lax
+    Path: None
+
+  Cookie 3:
+    HttpOnly: True
+    Secure: True
+    SameSite: none
+    Path: None
+
+Response 86:
+Response 87:
+Response 88:
+Response 89:
+Response 90:
+  Cookie 1:
+    HttpOnly: False
+    Secure: False
+    SameSite: None
+    Path: None
+
+Response 91:
+  Cookie 1:
+    HttpOnly: False
+    Secure: False
+    SameSite: None
+    Path: None
+
+  Cookie 2:
+    HttpOnly: False
+    Secure: False
+    SameSite: None
+    Path: None
+
+  Cookie 3:
+    HttpOnly: False
+    Secure: False
+    SameSite: None
+    Path: None
+
+Response 92:
+Response 93:
+  Cookie 1:
+    HttpOnly: False
+    Secure: False
+    SameSite: None
+    Path: None
+
+  Cookie 2:
+    HttpOnly: False
+    Secure: False
+    SameSite: None
+    Path: None
+
+  Cookie 3:
+    HttpOnly: False
+    Secure: False
+    SameSite: None
+    Path: None
+
+Response 94:
+  Cookie 1:
+    HttpOnly: True
+    Secure: True
+    SameSite: None
+    Path: /
+
+  Cookie 2:
+    HttpOnly: True
+    Secure: True
+    SameSite: none
+    Path: /
+
+  Cookie 3:
+    HttpOnly: True
+    Secure: True
+    SameSite: None
+    Path: /
+
+  Cookie 4:
+    HttpOnly: True
+    Secure: True
+    SameSite: none
+    Path: /
+
+  Cookie 5:
+    HttpOnly: True
+    Secure: True
+    SameSite: none
+    Path: /
+
+  Cookie 6:
+    HttpOnly: True
+    Secure: True
+    SameSite: lax
+    Path: /
+
+Response 95:
+Response 96:
+  Cookie 1:
+    HttpOnly: True
+    Secure: True
+    SameSite: none
+    Path: None
+
+Response 97:
+  Cookie 1:
+    HttpOnly: True
+    Secure: False
+    SameSite: none
+    Path: None
+
+  Cookie 2:
+    HttpOnly: True
+    Secure: True
+    SameSite: None
+    Path: /
+
+  Cookie 3:
+    HttpOnly: True
+    Secure: True
+    SameSite: None
+    Path: /
+
+  Cookie 4:
+    HttpOnly: True
+    Secure: True
+    SameSite: None
+    Path: /
+
+  Cookie 5:
+    HttpOnly: True
+    Secure: True
+    SameSite: None
+    Path: /
+
+  Cookie 6:
+    HttpOnly: True
+    Secure: True
+    SameSite: None
+    Path: /
+
+  Cookie 7:
+    HttpOnly: True
+    Secure: True
+    SameSite: None
+    Path: /
+
+  Cookie 8:
+    HttpOnly: False
+    Secure: True
+    SameSite: None
+    Path: /
+
+  Cookie 9:
+    HttpOnly: True
+    Secure: True
+    SameSite: None
+    Path: /
+
+  Cookie 10:
+    HttpOnly: False
+    Secure: True
+    SameSite: None
+    Path: /
+
+  Cookie 11:
+    HttpOnly: False
+    Secure: True
+    SameSite: None
+    Path: /
+
+  Cookie 12:
+    HttpOnly: True
+    Secure: True
+    SameSite: none
+    Path: None
+
+Instruction 4: For each cookie, extract the attributes: HttpOnly, Secure, SameSite (and the corresponding policy), Path (and the corresponding value). With this data you will answer:
+How many cookies set HttpOnly? (See first table)
+How many cookies set Secure? (See first table)
+How many cookies set SameSite? For those that set SameSite, how many are Strict? How many are Lax? How many are None? (See first table)
+How many cookies set a Path? How many of those are values other than "/"? (See first table)
+
+Instruction 5: Summarizing the entire table, what are the Min/Max/Mean/Median number of cookies for the 100 sites? (See first table)
 
 Extra Credit
 
