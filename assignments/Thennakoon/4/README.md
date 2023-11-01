@@ -127,7 +127,7 @@
 
 ### Summary
 
-* Number of framable sites - 27
+* Number of framable sites - 28
 * Number of non framable sites - 69
 * number of site did not resolve - 3
 
