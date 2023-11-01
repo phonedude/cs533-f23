@@ -8,7 +8,7 @@
 * [code](code) - contains scripts and output files 
 * [framable](framable) - contains html files created for 100 sites
 
-### Youtube video is available at: https://youtu.be/QLgFOZIHSOI
+### Youtube video for framable is available at: https://youtu.be/QLgFOZIHSOI
 
 ### Summary
 
@@ -185,7 +185,7 @@ user login.
  * [frame-path-attack/index_c.js](index_c.js) - server used to render child.html
  * [frame-path-attack/index_p.js](index_p.js) - server used to render parent.html
 
- ### Youtube video is available at: https://youtu.be/FRpULEejpPA   
+ ### Youtube video for frame-path-attack is available at: https://youtu.be/FRpULEejpPA   
 
  * child.html page with a cookie having path attribute.
 
