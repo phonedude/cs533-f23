@@ -1,0 +1,18 @@
+HTTP/1.1 301 Moved Permanently
+Server: AkamaiGHost
+Content-Length: 0
+Location: https://www.asahi.com/
+Date: Mon, 16 Oct 2023 18:06:37 GMT
+Connection: keep-alive
+
+HTTP/1.1 200 OK
+Server: nginx
+Content-Type: text/html
+Last-Modified: Mon, 16 Oct 2023 17:44:44 GMT
+ETag: W/"652d768c-dcac"
+Cache-Control: max-age=5
+Expires: Mon, 16 Oct 2023 18:06:43 GMT
+Date: Mon, 16 Oct 2023 18:06:38 GMT
+Connection: keep-alive
+X-N: S
+

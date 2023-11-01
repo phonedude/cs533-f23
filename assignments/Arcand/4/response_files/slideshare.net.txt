@@ -1,0 +1,59 @@
+HTTP/1.1 301 Moved Permanently
+Connection: close
+Content-Length: 0
+Server: Varnish
+Retry-After: 0
+Location: https://slideshare.net/
+Accept-Ranges: bytes
+Date: Mon, 16 Oct 2023 18:08:03 GMT
+Via: 1.1 varnish
+X-Served-By: cache-pdk-kpdk1780045-PDK
+X-Cache: HIT
+X-Cache-Hits: 0
+X-Timer: S1697479683.004191,VS0,VE0
+Set-Cookie: browser_id=735f77e3-86f8-4027-9ad9-5356691ff344; Domain=.slideshare.net; Path=/; Expires=Sat, 14 Oct 2028 18:08:03 GMT
+Strict-Transport-Security: max-age=63072000; includeSubDomains; preload
+alt-svc: h3=":443";ma=86400,h3-29=":443";ma=86400,h3-27=":443";ma=86400
+
+HTTP/1.1 301 Moved Permanently
+Connection: keep-alive
+Content-Length: 162
+Content-Type: text/html
+Server: nginx
+Location: https://www.slideshare.net/
+P3P: CP="OTI DSP COR CUR ADM DEV PSD IVD CONo OUR IND"
+X-Content-Type-Options: nosniff
+Cache-Control: private, no-store
+Accept-Ranges: bytes
+Date: Mon, 16 Oct 2023 18:08:03 GMT
+Via: 1.1 varnish
+X-Served-By: cache-pdk-kpdk1780072-PDK
+X-Cache: MISS
+X-Cache-Hits: 0
+X-Timer: S1697479683.182743,VS0,VE60
+Set-Cookie: browser_id=7ef17a6f-f5f6-40b7-a061-fbc21afb342d; Domain=.slideshare.net; Path=/; Expires=Sat, 14 Oct 2028 18:08:03 GMT
+Strict-Transport-Security: max-age=63072000; includeSubDomains; preload
+alt-svc: h3=":443";ma=86400,h3-29=":443";ma=86400,h3-27=":443";ma=86400
+
+HTTP/1.1 200 OK
+Connection: keep-alive
+Content-Length: 115228
+Content-Type: text/html; charset=utf-8
+Server: nginx
+X-Powered-By: Next.js
+ETag: "k907jnta1a2gvp"
+Cache-Control: private, no-cache, no-store, max-age=0, must-revalidate
+P3P: CP="OTI DSP COR CUR ADM DEV PSD IVD CONo OUR IND"
+X-Content-Type-Options: nosniff
+Accept-Ranges: bytes
+Date: Mon, 16 Oct 2023 18:08:03 GMT
+Via: 1.1 varnish
+X-Served-By: cache-atl18466-ATL
+X-Cache: MISS
+X-Cache-Hits: 0
+X-Timer: S1697479684.574283,VS0,VE210
+Vary: Accept-Encoding
+Set-Cookie: browser_id=ff1eaf10-4ebd-4aad-93c7-84cc58a29660; Domain=.slideshare.net; Path=/; Expires=Sat, 14 Oct 2028 18:08:03 GMT
+Strict-Transport-Security: max-age=63072000; includeSubDomains; preload
+alt-svc: h3=":443";ma=86400,h3-29=":443";ma=86400,h3-27=":443";ma=86400
+

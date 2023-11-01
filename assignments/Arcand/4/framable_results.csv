@@ -1,0 +1,90 @@
+Website,IsFramable
+abc.net.au,not framable
+https://abc.net.au,framable
+asahi.com,not framable
+https://asahi.com,framable
+zoom.us,not framable
+https://zoom.us,framable
+biglobe.ne.jp,not framable
+https://biglobe.ne.jp,framable
+bloomberg.com,not framable
+https://bloomberg.com,framable
+bp0.blogger.com,not framable
+https://bp0.blogger.com,not framable
+bp1.blogger.com,not framable
+https://bp1.blogger.com,not framable
+britannica.com,not framable
+https://britannica.com,framable
+calendar.google.com,not framable
+https://calendar.google.com,framable
+cdc.gov,not framable
+https://cdc.gov,framable
+clarin.com,not framable
+https://clarin.com,framable
+cloudflare.com,not framable
+https://cloudflare.com,framable
+about.com,not framable
+https://about.com,framable
+cnbc.com,not framable
+https://cnbc.com,not framable
+com.com,not framable
+https://com.com,framable
+creativecommons.org,not framable
+https://creativecommons.org,framable
+discord.com,not framable
+https://discord.com,framable
+disney.com,not framable
+https://disney.com,framable
+doi.org,not framable
+https://doi.org,framable
+dropcatch.com,not framable
+https://dropcatch.com,framable
+e-monsite.com,not framable
+https://e-monsite.com,framable
+esa.int,not framable
+https://esa.int,framable
+evernote.com,not framable
+https://evernote.com,framable
+abril.com.br,not framable
+https://abril.com.br,not framable
+fastcompany.com,not framable
+https://fastcompany.com,not framable
+fifa.com,not framable
+https://fifa.com,not framable
+files.wordpress.com,not framable
+https://files.wordpress.com,framable
+focus.de,not framable
+https://focus.de,framable
+ft.com,not framable
+https://ft.com,framable
+get.google.com,not framable
+https://get.google.com,framable
+gettyimages.com,not framable
+https://gettyimages.com,framable
+gofundme.com,not framable
+https://gofundme.com,framable
+goo.gl,not framable
+https://goo.gl,framable
+goodreads.com,not framable
+https://goodreads.com,framable
+academia.edu,not framable
+https://academia.edu,framable
+gravatar.com,not framable
+https://gravatar.com,framable
+gstatic.com,not framable
+https://gstatic.com,not framable
+home.pl,not framable
+https://home.pl,framable
+howstuffworks.com,not framable
+https://howstuffworks.com,framable
+huawei.com,not framable
+https://huawei.com,not framable
+hubspot.com,not framable
+https://hubspot.com,framable
+ietf.org,not framable
+https://ietf.org,framable
+ign.com,not framable
+https://ign.com,framable
+indianexpress.com,not framable
+https://indianexpress.com,framable
+java.com,not framable

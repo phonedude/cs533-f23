@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Parent Page</title>
+</head>
+<body>
+    <h1>Parent Page</h1>
+    
+    <iframe src="iframed.html" id="iframe"></iframe>
+	<br>
+	<br>
+    <div id="cookieDisplay"></div>
+	
+    <script>
+        const iframe = document.getElementById('iframe');
+        const cookieDisplay = document.getElementById('cookieDisplay');
+
+        iframe.onload = function() {
+            try {
+                const cookies = iframe.contentWindow.document.cookie;
+                if (cookies) {
+                    console.log('parent.html: Cookies from iframe:', cookies);
+                    cookieDisplay.textContent = 'parent.html: Cookies from iframe: ' + cookies;
+                } else {
+                    console.log('parent.html: No cookies have been set in the iframe.');
+                    cookieDisplay.textContent = 'parent.html: No cookies have been set in the iframe.';
+                }
+            } catch (error) {
+                console.error('parent.html: Could not access iframe cookies:', error);
+            }
+        };
+    </script>
+</body>
+</html>

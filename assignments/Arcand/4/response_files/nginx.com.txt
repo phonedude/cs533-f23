@@ -1,0 +1,32 @@
+HTTP/1.1 301 Moved Permanently
+location: https://www.nginx.com/
+set-cookie: 6da15=1697479660813-712381658; Path=/; Domain=nginx.com; Expires=Tue, 16 Jan 2024 18:07:40 GMT
+set-cookie: 6da103=+6GOkiy8dv2czl0u78QN7l8zG7BtOVg03VqFkfu5nPQBH0bCUr1dG2nPTF2Ec8SHF7iS1TAp5/PyNJ7d2PlZYt20aSbtZm0GiCNqspmuww+LAuiLw2ZSZNVPMuF10TLlX6/YWar30edaSJa8POVZDYzKeOe34MldjMM+uAS+UOf1eGWd; path=/
+x-volterra-location: dc12-ash
+date: Mon, 16 Oct 2023 18:07:40 GMT
+server: volt-adc
+transfer-encoding: chunked
+
+HTTP/1.1 200 OK
+date: Mon, 16 Oct 2023 18:07:41 GMT
+content-type: text/html; charset=UTF-8
+vary: Accept-Encoding
+x-gateway-request-id: 474d28c2217f574681f0b95f4169e8ca
+set-cookie: geoip=US; Max-Age=604800
+cache-control: public, max-age=600
+link: <https://www.nginx.com/wp-json/>; rel="https://api.w.org/"
+link: <https://www.nginx.com/wp-json/wp/v2/pages/2>; rel="alternate"; type="application/json"
+link: <https://www.nginx.com/>; rel=shortlink
+content-security-policy: frame-ancestors 'self'
+x-gateway-cache-key: 1697230321.357|standard|https|www.nginx.com|||/|US
+x-gateway-cache-status: HIT
+x-gateway-skip-cache: 0
+x-envoy-upstream-service-time: 3
+set-cookie: main-nginx="617aa158ca92e8bc"; HttpOnly
+strict-transport-security: max-age=31536000
+set-cookie: 56465=1697479661251-30675123; Path=/; Domain=nginx.com; Expires=Tue, 16 Jan 2024 18:07:41 GMT
+set-cookie: 564603=FHE3YAKo1zKt7Ta+SJpNgxpJ9vpEpyl2cGkZO+LTenRh7VZ6YiQSotvgCnyl9fJpmKFLafN6cFoet7nP5mN84NagLqEUkdBK8JrFIeWhhUDbLOkGjArz2UfR5VxBP9S5n15GUNm7YIPMmLQQ5fQrVnXmL3B116Gx8biu96qfw88mvn5S; path=/
+set-cookie: TS01dc4fc6=01800d6b932624a05eae42736926855155c111e7c79208c366411cf7b89de1c05196ed5eeea7a1103b242f70c004fe1f9ce7b6cbe9; Path=/; Secure; HttpOnly; SameSite=Strict; 
+server: nginx
+transfer-encoding: chunked
+

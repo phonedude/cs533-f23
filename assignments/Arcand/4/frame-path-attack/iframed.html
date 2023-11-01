@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>iFramed Page</title>
+</head>
+<body>
+    <h1>This is the iFramed Page</h1>
+
+    <div id="cookieDisplay"></div>
+	
+    <script>
+	
+	document.cookie = "cookie1=value1; path=frame-path-attack/";
+		
+        const cookieDisplay = document.getElementById('cookieDisplay');
+        cookieDisplay.textContent = 'iframed.html: Cookies in iframed page: ' + document.cookie;
+    </script>
+	
+</body>
+</html>
