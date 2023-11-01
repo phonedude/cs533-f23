@@ -1,0 +1,43 @@
+HTTP/1.1 301 Moved Permanently
+Date: Tue, 31 Oct 2023 23:00:11 GMT
+Connection: keep-alive
+Cache-Control: max-age=3600
+Expires: Wed, 01 Nov 2023 00:00:11 GMT
+Location: https://sendspace.com/
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=uYtcsq7XsYUzRMm76i9P7yn2QtP2enjDx%2FOjVxgl0HpQNRxdr8r9r7crI0sSMHbBcCsqyQsWY6Cx5BEsr5wg%2BEUIT76YrcjnZd1IhG9doj6EzzswCZPARYQoE5KfjTY%2B"}],"group":"cf-nel","max_age":604800}
+NEL: {"success_fraction":0,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+CF-RAY: 81ef83430e718cbd-EWR
+alt-svc: h3=":443"; ma=86400
+
+HTTP/2 301 
+date: Tue, 31 Oct 2023 23:00:11 GMT
+content-type: text/html
+location: https://www.sendspace.com/
+cf-cache-status: DYNAMIC
+report-to: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=LKBdqnMGdvlKAOlncxf3sGLID4C4tHlcLTJn10RVD%2FXZjvEhC3zVZKGUH5kBnMNkzsRgYEoGbWFaAG7EE1eK8PM3Vb4lJ8Zxr4Wo9Gb2XT2e%2BILm%2FTyRkuPPEwD8HbDl"}],"group":"cf-nel","max_age":604800}
+nel: {"success_fraction":0,"report_to":"cf-nel","max_age":604800}
+server: cloudflare
+cf-ray: 81ef834389fe4370-EWR
+alt-svc: h3=":443"; ma=86400
+
+HTTP/2 200 
+date: Tue, 31 Oct 2023 23:00:11 GMT
+content-type: text/html; charset=UTF-8
+set-cookie: SID=dov9qi9scsfoj2l5f1ersi1ak5; path=/; domain=.sendspace.com
+set-cookie: ssui=7465f4e29f85151f975b2201d049a634; expires=Sun, 29-Oct-2028 23:00:12 GMT; Max-Age=157680000; path=/; domain=.sendspace.com
+x-frame-options: SAMEORIGIN
+x-xss-protection: 1; mode=block
+x-content-type-options: nosniff
+expires: 0
+pragma: no-cache
+last-modified: Tue, 31 Oct 2023 23:00:12 GMT
+cache-control: no-cache,no-store,max-age=0,s-maxage=0,must-revalidate
+vary: Accept-Encoding
+cf-cache-status: DYNAMIC
+report-to: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=SrOMkArCbMxxGzqi2mB83dKBSqmInrb5M4ucLnUxJmO3KIT1fNP4nFVL5qlxDcCvlTc9NcqqdbzetX4lls2mbydL%2Fx6o2OU8hBziApYOZupa0bdayDyeAIqRobZ7HhHCu496ZQ%3D%3D"}],"group":"cf-nel","max_age":604800}
+nel: {"success_fraction":0,"report_to":"cf-nel","max_age":604800}
+server: cloudflare
+cf-ray: 81ef8344b8424314-EWR
+alt-svc: h3=":443"; ma=86400
+

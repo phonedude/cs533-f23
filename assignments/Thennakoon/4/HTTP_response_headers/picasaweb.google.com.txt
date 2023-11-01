@@ -1,0 +1,137 @@
+HTTP/1.1 302 Found
+Location: http://get.google.com/albumarchive/pwa/
+Cache-Control: private
+Cross-Origin-Resource-Policy: cross-origin
+Content-Type: text/html; charset=UTF-8
+X-Content-Type-Options: nosniff
+Date: Tue, 31 Oct 2023 23:00:05 GMT
+Server: sffe
+Content-Length: 236
+X-XSS-Protection: 0
+
+HTTP/1.1 301 Moved Permanently
+Content-Type: application/binary
+Cache-Control: no-cache, no-store, max-age=0, must-revalidate
+Pragma: no-cache
+Expires: Mon, 01 Jan 1990 00:00:00 GMT
+Date: Tue, 31 Oct 2023 23:00:06 GMT
+Location: https://get.google.com/albumarchive/pwa/
+Content-Length: 0
+P3P: CP="This is not a P3P policy! See g.co/p3phelp for more info."
+Server: ESF
+X-XSS-Protection: 0
+X-Frame-Options: SAMEORIGIN
+X-Content-Type-Options: nosniff
+Set-Cookie: NID=511=kaxLyNTs1Urp2G2XTrBvcKZ8jd8hz-Tybnf3f3-dNsGHi1zbaAgHbqh8jbv1NzAJjnMKO4o-cjiB5PcGl_zm2zNEd0hOI3HTL3E-bDLRWvby-Mc960COm12hFPl_1c_ZBg-oOjLjclKjbDD8vlJpYeCGDd2kqp2PeNjMt6Wqxck; expires=Wed, 01-May-2024 23:00:06 GMT; path=/; domain=.google.com; HttpOnly
+
+HTTP/2 302 
+content-type: application/binary
+vary: Sec-Fetch-Dest, Sec-Fetch-Mode, Sec-Fetch-Site
+cache-control: no-cache, no-store, max-age=0, must-revalidate
+pragma: no-cache
+expires: Mon, 01 Jan 1990 00:00:00 GMT
+date: Tue, 31 Oct 2023 23:00:06 GMT
+location: https://get.google.com/albumarchive
+content-length: 0
+p3p: CP="This is not a P3P policy! See g.co/p3phelp for more info."
+strict-transport-security: max-age=31536000
+cross-origin-resource-policy: same-site
+cross-origin-opener-policy: same-origin
+accept-ch: Sec-CH-UA-Arch, Sec-CH-UA-Bitness, Sec-CH-UA-Full-Version, Sec-CH-UA-Full-Version-List, Sec-CH-UA-Model, Sec-CH-UA-WoW64, Sec-CH-UA-Form-Factor, Sec-CH-UA-Platform, Sec-CH-UA-Platform-Version
+content-security-policy: script-src 'nonce-lyrEy1SoNIYAELnDxChBiQ' 'unsafe-inline';object-src 'none';base-uri 'self';report-uri /_/AlbumArchiveUi/cspreport;worker-src 'self'
+content-security-policy: require-trusted-types-for 'script';report-uri /_/AlbumArchiveUi/cspreport
+permissions-policy: ch-ua-arch=*, ch-ua-bitness=*, ch-ua-full-version=*, ch-ua-full-version-list=*, ch-ua-model=*, ch-ua-wow64=*, ch-ua-form-factor=*, ch-ua-platform=*, ch-ua-platform-version=*
+server: ESF
+x-xss-protection: 0
+x-frame-options: SAMEORIGIN
+x-content-type-options: nosniff
+set-cookie: NID=511=GWSjL6Wz3ELCuDVqAlZhRGuRYiv5Gj3Lq4QNadqM2Gon1i4G7X2myUjr1x8BDGU6C1CP1cEDvxkY3J7kdpyL2bNZECVzol71CciY9j_-7vmxO81qQ8H2iQZvjh3y4FIedtKXWNNjrYhZvzE3ILfjUiYzx9EvX9vzWtVe-iI7t1I; expires=Wed, 01-May-2024 23:00:06 GMT; path=/; domain=.google.com; HttpOnly
+alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+
+HTTP/2 302 
+content-type: application/binary
+vary: Sec-Fetch-Dest, Sec-Fetch-Mode, Sec-Fetch-Site
+location: https://accounts.google.com/ServiceLogin?passive=1209600&continue=https://get.google.com/albumarchive&followup=https://get.google.com/albumarchive
+content-length: 0
+p3p: CP="This is not a P3P policy! See g.co/p3phelp for more info."
+strict-transport-security: max-age=31536000
+content-security-policy: script-src 'nonce-Nsd1R1FIEx8UHx3xuStUMg' 'unsafe-inline';object-src 'none';base-uri 'self';report-uri /_/AlbumArchiveUi/cspreport;worker-src 'self'
+content-security-policy: require-trusted-types-for 'script';report-uri /_/AlbumArchiveUi/cspreport
+permissions-policy: ch-ua-arch=*, ch-ua-bitness=*, ch-ua-full-version=*, ch-ua-full-version-list=*, ch-ua-model=*, ch-ua-wow64=*, ch-ua-form-factor=*, ch-ua-platform=*, ch-ua-platform-version=*
+cross-origin-resource-policy: same-site
+cross-origin-opener-policy: unsafe-none
+accept-ch: Sec-CH-UA-Arch, Sec-CH-UA-Bitness, Sec-CH-UA-Full-Version, Sec-CH-UA-Full-Version-List, Sec-CH-UA-Model, Sec-CH-UA-WoW64, Sec-CH-UA-Form-Factor, Sec-CH-UA-Platform, Sec-CH-UA-Platform-Version
+date: Tue, 31 Oct 2023 23:00:06 GMT
+server: ESF
+x-xss-protection: 0
+x-frame-options: SAMEORIGIN
+x-content-type-options: nosniff
+set-cookie: NID=511=ncZZOBFcbVW5_8liWkQUtOAffT1Lue7jmYWistSJHqhMqUPRW-YWbvPBBDkbrJtBNToxrPVBlvOXYfgfHToXRrrEo1SJv3EnZ9kFWGeIveU_trsBhQ_zGZXHOIsqaz7hpNAWkyWEqRAP8otxEmx-EQe9Fy0w7cR-IOj6-wm-C4g; expires=Wed, 01-May-2024 23:00:06 GMT; path=/; domain=.google.com; HttpOnly
+alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+
+HTTP/2 302 
+content-type: application/binary
+set-cookie: __Host-GAPS=1:EZACU22vBLlVdYcJsn2HC6k8XHAHFA:mO74Ag2LWCnxb7Sz; Expires=Thu, 30-Oct-2025 23:00:06 GMT; Path=/; Secure; HttpOnly; Priority=HIGH
+cache-control: no-cache, no-store, max-age=0, must-revalidate
+pragma: no-cache
+expires: Mon, 01 Jan 1990 00:00:00 GMT
+date: Tue, 31 Oct 2023 23:00:06 GMT
+location: https://accounts.google.com/InteractiveLogin?continue=https://get.google.com/albumarchive&followup=https://get.google.com/albumarchive&passive=1209600&ifkv=AVQVeyxYM65rEbDLiB87HSAlO8otiKXlCKMPY22ociL-td7Zc9IFTeXd2WoIFJvTiEGTQMlO25snzw
+content-length: 0
+strict-transport-security: max-age=31536000; includeSubDomains
+accept-ch: Sec-CH-UA-Arch, Sec-CH-UA-Bitness, Sec-CH-UA-Full-Version, Sec-CH-UA-Full-Version-List, Sec-CH-UA-Model, Sec-CH-UA-WoW64, Sec-CH-UA-Form-Factor, Sec-CH-UA-Platform, Sec-CH-UA-Platform-Version
+cross-origin-opener-policy: unsafe-none
+content-security-policy: require-trusted-types-for 'script';report-uri /_/AccountsSigninPassiveLoginHttp/cspreport
+content-security-policy: script-src 'nonce-p3XpZG5TMDz7PKPkIxDncA' 'unsafe-inline';object-src 'none';base-uri 'self';report-uri /_/AccountsSigninPassiveLoginHttp/cspreport;worker-src 'self'
+cross-origin-resource-policy: cross-origin
+permissions-policy: ch-ua-arch=*, ch-ua-bitness=*, ch-ua-full-version=*, ch-ua-full-version-list=*, ch-ua-model=*, ch-ua-wow64=*, ch-ua-form-factor=*, ch-ua-platform=*, ch-ua-platform-version=*
+server: ESF
+x-xss-protection: 0
+x-content-type-options: nosniff
+alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+
+HTTP/2 302 
+content-type: text/html; charset=UTF-8
+set-cookie: __Host-GAPS=1:BjlPgEZwrZWxMbkTGGxDqMAXb6wVbA:i_aqQaSefa6b83-T;Path=/;Expires=Thu, 30-Oct-2025 23:00:06 GMT;Secure;HttpOnly;Priority=HIGH
+x-frame-options: DENY
+cache-control: no-cache, no-store, max-age=0, must-revalidate
+pragma: no-cache
+expires: Mon, 01 Jan 1990 00:00:00 GMT
+date: Tue, 31 Oct 2023 23:00:06 GMT
+location: https://accounts.google.com/v3/signin/identifier?continue=https%3A%2F%2Fget.google.com%2Falbumarchive&followup=https%3A%2F%2Fget.google.com%2Falbumarchive&ifkv=AVQVeyz1OCUvjwydVkvyDYmQwwDXuIKiccNVbi6dBOUa5XTLGuC8wG5cObISfiuCbqoFeoH-NcxZCQ&passive=1209600&flowName=WebLiteSignIn&flowEntry=ServiceLogin&dsh=S2030211842%3A1698793206358619
+content-length: 541
+strict-transport-security: max-age=31536000; includeSubDomains
+content-security-policy: require-trusted-types-for 'script';report-uri /cspreport
+content-security-policy: script-src 'nonce-C4KI831OBRymrkvoDFu8fQ' 'unsafe-inline' 'unsafe-eval';object-src 'none';base-uri 'self';report-uri /cspreport
+report-to: {"group":"coop_gse_qebhlk","max_age":2592000,"endpoints":[{"url":"https://csp.withgoogle.com/csp/report-to/gse_qebhlk"}]}
+cross-origin-opener-policy-report-only: same-origin; report-to="coop_gse_qebhlk"
+x-content-type-options: nosniff
+x-xss-protection: 1; mode=block
+server: GSE
+alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+
+HTTP/2 200 
+content-type: text/html; charset=utf-8
+x-frame-options: DENY
+set-cookie: __Host-GAPS=1:gnMl066L9mxItnZoHZZDWfG3YnSzaA:KuzqpRFL9xg6xmub; Expires=Thu, 30-Oct-2025 23:00:06 GMT; Path=/; Secure; HttpOnly; Priority=HIGH
+vary: Sec-Fetch-Dest, Sec-Fetch-Mode, Sec-Fetch-Site
+x-auto-login: realm=com.google&args=continue%3Dhttps://get.google.com/albumarchive
+x-ua-compatible: IE=edge
+cache-control: no-cache, no-store, max-age=0, must-revalidate
+pragma: no-cache
+expires: Mon, 01 Jan 1990 00:00:00 GMT
+date: Tue, 31 Oct 2023 23:00:06 GMT
+content-length: 593124
+strict-transport-security: max-age=31536000; includeSubDomains
+cross-origin-opener-policy-report-only: same-origin; report-to="AccountsSignInUi"
+report-to: {"group":"AccountsSignInUi","max_age":2592000,"endpoints":[{"url":"https://csp.withgoogle.com/csp/report-to/AccountsSignInUi"}]}
+cross-origin-resource-policy: same-site
+permissions-policy: ch-ua-arch=*, ch-ua-bitness=*, ch-ua-full-version=*, ch-ua-full-version-list=*, ch-ua-model=*, ch-ua-wow64=*, ch-ua-form-factor=*, ch-ua-platform=*, ch-ua-platform-version=*
+content-security-policy: require-trusted-types-for 'script';report-uri /v3/signin/_/AccountsSignInUi/cspreport
+content-security-policy: script-src 'nonce-nL446lWmv2e_B_nQIvqr2g' 'unsafe-inline';object-src 'none';base-uri 'self';report-uri /v3/signin/_/AccountsSignInUi/cspreport;worker-src 'self'
+accept-ch: Sec-CH-UA-Arch, Sec-CH-UA-Bitness, Sec-CH-UA-Full-Version, Sec-CH-UA-Full-Version-List, Sec-CH-UA-Model, Sec-CH-UA-WoW64, Sec-CH-UA-Form-Factor, Sec-CH-UA-Platform, Sec-CH-UA-Platform-Version
+server: ESF
+x-xss-protection: 0
+x-content-type-options: nosniff
+alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+

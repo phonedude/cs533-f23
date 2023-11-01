@@ -1,0 +1,35 @@
+HTTP/1.1 301 Moved Permanently
+Connection: close
+Content-Length: 0
+Server: Varnish
+Retry-After: 0
+Accept-Ranges: bytes
+Date: Tue, 31 Oct 2023 22:59:55 GMT
+Via: 1.1 varnish
+X-Served-By: cache-iad-kcgs7200121-IAD
+X-Cache: MISS
+X-Cache-Hits: 0
+X-Timer: S1698793195.140461,VS0,VE0
+Location: https://www.lemonde.fr/
+
+HTTP/2 200 
+content-type: text/html;charset=UTF-8
+content-security-policy: default-src data: 'unsafe-inline' 'unsafe-eval' https:; script-src data: 'unsafe-inline' 'unsafe-eval' https: blob:; style-src data: 'unsafe-inline' https:; img-src data: https: blob:; font-src data: https:; connect-src https: wss:; media-src https: blob:; object-src https:; child-src https: data: blob:; form-action https:; block-all-mixed-content;
+x-content-type-options: nosniff
+x-frame-options: SAMEORIGIN
+x-xss-protection: 1; mode=block
+fastly-restarts: 1
+accept-ranges: bytes
+date: Tue, 31 Oct 2023 22:59:55 GMT
+via: 1.1 varnish
+age: 12
+x-served-by: cache-iad-kiad7000174-IAD
+x-cache: HIT
+x-cache-hits: 1
+x-timer: S1698793195.202298,VS0,VS0,VE6
+vary: Accept-Encoding
+x-datadome: protected
+set-cookie: datadome=pNZ3Ly3L2XTSXhjPPozJWMZm2cmP7GMMG4TfRHHva7TBAMjN5Y3TjT1H~B8aWZK2zLDhK8h4IXMR_~klp0YOGQxfAOyKWW6aytJaumYHRIGoSiG9S0dqY2yOyQbPbtHf; Max-Age=31536000; Domain=.lemonde.fr; Path=/; Secure; SameSite=Lax
+strict-transport-security: max-age=31557600
+content-length: 290996
+

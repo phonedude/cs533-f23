@@ -1,0 +1,24 @@
+HTTP/1.1 301 Moved Permanently
+Server: AkamaiGHost
+Content-Length: 0
+Location: https://www.ftc.gov/
+Date: Tue, 31 Oct 2023 22:59:49 GMT
+Connection: keep-alive
+
+HTTP/2 200 
+x-content-type-options: nosniff
+x-ua-compatible: IE=edge
+content-language: en
+x-content-type-options: nosniff
+x-frame-options: SAMEORIGIN
+last-modified: Tue, 31 Oct 2023 22:55:49 GMT
+etag: "1698792949"
+vary: Cookie
+content-type: text/html; charset=UTF-8
+x-cache-hits: 477
+accept-ranges: bytes
+content-length: 1001035
+cache-control: public, max-age=300
+date: Tue, 31 Oct 2023 22:59:49 GMT
+strict-transport-security: max-age=31536000 ; preload
+

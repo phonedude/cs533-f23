@@ -1,0 +1,34 @@
+HTTP/1.1 301 Moved Permanently
+Connection: close
+Content-Length: 0
+Server: Varnish
+Retry-After: 0
+Location: https://apache.org/
+Accept-Ranges: bytes
+Date: Tue, 31 Oct 2023 22:59:41 GMT
+Via: 1.1 varnish
+X-Served-By: cache-iad-kcgs7200110-IAD
+X-Cache: HIT
+X-Cache-Hits: 0
+X-Timer: S1698793182.874650,VS0,VE0
+
+HTTP/2 200 
+server: Apache
+last-modified: Tue, 31 Oct 2023 17:42:49 GMT
+etag: "fe09-60906aeee8037"
+cache-control: max-age=3600
+expires: Tue, 31 Oct 2023 18:42:51 GMT
+content-security-policy: default-src 'self' 'unsafe-inline' https://www.apachecon.com/ https://analytics.apache.org/ http://analytics.apache.org/ https://www.google.com/cse/ https://cse.google.com/ https://www.googleapis.com/generate_204 http://*.google.com/generate_204 https://afs.googlesyndication.com/ https://csp.withgoogle.com/ https://www.google.com/images/ https://ssl.gstatic.com/ui/ https://docs.google.com/forms/ https://www.youtube.com/embed/; script-src 'self' 'unsafe-inline' 'unsafe-eval' https://analytics.apache.org/ http://analytics.apache.org/ https://cse.google.com/ http://cse.google.com/adsense/search/async-ads.js https://www.google.com/cse/ https://partner.googleadservices.com/; style-src 'self' 'unsafe-inline' https://www.google.com/cse/; frame-ancestors 'none';
+strict-transport-security: max-age=31536000; preload
+content-type: text/html
+via: 1.1 varnish, 1.1 varnish
+accept-ranges: bytes
+date: Tue, 31 Oct 2023 22:59:41 GMT
+age: 1000
+x-served-by: cache-hel1410027-HEL, cache-iad-kcgs7200066-IAD
+x-cache: HIT, HIT
+x-cache-hits: 1, 1
+x-timer: S1698793182.919570,VS0,VE2
+vary: Accept-Encoding
+content-length: 65033
+

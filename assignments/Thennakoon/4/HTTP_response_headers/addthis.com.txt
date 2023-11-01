@@ -1,0 +1,18 @@
+HTTP/1.1 301 Moved Permanently
+Server: AkamaiGHost
+Content-Length: 0
+Location: https://www.addthis.com/
+Date: Tue, 31 Oct 2023 22:59:38 GMT
+Connection: keep-alive
+
+HTTP/2 405 
+content-type: application/json
+server: Oracle API Gateway
+x-content-type-options: nosniff
+x-frame-options: sameorigin
+opc-request-id: /C117F8178FD9A0245DFD647944BB9286/E51DAB062952BABA9B71511BD0D2C6BD
+strict-transport-security: max-age=31536000
+x-xss-protection: 1; mode=block
+content-length: 0
+date: Tue, 31 Oct 2023 22:59:39 GMT
+

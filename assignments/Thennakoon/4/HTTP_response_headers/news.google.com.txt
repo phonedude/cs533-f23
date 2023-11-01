@@ -1,0 +1,65 @@
+HTTP/1.1 301 Moved Permanently
+Content-Type: application/binary
+Cache-Control: no-cache, no-store, max-age=0, must-revalidate
+Pragma: no-cache
+Expires: Mon, 01 Jan 1990 00:00:00 GMT
+Date: Tue, 31 Oct 2023 22:59:58 GMT
+Location: https://news.google.com/
+Content-Length: 0
+P3P: CP="This is not a P3P policy! See g.co/p3phelp for more info."
+Server: ESF
+X-XSS-Protection: 0
+X-Frame-Options: SAMEORIGIN
+X-Content-Type-Options: nosniff
+Set-Cookie: NID=511=Qogc56OvsEKssG0XzBxee3vAPlxWAdNfFMrlEJa6bFqgcrF_splYkx4R_BbRDBaQjng3wr9cKqhKov0caF8MPAWzVYjfwBCjF9p5mbatd4aLDLhJUjyDyP8jb0-SKPPOOp2UPGD027cIhiBN71-vqj_IHGSe7Uv2hxqzeLzyeMk; expires=Wed, 01-May-2024 22:59:58 GMT; path=/; domain=.google.com; HttpOnly
+
+HTTP/2 302 
+content-type: application/binary
+vary: Sec-Fetch-Dest, Sec-Fetch-Mode, Sec-Fetch-Site
+cache-control: no-cache, no-store, max-age=0, must-revalidate
+pragma: no-cache
+expires: Mon, 01 Jan 1990 00:00:00 GMT
+date: Tue, 31 Oct 2023 22:59:58 GMT
+location: https://news.google.com/home?hl=en-US&gl=US&ceid=US:en
+content-length: 0
+p3p: CP="This is not a P3P policy! See g.co/p3phelp for more info."
+strict-transport-security: max-age=31536000
+content-security-policy: script-src 'nonce-yF7BfopCBlK8_LO-LDOIOQ' 'unsafe-inline';object-src 'none';base-uri 'self';report-uri /_/DotsSplashUi/cspreport;worker-src 'self'
+content-security-policy: require-trusted-types-for 'script';report-uri /_/DotsSplashUi/cspreport
+cross-origin-resource-policy: same-site
+cross-origin-opener-policy: same-origin-allow-popups
+accept-ch: Sec-CH-UA-Arch, Sec-CH-UA-Bitness, Sec-CH-UA-Full-Version, Sec-CH-UA-Full-Version-List, Sec-CH-UA-Model, Sec-CH-UA-WoW64, Sec-CH-UA-Form-Factor, Sec-CH-UA-Platform, Sec-CH-UA-Platform-Version
+permissions-policy: ch-ua-arch=*, ch-ua-bitness=*, ch-ua-full-version=*, ch-ua-full-version-list=*, ch-ua-model=*, ch-ua-wow64=*, ch-ua-form-factor=*, ch-ua-platform=*, ch-ua-platform-version=*
+server: ESF
+x-xss-protection: 0
+x-frame-options: SAMEORIGIN
+x-content-type-options: nosniff
+set-cookie: NID=511=qiev2WER7A_KLusHErmGvVJfMgg1Rk2MToQHkRp7osj5jTpy_AB2scLLVl3MiuriIJPE4BNCghc--o4Zopgq7RDcJLdITA321XbviqdjkB0Xx_jj7jgcE8aA3Jt-DE7Y5jseLZbCcgxL152gN0pqlDHHEal5ejhxSZ1DcKL7aDI; expires=Wed, 01-May-2024 22:59:58 GMT; path=/; domain=.google.com; HttpOnly
+set-cookie: GN_PREF=W251bGwsIkNBSVNEQWp1allhcUJoREFpcWFCQWciXQ__; Expires=Wed, 01-May-2024 10:59:58 GMT; Path=/; Secure
+alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+
+HTTP/2 200 
+content-type: text/html; charset=utf-8
+vary: Sec-Fetch-Dest, Sec-Fetch-Mode, Sec-Fetch-Site
+x-ua-compatible: IE=edge
+cache-control: no-cache, no-store, max-age=0, must-revalidate
+pragma: no-cache
+expires: Mon, 01 Jan 1990 00:00:00 GMT
+date: Tue, 31 Oct 2023 22:59:58 GMT
+content-length: 1512528
+p3p: CP="This is not a P3P policy! See g.co/p3phelp for more info."
+strict-transport-security: max-age=31536000
+permissions-policy: ch-ua-arch=*, ch-ua-bitness=*, ch-ua-full-version=*, ch-ua-full-version-list=*, ch-ua-model=*, ch-ua-wow64=*, ch-ua-form-factor=*, ch-ua-platform=*, ch-ua-platform-version=*
+cross-origin-opener-policy: same-origin-allow-popups
+accept-ch: Sec-CH-UA-Arch, Sec-CH-UA-Bitness, Sec-CH-UA-Full-Version, Sec-CH-UA-Full-Version-List, Sec-CH-UA-Model, Sec-CH-UA-WoW64, Sec-CH-UA-Form-Factor, Sec-CH-UA-Platform, Sec-CH-UA-Platform-Version
+cross-origin-resource-policy: same-site
+content-security-policy: script-src 'nonce-OSgN2Az03ZteB0pW-Hz5eA' 'unsafe-inline';object-src 'none';base-uri 'self';report-uri /_/DotsSplashUi/cspreport;worker-src 'self'
+content-security-policy: require-trusted-types-for 'script';report-uri /_/DotsSplashUi/cspreport
+server: ESF
+x-xss-protection: 0
+x-frame-options: SAMEORIGIN
+x-content-type-options: nosniff
+set-cookie: NID=511=IHogAMqOZuJDvY2KfkI6_sjYU9XUKh_pQISw46PpoI0pZ0QHHdkUoCSt7qgqmIdTte8UzsD4oybHQeMbS4Z1QyWn0ewt6dqpS50umRVnEaE4bU3t7tGXUv3dSvWk0jpUcYCZIkJPAYGJ_Ga-g_QYwYlxSZ_wjQaLCKysabDG8U0; expires=Wed, 01-May-2024 22:59:58 GMT; path=/; domain=.google.com; HttpOnly
+set-cookie: GN_PREF=W251bGwsIkNBSVNEQWp1allhcUJoQ3d6TW1QQWciXQ__; Expires=Wed, 01-May-2024 10:59:58 GMT; Path=/; Secure
+alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+

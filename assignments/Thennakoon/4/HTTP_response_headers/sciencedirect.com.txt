@@ -1,0 +1,13 @@
+HTTP/1.1 403 Forbidden
+Date: Tue, 31 Oct 2023 23:00:11 GMT
+Content-Type: text/html; charset=UTF-8
+Connection: keep-alive
+X-Frame-Options: SAMEORIGIN
+Referrer-Policy: same-origin
+Cache-Control: max-age=15
+Expires: Tue, 31 Oct 2023 23:00:26 GMT
+Set-Cookie: __cf_bm=wBJt9iXpaK5EjZOltoSwqiY.fUZXUah0umV5e94k_vI-1698793211-0-AaqL/YpqsEQbLaEo5L2j1C52O7ZcA2eCKrf7bZSwLxkaTJ/7Zofrw7WS0rl7rlg27J/6hQg2mwJVuLuWCxbrbkqF71eKfcy0/1PCnkUS859T; path=/; expires=Tue, 31-Oct-23 23:30:11 GMT; domain=.sciencedirect.com; HttpOnly; SameSite=None
+X-Content-Type-Options: nosniff
+Server: cloudflare
+CF-RAY: 81ef8340cef0c420-EWR
+

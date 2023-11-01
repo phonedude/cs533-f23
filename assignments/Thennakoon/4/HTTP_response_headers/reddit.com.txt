@@ -1,0 +1,58 @@
+HTTP/1.1 301 Moved Permanently
+Connection: close
+Content-Length: 0
+Retry-After: 0
+Location: https://reddit.com/
+Accept-Ranges: bytes
+Date: Tue, 31 Oct 2023 23:00:08 GMT
+Via: 1.1 varnish
+X-Content-Type-Options: nosniff
+X-Frame-Options: SAMEORIGIN
+X-XSS-Protection: 1; mode=block
+Cache-Control: private, max-age=3600
+Server: snooserv
+Report-To: {"group": "w3-reporting-nel", "max_age": 14400, "include_subdomains": true,  "endpoints": [{ "url": "https://w3-reporting-nel.reddit.com/reports" }]}, {"group": "w3-reporting", "max_age": 14400, "include_subdomains": true, "endpoints": [{ "url": "https://w3-reporting.reddit.com/reports" }]}, {"group": "w3-reporting-csp", "max_age": 14400, "include_subdomains": true, "endpoints": [{ "url": "https://w3-reporting-csp.reddit.com/reports" }]}
+NEL: {"report_to": "w3-reporting-nel", "max_age": 14400, "include_subdomains": false, "success_fraction": 1.0, "failure_fraction": 1.0}
+
+HTTP/2 301 
+retry-after: 0
+location: https://www.reddit.com/
+accept-ranges: bytes
+date: Tue, 31 Oct 2023 23:00:08 GMT
+via: 1.1 varnish
+strict-transport-security: max-age=31536000; includeSubdomains; preload
+x-content-type-options: nosniff
+x-frame-options: SAMEORIGIN
+x-xss-protection: 1; mode=block
+cache-control: private, max-age=3600
+server: snooserv
+report-to: {"group": "w3-reporting-nel", "max_age": 14400, "include_subdomains": true,  "endpoints": [{ "url": "https://w3-reporting-nel.reddit.com/reports" }]}, {"group": "w3-reporting", "max_age": 14400, "include_subdomains": true, "endpoints": [{ "url": "https://w3-reporting.reddit.com/reports" }]}, {"group": "w3-reporting-csp", "max_age": 14400, "include_subdomains": true, "endpoints": [{ "url": "https://w3-reporting-csp.reddit.com/reports" }]}
+nel: {"report_to": "w3-reporting-nel", "max_age": 14400, "include_subdomains": false, "success_fraction": 1.0, "failure_fraction": 1.0}
+content-length: 0
+
+HTTP/2 200 
+cache-control: private, s-maxage=1, max-age=1, must-revalidate
+content-security-policy: child-src 'self' blob: accounts.google.com;connect-src 'self' events.redditmedia.com o418887.ingest.sentry.io *.redd.it *.reddit.com www.redditstatic.com vimeo.com alb.reddit.com accounts.google.com/gsi/ w3-reporting.reddit.com reddit-uploaded-media.s3-accelerate.amazonaws.com reddit-uploaded-video.s3-accelerate.amazonaws.com reddit-subreddit-uploaded-media.s3-accelerate.amazonaws.com wss://*.wss.redditmedia.com wss://gql-realtime.reddit.com api.giphy.com js.stripe.com;default-src 'self';font-src 'self' data:;form-action 'none';frame-ancestors 'self' *.reddit.com *.snooguts.net;frame-src 'self' www.reddit.com www.youtube-nocookie.com player.vimeo.com *.redditmedia.com cdn.embedly.com redgifs.com www.redgifs.com accounts.google.com/gsi/ www.google.com/recaptcha/ recaptcha.google.com/recaptcha/ js.stripe.com hooks.stripe.com;img-src 'self' data: blob: https:;manifest-src 'self' www.redditstatic.com;media-src 'self' blob: data: *.redd.it www.redditstatic.com;object-src 'none';script-src 'self' 'unsafe-inline' 'unsafe-eval' www.redditstatic.com js.stripe.com 'nonce-UR6yUYyWGwi8iptZKGNfVw==';style-src 'self' 'unsafe-inline' www.redditstatic.com *.reddit.com accounts.google.com/gsi/style;style-src-attr 'unsafe-inline';worker-src blob:;report-to csp;report-uri https://w3-reporting-csp.reddit.com/reports
+content-security-policy-report-only: object-src 'none';script-src 'nonce-UR6yUYyWGwi8iptZKGNfVw==' 'unsafe-inline' 'unsafe-eval' 'strict-dynamic' https:;frame-ancestors 'self' *.reddit.com *.snooguts.net;base-uri 'self';report-to csp;report-uri https://w3-reporting-csp.reddit.com/reports
+content-type: text/html; charset=utf-8
+x-is-wrs: false
+x-ratelimit-remaining: 9
+x-ratelimit-used: 1
+accept-ranges: bytes
+date: Tue, 31 Oct 2023 23:00:09 GMT
+via: 1.1 varnish
+vary: Accept-Encoding,accept-language
+strict-transport-security: max-age=31536000; includeSubdomains
+x-content-type-options: nosniff
+x-frame-options: SAMEORIGIN
+x-xss-protection: 1; mode=block
+set-cookie: loid=000000000my4huvpd8.2.1698793209052.Z0FBQUFBQmxRWWI1dVUxSEg4TGE0WkdrdnowbzlkTjF1VTVJUlpZdl9oYzhPNWpqRWo2V3ppVkpLN3U5SjdHZVdPTjIwMXg2OXhRd0gxb1BFNjFRYU41bHVjZ2tTOUxDeGJQaURueTRSUkVjNXJFNW5KWWtOc1JWRFBtVnZpYV96RThWaEg3elN5VGM; path=/; expires=Thu, 30 Oct 2025 23:00:09 GMT; domain=.reddit.com; samesite=none; secure
+set-cookie: session_tracker=hbaakfgglddgmndceg.0.1698793209056.Z0FBQUFBQmxRWWI1dnNENTlGN2MzYnJsMDlZUHpud2NVWFA1dDJLM3prSjhPYlFxU0JRLVptWmZFS0hZOHo0UGkxRXJkYXBxby1kdUgyck15NjFxeTFJRmpnMFBJV1VJbm50RmtGSW1lYUtYN2tEeFR3TjNIV29rZXdXQWJ3UVhCOUh3SUFRa1BhdGs; path=/; domain=.reddit.com; secure; SameSite=None; Secure
+set-cookie: csrf_token=d275f7a224cee9c1575a6011d4096cba; path=/; domain=.reddit.com; samesite=strict; secure
+set-cookie: token_v2=eyJhbGciOiJSUzI1NiIsImtpZCI6IlNIQTI1NjpzS3dsMnlsV0VtMjVmcXhwTU40cWY4MXE2OWFFdWFyMnpLMUdhVGxjdWNZIiwidHlwIjoiSldUIn0.eyJzdWIiOiJsb2lkIiwiZXhwIjoxNjk4ODc5NjA5LjA1MzI1OCwiaWF0IjoxNjk4NzkzMjA5LjA1MzI1OCwianRpIjoiMzZFalRwMzRBa1lObHhqZG93ejE0LV9LUUM2TExBIiwiY2lkIjoiMFItV0FNaHVvby1NeVEiLCJsaWQiOiJ0Ml9teTRodXZwZDgiLCJsY2EiOjE2OTg3OTMyMDkwNTIsInNjcCI6ImVKeGtrZEdPdERBSWhkLWwxejdCX3lwX05odHNjWWFzTFFhb2szbjdEVm9jazcwN2NENHBIUDhuS0lxRkxFMnVCS0c0eXBsNzgxNFdMSVZNMDVRR3RheEFrcWIwSkRXV2Q1b1NGV3hHNW5LbEhTczBlR0NhVXVXU3VTMzB1TFFKemQxWTlPekVxTXBsNVVGVm9QVlVqVzFNWVh0aWZMT3gycENLNjNJcUUxZ1d5bWZ4b2g5eTlkWS1mN2JmaEhZd3JLZ0tEX1RPdUZWd1lfSERGSFpfVDAxNnRpNVkxTjdyUVdxZjYzRzc5bG16ME96Y2ZxN25yNDFrWEk2aC1RbjI3NjVmUWdjZWVWNW0xQUdNV01PUE11eklPdnlyRHFCeVFRRmpDZUxUQ09USzVkdF9DYlpyMDdfRzdSTV9mRFBpcGpmODFnelVjd25pMEtmeDlSc0FBUF9fSV9yYXVRIiwiZmxvIjoxfQ.EiAiUP9Eg91K17dL7U4N_em3NuWTTE1oJOodlkpH4Z9PLnve0LZUioP7coKT2ognHsJWiDrsMIj4a05FjDQBKR0Okq5CQD-Xj5hfjY0UWX34G5OaWl_MH7hgy3oMpyy-yyANtBM6fyxqIMnNkAk7-zjrJOtcH2Rlfd2GVTiIPs2je7HR3UZCOcnvshSnFYYnI_NO-dj9FBsqJma6yO5GYUi4lltN8PaUMXGrbgowkkEpdfUi-3hGvtSQl8c-X6cuQw-9j6eUAvQw44TjXpNIfJ7JU18kWEE58ogNsM48rf6QRc_CobjRNraldiMhoZDG_PpPYU5ZB3aG0JsBipcMYg; Path=/; Domain=reddit.com; Expires=Wed, 01 Nov 2023 23:00:09 GMT; HttpOnly; Secure
+set-cookie: csv=2; Max-Age=63072000; Domain=.reddit.com; Path=/; Secure; SameSite=None
+set-cookie: edgebucket=M04K3XIbxZv8t19wV5; Domain=reddit.com; Max-Age=63071999; Path=/;  secure
+server: snooserv
+report-to: {"group": "w3-reporting-nel", "max_age": 14400, "include_subdomains": true,  "endpoints": [{ "url": "https://w3-reporting-nel.reddit.com/reports" }]}, {"group": "w3-reporting", "max_age": 14400, "include_subdomains": true, "endpoints": [{ "url": "https://w3-reporting.reddit.com/reports" }]}, {"group": "w3-reporting-csp", "max_age": 14400, "include_subdomains": true, "endpoints": [{ "url": "https://w3-reporting-csp.reddit.com/reports" }]}
+nel: {"report_to": "w3-reporting-nel", "max_age": 14400, "include_subdomains": false, "success_fraction": 1.0, "failure_fraction": 1.0}
+

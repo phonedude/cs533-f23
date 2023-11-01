@@ -1,0 +1,86 @@
+HTTP/1.1 301 Moved Permanently
+Cache-Control: no-cache
+Pragma: no-cache
+Content-Length: 0
+Location: https://outlook.com/
+Server: Microsoft-IIS/10.0
+request-id: a7bb5f12-d87e-8e3c-c375-a43cb6dd29f6
+X-FEServer: CY5PR04CA0003
+X-RequestId: 12284514-bc46-4805-9c12-a56e8a53eb1f
+X-FEProxyInfo: CY5PR04CA0003.NAMPRD04.PROD.OUTLOOK.COM
+X-FEEFZInfo: CYS
+MS-CV: El+7p37YPI7DdaQ8tt0p9g.0
+X-Powered-By: ASP.NET
+X-FEServer: CY5PR04CA0003
+Date: Tue, 31 Oct 2023 23:00:03 GMT
+Connection: close
+
+HTTP/1.1 301 Moved Permanently
+Cache-Control: no-cache
+Pragma: no-cache
+Content-Length: 0
+Location: https://www.outlook.com/owa/
+Server: Microsoft-IIS/10.0
+request-id: bd7800f2-cd76-feee-a6ed-6e0b463f6068
+Strict-Transport-Security: max-age=31536000; includeSubDomains; preload
+X-FEServer: CY5PR04CA0004
+X-RequestId: 0f137278-8b56-45bb-9d0b-65afd075fce0
+X-FEProxyInfo: CY5PR04CA0004.NAMPRD04.PROD.OUTLOOK.COM
+X-FEEFZInfo: CYS
+MS-CV: 8gB4vXbN7v6m7W4LRj9gaA.0
+X-Powered-By: ASP.NET
+X-FEServer: CY5PR04CA0004
+Date: Tue, 31 Oct 2023 23:00:03 GMT
+Connection: close
+
+HTTP/1.1 301 Moved Permanently
+Cache-Control: no-cache
+Pragma: no-cache
+Content-Length: 0
+Location: https://outlook.live.com/owa/
+Server: Microsoft-IIS/10.0
+request-id: c16f0c17-b7e7-8a1f-1650-8de232b20690
+Strict-Transport-Security: max-age=31536000; includeSubDomains; preload
+X-FEServer: MN2PR01CA0034
+X-RequestId: 52cb821b-ed72-4615-8cf2-4fce05d99c66
+X-FEProxyInfo: MN2PR01CA0034.PROD.EXCHANGELABS.COM
+X-FEEFZInfo: MNZ
+X-FEServer: MN2PR01CA0034
+Date: Tue, 31 Oct 2023 23:00:02 GMT
+Connection: close
+
+HTTP/2 440 
+content-length: 154
+content-type: text/html; charset=utf-8
+server: Microsoft-IIS/10.0
+request-id: 430c7277-66d3-9908-0a8f-9187e37a6d81
+strict-transport-security: max-age=31536000; includeSubDomains; preload
+alt-svc: h3=":443",h3-29=":443"
+x-calculatedfetarget: BN9PR03CU017.internal.outlook.com
+x-backendhttpstatus: 440
+set-cookie: RoutingKeyCookie=; expires=Sun, 31-Oct-1993 23:00:03 GMT; path=/; secure
+set-cookie: HostSwitchPrg=; expires=Sun, 31-Oct-1993 23:00:03 GMT; path=/; secure
+set-cookie: OptInPrg=; expires=Sun, 31-Oct-1993 23:00:03 GMT; path=/; secure
+x-calculatedbetarget: BN6PR0101MB2996.prod.exchangelabs.com
+x-backendhttpstatus: 440
+x-owa-diagnosticsinfo: 16;0;0
+x-iids: 0
+x-backend-begin: 2023-10-31T23:00:03.746
+x-backend-end: 2023-10-31T23:00:03.762
+x-diaginfo: BN6PR0101MB2996
+x-beserver: BN6PR0101MB2996
+x-ua-compatible: IE=EmulateIE7
+x-rum-validated: 1
+x-rum-notupdatequeriedpath: 1
+x-rum-notupdatequerieddbcopy: 1
+x-proxy-routingcorrectness: 1
+x-proxy-backendserverstatus: 440
+x-feproxyinfo: BL0PR01CA0003.PROD.EXCHANGELABS.COM
+x-feefzinfo: MNZ
+x-feserver: BN9PR03CA0479
+report-to: {"group":"NelOfficeUpload1","max_age":7200,"endpoints":[{"url":"https://exo.nel.measure.office.net/api/report?TenantId=&FrontEnd=Cafe&DestinationEndpoint=MNZ"}],"include_subdomains":true}
+nel: {"report_to":"NelOfficeUpload1","max_age":7200,"include_subdomains":true,"failure_fraction":1.0,"success_fraction":0.01}
+x-firsthopcafeefz: MNZ
+x-feserver: BL0PR01CA0003
+date: Tue, 31 Oct 2023 23:00:03 GMT
+

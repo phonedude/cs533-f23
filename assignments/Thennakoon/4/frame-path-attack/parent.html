@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <title>Parent Page</title>
+</head>
+
+<body>
+    <h1>Parent page</h1>
+    <iframe src="http://localhost:8001"></iframe>
+    <script>
+        // Attempt to read cookies from the iframed page
+        const cookies = document.cookie;
+        console.log("cookies found");
+        alert("cookies found");
+        console.log("Cookies from iframed page:", cookies);
+        
+    </script>
+</body>
+
+</html>
