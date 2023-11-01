@@ -8,14 +8,13 @@
 * [code](code) - contains scripts and output files 
 * [framable](framable) - contains html files created for 100 sites
 
+### Youtube video is available at: https://youtu.be/QLgFOZIHSOI
+
 ### Summary
 
 * Number of framable sites - 28
 * Number of non framable sites - 69
 * number of sites did not resolve - 3
-
-### Youtube video is available at: https://youtu.be/QLgFOZIHSOI 
-
 
 * Framable sites out of 100 sites
 
