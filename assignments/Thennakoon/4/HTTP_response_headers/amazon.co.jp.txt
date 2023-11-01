@@ -1,0 +1,35 @@
+HTTP/1.1 301 Moved Permanently
+Server: Server
+Date: Tue, 31 Oct 2023 22:59:40 GMT
+Content-Type: text/html
+Content-Length: 163
+Connection: keep-alive
+Location: https://amazon.co.jp/
+
+HTTP/1.1 301 Moved Permanently
+Server: Server
+Date: Tue, 31 Oct 2023 22:59:40 GMT
+Content-Type: text/html
+Connection: keep-alive
+Location: https://www.amazon.co.jp/
+
+HTTP/2 405 
+content-type: text/html;charset=UTF-8
+content-length: 0
+server: Server
+date: Tue, 31 Oct 2023 22:59:40 GMT
+x-amz-rid: AW2C6BPMN33RKQC9WK2Y
+set-cookie: skin=noskin; path=/; domain=.amazon.co.jp
+cache-control: no-cache
+pragma: no-cache
+expires: -1
+allow: GET, POST, PUT, DELETE, OPTIONS
+vary: Accept-Encoding,User-Agent,Content-Type,Accept-Encoding,User-Agent
+strict-transport-security: max-age=47474747; includeSubDomains; preload
+x-frame-options: SAMEORIGIN
+x-cache: Error from cloudfront
+via: 1.1 f9c59ce0e830fcb72cbcdb26622739f0.cloudfront.net (CloudFront)
+x-amz-cf-pop: IAD12-P4
+alt-svc: h3=":443"; ma=86400
+x-amz-cf-id: kP7eCXg374x4jfoSGWLhv7exRXWG09nBG_S2BFiuHP6LrXFNIPhuzg==
+

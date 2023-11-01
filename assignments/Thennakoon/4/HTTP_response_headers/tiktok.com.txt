@@ -1,0 +1,74 @@
+HTTP/1.1 301 Moved Permanently
+Server: CloudFront
+Date: Tue, 31 Oct 2023 23:00:21 GMT
+Content-Type: text/html
+Content-Length: 167
+Connection: keep-alive
+Location: https://tiktok.com/
+X-Cache: Redirect from cloudfront
+Via: 1.1 2741f1723d261cac06de387e29ba4cbc.cloudfront.net (CloudFront)
+X-Amz-Cf-Pop: IAD12-P4
+X-Amz-Cf-Id: _Uk_Cj2SuNg88bsOo324KOEtGXeMHvcYPMCMBWReyMUFMO_HbW4bAQ==
+
+HTTP/2 301 
+server: CloudFront
+date: Tue, 31 Oct 2023 23:00:21 GMT
+content-length: 0
+location: https://www.tiktok.com/
+x-cache: FunctionGeneratedResponse from cloudfront
+via: 1.1 7a5e7fb63610c502e6d20ae459e78942.cloudfront.net (CloudFront)
+x-amz-cf-pop: IAD12-P4
+x-amz-cf-id: iBtZ-ep8hnBSBJQc4ww97Hp3sBwVhzj4BrkSR87rHUMMBFzYsQ9Nng==
+strict-transport-security: max-age=63072000; includeSubDomains; preload
+
+HTTP/2 302 
+server: nginx
+content-type: text/html; charset=utf-8
+content-length: 47
+content-security-policy: script-src 'unsafe-eval' sf16-website-login.neutral.ttwstatic.com s20.tiktokcdn.com *.tiktokcdn-us.com www.google.com recaptcha.google.com js.hcaptcha.com client-api.arkoselabs.com www.gstatic.com connect.facebook.net;frame-src *.tiktok.com accounts.google.com www.google.com recaptcha.google.com www.facebook.com *.kakao.com lf16-web.tiktokcdn.com assets.braintreegateway.com appleid.apple.com access.line.me api.twitter.com h.online-metrix.net bytedance: newassets.hcaptcha.com client-api.arkoselabs.com;worker-src https: blob:
+feature-policy: microphone 'none'; geolocation 'none'
+location: /explore
+referrer-policy: strict-origin-when-cross-origin
+strict-transport-security: max-age=31536000; includeSubdomains
+x-bytefaas-execution-duration: 43.16
+x-bytefaas-request-id: 20231031230021ACB88C1C19E6500B1099
+x-content-type-options: nosniff
+x-download-options: noopen
+x-frame-options: SAMEORIGIN
+x-gw-dst-psm: serverless.tiktok.desktop
+x-powered-by: Goofy Node
+x-tt-logid: 20231031230021ACB88C1C19E6500B1099
+x-xss-protection: 1; mode=block
+server-timing: inner; dur=46
+x-tt-trace-host: 0159ebf3813f0f7e62d2ac6b0a69359c666f1669c5f232389cf0856806b77916ac34046e6bd7626d463b1cd465c2d4f836f77c476c0f097b9e84e293475d699dba4bbdf2d314cf6701fe0aca7446dd075ce659ef68cdd4086a91161c1029d48cde
+x-tt-trace-id: 00-231031230021ACB88C1C19E6500B1099-3D10AF0522B8151E-00
+expires: Tue, 31 Oct 2023 23:00:21 GMT
+cache-control: max-age=0, no-cache, no-store
+pragma: no-cache
+date: Tue, 31 Oct 2023 23:00:21 GMT
+x-cache: TCP_MISS from a23-202-158-27.deploy.akamaitechnologies.com (AkamaiGHost/11.3.0.1-51934483) (-)
+set-cookie: tt_csrf_token=LkQI6Ldk-eKFDCy8uKs_bmkWe7Huk8dk0HHE; path=/; domain=.tiktok.com; samesite=lax; secure; httponly
+set-cookie: ttwid=1%7CKi5NNLLJbPFEhNdvWLV8FHQIkb9ctuSs28eYlNoLzz0%7C1698793221%7C7ad7dfcae47bd90ff213774f3c5d71a0b5d02e377302c654e9dcd05d116fbb3b; Domain=.tiktok.com; Path=/; Expires=Fri, 25 Oct 2024 23:00:21 GMT; HttpOnly
+x-tt-trace-tag: id=16;cdn-cache=miss;type=dyn
+server-timing: cdn-cache; desc=MISS, edge; dur=0, origin; dur=67
+x-origin-response-time: 67,23.202.158.27
+x-akamai-request-id: c610acef
+
+HTTP/2 403 
+server: nginx
+content-length: 0
+x-tt-system-error: 3
+proxy-status: 0000201403061000
+x-tt-trace-host: 0159ebf3813f0f7e62d2ac6b0a69359c666f1669c5f232389cf0856806b77916ac34046e6bd7626d463b1cd465c2d4f8363cb61ed8e524d378dad304ab50d26948e34de2a7053615142bc85549a5759480
+x-tt-trace-id: 00-231031230021ACB88C1C19E6500B109C-7C16590C6FD457B9-00
+x-tt-logid: 20231031230021ACB88C1C19E6500B109C
+expires: Tue, 31 Oct 2023 23:00:21 GMT
+cache-control: max-age=0, no-cache, no-store
+pragma: no-cache
+date: Tue, 31 Oct 2023 23:00:21 GMT
+x-cache: TCP_MISS from a23-202-158-27.deploy.akamaitechnologies.com (AkamaiGHost/11.3.0.1-51934483) (-)
+x-tt-trace-tag: id=16;cdn-cache=miss;type=dyn
+server-timing: cdn-cache; desc=MISS, edge; dur=1, origin; dur=20
+x-origin-response-time: 21,23.202.158.27
+x-akamai-request-id: c610afeb
+

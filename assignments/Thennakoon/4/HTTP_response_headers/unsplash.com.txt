@@ -1,0 +1,39 @@
+HTTP/1.1 301 Moved Permanently
+Connection: close
+Content-Length: 0
+Server: Varnish
+Retry-After: 0
+Location: https://unsplash.com/
+Accept-Ranges: bytes
+Date: Tue, 31 Oct 2023 23:00:22 GMT
+Via: 1.1 varnish
+X-Served-By: cache-iad-kiad7000047-IAD
+X-Cache: HIT
+X-Cache-Hits: 0
+X-Timer: S1698793223.753618,VS0,VE0
+Set-Cookie: require_cookie_consent=false; Expires=Wed, 30 Oct 2024 23:00:22 GMT; path=/;
+
+HTTP/2 200 
+server: Cowboy
+report-to: {"group":"heroku-nel","max_age":3600,"endpoints":[{"url":"https://nel.heroku.com/reports?ts=1698791456&sid=af571f24-03ee-46d1-9f90-ab9030c2c74c&s=KGFeZQZjCUzb2RnwRiO5mk4eOV22KIvya1yctrNhaNQ%3D"}]}
+reporting-endpoints: heroku-nel=https://nel.heroku.com/reports?ts=1698791456&sid=af571f24-03ee-46d1-9f90-ab9030c2c74c&s=KGFeZQZjCUzb2RnwRiO5mk4eOV22KIvya1yctrNhaNQ%3D
+nel: {"report_to":"heroku-nel","max_age":3600,"success_fraction":0.005,"failure_fraction":0.05,"response_headers":["Via"]}
+x-frame-options: SAMEORIGIN
+strict-transport-security: max-age=31536000
+x-content-type-options: nosniff
+x-xss-protection: 1
+referrer-policy: origin-when-cross-origin
+link: <https://images.unsplash.com>; rel="preconnect", <https://plus.unsplash.com>; rel="preconnect"
+content-type: text/html; charset=utf-8
+via: 1.1 vegur, 1.1 varnish
+accept-ranges: bytes
+date: Tue, 31 Oct 2023 23:00:22 GMT
+age: 1765
+x-served-by: cache-iad-kcgs7200121-IAD
+x-cache: HIT
+x-cache-hits: 1
+vary: x-locale, x-logged-in, Accept-Encoding, client-geo-region
+set-cookie: require_cookie_consent=false; Expires=Wed, 30 Oct 2024 23:00:22 GMT; path=/;
+set-cookie: xp-homepage-modules=control; expires=Wed, 30 Oct 2024 23:00:22 GMT; path=/;
+content-length: 645157
+

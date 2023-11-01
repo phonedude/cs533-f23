@@ -1,0 +1,65 @@
+HTTP/1.1 301 Moved Permanently
+Connection: keep-alive
+Content-Length: 162
+Content-Type: text/html
+Location: https://utexas.edu/
+Server: nginx
+X-Pantheon-Styx-Hostname: styx-fe4-b-6679b8f9f8-2pspd
+X-Styx-Req-Id: 8c4234dc-77d5-11ee-a515-b24492e2a1a3
+Cache-Control: public, max-age=86400
+Date: Tue, 31 Oct 2023 23:00:23 GMT
+X-Served-By: cache-chi-klot8100033-CHI, cache-iad-kiad7000129-IAD
+X-Cache: MISS, HIT
+X-Cache-Hits: 0, 1
+X-Timer: S1698793224.785787,VS0,VE2
+Vary: Cookie, Cookie
+Age: 46268
+Accept-Ranges: bytes
+Via: 1.1 varnish, 1.1 varnish
+
+HTTP/2 301 
+cache-control: public, max-age=1209600
+content-type: text/html; charset=UTF-8
+location: https://www.utexas.edu/
+server: nginx
+strict-transport-security: max-age=300
+x-pantheon-styx-hostname: styx-fe4-b-6679b8f9f8-fpxqn
+x-styx-req-id: 19a510fe-74f0-11ee-b0eb-d6ee2c492568
+date: Tue, 31 Oct 2023 23:00:23 GMT
+x-served-by: cache-chi-klot8100126-CHI, cache-iad-kcgs7200101-IAD
+x-cache: HIT, HIT
+x-cache-hits: 2538, 1
+x-timer: S1698793224.834332,VS0,VE3
+vary: Cookie, Cookie
+age: 364717
+accept-ranges: bytes
+via: 1.1 varnish, 1.1 varnish
+content-length: 0
+
+HTTP/2 200 
+cache-control: public, max-age=300
+content-language: en
+content-type: text/html; charset=utf-8
+etag: W/"1698791720-0"
+expires: Sun, 19 Nov 1978 05:00:00 GMT
+last-modified: Tue, 31 Oct 2023 22:35:20 GMT
+link: <https://www.utexas.edu>; rel="canonical",<https://www.utexas.edu>; rel="shortlink"
+server: nginx
+strict-transport-security: max-age=300
+x-content-type-options: nosniff
+x-drupal-cache: HIT
+x-frame-options: SAMEORIGIN
+x-generator: Drupal 7 (http://drupal.org)
+x-pantheon-styx-hostname: styx-fe4-b-6679b8f9f8-zkdjz
+x-styx-req-id: e54dbab6-783f-11ee-993d-9e788f121c6a
+date: Tue, 31 Oct 2023 23:00:23 GMT
+x-served-by: cache-chi-klot8100133-CHI, cache-iad-kcgs7200077-IAD
+x-cache: HIT, HIT
+x-cache-hits: 7, 1
+x-timer: S1698793224.904938,VS0,VE2
+vary: Accept-Encoding, Cookie, Cookie, Cookie
+age: 287
+accept-ranges: bytes
+via: 1.1 varnish, 1.1 varnish
+content-length: 84325
+

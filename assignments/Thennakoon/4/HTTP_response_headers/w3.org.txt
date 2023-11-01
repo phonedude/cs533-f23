@@ -1,0 +1,30 @@
+HTTP/1.1 301 Moved Permanently
+Date: Tue, 31 Oct 2023 23:00:25 GMT
+Connection: keep-alive
+Cache-Control: max-age=3600
+Expires: Wed, 01 Nov 2023 00:00:25 GMT
+Location: https://www.w3.org/
+Set-Cookie: __cf_bm=O7_YRi6KJVnAAqaYh5V7awR5HGwMbp5Fm84FEdWIxJc-1698793225-0-AfWWgiEnRx8RcfHdFI6KaXav82h9iQhexjsWsmrzP8nDnd359QVaKbJQ9ZLitATzu29k6KobUlUWHZ0VQ/RNyFw=; path=/; expires=Tue, 31-Oct-23 23:30:25 GMT; domain=.w3.org; HttpOnly; SameSite=None
+Server: cloudflare
+CF-RAY: 81ef839a3c031899-EWR
+alt-svc: h3=":443"; ma=86400
+
+HTTP/2 200 
+date: Tue, 31 Oct 2023 23:00:25 GMT
+content-type: text/html; charset=UTF-8
+cache-control: proxy-revalidate, public, s-maxage=600
+etag: "0f21f1192e4522bbe9ae59c4629b9137"
+x-strata-cache-tags: global,homepage,blogListing,pressReleasesListing,eventsListing,newsListing,ecosystemsLandingPage,blogPosts,newsArticles,pressReleases,members
+x-frontend-content: PUBLISHED
+vary: Origin
+x-backend: sf-frontend
+x-request-id: 81ef78a0f831931a
+strict-transport-security: max-age=15552000; includeSubdomains; preload
+content-security-policy: frame-ancestors 'self' https://cms.w3.org/; upgrade-insecure-requests
+cf-cache-status: HIT
+age: 384
+set-cookie: __cf_bm=ow5ioJPJya_jYCe5ePb07RQa0omS0ECihbn.eMSC8Uo-1698793225-0-AaIxDgpdWqgKmaicsQQPrzS2IIr+nToESEGQGm761DH1Xy571N7kowBtN6++ODXvvVyd2K7voM3l/9ZEbH2XrPI=; path=/; expires=Tue, 31-Oct-23 23:30:25 GMT; domain=.w3.org; HttpOnly; Secure; SameSite=None
+server: cloudflare
+cf-ray: 81ef839acce14332-EWR
+alt-svc: h3=":443"; ma=86400
+

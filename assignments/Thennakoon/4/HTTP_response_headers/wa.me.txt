@@ -1,0 +1,51 @@
+HTTP/1.1 301 Moved Permanently
+Location: https://wa.me/
+Content-Type: text/plain
+Server: proxygen-bolt
+Date: Tue, 31 Oct 2023 23:00:25 GMT
+Connection: keep-alive
+Content-Length: 0
+
+HTTP/2 302 
+vary: Accept-Encoding
+location: https://api.whatsapp.com/
+reporting-endpoints: 
+content-security-policy: default-src 'self' data: blob: *.whatsapp.net *.whatsapp.com *.fbcdn.net *.facebook.com *.facebook.net;script-src 'self' data: blob: *.whatsapp.net *.whatsapp.com *.fbcdn.net *.facebook.com *.facebook.net 'unsafe-inline' 'unsafe-eval' *.twitter.com;style-src 'self' data: blob: *.whatsapp.net *.whatsapp.com *.fbcdn.net *.facebook.com *.facebook.net 'unsafe-inline';connect-src 'self' data: blob: *.whatsapp.net *.whatsapp.com *.fbcdn.net *.facebook.com *.facebook.net wss://*.facebook.com:* wss://dev-web.whatsapp.com/ws/chat wss://comet.whatsapp.com;font-src 'self' data: blob: *.whatsapp.net *.whatsapp.com *.fbcdn.net *.facebook.com *.facebook.net static.xx.fbcdn.net fonts.gstatic.com;img-src 'self' data: blob: *.whatsapp.net *.whatsapp.com *.fbcdn.net *.facebook.com *.facebook.net static.xx.fbcdn.net *.ytimg.com *.twitter.com;media-src 'self' data: blob: *.whatsapp.net *.whatsapp.com *.fbcdn.net *.facebook.com *.facebook.net;frame-src 'self' data: blob: whatsapp: *.twitter.com *.facebook.com *.youtube-nocookie.com *.youtube.com *.whatsapp.com;block-all-mixed-content;upgrade-insecure-requests;require-trusted-types-for 'script';
+document-policy: force-load-at-top
+permissions-policy: accelerometer=(), ambient-light-sensor=(), bluetooth=(), camera=(), geolocation=(), gyroscope=(), hid=(), idle-detection=(), magnetometer=(), microphone=(), midi=(), payment=(), screen-wake-lock=(), serial=(), usb=()
+cross-origin-resource-policy: cross-origin
+cross-origin-opener-policy: unsafe-none
+pragma: no-cache
+cache-control: private, no-cache, no-store, must-revalidate
+expires: Sat, 01 Jan 2000 00:00:00 GMT
+x-content-type-options: nosniff
+x-xss-protection: 0
+x-frame-options: DENY
+strict-transport-security: max-age=31536000; preload; includeSubDomains
+content-type: text/html; charset="utf-8"
+x-fb-debug: SM+Jxp2hhYFd1kAZXN5ckyhiHSYfJSUA/C53EKbEn+WvCKlHXtG+TQpwQZ2kgAhuanTupqkyPyNOxUYT3NjKPA==
+content-length: 0
+date: Tue, 31 Oct 2023 23:00:25 GMT
+alt-svc: h3=":443"; ma=86400
+
+HTTP/2 200 
+vary: Accept-Encoding
+set-cookie: wa_lang_pref=en; expires=Tue, 07-Nov-2023 23:00:25 GMT; Max-Age=604800; path=/; domain=.whatsapp.com; secure
+reporting-endpoints: 
+content-security-policy: default-src 'self' data: blob:;script-src 'self' data: blob: 'unsafe-eval' 'unsafe-inline' *.facebook.com *.fbcdn.net *.whatsapp.com *.whatsapp.net https://*.facebook.net;style-src 'self' data: blob: 'unsafe-inline' https://fonts.googleapis.com *;connect-src 'self' data: blob: https://*.whatsapp.com;font-src data: https://*.fbcdn.net https://static.whatsapp.net;img-src 'self' data: blob: *;frame-src 'self' data: blob: whatsapp:;block-all-mixed-content;upgrade-insecure-requests;
+document-policy: force-load-at-top
+permissions-policy: accelerometer=(), ambient-light-sensor=(), bluetooth=(), camera=(), geolocation=(), gyroscope=(), hid=(), idle-detection=(), magnetometer=(), microphone=(), midi=(), payment=(), screen-wake-lock=(), serial=(), usb=()
+cross-origin-resource-policy: rollout
+cross-origin-opener-policy: unsafe-none
+pragma: no-cache
+cache-control: private, no-cache, no-store, must-revalidate
+expires: Sat, 01 Jan 2000 00:00:00 GMT
+x-content-type-options: nosniff
+x-xss-protection: 0
+x-frame-options: DENY
+strict-transport-security: max-age=31536000; preload; includeSubDomains
+content-type: text/html; charset="utf-8"
+x-fb-debug: IrqRMsUcW1lFo9bP8YVnBOkzBZ4ub+HLazTVtf5ujdKVMM6iVttD+KCRyrgbnM6eQ4EIR7vrwJsRyJPgp8tPSA==
+date: Tue, 31 Oct 2023 23:00:25 GMT
+alt-svc: h3=":443"; ma=86400
+

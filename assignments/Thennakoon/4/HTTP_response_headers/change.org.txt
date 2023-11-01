@@ -1,0 +1,44 @@
+HTTP/1.1 301 Moved Permanently
+Date: Tue, 31 Oct 2023 22:59:44 GMT
+Connection: keep-alive
+Cache-Control: max-age=3600
+Expires: Tue, 31 Oct 2023 23:59:44 GMT
+Location: https://change.org/
+X-Content-Type-Options: nosniff
+Set-Cookie: _cfuvid=c3Hs7NCgpaW27lz88eXx45WugN0nlG5KcDt_2Rfibxw-1698793184228-0-604800000; path=/; domain=.change.org; HttpOnly
+Server: cloudflare
+CF-RAY: 81ef82995e74436c-EWR
+
+HTTP/2 301 
+date: Tue, 31 Oct 2023 22:59:44 GMT
+content-type: text/html
+content-length: 169
+location: https://www.change.org/
+cf-cache-status: DYNAMIC
+strict-transport-security: max-age=15552000; includeSubDomains
+x-content-type-options: nosniff
+set-cookie: _cfuvid=R2AohRV75u6eUdQP7I1qjwD8i8M6qmtl7fdGQ9OVZXo-1698793184646-0-604800000; path=/; domain=.change.org; HttpOnly; Secure; SameSite=None
+server: cloudflare
+cf-ray: 81ef829a08ca43ec-EWR
+
+HTTP/2 200 
+date: Tue, 31 Oct 2023 22:59:45 GMT
+content-type: text/html; charset=utf-8
+content-security-policy: default-src 'self' blob: 'unsafe-inline' 'unsafe-eval' d18kwxxua7ik1y.cloudfront.net d22r54gnmuhwmk.cloudfront.net *.change.org change-production.s3.amazonaws.com change-public-stuff.s3.amazonaws.com *.google.ca *.googleadservices.com *.youtube.com *.doubleclick.net *.google.com *.googleapis.com *.googletagmanager.com *.google-analytics.com *.gstatic.com *.recaptcha.net *.ytimg.com *.facebook.com *.facebook.net *.fbcdn.net fbrpc://* fb-messenger://* *.twitter.com *.twimg.com *.ads-twitter.com ajax.cdnjs.com cdnjs.cloudflare.com service.force.com *.salesforceliveagent.com *.braintreegateway.com *.paypalobjects.com *.paypal.com *.braintree-api.com *.stripe.com *.dlocal.com *.optimizely.com optimizely.s3.amazonaws.com cdn-assets-prod.s3.amazonaws.com px-cdn.net *.px-cdn.net *.px-client.net *.px-cloud.net pxchk.net *.pxchk.net p2a.co *.profitwell.com js-agent.newrelic.com bam.nr-data.net bam-cell.nr-data.net *.messagebird.com *.pushnotifications.pusher.com js.pusher.com secure.everyaction.com d3rse9xjbp8270.cloudfront.net *.ngpvan.com js2.verygoodvault.com *.cloudflarestream.com code.jquery.com cdn.embedly.com player.vimeo.com bat.bing.com soundcloud.com *.soundcloud.com www.instagram.com www.flickr.com *.staticflickr.com *.voteamerica.com *.jotform.com actionnetwork.org *.airbrake.io browser-update.org *.tiktok.com *.bannerbear.com us-central1-niftic-agency.cloudfunctions.net/openai/generate-draft *.maze.co cdn.iframe.ly change.my.salesforce.com help.change.org; font-src 'self' data: *.change.org d18kwxxua7ik1y.cloudfront.net d22r54gnmuhwmk.cloudfront.net fonts.gstatic.com d3rse9xjbp8270.cloudfront.net; img-src * blob: data:; form-action 'self'; frame-ancestors 'self'
+permissions-policy: browsing-topics=()
+x-frame-options: sameorigin
+x-request-id: wkjQQ98gFhfP7zN9cwNMQ
+set-cookie: _change_session=e5997a72a5b2ad9413c57c6a3bd1b847; Path=/; HttpOnly; Secure; SameSite=Lax
+cache-control: no-cache
+x-change-render-mode: SSR
+x-change-cache: HIT
+etag: W/"1fd6e-VoCyYe0QrzNYDTd3B34JwWx8lSw"
+cf-cache-status: DYNAMIC
+strict-transport-security: max-age=15552000; includeSubDomains
+x-content-type-options: nosniff
+set-cookie: _change_lang=%7B%22locale%22%3A%22en-US%22%2C%22countryCode%22%3A%22US%22%7D; Max-Age=86400; Path=/; Expires=Wed, 01 Nov 2023 22:59:45 GMT; Secure; SameSite=Strict
+set-cookie: __cfruid=3a0789d8353046d43363dce57a6fb2c6cc74d566-1698793185; path=/; domain=.change.org; HttpOnly; Secure; SameSite=None
+set-cookie: _cfuvid=iWX304m_MVah_sh6eAYGi9Sm_adrxCwUCfFBh5VKB4c-1698793185169-0-604800000; path=/; domain=.change.org; HttpOnly; Secure; SameSite=None
+server: cloudflare
+cf-ray: 81ef829ca80d41b5-EWR
+
