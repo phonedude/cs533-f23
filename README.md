@@ -96,7 +96,7 @@ his course materials (although any errors are mine).
 * Week 09 - October 25 - HSTS, Certificate Transparency
     * [Strict-Transport-Security](https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers/Strict-Transport-Security)
     * [Protecting Against HSTS Abuse](https://webkit.org/blog/8146/protecting-against-hsts-abuse/)
-    * [HTTP Public Key Pinning (HPKP)](https://developer.mozilla.org/en-US/docs/Web/HTTP/Public_Key_Pinning) (now redirects to [Certificate Transparency](https://developer.mozilla.org/en-US/docs/Web/Security/Certificate_Transparency); [archived version(http://web.archive.org/web/20220329000600/https://developer.mozilla.org/en-US/docs/Web/HTTP/Public_Key_Pinning); [Wikipedia HPKP](https://en.wikipedia.org/wiki/HTTP_Public_Key_Pinning))
+    * [HTTP Public Key Pinning (HPKP)](https://developer.mozilla.org/en-US/docs/Web/HTTP/Public_Key_Pinning) (now redirects to [Certificate Transparency](https://developer.mozilla.org/en-US/docs/Web/Security/Certificate_Transparency); [archived version](http://web.archive.org/web/20220329000600/https://developer.mozilla.org/en-US/docs/Web/HTTP/Public_Key_Pinning); [Wikipedia HPKP](https://en.wikipedia.org/wiki/HTTP_Public_Key_Pinning))
     * [Certificate Transparency](https://tools.ietf.org/html/rfc6962)
     * [Class slides](slides/stark-palmer-https-2019.pdf)
 
