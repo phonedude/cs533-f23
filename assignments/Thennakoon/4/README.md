@@ -124,5 +124,11 @@
 
 <kbd><img src="screenshots/iframe_not_loaded.png" width="700" ></kbd>
 
+### Summary
+
+* Number of framable sites - 27
+* Number of non framable sites - 69
+* number of site did not resolve - 3
+
 
  ## Question 2 - Which public sites are framable
