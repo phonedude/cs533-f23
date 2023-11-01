@@ -180,10 +180,10 @@ user login.
 
  ### List of files
 
- * [frame-path-attack/child.html](child.html) - html page with a cookie and which is being framed by parent page
- * [frame-path-attack/parent.html](parent.html) - html page which steal cookie from child page
- * [frame-path-attack/index_c.js](index_c.js) - server used to render child.html
- * [frame-path-attack/index_p.js](index_p.js) - server used to render parent.html
+ * [child.html](frame-path-attack/child.html) - html page with a cookie and which is being framed by parent page
+ * [parent.html](frame-path-attack/parent.html) - html page which steal cookie from child page
+ * [index_c.js](frame-path-attack/index_c.js) - server used to render child.html
+ * [index_p.js](frame-path-attack/index_p.js) - server used to render parent.html
 
  ### Youtube video for frame-path-attack is available at: https://youtu.be/FRpULEejpPA   
 
