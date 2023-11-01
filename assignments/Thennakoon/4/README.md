@@ -169,6 +169,53 @@ user login.
  * [index_c.js](index_c.js) - server used to render child.html
  * [index_p.js](index_p.js) - server used to render parent.html
 
+ * child.html page with a cookie having path attribute.
+
+   ```
+   <!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <title>Iframed Page</title>
+</head>
+
+<body>
+    <h1>Child page</h1>
+    <script>
+        document.cookie = "insecureCookie=456; Path=/";
+    </script>
+</body>
+
+</html>
+   ```
+ * parent.html page tryng to steal the cookie by framing child.html
+
+ ```
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <title>Parent Page</title>
+</head>
+
+<body>
+    <h1>Parent page</h1>
+    <iframe src="http://localhost:8001"></iframe>
+    <script>
+        // Attempt to read cookies from the iframed page
+        const cookies = document.cookie;
+        console.log("cookies found");
+        alert("cookies found");
+        console.log("Cookies from iframed page:", cookies);
+
+    </script>
+</body>
+
+</html>
+ ```
+
  * Screenshot of child.html
    
  <kbd><img src="screenshots/child_page_with_cookie.png" width="700" ></kbd>
