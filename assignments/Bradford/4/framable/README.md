@@ -1,5 +1,7 @@
 # Assignment 4 - Which public sites are frameable?  
 In this part of the assignment, I was tasked with analyzing the so called "frameability" of the 100 public websites I was provided with in assignment 3. The frameability of a website in this context means its capability of being embedded within an HTML iframe element. These elements are associated with vulnerabilities such as cross-site scripting, and are generally considered to be bad for security. For all of the sites, I needed to find whether or not they were frameable. For all the sites that weren't frameable, I needed to note the reason my attempt to frame them was not successful.  
+## Youtube video  
+https://youtu.be/c-856HirumE 
 ## Generating HTML pages for each site to embed them as iframes  
 My first task was to generate HTML pages with iframes that embedded each of my 100 given web sites. I did this through a simple Python script called [create_pages.py](scripts/create_pages.py) that read in my 100 urls and created simple HTML files that contained only an iframe pointing to their appropriate site. An example of one of the generated HTML files is shown below.  
 ```
