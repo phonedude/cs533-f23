@@ -41,7 +41,7 @@
 | 26 | www.livejournal.com |
 
 
-<kbd><img src="screenshots/assigned_sites.png" width="700" ></kbd>
+<kbd><img src="screenshots/iframe_loaded.png" width="700" ></kbd>
 
 
   * Non framable sites with reason
@@ -122,7 +122,7 @@
 
 * Within the non-framable category four site were observed wihtout a proper reason. The four site with reason "nan" have not set x-frame-options, content security policy, and no status code observed which prevent the page loading.
 
-<kbd><img src="screenshots/assigned_sites.png" width="700" ></kbd>
+<kbd><img src="screenshots/iframe_not_loaded.png" width="700" ></kbd>
 
 
  ## Question 2 - Which public sites are framable
