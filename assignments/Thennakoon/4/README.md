@@ -14,31 +14,32 @@
 |---:|:--------------------|
 |  0 | adobe.com           |
 |  1 | alexa.com           |
-|  2 | asahi.com           |
-|  3 | biblegateway.com    |
-|  4 | bloomberg.com       |
-|  5 | bustle.com          |
-|  6 | doubleclick.net     |
-|  7 | economist.com       |
-|  8 | estadao.com.br      |
-|  9 | focus.de            |
-| 10 | frontiersin.org     |
-| 11 | id.wikipedia.org    |
-| 12 | iso.org             |
-| 13 | ja.wikipedia.org    |
-| 14 | m.wikipedia.org     |
-| 15 | nginx.org           |
-| 16 | photobucket.com     |
-| 17 | rbc.ru              |
-| 18 | repubblica.it       |
-| 19 | shutterstock.com    |
-| 20 | springer.com        |
-| 21 | theatlantic.com     |
-| 22 | un.org              |
-| 23 | venturebeat.com     |
-| 24 | webmd.com           |
-| 25 | wikimedia.org       |
-| 26 | www.livejournal.com |
+|  2 | apnews.com          |
+|  3 | asahi.com           |
+|  4 | biblegateway.com    |
+|  5 | bloomberg.com       |
+|  6 | bustle.com          |
+|  7 | doubleclick.net     |
+|  8 | economist.com       |
+|  9 | estadao.com.br      |
+| 10 | focus.de            |
+| 11 | frontiersin.org     |
+| 12 | id.wikipedia.org    |
+| 13 | iso.org             |
+| 14 | ja.wikipedia.org    |
+| 15 | m.wikipedia.org     |
+| 16 | nginx.org           |
+| 17 | photobucket.com     |
+| 18 | rbc.ru              |
+| 19 | repubblica.it       |
+| 20 | shutterstock.com    |
+| 21 | springer.com        |
+| 22 | theatlantic.com     |
+| 23 | un.org              |
+| 24 | venturebeat.com     |
+| 25 | webmd.com           |
+| 26 | wikimedia.org       |
+| 27 | www.livejournal.com |
 
 
 <kbd><img src="screenshots/iframe_loaded.png" width="700" ></kbd>
