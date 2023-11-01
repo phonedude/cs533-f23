@@ -133,5 +133,23 @@
 
 
  ## Question 2 - Frame path attack
+ 
+ ### How the Path attribute for Cookies is not suitable for security
+ 
+
+ ### How a parent page can steal cookies from an iframed page if only the Path attribute is used in Set-Cookie.
 
  ### List of files
+
+ * child.html - html page with a cookie and which is being framed by parent page
+ * parent.html - html page which steel cookie from child page
+ * index_c.s - server used to render child.html
+ * index_p.js - server used to render parent.html
+
+ * Screenshot of child.html
+   
+ <kbd><img src="screenshots/child_page_with_cookie.png" width="700" ></kbd>
+
+ * Screenshot of parent with stolen cookie.
+
+  <kbd><img src="screenshots/parent_page with _stolen_cookie.png" width="700" ></kbd>  
