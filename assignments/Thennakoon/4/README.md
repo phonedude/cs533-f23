@@ -50,7 +50,7 @@
 | 27 | www.livejournal.com |
 
 
-*Screenshot of a framable site
+* Screenshot of a framable site
 
 <kbd><img src="screenshots/iframe_loaded.png" width="700" ></kbd>
 
