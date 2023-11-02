@@ -246,4 +246,8 @@ user login.
 
   <kbd><img src="screenshots/parent_page with _stolen_cookie.png" width="700" ></kbd>
 
-  
+  ### Extra credit - Week 5 slide 65 literary reference in the title
+
+  In programming parser is a module or a component in the software that analyses the structure and the syntax of a source code or input data. Parsing is commonly used in compilers, intepreters, and data validation. 
+  The slide reference is mainly focused on syntax analysis of input data. when a parser runs the input will be tokenized and tokens are then organized in a hierarchical structure.
+  When building applications, first the HTML parser runs and search for the valid html tags and create the DOM(Document Objject Model) tree. Then the javascript parser runs and search for <script> tags and executes them. next CSS parser runs and search for <style> tags and execute the <style > tags accordingly.
