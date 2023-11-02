@@ -193,7 +193,8 @@ user login.
 
  * child.html page with a cookie having path attribute.
 
-   ```
+
+  ```
    <!DOCTYPE html>
 <html lang="en">
 
@@ -210,8 +211,11 @@ user login.
 </body>
 
 </html>
-   ```
+  ```
+
+   
  * parent.html page tryng to steal the cookie by framing child.html
+   
 
  ```
 <!DOCTYPE html>
@@ -249,5 +253,7 @@ user login.
   ### Extra credit - Week 5 slide 65 literary reference in the title
 
   In programming parser is a module or a component in the software that analyses the structure and the syntax of a source code or input data. Parsing is commonly used in compilers, intepreters, and data validation. 
-  The slide reference is mainly focused on syntax analysis of input data. when a parser runs the input will be tokenized and tokens are then organized in a hierarchical structure.
+  
+  The slide reference is mainly focused on syntax analysis of input data. When a parser runs the input will be tokenized and tokens are then organized in a hierarchical structure.
+  
   When building applications, first the HTML parser runs and search for the valid html tags and create the DOM(Document Objject Model) tree. Then the javascript parser runs and search for <script> tags and executes them. next CSS parser runs and search for <style> tags and execute the <style > tags accordingly.
