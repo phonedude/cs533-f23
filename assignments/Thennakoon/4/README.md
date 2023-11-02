@@ -131,7 +131,7 @@
 ​
 ​
 
-* Within the non-framable category four site were observed wihtout a proper reason. The four site with reason "nan" have not set x-frame-options, content security policy, and no status code observed which prevent the page loading.
+* Within the non-framable category, four sites were observed wihtout a proper reason to explain that how they defeat the attempt for framing. The four site with reason "nan" have not set x-frame-options, content security policy, and no status code observed which prevent the page loading inside the iframe.
 
 * Screenshot of a non-framable site
 
