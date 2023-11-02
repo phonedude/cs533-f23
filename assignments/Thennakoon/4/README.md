@@ -4,9 +4,9 @@
 
 ### List of directories and files
 
-* [HTTP_reponse_headers](HTTP_reponse_headers) - contains response headers obtained for 100 sites
-* [code](code) - contains scripts and output files 
-* [framable](framable) - contains html files created for 100 sites
+* [HTTP_reponse_headers](HTTP_reponse_headers) - contains response headers obtained for 100 sites.
+* [code](code) - contains scripts and output files used to analyze which sites are framable.
+* [framable](framable) - contains html files created for 100 sites.
 
 ### Youtube video for framable is available at: https://youtu.be/QLgFOZIHSOI
 
