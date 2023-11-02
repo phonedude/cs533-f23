@@ -214,7 +214,7 @@ user login.
   ```
 
    
- * parent.html page tryng to steal the cookie by framing child.html
+ * parent.html page trying to steal the cookie by framing child.html
    
 
  ```
