@@ -1,0 +1,46 @@
+HTTP/1.1 307 Temporary Redirect
+Server: openresty/1.11.2.3
+Date: Mon, 16 Oct 2023 05:34:07 GMT
+Content-Type: text/html
+Content-Length: 193
+Connection: keep-alive
+Location: https://thetimes.co.uk/
+Cache-Control: max-age=60
+
+HTTP/2 301 
+server: openresty/1.11.2.3
+date: Mon, 16 Oct 2023 05:34:08 GMT
+content-type: text/html
+content-length: 191
+location: https://www.thetimes.co.uk
+cache-control: max-age=60
+
+HTTP/2 200 
+content-type: text/html; charset=utf-8
+content-length: 1064373
+server: CloudFront
+accept-ranges: bytes
+date: Mon, 16 Oct 2023 05:29:04 GMT
+etag: W/"103db5-CAutRFDSlKgKVKUHp7CIj8MsZbw"
+expires: Mon, 16 Oct 2023 05:32:03 GMT
+via: 1.1 varnish (Varnish/6.2), 1.1 185e69fae2e25450e587a1fae1f63962.cloudfront.net (CloudFront)
+x-content-type-options: nosniff
+x-frame-options: SAMEORIGIN
+x-varnish: 10949417 9240378
+x-xss-protection: 0
+x-acs-version: 2
+cache-control: public, max-age=180, stale-if-error=178
+vary: Accept-Encoding
+x-ni-statuscode: acsaz-307
+x-ni-statusmessage: Teaser pages are enabled for the requested article
+set-cookie: nuk_customer_location_hint=GLOBAL; path=/; domain=.thetimes.co.uk
+set-cookie: nuk_ni_statuscode=acsaz-307; max-age=120
+set-cookie: nuk_customer_country_code=US; path=/; domain=.thetimes.co.uk; secure
+set-cookie: nuk_customer_region_code=NY; path=/; domain=.thetimes.co.uk; secure
+set-cookie: euconsent-v2=expire; expires=Tue, 01-Jan-2019 00:00:00 GMT; path=/
+x-cache: Hit from cloudfront
+x-amz-cf-pop: IAD61-P3
+alt-svc: h3=":443"; ma=86400
+x-amz-cf-id: 6aclWWS-OzmOJSHyW28l_RKgzNAqkwiKXQoiKvwvcU0w1vEIW6KIlg==
+age: 156
+
