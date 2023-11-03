@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title></title>
+  <meta charset='utf-8' />
+</head>
+<body style="width: 450px; height: 550px; background: grey;">
+    <img id="jailCell" src="hulk-mad.jpg" style="height: 500px; width: 400px" />
+
+    <script>
+        document.cookie = "doorcode=hulk-smash; path=/"
+        
+        window.addEventListener('message', event => {
+            if (event.origin === 'http://localhost:9000') {
+                if (event.data === 'H4ck3d!') {
+                    event.source.postMessage(document.cookie, event.origin)
+                    document.getElementById('jailCell').src = ''
+                } else {
+                    event.source.postMessage('Keycard Required!', event.origin)
+                }
+            }
+        })
+    </script>
+</body>
+</html>
+
