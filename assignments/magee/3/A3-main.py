@@ -46,7 +46,7 @@ with open('data_out.txt') as infile:
         'Secure': 0,
         'SameSite': 0,
         'SameSite Strict': 0,
-        'SameSite Lax': 0,
+        'SameSite=lax': 0,
         'Path': 0,
         'None': 0
     }
