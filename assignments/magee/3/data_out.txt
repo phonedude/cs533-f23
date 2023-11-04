@@ -1,8 +1,8 @@
 SITE 1: 000webhost.com
 HTTP/1.1 403 Forbidden
-Date: Sun, 15 Oct 2023 15:29:17 GMT
+Date: Sat, 04 Nov 2023 00:13:49 GMT
 Content-Type: text/html; charset=UTF-8
-Content-Length: 4349
+Content-Length: 4327
 Connection: close
 Cross-Origin-Embedder-Policy: require-corp
 Cross-Origin-Opener-Policy: same-origin
@@ -15,27 +15,27 @@ cf-mitigated: challenge
 Cache-Control: private, max-age=0, no-store, no-cache, must-revalidate, post-check=0, pre-check=0
 Expires: Thu, 01 Jan 1970 00:00:01 GMT
 Server: cloudflare
-CF-RAY: 816918c2f9ca2421-IAD
+CF-RAY: 8208a740091a821a-IAD
 alt-svc: h3=":443"; ma=86400
 
 SITE 2: 20minutos.es
 HTTP/1.1 301 Moved Permanently
 Server: CloudFront
-Date: Sun, 15 Oct 2023 15:29:17 GMT
+Date: Sat, 04 Nov 2023 00:13:49 GMT
 Content-Type: text/html
 Content-Length: 167
 Connection: keep-alive
 Location: https://20minutos.es/
 X-Cache: Redirect from cloudfront
-Via: 1.1 91e0db6ff3a77218c7993c4fa2b04cf6.cloudfront.net (CloudFront)
+Via: 1.1 05f4e6c9553ff5b6620e13adbd08b064.cloudfront.net (CloudFront)
 X-Amz-Cf-Pop: IAD61-P3
 Alt-Svc: h3=":443"; ma=86400
-X-Amz-Cf-Id: EJW2yCvTTrGKJVIT_pcr878tJuzsTL4w-v7xF0IYjEXhkuRVmIzMFA==
+X-Amz-Cf-Id: sjH6mLVIdukv7KzlX9LZiotiO06Sh2TBsPwEsVntp0qWAS26qiD87Q==
 
 SITE 3: 4shared.com
 HTTP/1.1 301 Moved Permanently
 Server: nginx
-Date: Sun, 15 Oct 2023 15:29:17 GMT
+Date: Sat, 04 Nov 2023 00:13:49 GMT
 Content-Type: text/html
 Content-Length: 178
 Connection: keep-alive
@@ -47,22 +47,23 @@ HTTP/1.1 301 Moved Permanently
 Server: AkamaiGHost
 Content-Length: 0
 Location: https://www.abc.es/
-Date: Sun, 15 Oct 2023 15:29:17 GMT
+Date: Sat, 04 Nov 2023 00:13:49 GMT
 Connection: keep-alive
+Akamai-Request-BC: [a=23.33.41.218,b=754400759,c=g,n=US_NJ_PISCATAWAY,o=20940]
 Vary: User-Agent,Cookie
 
 SITE 5: abcnews.go.com
 HTTP/1.1 301 Moved Permanently
 Server: CloudFront
-Date: Sun, 15 Oct 2023 15:29:17 GMT
+Date: Sat, 04 Nov 2023 00:13:49 GMT
 Content-Type: text/html
 Content-Length: 167
 Connection: keep-alive
 Location: https://abcnews.go.com/
 X-Cache: Redirect from cloudfront
-Via: 1.1 d907e6ff1d7c4efa4a8fcfcbb0b5531c.cloudfront.net (CloudFront)
-X-Amz-Cf-Pop: IAD61-P2
-X-Amz-Cf-Id: 8MATE6yBlgciEPiNfGJo4UfKCFvFirRo-CdZjyqxcIBxfGvOqErmsw==
+Via: 1.1 a363b826ba48f4e79f7e95839a3bcf3a.cloudfront.net (CloudFront)
+X-Amz-Cf-Pop: JFK52-P3
+X-Amz-Cf-Id: t4H_3tzcpeJJn5ZtyDo2uZQ1jkRRcYD1mWn5kfWVl16iVqfv-XT-JQ==
 
 SITE 6: academia.edu
 HTTP/1.1 301 Moved Permanently
@@ -70,12 +71,12 @@ Content-Type: text/html
 Content-Length: 134
 Connection: keep-alive
 Server: awselb/2.0
-Date: Sun, 15 Oct 2023 15:29:17 GMT
+Date: Sat, 04 Nov 2023 00:13:49 GMT
 Location: https://academia.edu:443/
 X-Cache: Miss from cloudfront
-Via: 1.1 51216641aa2cfdaadb386a6a151c2424.cloudfront.net (CloudFront)
-X-Amz-Cf-Pop: IAD61-P1
-X-Amz-Cf-Id: GYHRUsAmp4HUhXLIPSE8vtKnSUEpJkfEep4uffNUOOsnEKm6aI2DwA==
+Via: 1.1 19d924aad94fb7559b35412e1281c53e.cloudfront.net (CloudFront)
+X-Amz-Cf-Pop: ORD56-P9
+X-Amz-Cf-Id: 0o8S0HiDtJeelRbxaARpc3D8E_FoGh-rxjotmR3ySeAIf4efGotELA==
 X-Accelerating: The World's Research
 
 SITE 7: addthis.com
@@ -83,25 +84,25 @@ HTTP/1.1 301 Moved Permanently
 Server: AkamaiGHost
 Content-Length: 0
 Location: https://www.addthis.com/
-Date: Sun, 15 Oct 2023 15:29:17 GMT
+Date: Sat, 04 Nov 2023 00:13:50 GMT
 Connection: keep-alive
 
 SITE 8: addtoany.com
 HTTP/1.1 301 Moved Permanently
-Date: Sun, 15 Oct 2023 15:29:17 GMT
+Date: Sat, 04 Nov 2023 00:13:50 GMT
 Connection: keep-alive
 Cache-Control: max-age=3600
-Expires: Sun, 15 Oct 2023 16:29:17 GMT
+Expires: Sat, 04 Nov 2023 01:13:50 GMT
 Location: https://addtoany.com/
 X-Content-Type-Options: nosniff
 Server: cloudflare
-CF-RAY: 816918c67bbe2039-IAD
+CF-RAY: 8208a7444dbb1ffd-IAD
 alt-svc: h3=":443"; ma=86400
 
 SITE 9: amazon.co.uk
 HTTP/1.1 301 Moved Permanently
 Server: Server
-Date: Sun, 15 Oct 2023 15:29:18 GMT
+Date: Sat, 04 Nov 2023 00:13:50 GMT
 Content-Type: text/html
 Content-Length: 163
 Connection: keep-alive
@@ -110,7 +111,7 @@ Location: https://amazon.co.uk/
 SITE 10: amazon.es
 HTTP/1.1 301 Moved Permanently
 Server: Server
-Date: Sun, 15 Oct 2023 15:29:18 GMT
+Date: Sat, 04 Nov 2023 00:13:50 GMT
 Content-Type: text/html
 Content-Length: 163
 Connection: keep-alive
@@ -119,10 +120,10 @@ Location: https://amazon.es/
 SITE 11: amazon.fr
 HTTP/1.1 301 Moved Permanently
 Server: Server
-Date: Sun, 15 Oct 2023 15:29:18 GMT
+Date: Sat, 04 Nov 2023 00:13:50 GMT
 Content-Type: text/html
 Content-Length: 163
-Connection: keep-alive
+Cneonction: close
 Location: https://amazon.fr/
 
 SITE 12: apnews.com
@@ -130,13 +131,13 @@ HTTP/1.1 301 Moved Permanently
 Cache-Control: private
 Location: https://apnews.com:443/
 Content-Length: 0
-Date: Sun, 15 Oct 2023 15:29:18 GMT
+Date: Sat, 04 Nov 2023 00:13:50 GMT
 Content-Type: text/html; charset=UTF-8
 
 SITE 13: archives.gov
 HTTP/1.1 301 Moved Permanently
 Server: nginx
-Date: Sun, 15 Oct 2023 15:29:18 GMT
+Date: Sat, 04 Nov 2023 00:13:50 GMT
 Content-Type: text/html
 Content-Length: 162
 Connection: keep-alive
@@ -149,25 +150,25 @@ Content-Security-Policy: default-src ‘self’ ‘unsafe-inline’ ‘unsafe-ev
 
 SITE 14: arxiv.org
 HTTP/1.1 301 Moved Permanently
-Date: Sun, 15 Oct 2023 15:29:18 GMT
+Date: Sat, 04 Nov 2023 00:13:51 GMT
 Server: Apache
 Location: https://arxiv.org/
 Content-Type: text/html; charset=iso-8859-1
-Set-Cookie: BIGipServer~SVCCENTER~arxiv-web.arxiv.org_http_pool=rd822o00000000000000000000ffff8054043bo80; path=/; Httponly
+Set-Cookie: BIGipServer~SVCCENTER~arxiv-web.arxiv.org_http_pool=rd822o00000000000000000000ffff80540421o80; path=/; Httponly
 
 SITE 15: bandcamp.com
 HTTP/1.1 301 Moved Permanently
 Connection: keep-alive
 Server: nginx
 location: https://bandcamp.com/
-set-cookie: BACKENDID3=flexocentral-z9sq-7; path=/; Secure
+set-cookie: BACKENDID3=flexocentral-wjhq-4; path=/; Secure
 Accept-Ranges: bytes
-Date: Sun, 15 Oct 2023 15:29:18 GMT
+Date: Sat, 04 Nov 2023 00:13:51 GMT
 Via: 1.1 varnish
-X-Served-By: cache-iad-kjyo7100175-IAD
+X-Served-By: cache-iad-kjyo7100053-IAD
 X-Cache: MISS
 X-Cache-Hits: 0
-X-Timer: S1697383759.815843,VS0,VE29
+X-Timer: S1699056831.112189,VS0,VE53
 
 SITE 16: bp1.blogger.com
 HTTP/1.1 400 Bad Request
@@ -176,16 +177,16 @@ Access-Control-Allow-Origin: *
 Timing-Allow-Origin: *
 Content-Type: text/html; charset=UTF-8
 X-Content-Type-Options: nosniff
-Date: Sun, 15 Oct 2023 15:29:18 GMT
+Date: Sat, 04 Nov 2023 00:13:51 GMT
 Server: fife
 Content-Length: 1555
 X-XSS-Protection: 0
 
 SITE 17: buydomains.com
 HTTP/1.1 403 Forbidden
-Date: Sun, 15 Oct 2023 15:29:18 GMT
+Date: Sat, 04 Nov 2023 00:13:51 GMT
 Content-Type: text/html; charset=UTF-8
-Content-Length: 4457
+Content-Length: 4521
 Connection: close
 Cross-Origin-Embedder-Policy: require-corp
 Cross-Origin-Opener-Policy: same-origin
@@ -197,13 +198,14 @@ X-Frame-Options: SAMEORIGIN
 cf-mitigated: challenge
 Cache-Control: private, max-age=0, no-store, no-cache, must-revalidate, post-check=0, pre-check=0
 Expires: Thu, 01 Jan 1970 00:00:01 GMT
-Set-Cookie: __cf_bm=IDck_ekzNfnBv2fkTNSix69u.FX0Of7atgqNsT0__OQ-1697383758-0-AUmzzA+dgBQm1IMuw/Sfbtmbw2hwTroh+Omvs3WoEtMQGzDVuL39DFP6QcNen/9WdRO0NcvX5GtlZpffTln+YRs=; path=/; expires=Sun, 15-Oct-23 15:59:18 GMT; domain=.buydomains.com; HttpOnly; SameSite=None
+Set-Cookie: __cf_bm=QJkJF..dqykAqyyWq1eUUb29VgRm85KFRxer1DOAhrU-1699056831-0-AQnDtubTgHJWYQwqHrQMDsjuZxJOrpPTtHdGskVDiQ5cH+Sta/stDY4rWZiJHQ9CUHmxO4FZgTfv+Bp523+tyrE=; path=/; expires=Sat, 04-Nov-23 00:43:51 GMT; domain=.buydomains.com; HttpOnly; SameSite=None
 Server: cloudflare
-CF-RAY: 816918cd7c61062e-IAD
+CF-RAY: 8208a74b9d2d201e-IAD
 
 SITE 18: canada.ca
 HTTP/1.0 302 Moved Temporarily
 Location: https://www.canada.ca/
+Strict-Transport-Security: max-age=31536000
 Server: BigIP
 Connection: Keep-Alive
 Content-Length: 0
@@ -212,7 +214,7 @@ SITE 19: cbc.ca
 HTTP/1.1 301 Moved Permanently
 Content-Length: 0
 Location: http://www.cbc.ca/
-Date: Sun, 15 Oct 2023 15:29:19 GMT
+Date: Sat, 04 Nov 2023 00:13:51 GMT
 Connection: keep-alive
 Referrer-Policy: no-referrer-when-downgrade
 X-XSS-Protection: 0
@@ -223,7 +225,7 @@ Content-Security-Policy: upgrade-insecure-requests; default-src data: 'unsafe-in
 SITE 20: com.com
 HTTP/1.1 200 OK
 server: openresty/1.13.6.1
-date: Sun, 15 Oct 2023 15:29:19 GMT
+date: Sat, 04 Nov 2023 00:13:51 GMT
 content-type: application/octet-stream
 content-length: 96
 content-type: text/html
@@ -232,7 +234,7 @@ connection: close
 SITE 21: dailystar.co.uk
 HTTP/1.1 301 Moved Permanently
 Content-Type: text/html; charset=iso-8859-1
-Date: Sun, 15 Oct 2023 15:29:19 GMT
+Date: Sat, 04 Nov 2023 00:13:51 GMT
 Location: https://www.dailystar.co.uk/
 Server: Apache/2.4.18 (Ubuntu)
 Connection: keep-alive
@@ -241,25 +243,25 @@ SITE 22: dan.com
 HTTP/1.1 301 Moved Permanently
 Content-Length: 0
 Location: https://dan.com/
-Expires: Sun, 15 Oct 2023 15:29:19 GMT
+Expires: Sat, 04 Nov 2023 00:13:52 GMT
 Cache-Control: max-age=0, no-cache, no-store
 Pragma: no-cache
-Date: Sun, 15 Oct 2023 15:29:19 GMT
+Date: Sat, 04 Nov 2023 00:13:52 GMT
 Connection: keep-alive
-Server-Timing: ak_p; desc="1697383759595_400219980_1382834629_10_5842_12_0_-";dur=1
+Server-Timing: ak_p; desc="1699056832099_389047400_80679027_7_3174_11_0_-";dur=1
 
 SITE 23: deezer.com
 HTTP/1.1 301 Moved Permanently
 Server: CloudFront
-Date: Sun, 15 Oct 2023 15:29:19 GMT
+Date: Sat, 04 Nov 2023 00:13:52 GMT
 Content-Type: text/html
 Content-Length: 167
 Connection: keep-alive
 Location: https://deezer.com/
 X-Cache: Redirect from cloudfront
-Via: 1.1 f03ced384777449538f7af55da0e2760.cloudfront.net (CloudFront)
-X-Amz-Cf-Pop: IAD55-P5
-X-Amz-Cf-Id: 7grPgplAqCq8QjSjf_Kln0D2bFRZsxu0n0ib0UbAEM32h4NUzaghDQ==
+Via: 1.1 66b6cd04ec22251498906e833eb08668.cloudfront.net (CloudFront)
+X-Amz-Cf-Pop: IAD12-P3
+X-Amz-Cf-Id: WPBoR42EzmQbDIgz5Z9xMdg0YmjWOpuX1XnSADpPxumqFL3PBKF5yw==
 
 SITE 24: docs.google.com
 HTTP/1.1 301 Moved Permanently
@@ -267,7 +269,7 @@ Content-Type: application/binary
 Cache-Control: no-cache, no-store, max-age=0, must-revalidate
 Pragma: no-cache
 Expires: Mon, 01 Jan 1990 00:00:00 GMT
-Date: Sun, 15 Oct 2023 15:29:19 GMT
+Date: Sat, 04 Nov 2023 00:13:52 GMT
 Location: https://docs.google.com/
 Content-Length: 0
 P3P: CP="This is not a P3P policy! See g.co/p3phelp for more info."
@@ -275,12 +277,12 @@ Server: ESF
 X-XSS-Protection: 0
 X-Frame-Options: SAMEORIGIN
 X-Content-Type-Options: nosniff
-Set-Cookie: NID=511=dsvvpKNIyzvzq0ZBdgQ9c-Yt12x6NuTXB4YLf3EdC0BiVEbflnCz8MglLSDv5CKO3pwES5eucu7pUumQwdYsvSGXkcqMSiGYJUkRjhoU6PRbgBNrUt4XTDtXjQbtUadv85JsmwTMhMjlLyh3iYHkEFpdN0CC2EeW_JVyM8waFAA; expires=Mon, 15-Apr-2024 15:29:19 GMT; path=/; domain=.google.com; HttpOnly
+Set-Cookie: NID=511=W-r_wXzhakNt3BAb0f8idvVlZfLVwDMT52zoivS-OZFLZyemZNZZKmlN2dDt47fyY0lU_fnFnqvHXn2dhp_2cCYQYmTBSqjN3zBT3rjS8xWqfQfjuH_5wcvtw10RupIkeF8_yF_y8le72sIW-cchSpvkDcH-oTuxqVKywF7jNsQ; expires=Sun, 05-May-2024 00:13:52 GMT; path=/; domain=.google.com; HttpOnly
 
 SITE 25: dreamstime.com
 HTTP/1.1 301 Moved Permanently
 Server: nginx
-Date: Sun, 15 Oct 2023 15:29:20 GMT
+Date: Sat, 04 Nov 2023 00:13:52 GMT
 Content-Type: text/html
 Content-Length: 162
 Connection: keep-alive
@@ -291,7 +293,7 @@ Strict-Transport-Security: max-age=15552000
 
 SITE 26: dropcatch.com
 HTTP/1.1 301 Moved Permanently
-Date: Sun, 15 Oct 2023 15:29:20 GMT
+Date: Sat, 04 Nov 2023 00:13:52 GMT
 Content-Length: 0
 Connection: keep-alive
 Location: https://www.dropcatch.com/
@@ -299,7 +301,7 @@ CF-Cache-Status: DYNAMIC
 Content-Security-Policy: frame-ancestors 'self'; frame-src 'self' https://www.sitecdn.com braintreegateway.com assets.braintreegateway.com googletagmanager.com https://client.dropcatch.com https://*.paypal.com https://*.paypalobjects.com https://ssl.kaptcha.com; script-src 'self' https://*.paypal.com https://*.googletagmanager.com https://secure.dropcatch.com https://*.google-analytics.com 'unsafe-inline'; connect-src 'self' https://*.amazonaws.com https://*.braintreegateway.com https://*.braintree-api.com https://uilogging.tcdevops.com https://*.google-analytics.com https://translate.dropcatch.com https://client.dropcatch.com wss://rt.dropcatch.com
 X-FRAME-OPTIONS: SAMEORIGIN
 Server: cloudflare
-CF-RAY: 816918d49fe83ad8-IAD
+CF-RAY: 8208a753eea581fd-IAD
 
 SITE 27: ea.com
 HTTP/1.1 301 Moved Permanently
@@ -307,13 +309,13 @@ Server: AkamaiGHost
 Content-Length: 0
 Location: https://ea.com/
 Cache-Control: max-age=0
-Expires: Sun, 15 Oct 2023 15:29:20 GMT
-Date: Sun, 15 Oct 2023 15:29:20 GMT
+Expires: Sat, 04 Nov 2023 00:13:52 GMT
+Date: Sat, 04 Nov 2023 00:13:52 GMT
 Connection: keep-alive
 Set-Cookie: EDGESCAPE_COUNTRY=US; path=/
 Set-Cookie: EDGESCAPE_REGION=VA; path=/
 Set-Cookie: EDGESCAPE_TIMEZONE=EST; path=/
-Set-Cookie: ealocale=en-us; expires=Mon, 14-Oct-2024 15:29:20 GMT; path=/; domain=.ea.com; secure
+Set-Cookie: ealocale=en-us; expires=Sun, 03-Nov-2024 00:13:52 GMT; path=/; domain=.ea.com; secure
 X-L-Path: inert
 X-Environment-Context: prod
 X-Application-Context: eacom
@@ -325,10 +327,10 @@ HTTP/1.1 301 Moved Permanently
 Server: AkamaiGHost
 Content-Length: 0
 Location: https://www.estadao.com.br/
-Expires: Sun, 15 Oct 2023 15:29:20 GMT
+Expires: Sat, 04 Nov 2023 00:13:52 GMT
 Cache-Control: max-age=0, no-cache, no-store
 Pragma: no-cache
-Date: Sun, 15 Oct 2023 15:29:20 GMT
+Date: Sat, 04 Nov 2023 00:13:52 GMT
 Connection: keep-alive
 
 SITE 29: europa.eu
@@ -345,7 +347,7 @@ Content-Length: 683
 SITE 30: fifa.com
 HTTP/1.1 301 Moved Permanently
 Cache-Control: no-store
-Date: Sun, 15 Oct 2023 15:29:20 GMT
+Date: Sat, 04 Nov 2023 00:13:53 GMT
 Location: https://www.fifa.com/
 Server: ECAcc (dcd/7D26)
 Content-Length: 0
@@ -357,8 +359,8 @@ Content-Length: 162
 Server: nginx
 Location: https://www.focus.de/
 Cache-Control: max-age=2592000
-Expires: Tue, 14 Nov 2023 15:29:20 GMT
-Date: Sun, 15 Oct 2023 15:29:20 GMT
+Expires: Mon, 04 Dec 2023 00:13:53 GMT
+Date: Sat, 04 Nov 2023 00:13:53 GMT
 Connection: keep-alive
 
 SITE 32: forbes.com
@@ -369,12 +371,12 @@ Server: Varnish
 Retry-After: 0
 Location: https://forbes.com/
 Accept-Ranges: bytes
-Date: Sun, 15 Oct 2023 15:29:20 GMT
+Date: Sat, 04 Nov 2023 00:13:53 GMT
 Via: 1.1 varnish
-X-Served-By: cache-iad-kiad7000099-IAD
+X-Served-By: cache-iad-kiad7000034-IAD
 X-Cache: HIT
 X-Cache-Hits: 0
-X-Timer: S1697383761.760094,VS0,VE0
+X-Timer: S1699056833.344049,VS0,VE0
 X-Country-Code: US
 X-Postal-Code: 22407
 X-Region: VA
@@ -390,7 +392,7 @@ HTTP/1.1 301 Moved Permanently
 content-length: 0
 location: https://fr.wikipedia.org/
 server: HAProxy
-x-cache: cp1075 int
+x-cache: cp1079 int
 x-cache-status: int-tls
 connection: close
 
@@ -398,9 +400,9 @@ SITE 34: google.co.jp
 HTTP/1.1 301 Moved Permanently
 Location: http://www.google.co.jp/
 Content-Type: text/html; charset=UTF-8
-Content-Security-Policy-Report-Only: object-src 'none';base-uri 'self';script-src 'nonce-yrSZOWtjAdlALz1Y_EUTqA' 'strict-dynamic' 'report-sample' 'unsafe-eval' 'unsafe-inline' https: http:;report-uri https://csp.withgoogle.com/csp/gws/other-hp
-Date: Sun, 15 Oct 2023 15:29:20 GMT
-Expires: Tue, 14 Nov 2023 15:29:20 GMT
+Content-Security-Policy-Report-Only: object-src 'none';base-uri 'self';script-src 'nonce-HhCwD8RPyCGJRosYxe7gVg' 'strict-dynamic' 'report-sample' 'unsafe-eval' 'unsafe-inline' https: http:;report-uri https://csp.withgoogle.com/csp/gws/other-hp
+Date: Sat, 04 Nov 2023 00:13:53 GMT
+Expires: Mon, 04 Dec 2023 00:13:53 GMT
 Cache-Control: public, max-age=2592000
 Server: gws
 Content-Length: 221
@@ -411,9 +413,9 @@ SITE 35: google.co.th
 HTTP/1.1 301 Moved Permanently
 Location: http://www.google.co.th/
 Content-Type: text/html; charset=UTF-8
-Content-Security-Policy-Report-Only: object-src 'none';base-uri 'self';script-src 'nonce-0xGh5n8jawVMM3LqSzuclg' 'strict-dynamic' 'report-sample' 'unsafe-eval' 'unsafe-inline' https: http:;report-uri https://csp.withgoogle.com/csp/gws/other-hp
-Date: Sun, 15 Oct 2023 15:29:20 GMT
-Expires: Tue, 14 Nov 2023 15:29:20 GMT
+Content-Security-Policy-Report-Only: object-src 'none';base-uri 'self';script-src 'nonce-cHwG9FN-q1YE5R6Ry_VZ7Q' 'strict-dynamic' 'report-sample' 'unsafe-eval' 'unsafe-inline' https: http:;report-uri https://csp.withgoogle.com/csp/gws/other-hp
+Date: Sat, 04 Nov 2023 00:13:53 GMT
+Expires: Mon, 04 Dec 2023 00:13:53 GMT
 Cache-Control: public, max-age=2592000
 Server: gws
 Content-Length: 221
@@ -424,9 +426,9 @@ SITE 36: google.com.tw
 HTTP/1.1 301 Moved Permanently
 Location: http://www.google.com.tw/
 Content-Type: text/html; charset=UTF-8
-Content-Security-Policy-Report-Only: object-src 'none';base-uri 'self';script-src 'nonce-5x6bpNQ8gSfGn3zH5S7TFA' 'strict-dynamic' 'report-sample' 'unsafe-eval' 'unsafe-inline' https: http:;report-uri https://csp.withgoogle.com/csp/gws/other-hp
-Date: Sun, 15 Oct 2023 15:29:21 GMT
-Expires: Tue, 14 Nov 2023 15:29:21 GMT
+Content-Security-Policy-Report-Only: object-src 'none';base-uri 'self';script-src 'nonce-exi3cJXrRVKY6fGdqSbbIA' 'strict-dynamic' 'report-sample' 'unsafe-eval' 'unsafe-inline' https: http:;report-uri https://csp.withgoogle.com/csp/gws/other-hp
+Date: Sat, 04 Nov 2023 00:13:53 GMT
+Expires: Mon, 04 Dec 2023 00:13:53 GMT
 Cache-Control: public, max-age=2592000
 Server: gws
 Content-Length: 222
@@ -437,9 +439,9 @@ SITE 37: google.de
 HTTP/1.1 301 Moved Permanently
 Location: http://www.google.de/
 Content-Type: text/html; charset=UTF-8
-Content-Security-Policy-Report-Only: object-src 'none';base-uri 'self';script-src 'nonce-5gObZSgQQnI80CJRFGS2oQ' 'strict-dynamic' 'report-sample' 'unsafe-eval' 'unsafe-inline' https: http:;report-uri https://csp.withgoogle.com/csp/gws/other-hp
-Date: Sun, 15 Oct 2023 15:29:21 GMT
-Expires: Tue, 14 Nov 2023 15:29:21 GMT
+Content-Security-Policy-Report-Only: object-src 'none';base-uri 'self';script-src 'nonce-joylCzu5wC4b_DCl1izHuA' 'strict-dynamic' 'report-sample' 'unsafe-eval' 'unsafe-inline' https: http:;report-uri https://csp.withgoogle.com/csp/gws/other-hp
+Date: Sat, 04 Nov 2023 00:13:53 GMT
+Expires: Mon, 04 Dec 2023 00:13:53 GMT
 Cache-Control: public, max-age=2592000
 Server: gws
 Content-Length: 218
@@ -450,9 +452,9 @@ SITE 38: google.pl
 HTTP/1.1 301 Moved Permanently
 Location: http://www.google.pl/
 Content-Type: text/html; charset=UTF-8
-Content-Security-Policy-Report-Only: object-src 'none';base-uri 'self';script-src 'nonce-0cPmdJTUbgYXJPTNZznzHw' 'strict-dynamic' 'report-sample' 'unsafe-eval' 'unsafe-inline' https: http:;report-uri https://csp.withgoogle.com/csp/gws/other-hp
-Date: Sun, 15 Oct 2023 15:29:21 GMT
-Expires: Tue, 14 Nov 2023 15:29:21 GMT
+Content-Security-Policy-Report-Only: object-src 'none';base-uri 'self';script-src 'nonce-JfNa1Y3VLdWWOMIJ3Ewq9w' 'strict-dynamic' 'report-sample' 'unsafe-eval' 'unsafe-inline' https: http:;report-uri https://csp.withgoogle.com/csp/gws/other-hp
+Date: Sat, 04 Nov 2023 00:13:53 GMT
+Expires: Mon, 04 Dec 2023 00:13:53 GMT
 Cache-Control: public, max-age=2592000
 Server: gws
 Content-Length: 218
@@ -461,20 +463,20 @@ X-Frame-Options: SAMEORIGIN
 
 SITE 39: gooyaabitemplates.com
 HTTP/1.1 301 Moved Permanently
-Date: Sun, 15 Oct 2023 15:29:21 GMT
+Date: Sat, 04 Nov 2023 00:13:53 GMT
 Connection: keep-alive
 Cache-Control: max-age=3600
-Expires: Sun, 15 Oct 2023 16:29:21 GMT
+Expires: Sat, 04 Nov 2023 01:13:53 GMT
 Location: https://gooyaabitemplates.com/
-Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=kofTYFUkhg5gCocfwfV4ZDyMDNaOcY7NOL96Ep3YtPuwQA6E8mzvjMadCdy5hTbHJZ0ojSDYYNMTAyftZawdWQyYzEq6ElIPkkpI9tjr7VgTyLj9vqmyWsriT8ELMzu0U3X6nUWL9MeiN1DuITuoq4Lz3w%3D%3D"}],"group":"cf-nel","max_age":604800}
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=dH7jc2Yx9XMWZgBJ1%2BmYzOyAvkjjZQPs%2B4GIOSJBSN3hpbDBtJI1qJFghA2ibR8GwC%2Bqm9s3d1y3lBhIEYdkA4ma%2FUC0grK6ac7EiSJKPNLTZZ%2Bqu9HQDHoi%2F2nNdr7J2vboMJjKE47lyMJrxMGIgyW87w%3D%3D"}],"group":"cf-nel","max_age":604800}
 NEL: {"success_fraction":0,"report_to":"cf-nel","max_age":604800}
 Server: cloudflare
-CF-RAY: 816918db8ec9399a-IAD
+CF-RAY: 8208a75add083b60-IAD
 
 SITE 40: gravatar.com
 HTTP/1.1 301 Moved Permanently
 Server: nginx
-Date: Sun, 15 Oct 2023 15:29:21 GMT
+Date: Sat, 04 Nov 2023 00:13:53 GMT
 Content-Type: text/html
 Content-Length: 162
 Connection: keep-alive
@@ -482,15 +484,15 @@ Location: https://gravatar.com/
 
 SITE 41: hp.com
 HTTP/1.1 301 Moved Permanently
-Date: Sun, 15 Oct 2023 15:29:21 GMT
+Date: Sat, 04 Nov 2023 00:13:53 GMT
 Server: Apache
 X-Frame-Options: SAMEORIGIN
 Location: http://www.hp.com/
 Cache-Control: max-age=7200
-Expires: Sun, 15 Oct 2023 17:29:21 GMT
+Expires: Sat, 04 Nov 2023 02:13:53 GMT
 Vary: Accept-Encoding
 Content-Type: text/html; charset=iso-8859-1
-X-Varnish: 88941662
+X-Varnish: 126864536
 Age: 0
 Via: 1.1 varnish (Varnish/6.0)
 X-Varnish-Origin: g8t12110g.inc.hp.com
@@ -500,32 +502,32 @@ Connection: keep-alive
 SITE 42: huffingtonpost.com
 HTTP/1.1 301 Moved Permanently
 Server: CloudFront
-Date: Sun, 15 Oct 2023 15:29:21 GMT
+Date: Sat, 04 Nov 2023 00:13:54 GMT
 Content-Type: text/html
 Content-Length: 167
 Connection: keep-alive
 Location: https://huffingtonpost.com/
 X-Cache: Redirect from cloudfront
-Via: 1.1 7fc7dfaa5550fcad03b89e168c0bc0c4.cloudfront.net (CloudFront)
-X-Amz-Cf-Pop: IAD79-C3
-X-Amz-Cf-Id: Nhe9DhLxChQRIMiWTSO20LHFK_fTVvtfKd_aIDoPt-SGwM4py9U7MA==
+Via: 1.1 6104f765cfecf9c49eb7195c359eea46.cloudfront.net (CloudFront)
+X-Amz-Cf-Pop: JFK50-P3
+X-Amz-Cf-Id: F6TX4IL7mKNXRsGLvtxNWvgu9BhHCThZIENLWAKo9MBFkLksaSpHsg==
 
 SITE 43: huffpost.com
 HTTP/1.1 301 Moved Permanently
 Server: CloudFront
-Date: Sun, 15 Oct 2023 15:29:21 GMT
+Date: Sat, 04 Nov 2023 00:13:54 GMT
 Content-Type: text/html
 Content-Length: 167
 Connection: keep-alive
 Location: https://huffpost.com/
 X-Cache: Redirect from cloudfront
-Via: 1.1 8b91488fa62e73ed6328bc389e6d1cbe.cloudfront.net (CloudFront)
+Via: 1.1 3072c658bb2e308b174aea92028efcd6.cloudfront.net (CloudFront)
 X-Amz-Cf-Pop: IAD79-C3
-X-Amz-Cf-Id: 96WpmbD-sJ-h3X1PlkEA-TE4RIHE60LQ9toRS2gNs9lsoIeRl8V6sw==
+X-Amz-Cf-Id: jAzfjmtyxPUeNPa1tppv6KhK5QxbSG7zDYqtkUJ_8KbWElH877lp3A==
 
 SITE 44: imdb.com
 HTTP/1.1 301 Moved Permanently
-Date: Sun, 15 Oct 2023 15:29:21 GMT
+Date: Sat, 04 Nov 2023 00:13:54 GMT
 Server: Server
 Cache-Control: max-age=2592000
 Location: https://imdb.com/
@@ -536,7 +538,7 @@ HTTP/1.1 301 Moved Permanently
 Server: AkamaiGHost
 Content-Length: 0
 Location: https://indianexpress.com/
-Date: Sun, 15 Oct 2023 15:29:21 GMT
+Date: Sat, 04 Nov 2023 00:13:54 GMT
 Connection: keep-alive
 
 SITE 46: instagram.com
@@ -544,14 +546,14 @@ HTTP/1.1 301 Moved Permanently
 Location: https://instagram.com/
 Content-Type: text/plain
 Server: proxygen-bolt
-Date: Sun, 15 Oct 2023 15:29:21 GMT
+Date: Sat, 04 Nov 2023 00:13:54 GMT
 Connection: keep-alive
 Content-Length: 0
 
 SITE 47: justjared.com
 HTTP/1.1 301 Moved Permanently
 Server: awselb/2.0
-Date: Sun, 15 Oct 2023 15:29:21 GMT
+Date: Sat, 04 Nov 2023 00:13:54 GMT
 Content-Type: text/html
 Content-Length: 134
 Connection: keep-alive
@@ -560,7 +562,7 @@ Location: https://justjared.com:443/
 SITE 48: latimes.com
 HTTP/1.1 301 Moved Permanently
 Server: awselb/2.0
-Date: Sun, 15 Oct 2023 15:29:22 GMT
+Date: Sat, 04 Nov 2023 00:13:54 GMT
 Content-Type: text/html
 Content-Length: 134
 Connection: keep-alive
@@ -573,36 +575,36 @@ Content-Length: 0
 Server: Varnish
 Retry-After: 0
 Accept-Ranges: bytes
-Date: Sun, 15 Oct 2023 15:29:22 GMT
+Date: Sat, 04 Nov 2023 00:13:54 GMT
 Via: 1.1 varnish
-X-Served-By: cache-iad-kiad7000148-IAD
+X-Served-By: cache-iad-kiad7000155-IAD
 X-Cache: MISS
 X-Cache-Hits: 0
-X-Timer: S1697383762.111789,VS0,VE0
+X-Timer: S1699056835.608019,VS0,VE0
 Location: https://www.lemonde.fr/
 
 SITE 50: linkedin.com
 HTTP/1.1 301 Moved Permanently
 Content-Length: 0
 Location: https://www.linkedin.com/
-X-Li-Fabric: prod-lva1
-X-Li-Pop: afd-prod-lva1-x
+X-Li-Fabric: prod-ltx1
+X-Li-Pop: afd-prod-ltx1-x
 X-Li-Proto: http/1.1
-X-LI-UUID: AAYHwvQw5JQrExgotSb4WQ==
+X-LI-UUID: AAYJSH8VqZpXXL/Z+nUqEQ==
 X-Cache: CONFIG_NOCACHE
-X-MSEdge-Ref: Ref A: 7C365CFB9B5A49D99F2F30A96FCE9931 Ref B: BL2AA2030106027 Ref C: 2023-10-15T15:29:22Z
-Date: Sun, 15 Oct 2023 15:29:21 GMT
+X-MSEdge-Ref: Ref A: ABC8B21D78B3422C8FFAF9C4D280A531 Ref B: BL2AA2030107011 Ref C: 2023-11-04T00:13:54Z
+Date: Sat, 04 Nov 2023 00:13:54 GMT
 
 SITE 51: live.com
 HTTP/1.1 301 Moved Permanently
 Content-Length: 0
 Location: https://outlook.live.com/owa/
-X-MSEdge-Ref: Ref A: A275DCD5A3F14C3789147D6194AE75E1 Ref B: BLUEDGE1321 Ref C: 2023-10-15T15:29:22Z
-Date: Sun, 15 Oct 2023 15:29:22 GMT
+X-MSEdge-Ref: Ref A: 4411324665D14937A210B5DC3E5143C8 Ref B: BL2EDGE2610 Ref C: 2023-11-04T00:13:54Z
+Date: Sat, 04 Nov 2023 00:13:54 GMT
 
 SITE 52: nationalgeographic.com
 HTTP/1.1 302 Moved Temporarily
-Date: Sun, 15 Oct 2023 15:29:22 GMT
+Date: Sat, 04 Nov 2023 00:13:54 GMT
 Content-Type: text/plain
 Content-Length: 13
 Connection: keep-alive
@@ -616,29 +618,29 @@ Content-Type: text/html; charset=utf-8
 Location: https://www.nbcnews.com
 Render-Authority: a1-07-w
 X-Cache: true
-Date: Sun, 15 Oct 2023 15:29:22 GMT
+Date: Sat, 04 Nov 2023 00:13:55 GMT
 
 SITE 54: netflix.com
 HTTP/1.1 301 Moved Permanently
 Location: https://netflix.com/
 Content-Length: 0
-Via: 1.1 i-0a11d5aeaf5231c74 (us-east-1)
+Via: 1.1 i-0ffbd6db39c3234f8 (us-east-1)
 Server: nq_website_nonmember-prod-release UNKNOWN
 X-Xss-Protection: 1; mode=block; report=https://www.netflix.com/ichnaea/log/freeform/xssreport
 X-Content-Type-Options: nosniff
 Strict-Transport-Security: max-age=31536000; includeSubDomains
 X-Originating-URL: http://netflix.com/
-Set-Cookie: nfvdid=BQFmAAEBED8TS_oB_aFfHf7F177bPztA5G3hSmUxYuI-bivVsH4mG-maIcc0lCwEG_WrVqnwws34PTXTTl-_FmPgSVdpyM2lwT2j2nLhmu7sQk6COudqjw%3D%3D; Domain=.netflix.com; Path=/; Max-Age=31536000
+Set-Cookie: nfvdid=BQFmAAEBEF5DTpQV6xw2K59o0H0m5v9A8ldlxEByAm8SJcHbdu3ktPr034jlCEPUrtKM71DrGqtKpV9kDYoHb8eJ34NblnBi8i91CTAB9aUW7Kvb3HrsTQ%3D%3D; Domain=.netflix.com; Path=/; Max-Age=31536000
 X-Netflix.nfstatus: 1_21
 X-Netflix.proxy.execution-time: 1
 
 SITE 55: netlify.app
 HTTP/1.1 301 Moved Permanently
 Content-Type: text/plain; charset=utf-8
-Date: Sun, 15 Oct 2023 15:29:22 GMT
+Date: Sat, 04 Nov 2023 00:13:55 GMT
 Location: https://netlify.app/
 Server: Netlify
-X-Nf-Request-Id: 01HCSZ9JQ5VMZS9S2J4PG9CT42
+X-Nf-Request-Id: 01HEBTVPKK5J74VV5ZQ8F773RY
 
 SITE 56: nih.gov
 SITE 57: nl.wikipedia.org
@@ -646,14 +648,14 @@ HTTP/1.1 301 Moved Permanently
 content-length: 0
 location: https://nl.wikipedia.org/
 server: HAProxy
-x-cache: cp1075 int
+x-cache: cp1079 int
 x-cache-status: int-tls
 connection: close
 
 SITE 58: nydailynews.com
 HTTP/1.1 301 Moved Permanently
 Server: awselb/2.0
-Date: Sun, 15 Oct 2023 15:29:22 GMT
+Date: Sat, 04 Nov 2023 00:13:55 GMT
 Content-Type: text/html
 Content-Length: 134
 Connection: keep-alive
@@ -662,12 +664,12 @@ Location: https://www.nydailynews.com:443/
 SITE 59: ok.ru
 HTTP/1.1 200 
 Server: Apache
-Date: Sun, 15 Oct 2023 15:29:23 GMT
+Date: Sat, 04 Nov 2023 00:13:55 GMT
 Content-Type: text/html;charset=UTF-8
 Connection: keep-alive
 Vary: Accept-Encoding
-Set-Cookie: bci=8036719386345262728; Domain=.ok.ru; Expires=Fri, 02 Nov 2091 18:43:30 GMT; Path=/; Secure; HttpOnly
-Set-Cookie: _statid=206c713a-1799-4163-ab2b-c772b613887c; Domain=.ok.ru; Expires=Fri, 02 Nov 2091 18:43:30 GMT; Path=/; Secure; HttpOnly
+Set-Cookie: bci=6236643869169628551; Domain=.ok.ru; Expires=Thu, 22 Nov 2091 03:28:02 GMT; Path=/; Secure; HttpOnly
+Set-Cookie: _statid=437e1afa-3e8d-46f3-936a-2b38f40d515d; Domain=.ok.ru; Expires=Thu, 22 Nov 2091 03:28:02 GMT; Path=/; Secure; HttpOnly
 Content-Security-Policy: default-src data: 'self' 'unsafe-inline' 'unsafe-eval' ok.ru *.ok.ru odnoklassniki.ru *.odnoklassniki.ru mycdn.me http://*.mycdn.me https://*.mycdn.me wss://ad.mail.ru *.mail.ru *.imgsmail.ru *.mradx.net *.serving-sys.com *.googleapis.com *.gstatic.com www.google.com https://api-maps.yandex.ru yastatic.net yandex.st *.doubleverify.com *.adsafeprotected.com https://consentmanager.mgr.consensu.org https://cdn.consentmanager.mgr.consensu.org https://football.sportmail.ru *.google.ru *.google.com *.googlesyndication.com *.yandex.ru blob:;  script-src 'unsafe-inline' 'unsafe-eval' *.mail.ru https://*.mail.ru *.imgsmail.ru *.mradx.net ok.ru *.ok.ru odnoklassniki.ru *.odnoklassniki.ru mycdn.me http://*.mycdn.me https://*.mycdn.me mc.yandex.ru an.yandex.ru yastatic.net yandex.st *.google-analytics.com api-maps.yandex.ru https://api-maps.yandex.ru https://clck.yandex.ru *.googleapis.com *.gstatic.com www.google.com www.youtube.com https://www.youtube.com *.ytimg.com https://*.ytimg.com *.doubleverify.com *.dvtps.com *.doubleclick.net *.googletagservices.com *.googlesyndication.com *.googleadservices.com *.goodgame.ru https://*.goodgame.ru https://*.moatads.com *.adlooxtracking.com *.adlooxtracking.ru *.adsafeprotected.com *.serving-sys.com *.serving-sys.ru *.weborama.fr *.weborama-tech.ru https://enterprise.api-maps.yandex.ru https://suggest-maps.yandex.ru https://*.hit.gemius.pl https://consentmanager.mgr.consensu.org https://cdn.consentmanager.mgr.consensu.org https://gum.criteo.com https://football.sportmail.ru *.googletagmanager.com connect.facebook.net *.google.ru *.google.com *.googlesyndication.com yandex.ru;  worker-src blob: 'self';  connect-src * wss: blob: data:;  font-src * data: blob:; frame-src * blob: 'self';  img-src * data: blob: about:;  media-src * data: blob:;  object-src *;  report-uri /csp/report;
 Cache-Control: no-cache
 Cache-Control: no-store
@@ -678,11 +680,11 @@ X-Content-Type-Options: nosniff
 Strict-Transport-Security: max-age=63072000;includeSubdomains;preload
 Rendered-Blocks: HtmlPage
 X-ScT: true
-Set-Cookie: __last_online=1697383763067; Expires=Fri, 02 Nov 2091 18:43:30 GMT; Path=/; Secure
+Set-Cookie: __last_online=1699056835651; Expires=Thu, 22 Nov 2091 03:28:02 GMT; Path=/; Secure
 
 SITE 60: oracle.com
 HTTP/1.1 301 Moved Permanently
-Date: Sun, 15 Oct 2023 15:29:23 GMT
+Date: Sat, 04 Nov 2023 00:13:55 GMT
 Content-Type: text/html
 Content-Length: 157
 Connection: keep-alive
@@ -692,13 +694,13 @@ SITE 61: ovh.co.uk
 HTTP/1.1 301 Moved Permanently
 content-length: 0
 location: https://ovh.co.uk/
-date: Sun, 15 Oct 2023 15:29:23 GMT
+date: Sat, 04 Nov 2023 00:13:56 GMT
 x-cdn-pop: bhs
 x-cdn-pop-ip: 137.74.122.0/26
-x-request-id: 98894055
+x-request-id: 294618659
 x-cacheable: Cacheable
-x-iplb-request-id: 48C4F1A8:EC76_C61B5C07:0050_652C0553_35C2F:1CC00
-x-iplb-instance: 32184
+x-iplb-request-id: 48C4F1A8:D82D_C61B5C07:0050_65458CC4_32F5BD:2DF2A
+x-iplb-instance: 42354
 
 SITE 62: ovh.net
 HTTP/1.1 301 Moved Permanently
@@ -714,15 +716,15 @@ Location: https://paypal.com/
 
 SITE 64: photobucket.com
 HTTP/1.1 301 Moved Permanently
-Date: Sun, 15 Oct 2023 15:29:23 GMT
+Date: Sat, 04 Nov 2023 00:13:56 GMT
 Content-Type: text/html
 Content-Length: 167
 Connection: keep-alive
 Location: https://photobucket.com/
 X-Cache: Redirect from cloudfront
-Via: 1.1 fed66e6ba2cb68c8ee66c75c4798daf8.cloudfront.net (CloudFront)
-X-Amz-Cf-Pop: IAD79-C3
-X-Amz-Cf-Id: OkmjJ-iWDn4m8WFT-BjGojpLU2iujBT43fQsilhfCQFQNyKh4Uh5bg==
+Via: 1.1 16fbe6f2baa3fcc1563be742e6d45f20.cloudfront.net (CloudFront)
+X-Amz-Cf-Pop: JFK50-P3
+X-Amz-Cf-Id: i_YEFTtcwmF1N32P25EOltIpPcbt2aMhiuLlbrJaOo1Rc2jcL2PHjw==
 Cache-Control: no-cache
 server: Photobucket
 Vary: Origin
@@ -730,8 +732,8 @@ Vary: Origin
 SITE 65: photos1.blogger.com
 HTTP/1.1 404 Not Found
 Content-Type: image/gif
-Date: Sun, 15 Oct 2023 15:29:24 GMT
-Expires: Sun, 15 Oct 2023 15:34:24 GMT
+Date: Sat, 04 Nov 2023 00:13:56 GMT
+Expires: Sat, 04 Nov 2023 00:18:56 GMT
 Cache-Control: public, max-age=300
 X-Content-Type-Options: nosniff
 Server: sffe
@@ -741,7 +743,7 @@ X-XSS-Protection: 0
 SITE 66: php.net
 HTTP/1.1 301 Moved Permanently
 Server: myracloud
-Date: Sun, 15 Oct 2023 15:29:24 GMT
+Date: Sat, 04 Nov 2023 00:13:56 GMT
 Content-Type: text/html
 Content-Length: 161
 Connection: keep-alive
@@ -752,21 +754,21 @@ HTTP/1.1 301 Moved Permanently
 content-length: 0
 location: https://pl.wikipedia.org/
 server: HAProxy
-x-cache: cp1075 int
+x-cache: cp1079 int
 x-cache-status: int-tls
 connection: close
 
 SITE 68: psychologytoday.com
 HTTP/1.1 301 Moved Permanently
 Content-Type: text/html; charset=iso-8859-1
-Date: Sun, 15 Oct 2023 15:26:02 GMT
+Date: Sat, 04 Nov 2023 00:10:22 GMT
 Location: https://www.psychologytoday.com/
 Server: Apache/2.4.53 (Amazon)
 Connection: keep-alive
 
 SITE 69: radiofrance.fr
 HTTP/1.1 301 Moved Permanently
-Date: Sun, 15 Oct 2023 15:29:24 GMT
+Date: Sat, 04 Nov 2023 00:13:56 GMT
 Content-Type: text/html
 Content-Length: 162
 Connection: keep-alive
@@ -775,7 +777,7 @@ Location: https://www.radiofrance.fr/
 SITE 70: rbc.ru
 HTTP/1.1 301 Moved Permanently
 Server: QRATOR
-Date: Sun, 15 Oct 2023 15:29:24 GMT
+Date: Sat, 04 Nov 2023 00:13:57 GMT
 Content-Type: text/html
 Content-Length: 36
 Connection: keep-alive
@@ -785,7 +787,7 @@ Location: https://www.rbc.ru/
 SITE 71: reg.ru
 HTTP/1.1 301 Moved Permanently
 Server: nginx
-Date: Sun, 15 Oct 2023 15:29:24 GMT
+Date: Sat, 04 Nov 2023 00:13:57 GMT
 Content-Type: text/html
 Content-Length: 178
 Connection: keep-alive
@@ -794,7 +796,7 @@ Location: https://www.reg.ru/
 SITE 72: ria.ru
 HTTP/1.1 301 Moved Permanently
 Server: QRATOR
-Date: Sun, 15 Oct 2023 15:29:25 GMT
+Date: Sat, 04 Nov 2023 00:13:57 GMT
 Content-Length: 0
 Connection: keep-alive
 Keep-Alive: timeout=15
@@ -803,7 +805,7 @@ location: https://ria.ru/
 SITE 73: rollingstone.com
 HTTP/1.1 301 Moved Permanently
 Server: nginx
-Date: Sun, 15 Oct 2023 15:29:25 GMT
+Date: Sat, 04 Nov 2023 00:13:57 GMT
 Content-Type: text/html
 Content-Length: 162
 Connection: keep-alive
@@ -811,20 +813,18 @@ Location: https://rollingstone.com/
 
 SITE 74: rtve.es
 HTTP/1.1 301 Moved Permanently
-date: Sun, 15 Oct 2023 15:29:03 GMT
+date: Sat, 04 Nov 2023 00:12:52 GMT
 server: Apache/2.4.6 (CentOS)
 location: https://www.rtve.es/
 content-length: 228
 content-type: text/html; charset=iso-8859-1
-cache-control: max-age=30
-x-ttl: 30.000
-x-cache-control: max-age=30
-x-backend: goto.00000009.(10.210.25.195).(http://pfvarnish.irtve.rtve.int:80).(ttl:10.000000)
+x-backend: goto.00000022.(10.210.25.192).(http://pfvarnish.irtve.rtve.int:80).(ttl:10.000000)
 x-url: /
 x-grace: 28800.000
-x-varnish: 1058957689 1061162868
+x-ttl: 60.000
+cache-control: max-age=30
+x-varnish: 903152387 886631499
 via: 1.1 varnish (Varnish/6.0)
-x-rtve-cache: hit cached
 access-control-allow-origin: *
 
 SITE 75: samsung.com
@@ -832,26 +832,26 @@ HTTP/1.1 301 Moved Permanently
 Content-Length: 205
 Content-Type: text/html; charset=UTF-8
 Location: https://www.samsung.com/
-Date: Sun, 15 Oct 2023 15:29:25 GMT
-Set-Cookie: TS01ef6e9e=01baedfe8ec87aca8ef810d18f25ddeab85aa7792c9fa4bacb7b065ceb6d3dc8d79e9428de070e3b766eff7cf6d94edf442f55ca67; Path=/
+Date: Sat, 04 Nov 2023 00:13:57 GMT
+Set-Cookie: TS01ef6e9e=01baedfe8eafb88bfff8575818c608329721581c3f3666f3d8ae56fb8493b7717ccae77ecb19cba306921ac49c2d40c791b18c0f10; Path=/
 
 SITE 76: sendspace.com
 HTTP/1.1 301 Moved Permanently
-Date: Sun, 15 Oct 2023 15:29:26 GMT
+Date: Sat, 04 Nov 2023 00:13:58 GMT
 Connection: keep-alive
 Cache-Control: max-age=3600
-Expires: Sun, 15 Oct 2023 16:29:26 GMT
+Expires: Sat, 04 Nov 2023 01:13:58 GMT
 Location: https://sendspace.com/
-Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=5Xn0VSHQkTgJ%2B5K1Wy6qNsF%2Bt%2BgQEyDN7DleP4anwMHw%2BF2%2BMkuo1hyGd44v4UYLiwToL9wWzWo8NJOmL0RR3WCkAEKweY42Xmu0qi6aAxfal9NQPuBce0JQXikoDD%2F2x9gjiaiZXqq76Wo%2B"}],"group":"cf-nel","max_age":604800}
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=UwstNtkPAZi0nDKMhWsHycrDR5nLRmUdF9N%2F5UrhN8JdNcwEZNMoc3nU5cyv8nYlEeR28524YFwJiWy1JVFyy7Gf9q1hu%2FJ7o7CjYc41JNpA2hxe6T%2BdartgRO%2FHY5Bdv54%2B36orS7VYLEaS"}],"group":"cf-nel","max_age":604800}
 NEL: {"success_fraction":0,"report_to":"cf-nel","max_age":604800}
 Server: cloudflare
-CF-RAY: 816918fc1815084f-IAD
+CF-RAY: 8208a7787ad59c48-IAD
 alt-svc: h3=":443"; ma=86400
 
 SITE 77: shutterstock.com
 HTTP/1.1 301 Moved Permanently
 Server: awselb/2.0
-Date: Sun, 15 Oct 2023 15:29:26 GMT
+Date: Sat, 04 Nov 2023 00:13:58 GMT
 Content-Type: text/html
 Content-Length: 134
 Connection: keep-alive
@@ -861,8 +861,8 @@ SITE 78: sites.google.com
 HTTP/1.1 302 Moved Temporarily
 Location: https://sites.google.com/
 Content-Type: text/html; charset=UTF-8
-Date: Sun, 15 Oct 2023 15:29:26 GMT
-Expires: Sun, 15 Oct 2023 15:29:26 GMT
+Date: Sat, 04 Nov 2023 00:13:58 GMT
+Expires: Sat, 04 Nov 2023 00:13:58 GMT
 Cache-Control: private, max-age=0
 X-Content-Type-Options: nosniff
 X-Frame-Options: SAMEORIGIN
@@ -875,14 +875,14 @@ Vary: Accept-Encoding
 
 SITE 79: sky.com
 HTTP/1.1 302 Found
-Date: Sun, 15 Oct 2023 15:29:26 GMT
+Date: Sat, 04 Nov 2023 00:13:58 GMT
 Server: Apache
 Location: https://www.sky.com/
 Content-Type: text/html; charset=iso-8859-1
 
 SITE 80: stanford.edu
 HTTP/1.1 302 Found
-Date: Sun, 15 Oct 2023 15:29:26 GMT
+Date: Sat, 04 Nov 2023 00:13:59 GMT
 Server: Apache
 Location: https://www.stanford.edu/
 Content-Type: text/html; charset=iso-8859-1
@@ -893,50 +893,50 @@ perf: 7626143928
 location: https://t.co/
 cache-control: no-cache, no-store, max-age=0
 content-length: 0
-x-transaction-id: d1d04f94a23e7dba
-x-response-time: 1
-x-connection-hash: ce6197c69082f1cd8360acad47737b02290d4c1e46663fdaf19879f8cf16ce12
-date: Sun, 15 Oct 2023 15:29:26 GMT
+x-transaction-id: 0081e4a5a4fc3144
+x-response-time: 2
+x-connection-hash: 94fea7c3d7c2d8789ffe089df099c24c0ccf218b9abf84a2d6f0d2595ec73852
+date: Sat, 04 Nov 2023 00:13:59 GMT
 server: tsa_b
 
 SITE 82: themeforest.net
 HTTP/1.1 301 Moved Permanently
-Date: Sun, 15 Oct 2023 15:29:27 GMT
+Date: Sat, 04 Nov 2023 00:13:59 GMT
 Connection: keep-alive
 Cache-Control: max-age=3600
-Expires: Sun, 15 Oct 2023 16:29:27 GMT
+Expires: Sat, 04 Nov 2023 01:13:59 GMT
 Location: https://themeforest.net/
-Set-Cookie: __cf_bm=EoYN7.VBgH6W6fSO3rIhUjyQSQAP8LtjUu66qNiFtL4-1697383767-0-AZMRAqP33PvDkgjRtaHDSQSa9wdKJRWIGFstzPTVqu8Wf6ScKeg7zXpvXmQF9uMlNy/KcyVhVx87+KWoVTp0swI=; path=/; expires=Sun, 15-Oct-23 15:59:27 GMT; domain=.themeforest.net; HttpOnly; SameSite=None
+Set-Cookie: __cf_bm=8gUW1R28C_xeqNH.E8WHUqBk5M2Wk8mAJkK4R1c1zoI-1699056839-0-AVvbvYwGgGGetXWwcSMf/rOi3Jym5/yEGm/lvo/4h24/tIuX3GTZkT7YFxMywC7Qe/unSsPWGDMbizTPN3uTwX8=; path=/; expires=Sat, 04-Nov-23 00:43:59 GMT; domain=.themeforest.net; HttpOnly; SameSite=None
 Server: cloudflare
-CF-RAY: 816919005d3b28c4-IAD
+CF-RAY: 8208a77d0930054a-IAD
 
 SITE 83: tiktok.com
 HTTP/1.1 301 Moved Permanently
 Server: CloudFront
-Date: Sun, 15 Oct 2023 15:29:27 GMT
+Date: Sat, 04 Nov 2023 00:13:59 GMT
 Content-Type: text/html
 Content-Length: 167
 Connection: keep-alive
 Location: https://tiktok.com/
 X-Cache: Redirect from cloudfront
-Via: 1.1 f7712655aa6587fbf06c55b40ebb2680.cloudfront.net (CloudFront)
-X-Amz-Cf-Pop: IAD12-P4
-X-Amz-Cf-Id: PhDvczHMKeXav5cA6jz9PfEj9tfKdV7APj-q8d4TGr4Ad6ZCtvVtow==
+Via: 1.1 33d20e5c1d4642e72bf534aef6869c58.cloudfront.net (CloudFront)
+X-Amz-Cf-Pop: EWR53-C1
+X-Amz-Cf-Id: 4wKy5lRPkxtIQCU3pufL1GkIsDlsEkr8VEkEnpyzUUjWJKkZxAgeFA==
 
 SITE 84: tinyurl.com
 HTTP/1.1 301 Moved Permanently
-Date: Sun, 15 Oct 2023 15:29:27 GMT
+Date: Sat, 04 Nov 2023 00:13:59 GMT
 Connection: keep-alive
 Cache-Control: max-age=3600
-Expires: Sun, 15 Oct 2023 16:29:27 GMT
+Expires: Sat, 04 Nov 2023 01:13:59 GMT
 Location: https://tinyurl.com/
 Server: cloudflare
-CF-RAY: 816919012f703b86-IAD
+CF-RAY: 8208a77e0d735985-IAD
 alt-svc: h3=":443"; ma=86400
 
 SITE 85: umn.edu
 HTTP/1.1 301 Moved Permanently
-Date: Sun, 15 Oct 2023 15:29:27 GMT
+Date: Sat, 04 Nov 2023 00:13:59 GMT
 Server: Apache/2.4.6 (Red Hat Enterprise Linux)
 Location: http://twin-cities.umn.edu/
 Connection: close
@@ -952,14 +952,14 @@ Content-Length: 0
 
 SITE 87: w3.org
 HTTP/1.1 301 Moved Permanently
-Date: Sun, 15 Oct 2023 15:29:27 GMT
+Date: Sat, 04 Nov 2023 00:13:59 GMT
 Connection: keep-alive
 Cache-Control: max-age=3600
-Expires: Sun, 15 Oct 2023 16:29:27 GMT
+Expires: Sat, 04 Nov 2023 01:13:59 GMT
 Location: https://www.w3.org/
-Set-Cookie: __cf_bm=hsr81omNZSGnAUjBpf56431Qy7VfQx5m8UNt7bv2j2g-1697383767-0-AYcjaRcrkoU/p4nSYsgDlYXkDu5hMRGA/5tmTL4tVzyP/RidQA3pmloJ3KPdaDE/1yu4SchQhf65+OTTSnFN/wM=; path=/; expires=Sun, 15-Oct-23 15:59:27 GMT; domain=.w3.org; HttpOnly; SameSite=None
+Set-Cookie: __cf_bm=DvxdEdXOeGllenHLDkUrTK_fgjCbHTE1iv3vykwObtc-1699056839-0-Aeu/RRpBGcY6z3d8y4/zWZZ4EvSquBwbS7SPVCaCN3xT9H8dqEZSeQAH6ZvJqu6j7mycJyHTsPcqnRhlQIVabAE=; path=/; expires=Sat, 04-Nov-23 00:43:59 GMT; domain=.w3.org; HttpOnly; SameSite=None
 Server: cloudflare
-CF-RAY: 816919056ec02082-IAD
+CF-RAY: 8208a780eea65974-IAD
 alt-svc: h3=":443"; ma=86400
 
 SITE 88: walmart.com
@@ -967,14 +967,14 @@ HTTP/1.1 301 Moved Permanently
 Server: AkamaiGHost
 Content-Length: 0
 Location: https://www.walmart.com/
-Expires: Sun, 15 Oct 2023 15:29:28 GMT
+Expires: Sat, 04 Nov 2023 00:13:59 GMT
 Cache-Control: max-age=0, no-cache, no-store
 Pragma: no-cache
-Date: Sun, 15 Oct 2023 15:29:28 GMT
+Date: Sat, 04 Nov 2023 00:13:59 GMT
 Connection: keep-alive
 Cache-Status: 
-Set-Cookie: akavpau_p2=1697384368~id=bc161eeabcac8784ab4791aa26cd4777; Path=/; HttpOnly
-Server-Timing: ak_p; desc="1697383767998_388252203_402917508_24_6757_16_0_-";dur=1
+Set-Cookie: akavpau_p2=1699057439~id=ed4a2c630ca7e553f7d9ba77fd05e3ba; Path=/; HttpOnly
+Server-Timing: ak_p; desc="1699056839932_389073131_466992156_9_3639_27_0_-";dur=1
 
 SITE 89: washington.edu
 HTTP/1.1 302 Found
@@ -984,9 +984,9 @@ cache-control: no-cache
 
 SITE 90: welt.de
 HTTP/1.1 301 Moved Permanently
-Date: Sun, 15 Oct 2023 15:29:28 GMT
+Date: Sat, 04 Nov 2023 00:14:00 GMT
 Server: Varnish
-X-Varnish: 49421866
+X-Varnish: 77852997
 Location: https://www.welt.de/
 Edge-Control: cache-maxage=5m
 Content-Length: 0
@@ -999,17 +999,17 @@ Content-Length: 0
 Retry-After: 0
 Location: https://wikihow.com/
 Accept-Ranges: bytes
-Date: Sun, 15 Oct 2023 15:29:28 GMT
-X-Timer: S1697383769.527829,VS0,VE0
+Date: Sat, 04 Nov 2023 00:14:00 GMT
+X-Timer: S1699056840.421900,VS0,VE0
 Vary: Cookie, Accept-Encoding, User-Agent
-x-c: cache-iad-kjyo7100135-IAD,M
+x-c: cache-iad-kiad7000174-IAD,M
 x-content-type-options: nosniff
 x-xss-protection: 1; mode=block
 alt-svc: h3=":443";ma=86400,h3-29=":443";ma=86400,h3-27=":443";ma=86400
 
 SITE 92: wiley.com
 HTTP/1.1 301 Moved Permanently
-Date: Sun, 15 Oct 2023 15:29:28 GMT
+Date: Sat, 04 Nov 2023 00:14:00 GMT
 Server: Apache
 Location: https://www.wiley.com/
 Content-Type: text/html; charset=iso-8859-1
@@ -1022,19 +1022,19 @@ Server: Varnish
 Retry-After: 0
 Location: https://wired.com/
 Accept-Ranges: bytes
-Date: Sun, 15 Oct 2023 15:29:28 GMT
+Date: Sat, 04 Nov 2023 00:14:00 GMT
 Via: 1.1 varnish
-Set-Cookie: CN_xid=436d8c6b-686e-4b47-96f0-5c9008cfa65d; Expires=Fri, 12 Apr 2024 15:29:28 GMT; Domain=.wired.com; path=/; Secure; SameSite=None;
-Set-Cookie: CN_xid_refresh=436d8c6b-686e-4b47-96f0-5c9008cfa65d; Expires=Mon, 14 Oct 2024 15:29:28 GMT; Domain=.wired.com; path=/; Secure; httponly; SameSite=None;
-Set-Cookie: xid1=1; Expires=Sun, 15 Oct 2023 15:29:43 GMT; Domain=.wired.com; path=/;
-Set-Cookie: CN_segments=co.w2341; Expires=Fri, 12 Apr 2024 15:29:28 GMT; Domain=.wired.com; path=/;
+Set-Cookie: CN_xid=59ca568b-2341-48e4-89c2-68a573d237ad; Expires=Thu, 02 May 2024 00:14:00 GMT; Domain=.wired.com; path=/; Secure; SameSite=None;
+Set-Cookie: CN_xid_refresh=59ca568b-2341-48e4-89c2-68a573d237ad; Expires=Sun, 03 Nov 2024 00:14:00 GMT; Domain=.wired.com; path=/; Secure; httponly; SameSite=None;
+Set-Cookie: xid1=1; Expires=Sat, 04 Nov 2023 00:14:15 GMT; Domain=.wired.com; path=/;
+Set-Cookie: CN_segments=co.w2344; Expires=Thu, 02 May 2024 00:14:00 GMT; Domain=.wired.com; path=/;
 Content-Security-Policy: default-src https: data: 'unsafe-inline' 'unsafe-eval'; child-src https: data: blob:; connect-src https: data: blob: wss://*.hotjar.com wss://*.conde.digital; font-src https: data:; img-src https: blob: data: android-webview-video-poster:; media-src blob: data: https:; object-src https:; script-src https: data: blob: 'unsafe-inline' 'unsafe-eval'; style-src https: 'unsafe-inline'; block-all-mixed-content; upgrade-insecure-requests;
-X-Served-By: cache-iad-kjyo7100095-IAD
+X-Served-By: cache-iad-kiad7000156-IAD
 X-Cache: HIT
 X-Cache-Hits: 0
-X-Timer: S1697383769.688182,VS0,VE0
+X-Timer: S1699056841.583219,VS0,VE0
 Vary: 
-Set-Cookie: CN_geo_country_code=US; Expires=Fri, 12 Apr 2024 15:29:28 GMT; Path=/; Domain=wired.com; Samesite=None; Secure
+Set-Cookie: CN_geo_country_code=US; Expires=Thu, 02 May 2024 00:14:00 GMT; Path=/; Domain=wired.com; Samesite=None; Secure
 apple-news-services-host: wired.com
 
 SITE 94: wordreference.com
@@ -1044,12 +1044,12 @@ Content-Length: 153
 Content-Type: text/html; charset=UTF-8
 Location: https://www.wordreference.com/
 Server: Microsoft-IIS/10.0
-Date: Sun, 15 Oct 2023 15:29:28 GMT
+Date: Sat, 04 Nov 2023 00:13:59 GMT
 
 SITE 95: wp.com
 HTTP/1.1 301 Moved Permanently
 Server: nginx
-Date: Sun, 15 Oct 2023 15:29:28 GMT
+Date: Sat, 04 Nov 2023 00:14:00 GMT
 Content-Type: text/html
 Content-Length: 162
 Connection: keep-alive
@@ -1062,7 +1062,7 @@ Content-Type: application/binary
 Cache-Control: no-cache, no-store, max-age=0, must-revalidate
 Pragma: no-cache
 Expires: Mon, 01 Jan 1990 00:00:00 GMT
-Date: Sun, 15 Oct 2023 15:29:28 GMT
+Date: Sat, 04 Nov 2023 00:14:00 GMT
 Location: https://www.blogger.com/
 Content-Length: 0
 Server: ESF
@@ -1073,52 +1073,51 @@ X-Content-Type-Options: nosniff
 SITE 97: www.google.com
 HTTP/1.1 200 OK
 Content-Type: text/html; charset=ISO-8859-1
-Content-Security-Policy-Report-Only: object-src 'none';base-uri 'self';script-src 'nonce-IU4FFOwvJQVLmu7aPfCVMA' 'strict-dynamic' 'report-sample' 'unsafe-eval' 'unsafe-inline' https: http:;report-uri https://csp.withgoogle.com/csp/gws/other-hp
+Content-Security-Policy-Report-Only: object-src 'none';base-uri 'self';script-src 'nonce-Zi9N7_B10cr4tglybRzuQg' 'strict-dynamic' 'report-sample' 'unsafe-eval' 'unsafe-inline' https: http:;report-uri https://csp.withgoogle.com/csp/gws/other-hp
 P3P: CP="This is not a P3P policy! See g.co/p3phelp for more info."
-Date: Sun, 15 Oct 2023 15:29:29 GMT
+Date: Sat, 04 Nov 2023 00:14:00 GMT
 Server: gws
 X-XSS-Protection: 0
 X-Frame-Options: SAMEORIGIN
 Transfer-Encoding: chunked
-Expires: Sun, 15 Oct 2023 15:29:29 GMT
+Expires: Sat, 04 Nov 2023 00:14:00 GMT
 Cache-Control: private
-Set-Cookie: 1P_JAR=2023-10-15-15; expires=Tue, 14-Nov-2023 15:29:29 GMT; path=/; domain=.google.com; Secure
-Set-Cookie: AEC=Ackid1TTp5_8O0oRWLsBpzYqn5P_yhl3GDpuE2obaxiHm-2aEYbcj51urX8; expires=Fri, 12-Apr-2024 15:29:29 GMT; path=/; domain=.google.com; Secure; HttpOnly; SameSite=lax
-Set-Cookie: NID=511=El2duqalRPjIekM3sksAi2z78Ip61xgnPu2yXMY8rH7wi7n02qS-BnN5yzq9-6r8HxsFbSCXOIZ1ss_a30IZvmFNVn6wEnfHtiEqfhesK1LxelR7JhVhkZJ-dLEUQRog-RPBgOsKkJRvAImeR-suf4srM9uKe-_oebd3EhJkZgg; expires=Mon, 15-Apr-2024 15:29:29 GMT; path=/; domain=.google.com; HttpOnly
+Set-Cookie: 1P_JAR=2023-11-04-00; expires=Mon, 04-Dec-2023 00:14:00 GMT; path=/; domain=.google.com; Secure
+Set-Cookie: AEC=Ackid1R5t3uoby5jiBsgE9iEK8joNtx7fVFi8si_wadTwJJy8Scz2QwR9g; expires=Thu, 02-May-2024 00:14:00 GMT; path=/; domain=.google.com; Secure; HttpOnly; SameSite=lax
+Set-Cookie: NID=511=BEWihP2KZrR9FDp49oZOFarKpBUpxtGPZY4WKxsh6PurDV9bmoqmuTn_I2z2MbWjk_4Y3Cy0X8R5pvH6uOHyWvQfeeTemEma8lxaSMYTZI3z2QdCdMlQE9E6bCesnFxCR2DdNZUuqt3piqfl1JRIepheVya9-nFenybCzQEj5o4; expires=Sun, 05-May-2024 00:14:00 GMT; path=/; domain=.google.com; HttpOnly
 
 SITE 98: www.wix.com
 HTTP/1.1 301 Moved Permanently
 Connection: keep-alive
 Content-Length: 0
 location: https://www.wix.com/
-Age: 84086
-X-Wix-Request-Id: 1697383769.10084941510662320591
-set-cookie: _wixAB3=2411904#2; Max-Age=15724800; Expires=Sun, 14 Apr 2024 15:29:29 GMT; Path=/; Domain=.wix.com
-set-cookie: _wixRIDX=d5acfad9-4786-4c71-92bd-3cb6c8d8bee0; Max-Age=10; Expires=Sun, 15 Oct 2023 15:29:39 GMT; Path=/; Domain=.wix.com
+Age: 53666
+X-Wix-Request-Id: 1699056840.958504872752721008
+set-cookie: _wixRIDX=1a72f991-dc6a-48b9-8abe-11f6c3d62cfe; Max-Age=10; Expires=Sat, 04 Nov 2023 00:14:11 GMT; Path=/; Domain=.wix.com
 cache-control: public,max-age=0,must-revalidate
 Strict-Transport-Security: max-age=31536000
 Server: Pepyaka/1.19.10
 X-Content-Type-Options: nosniff
 Accept-Ranges: bytes
-Date: Sun, 15 Oct 2023 15:29:29 GMT
-X-Served-By: cache-iad-kiad7000162-IAD
+Date: Sat, 04 Nov 2023 00:14:01 GMT
+X-Served-By: cache-iad-kiad7000165-IAD
 X-Cache: MISS
 server-timing: cache;desc=hit, varnish;desc=hit_miss, dc;desc=fastly
-X-Seen-By: roqoaVaG/Y0K4FDXPQbYVA==,VtqAe8Wu9wvSsl49B/X4+ewfbs+7qUVAqsIx00yI78k=,m0j2EEknGIVUW/liY8BLLl77sBeKLtHVaXbFQUDNQYPu/2EjeiyKjB/JVOb8T5Ve,2d58ifebGbosy5xc+FRalv/ATmcz/PoFWQ1XhsLwXpmtlqk834OOXtIC1ujf93BrcnzZYDGDVbQpdoK95rDR4g==,2UNV7KOq4oGjA5+PKsX47PIHZG7rU4AwWR8fGXl1XwJYgeUJqUXtid+86vZww+nL
+X-Seen-By: roqoaVaG/Y0K4FDXPQbYVA==,pmHZlB45NPy7b1VBAukQrewfbs+7qUVAqsIx00yI78k=,m0j2EEknGIVUW/liY8BLLlPVSO1QPQ7KlY+JzrfjmCIMbwluI1yUDJty9McxOlfY,2d58ifebGbosy5xc+FRalvuFPg77L1MtI6AwmPh3jcocWNI6nTk+7q7mEi9URt1Rg4h8yLXlEcooNQvi2gJ65w==,2UNV7KOq4oGjA5+PKsX47HWShCS4DzdxDWECJm/3qSgfbJaKSXYQ/lskq2jK6SGP
 alt-svc: h3=":443";ma=86400,h3-29=":443";ma=86400,h3-27=":443";ma=86400
 
 SITE 99: zoom.us
 HTTP/1.1 301 Moved Permanently
-Date: Sun, 15 Oct 2023 15:29:29 GMT
+Date: Sat, 04 Nov 2023 00:14:01 GMT
 Content-Type: text/html
 Content-Length: 134
 Connection: keep-alive
 Location: https://zoom.us/
 CF-Cache-Status: DYNAMIC
-Set-Cookie: __cf_bm=SvyVAG5J2mVn8tJTdsTkWBz9skPJGH7HidBzo4Pbfw0-1697383769-0-AbKR0Ve32/XBKA3bbRkDvjLW7xr1t96gtv2RKs6b1b5KNwVzSGF5qIKDlHj6ZSCD3nYMPOMsYi4MyHC48wvbCgU=; path=/; expires=Sun, 15-Oct-23 15:59:29 GMT; domain=.zoom.us; HttpOnly; SameSite=None
-Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=0tkwDAVf87b8TFXKIzhv%2FFu1OsesmZOsF5bwfPQN3kqcWma7CtbIpoZ%2BVWfqvvxpEDyb25nIynW2P0S2bUOAtO3Ucw8J9QDVwKcgicd%2FGO2u%2FqY%2BjWttxwDzh6lF2T8IVxMTcTM%3D"}],"group":"cf-nel","max_age":604800}
+Set-Cookie: __cf_bm=dhy2tKGLDPP6MszOwqSYeo5mDBxB68guqvPr.R4KNGo-1699056841-0-AXUwgkpU/wCaroADrTTUZOCeGavOgWk3TRs7pFyw3PyDfSY1SBWqbsVkutRxzQPnLdYUuP6ZeNfsEsq5tmNs7fc=; path=/; expires=Sat, 04-Nov-23 00:44:01 GMT; domain=.zoom.us; HttpOnly; SameSite=None
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=KXJwY90XeEa2lvgy12wPULEYFjN9btWwleRNOuGkJ0euqCUVA0CqlkEFEfV9VsTJpAR07nyNEL3b1lj0pDFqtdRl9QKKU2ttd5KqAss2RBEV5z0ZN%2BabAG37p2dwzGwrkl2M8kg%3D"}],"group":"cf-nel","max_age":604800}
 NEL: {"success_fraction":0.01,"report_to":"cf-nel","max_age":604800}
 Server: cloudflare
-CF-RAY: 8169190d78a35830-IAD
+CF-RAY: 8208a788ac8620d0-IAD
 alt-svc: h3=":443"; ma=86400
 
