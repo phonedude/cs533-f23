@@ -18,4 +18,4 @@
       <img alt="Favicon-House" src="https://github.com/mallywal/cs533-f23/assets/144044644/d0761ad6-abb5-47be-bee1-37619101dce9" width="500">
 
 
-* The video submission is available at: [https://youtu.be/W0YevMWQI7M)https://youtu.be/W0YevMWQI7M]
+* The video submission is available at: [https://youtu.be/W0YevMWQI7M]
