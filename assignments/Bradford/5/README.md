@@ -40,4 +40,31 @@ The corrected JSON server code can be found in [serve_json_allow.json](5.1/serve
 <img src="img/CORSAllowedRequest.png" width=700>  
 
 ### Youtube demonstration  
-[Youtube link for 5.1 demonstration](https://youtu.be/HLRiCvhPSlQ)
+[Youtube link for 5.1 demonstration](https://youtu.be/HLRiCvhPSlQ)  
+
+## Task 5.2: Blocking and reading HTTP response headers from another origin  
+The second task for this assignment was related to demonstrating some custom HTTP response headers and how they can't be read by a cross origin server, and then demonstrating how they can be made to be read.  
+### Server setup  
+The servers and content used here were very similar to the first part of the assignment. My client files ([client.js](5.2/client.js) and [client.html](5.2/client.html)) were made to serve a page on port 8000. That page makes a request to the server on port 8080 ([server_block_headers.js](5.2/server_block_headers.js)), which is just a simple page that sets custom response headers. The client server waits a few seconds, then attempts to display the response headers from the request to port 8080.  
+### The headers being blocked  
+Below shows the server on port 8080, which sends the custom response headers.  
+
+<img src="img/Headers.png" width=700>  
+
+However, when I attempt to load the page on port 8000, which is supposed to request from port 8080 and insert the response headers to the DOM, doesn't show the response headers.  
+
+<img src="img/BlockedHeaders.png" width=700>  
+
+### Exposing the response headers  
+To rectify this, I created another server on port 8080 ([server_allow_headers.js](5.2/server_allow_headers.js)). I added an Access-Control-Expose-Headers response header to expose the headers by adding the code shown below.  
+```
+res.setHeader('Access-Control-Expose-Headers', 'X-CS533F23-MOVIE, X-CS533F23-BAND, X-CS533F23-SHOW');
+```  
+
+Now, when I load the client server, the page is able to load the response headers, as shown below.  
+
+<img src="img/AllowedHeaders.png" width=700>  
+
+### Youtube video demonstration  
+Here's the link to my video demonstration: https://youtu.be/8O_A3UuzVGo  
+
