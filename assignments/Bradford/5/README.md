@@ -68,3 +68,23 @@ Now, when I load the client server, the page is able to load the response header
 ### Youtube video demonstration  
 Here's the link to my video demonstration: https://youtu.be/8O_A3UuzVGo  
 
+## 5.3: Embedding from another site  
+In this part of the assignment, I needed to demonstrate the embedding of one of the framable sites from Assignment 4. I then needed to show how the server could block the embeddming.  
+### A site that allows iframe embedding  
+I chose the site 20minutos.es from Assignment 4. It is framable. The file [server_allow.js](5.3/server_allow.js) does not make any attempt to block the framing, so it goes through, as shown below.  
+
+<img src="img/AllowEmbedding.png" width=700>  
+
+### Blocking the embedding with a Content-Security-Policy header  
+In order to block the embedding, I created another server in [server_block.js](5.3/server_block.js) that was the same as before, only it set a Content-Security-Policy header. This was done with the Javascript code shown below.  
+```
+res.setHeader('Content-Security-Policy', "frame-src 'self'" )
+```  
+
+With this header set, the iframe embedding will now be blocked due to a violation of the Content-Security-Policy, as shown below.  
+
+<img src="img/BlockEmbedding.png" width=700>  
+
+### Youtube video demonstration  
+Here's the link to my video demonstration: https://youtu.be/FoPTTH8NygQ  
+
