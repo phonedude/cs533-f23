@@ -1,0 +1,145 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+
+<script>var name = "<%= name %>"; console.log(name);</script>
+
+    <meta charset="UTF-8">
+    
+    <title>Local HTML Embedding Remote Site</title>
+	
+<script nonce="<%= nonce %>">
+    var enable_embedding = <%= JSON.stringify(enable_embedding) %>;
+    var variableFromServer = <%= JSON.stringify(variableFromServer) %>;
+</script>
+
+<body>
+    <h1>Local HTML Embedding Remote Site</h1>
+	
+    <script type="text/javascript">
+        let url = "https://localhost:8000/";
+        fetch(url)
+            .then(response => response.json())
+            .then((result) => {
+                console.log('success:', result);
+                let div = document.getElementById('test');
+                div.innerHTML = `title: ${result.title}<br/>message: ${result.message}`;
+            })
+            .catch(error => console.log('error:', error));
+
+        fetch("/endpoint", {
+            method: "POST",
+            headers: {
+                "Content-Type": "application/json;charset=UTF-8"
+            },
+            body: JSON.stringify({
+                "data": "your_data_here"
+            })
+        })
+        .then(response => response.json())
+        .then(data => console.log('POST success:', data))
+        .catch(error => console.log('POST error:', error));
+    </script>
+	
+<script type="text/javascript">
+    let url = "https://localhost:8000/";
+    fetch(url)
+        .then(response => response.json())
+        .then((result) => {
+            console.log('success:', result);
+            let div = document.getElementById('test');
+            div.innerHTML = `title: ${result.title}<br/>message: ${result.message}`;
+        })
+        .catch(error => console.log('error:', error));
+
+    // Update the POST request code
+    fetch("/endpoint", {
+        method: "POST",
+        headers: {
+            "Content-Type": "application/json;charset=UTF-8"
+        },
+        body: JSON.stringify({
+            "data": "your_data_here"
+        })
+    })
+    .then(response => response.json())
+    .then(data => console.log('POST success:', data))
+    .catch(error => console.log('POST error:', error));
+</script>
+	
+	<script type="text/javascript">
+		var xhr = new XMLHttpRequest();
+		var url = "https://localhost:8000/";
+		xhr.open("GET", url, true);
+
+		xhr.onreadystatechange = function () {
+			if (xhr.readyState == 4 && xhr.status == 200) {
+				var result = JSON.parse(xhr.responseText);
+				console.log('success:', result);
+				var div = document.getElementById('test');
+				div.innerHTML = `title: ${result.title}<br/>message: ${result.message}`;
+			}
+		};
+
+		xhr.send();
+	</script>
+	
+<h1>My name is <%= name %></h1>
+<p>I am <%= age %> years old</p>
+	
+    <p>Variable from Server: <span id="serverVariable"></span></p>
+    <p>Enable Embedding: <span id="embeddingStatus"></span></p>
+
+    <script>
+        document.getElementById('serverVariable').innerText = variableFromServer;
+        document.getElementById('embeddingStatus').innerText = enable_embedding ? 'Enabled' : 'Disabled';
+    </script>
+	
+    <p><%= variableFromServer %></p>
+    
+    <p id="serverData"></p>
+
+    <script>
+	// <meta http-equiv="Content-Security-Policy" content="default-src 'self';">
+        fetch('/api/data')
+            .then(response => response.json())
+            .then(data => {
+                document.getElementById('serverData').innerText = data.variableFromServer;
+            });
+
+        var is_allowed_to_embed_the_remote_site = true;
+        if (is_allowed_to_embed_the_remote_site === true) {
+            var allowedDomains = ["https://abril.com.br", "https://adobe.com", "https://amazon.co.uk", "https://asahi.com", "https://biglobe.ne.jp", "https://bloomberg.com"];
+            var allowedDomainsString = allowedDomains.join(' ');
+            document.head.querySelector('meta[http-equiv="Content-Security-Policy"]').setAttribute('content', "frame-ancestors *");
+        } else {
+            var allowedDomainsString = "";
+            document.head.querySelector('meta[http-equiv="Content-Security-Policy"]').setAttribute('content', "frame-ancestors " + allowedDomainsString + ";");
+        }
+
+        console.log("is_allowed_to_embed_the_remote_site = " + is_allowed_to_embed_the_remote_site);
+        
+        document.body.innerHTML += "enable_embedding = " + enable_embedding;
+        document.body.innerHTML += "<p>My local HTML file is being allowed to embed the remote site</p>";
+		
+		</script>
+		<h1>Allowed Embedding</h1>
+		<br>
+		<iframe src='https://abril.com.br'></iframe>
+        <br>
+        <iframe src='https://adobe.com'></iframe>
+        <br>
+        <iframe src='https://amazon.co.uk'></iframe>
+        <br>
+        <iframe src='https://asahi.com'></iframe>
+        <br>
+        <iframe src='https://biglobe.ne.jp'></iframe>
+        <br>
+        <iframe src='https://bloomberg.com'></iframe>
+        <br>
+		<h1>Prohibited Embedding</h1>
+		<iframe src="https://abril.com.br" width="600" height="400"></iframe>
+		<iframe src="http://localhost:8080" width="600" height="400"></iframe>
+
+</body>
+</html>
