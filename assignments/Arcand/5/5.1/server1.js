@@ -1,3 +1,4 @@
+console.log("Begin");
 const http = require('http');
 const fs = require('fs');
 const path = require('path');
@@ -6,6 +7,12 @@ const htmlFilesDirectory = path.join(__dirname, '');
 
 const server = http.createServer((req, res) => {
 	console.log("Starting");
+	
+	
+    res.setHeader('Access-Control-Allow-Origin', 'http://localhost:8000');
+    res.setHeader('Access-Control-Allow-Methods', 'GET, POST, OPTIONS');
+    res.setHeader('Access-Control-Allow-Headers', 'Content-Type');
+	
 	
     let filePath = path.join(htmlFilesDirectory, req.url);
 

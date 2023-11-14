@@ -10,11 +10,21 @@ const server = http.createServer((req, res) => {
 
     if (req.url === '/') {
         filePath = path.join(htmlFilesDirectory, 'index.html');
-		console.log(filePath);
+        console.log(filePath);
     }
 	
 	const three_custom_HTTP_response_headers_are_blocked = false;
-	res.setHeader('X-Headers-Blocked', 'false');
+	
+    if (three_custom_HTTP_response_headers_are_blocked === false) {
+        res.setHeader('X-Headers-Blocked', 'false');
+        res.setHeader('Access-Control-Allow-Origin', '*');
+        res.setHeader('Access-Control-Allow-Methods', 'GET, POST, OPTIONS');
+        res.setHeader('Access-Control-Allow-Headers', 'Origin, Content-Type, Accept, X-Requested-With');
+        // res.setHeader('Access-Control-Expose-Headers', 'X-CS533f23-TVSeries, X-CS533f23-Musician, X-CS533f23-BookSeries');
+		res.setHeader('Access-Control-Expose-Headers', 'X-Headers-Blocked, X-CS533f23-TVSeries, X-CS533f23-Musician, X-CS533f23-BookSeries');
+    } else {
+        res.setHeader('X-Headers-Blocked', 'true');
+    }
 	
     if (three_custom_HTTP_response_headers_are_blocked === true) {
         console.log("three_custom_HTTP_response_headers_are_blocked");

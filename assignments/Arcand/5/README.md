@@ -1,11 +1,19 @@
-Assignment 5 for CS 433/533 Web Security, Fall 2023, is focused on the practical application of web security concepts in which I set up two servers on different ports in order to explore and demonstrate issues related to Same-origin policy, Cross-Origin Resource Sharing (CORS), and Content Security Policy (CSP).
+## Assignment 5
+## CS 433/533 Web Security
+
+Assignment 5 is focused on demonstrating the practical application of web security concepts in which I set up two servers on different ports in order to explore and demonstrate issues related to Same-origin policy, Cross-Origin Resource Sharing (CORS), and Content Security Policy (CSP).
 
 The files are saved in the Arcand\5 folder.
+My report for each section is as follows:
 
-CORS: Blocking and reading responses from another origin (5 points)
-node.js, HTML, and json files in the directory 5.1 that demonstrate Javascript running in one HTML file requesting a .json response from another origin:
+## 5.1: CORS: Blocking and reading responses from another origin  
+
+For this part of the assignment I created two servers running on different ports. 
+
+node.js, HTML, and json files in the directory 5.1 that demonstrate Javascript running in one HTML file requesting a .json response from another origin can be seen below:
 
 Images:
+
 <img src="images/1.png" width="700">
 
 Viewing the files:
@@ -30,9 +38,14 @@ Showing what is necessary to allow the response:
 
 <img src="images/9.png" width="700">
 
+<img src="images/24.png" width="700">
+
+<img src="images/25.png" width="700">
+
 "CORS: Blocking and reading responses from another origin" Youtube video:
 https://youtu.be/UjRl3JdYpwk?si=OWQkkLybzeA8Z6hJ
 
+## 5.2: Blocking and reading HTTP response headers from another origin
 Images:
 <img src="images/10.png" width="700">
 
@@ -54,10 +67,20 @@ Showing the behavior of the project (Demonstrating how three custom HTTP respons
 
 <img src="images/17.png" width="700">
 
+<img src="images/26.png" width="700">
+
+<img src="images/27.png" width="700">
+
+<img src="images/28.png" width="700">
+
+<img src="images/29.png" width="700">
+
 "CORS: Blocking and reading HTTP response headers from another origin" Youtube video:
 https://www.youtube.com/watch?v=fKMtY65hncM
 
-Content-Security-Policy: embedding from another site
+## 5.3: Content-Security-Policy: embedding from another site
+
+For this section, I needed to demonstrate how to embed one of the framable sites from assignment 4 and how the server could prevent the embedding.
 
 Images:
 

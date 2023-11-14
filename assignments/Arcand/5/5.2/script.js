@@ -1,6 +1,9 @@
 function requestData() {
-	fetch('http://localhost:8080/data.json')
-		.then(response => {
+    fetch('http://localhost:8081/data.json', {
+        method: 'GET',
+        mode: 'cors',
+    })
+    .then(response => {
 			console.log('X-Headers-Blocked:', response.headers.get('X-Headers-Blocked'));
 			if (response.headers.get('X-Headers-Blocked') === 'false') {
 				const tvSeriesHeader = response.headers.get('X-CS533f23-TVSeries');

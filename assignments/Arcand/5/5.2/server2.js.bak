@@ -13,7 +13,7 @@ const server = http.createServer((req, res) => {
         console.log(filePath);
     }
 	
-	const three_custom_HTTP_response_headers_are_blocked = false;
+	const three_custom_HTTP_response_headers_are_blocked = true;
 	
     if (three_custom_HTTP_response_headers_are_blocked === false) {
         res.setHeader('X-Headers-Blocked', 'false');

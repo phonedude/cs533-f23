@@ -9,9 +9,7 @@ const server = http.createServer((req, res) => {
 	console.log("Starting");
 	
 	
-    res.setHeader('Access-Control-Allow-Origin', 'http://localhost:8080');
-    res.setHeader('Access-Control-Allow-Methods', 'GET, POST, OPTIONS');
-    res.setHeader('Access-Control-Allow-Headers', 'Content-Type');
+	res.setHeader('Access-Control-Allow-Origin', 'http://localhost:8000');
 	
 	
     let filePath = path.join(htmlFilesDirectory, req.url);
@@ -31,6 +29,6 @@ const server = http.createServer((req, res) => {
     });
 });
 
-server.listen(8081, () => {
-    console.log('Server 2 is running on http://localhost:8081/');
+server.listen(8080, () => {
+    console.log('Server 1 is running on http://localhost:8080/');
 });
