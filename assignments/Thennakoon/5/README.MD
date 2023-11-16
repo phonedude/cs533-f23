@@ -54,7 +54,7 @@ res.set('X-CS533f23-musician', 'Taylor Swift')
 
  <kbd><img src="screenshots/headers_deny.png" width="700" ></kbd>
 
-3. Demonstrating how html file fetch the response headers from a remote origin when the 'Access-Control-Expose-Headers' header is set. 
+3. Demonstrating how, html file fetch the response headers from a remote origin when the 'Access-Control-Expose-Headers' header is set. 
 
   ```
   app.get("/", function (req, res) {
