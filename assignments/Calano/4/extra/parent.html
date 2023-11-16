@@ -1,0 +1,17 @@
+<br />
+<input id="urlInput" value="" />
+<button id="loadBtn">Load the Frame!</button>
+<br />
+<br />
+<iframe id="parent-frame" style="width: 1000px; height: 600px" src=''></iframe>
+
+<script>    
+    const inputEl = document.getElementById('urlInput')
+    const loadBtn = document.getElementById('loadBtn')
+    const iframe = document.getElementById('parent-frame')
+    
+    loadBtn.onclick = () => {
+        let targetUrl = inputEl.value
+        iframe.src = `http://localhost:9666/?url=${targetUrl}`
+    }
+</script>
