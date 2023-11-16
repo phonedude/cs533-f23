@@ -50,7 +50,7 @@ res.set('X-CS533f23-tvshow', 'Suits')
 res.set('X-CS533f23-musician', 'Taylor Swift') 
 ```
 
-2. Below sreenshot demonstrates how the response headers whih are set on a remote origin are denied by the the html file hosted in localhost:4000.
+2. Below sreenshot demonstrates how the response headers which are set on a remote origin are denied by the the html file hosted in localhost:4000.
 
  <kbd><img src="screenshots/headers_deny.png" width="700" ></kbd>
 
