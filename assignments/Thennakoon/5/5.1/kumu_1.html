@@ -1,0 +1,16 @@
+<html>
+<title>
+Kumushini's Page
+</title>
+
+
+<h1>Welcome to my page! - Requesting JSON</h1>
+
+<br><br>
+<h3>This page is created to demonstrate on how to request a JSON at a cross origin domain.</h3>
+
+<script>
+fetch('http://localhost:4001/favs')
+  .then(response => response.json())
+  .then(data => console.log(data));
+</script>
