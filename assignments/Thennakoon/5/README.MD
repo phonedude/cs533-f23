@@ -10,7 +10,7 @@
 * [server_deny.js](5.1/server_deny.js) - server preventing access.
 * [server_allow.js](5.1/server_allow.js) - server allowing access.
 
-### Youtube video for framable is available at: https://youtu.be/Fe6UCZWEKRI
+### Youtube video is available at: https://youtu.be/Fe6UCZWEKRI
 
 ### Summary
 
@@ -38,7 +38,7 @@ app.use(cors())
 * [server_deny.js](5.2/server_deny.js) - server without Access-Control-Expose-Headers.
 * [server_allow.js](5.2server_allow.js) - server with Access-Control-Expose-Headers.
 
-### Youtube video for framable is available at: https://youtu.be/wQn2ufQal2A
+### Youtube video is available at: https://youtu.be/wQn2ufQal2A
 
 ### Summary
 
@@ -79,7 +79,7 @@ res.set('X-CS533f23-musician', 'Taylor Swift')
 * [server_deny.js](5.3/server_deny.js) - server with Content-Security-Policy:"default-src 'self'; script-src 'self'".
 * [server_allow.js](5.3server_allow.js) - server with Content-Security-Policy:"default-src 'self' https://www.adobe.com/; script-src 'self' 'unsafe-inline'"
 
-### Youtube video for framable is available at: https://youtu.be/qg1ZtjqzGGo
+### Youtube video is available at: https://youtu.be/qg1ZtjqzGGo
 
 ### Summary
 
@@ -111,7 +111,7 @@ res.set('X-CS533f23-musician', 'Taylor Swift')
 * [ass5_3_allow.html](ass5_3_allow.html) -  html file to demonstrate -> Content-Security-Policy: embedding from another site.
 * [index.html](5.4/index.html) - html file hosted on github.
 
-### Youtube video for framable is available at: https://youtu.be/5MuF66G28LM
+### Youtube video is available at: https://youtu.be/5MuF66G28LM
 
 ### Summary
 
