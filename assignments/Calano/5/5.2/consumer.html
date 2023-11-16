@@ -14,8 +14,6 @@
     actionBtn.onclick = () => {
         fetch('http://localhost:9001/users/david/favorites')
             .then(res => {
-                console.log(res)
-                console.log(res.headers)
                 let bandHeader = res.headers.get('X-CS533f23-band')
                 let movieHeader = res.headers.get('X-CS533f23-movie')
                 let tvHeader = res.headers.get('X-CS533f23-tv')

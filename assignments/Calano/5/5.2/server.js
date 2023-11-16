@@ -14,6 +14,7 @@ producer.get('/users/david/favorites', (req, res) => {
   res.setHeader('X-CS533f23-band', 'Zager & Evans')
   res.setHeader('X-CS533f23-movie', 'The Matrix')
   res.setHeader('X-CS533f23-tv', 'Halt and Catch Fire')
+
   res.setHeader('Access-Control-Expose-Headers', 'X-CS533f23-band, X-CS533f23-movie, X-CS533f23-tv')
 
   createReadStream('data.json', 'utf8').pipe(res)
