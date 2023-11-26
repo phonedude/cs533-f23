@@ -52,7 +52,7 @@ jsonData.visitors.push({
 
  3. Log visitor details to visitor_log.json.
 
-The server follows the following steps when logging visitor details:
+The server follows the steps stated below when logging visitor details:
 
   i.   Access the log file and checks whether the fingerprint exists. <br>
   ii.  If fingerprint is found update the visit count and last visit date and update log file with new data. <br>
