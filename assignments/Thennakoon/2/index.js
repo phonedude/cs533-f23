@@ -24,6 +24,6 @@ app.get("/johnwick", function (req, res) {
 });
 
 
-app.listen(4000, function () {
+app.listen(3000, function () {
     console.log("Server is running on localhost4000");
 });
