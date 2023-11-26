@@ -120,7 +120,7 @@ The server follows the steps stated below when logging visitor details:
 
 4. Screenshot of demonstration with mobile phone.
 
- <kbd><img src="screenshots/mobile_phone.jpg" width="300" height="400" ></kbd>
+ <kbd><img src="screenshots/mobile_phone.jpg" width="300" height="550" ></kbd>
 
 
 
