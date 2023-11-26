@@ -54,8 +54,8 @@ jsonData.visitors.push({
 
 The server follows the following steps when logging visitor details:
 
-  i.   Access the log file and checks whether the fingerprint exists.
-  ii.  If fingerprint is found update the visit count and last visit date and update log file with new data.
+  i.   Access the log file and checks whether the fingerprint exists. <br>
+  ii.  If fingerprint is found update the visit count and last visit date and update log file with new data. <br>
   iii. If the fingerprint is new, add new data to the file.
 
 
