@@ -14,7 +14,7 @@
 
  1. Creating fingerprints.
 
-Following code collects three different HTTP request headers using [re.get](https://expressjs.com/en/api.html#req.get) and concatenate them into a single string and save as a hash function using [md5](https://www.npmjs.com/package/md5).
+Following code collects three different HTTP request headers using [req.get](https://expressjs.com/en/api.html#req.get) and concatenate them into a single string and save as a hash function using [md5](https://www.npmjs.com/package/md5).
 
 ```
 //collect request headers
@@ -31,13 +31,7 @@ Following code collects three different HTTP request headers using [re.get](http
 
 ```
 
- 2. Log visitor details to visitor_log.json.
-
-The server follows the following steps when logging Visitor details:\
-
-1. Access the log file and checks whether the fingerprint exists.\
-2. If fingerprint is found update the visit count and last visit date and update log file with new data.\
-3. If the fingerprint is new, add new data to the file.\
+2. Creating an array item for one visitor.
 
 ```
 jsonData.visitors.push({
@@ -56,7 +50,16 @@ jsonData.visitors.push({
 
 ```
 
-3. Screenshots of demonstrations with five different browsers.
+ 3. Log visitor details to visitor_log.json.
+
+The server follows the following steps when logging visitor details:
+
+	i.   Access the log file and checks whether the fingerprint exists.
+	ii.  If fingerprint is found update the visit count and last visit date and update log file with new data.
+	iii. If the fingerprint is new, add new data to the file.
+
+
+4. Screenshots of demonstrations with five different browsers.
 
 * Google Chrome (device - Laptop)
 
@@ -65,12 +68,12 @@ jsonData.visitors.push({
 
 * Brave (device - Laptop)
 
- <kbd><img src="screenshots/edge.png" width="700" ></kbd>
+ <kbd><img src="screenshots/brave.png" width="700" ></kbd>
 
 
 * Microsoft Edge (device - Laptop)
 
- <kbd><img src="screenshots/brave.png" width="700" ></kbd>
+ <kbd><img src="screenshots/edge.png" width="700" ></kbd>
 
 
 * Firefox (device - Laptop)
@@ -83,9 +86,9 @@ jsonData.visitors.push({
  <kbd><img src="screenshots/curl.png" width="700" ></kbd>
 
 
-4. Screenshot of demonstration with five mobile phone.
+4. Screenshot of demonstration with mobile phone.
 
- <kbd><img src="screenshots/mobile.png" width="700" ></kbd>
+ <kbd><img src="screenshots/mobile_phone.png" width="700" ></kbd>
 
 
 
