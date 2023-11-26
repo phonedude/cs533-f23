@@ -58,8 +58,40 @@ The server follows the steps stated below when logging visitor details:
   ii.  If fingerprint is found update the visit count and last visit date and update log file with new data. <br>
   iii. If the fingerprint is new, add new data to the file.
 
+4. Example of log entries.
 
-4. Screenshots of demonstrations with five different browsers.
+```
+{
+    "visitors": [
+        {
+            "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7",
+            "Accept_Encoding": "gzip, deflate, br",
+            "Accept_Language": "en-US,en;q=0.9",
+            "id": "e622693e3087ae76c672888586ab0bbd",
+            "last_visit_date": [
+                "2023-11-26T07:26:43.189Z",
+                "2023-11-26T07:26:58.592Z"
+            ],
+            "User_Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36",
+            "visit_count": 2
+        },
+        {
+            "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7",
+            "Accept_Encoding": "gzip, deflate, br",
+            "Accept_Language": "en-US,en;q=0.9",
+            "id": "5a5bae9daad38fafd845b70711346844",
+            "last_visit_date": [
+                "2023-11-26T07:27:15.450Z"
+            ],
+            "User_Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36 Edg/119.0.0.0",
+            "visit_count": 1
+        }
+]
+}
+
+```
+
+5. Screenshots of demonstrations with five different browsers.
 
 * Google Chrome (device - Laptop)
 
@@ -88,7 +120,7 @@ The server follows the steps stated below when logging visitor details:
 
 4. Screenshot of demonstration with mobile phone.
 
- <kbd><img src="screenshots/mobile_phone.png" width="700" ></kbd>
+ <kbd><img src="screenshots/mobile_phone.pg" width="700" ></kbd>
 
 
 
