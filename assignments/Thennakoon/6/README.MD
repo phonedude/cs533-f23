@@ -8,7 +8,7 @@
 * [server.js](server.js) - server used to host kumu_1.html and create fingerprints.
 * [visitors_log.json](visitors_log.json) - json file used to log visitor details.
 
-### Youtube video is available at: 
+### Youtube video is available at: https://youtu.be/sGveWuaThTk  
 
 ### Summary
 
@@ -54,9 +54,9 @@ jsonData.visitors.push({
 
 The server follows the following steps when logging visitor details:
 
-	i.   Access the log file and checks whether the fingerprint exists.
-	ii.  If fingerprint is found update the visit count and last visit date and update log file with new data.
-	iii. If the fingerprint is new, add new data to the file.
+  i.   Access the log file and checks whether the fingerprint exists.
+  ii.  If fingerprint is found update the visit count and last visit date and update log file with new data.
+  iii. If the fingerprint is new, add new data to the file.
 
 
 4. Screenshots of demonstrations with five different browsers.
