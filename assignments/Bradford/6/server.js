@@ -37,5 +37,11 @@ app.get('/', (req, res) => {
     createReadStream('index.html').pipe(res);
 });
 
-app.listen(8080);
-console.log("I'm listening");
+app.listen(8080,'your ip address here', (error) => {
+    if(error) {
+        console.log(error);
+    }
+    else {
+        console.log("I'm listening");
+    }
+});
