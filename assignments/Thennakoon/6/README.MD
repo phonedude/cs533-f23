@@ -4,11 +4,15 @@
 
 ### List of files in 6
 
-* [kumu_1.html](kumu_1.html) - html file served to different clients.
+* [kumu_1.html](kumu_1.html) - html file served to curl.
+* [johnwcik.html](johnwcik.html) - html file served to Microsoft Edge.
+* [taylor.html](taylor.html) - html file served to Opera.
+* [suits.html](suits.html) - html file served to FireFox.
+* [myfavs.html](myfavs.html) - html file served to Google Chrome.
 * [server.js](server.js) - server used to host kumu_1.html and create fingerprints.
 * [visitors_log.json](visitors_log.json) - json file used to log visitor details.
 
-### Youtube video is available at: https://youtu.be/sGveWuaThTk  
+### Youtube video is available at: https://youtu.be/9B1BkrzSg5U  
 
 ### Summary
 
