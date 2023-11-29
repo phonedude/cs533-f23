@@ -31,7 +31,26 @@ Following code collects three different HTTP request headers using [req.get](htt
 
 ```
 
-2. Creating an array item for one visitor.
+2. Serving 5 different html files to 5 browsers.
+
+```
+//serve file
+if (header1.includes('Edg')){
+	res.sendFile(__dirname + "/johnwick.html");
+}else if (header1.includes('Firefox')){
+	res.sendFile(__dirname + "/suits.html");
+} else if(header1.includes('curl')){
+	res.sendFile(__dirname + "/kumu_1.html");
+}else if (header1.includes('OPR')){
+	res.sendFile(__dirname + "/taylor.html");
+}else {
+	res.sendFile(__dirname + "/myfavs.html");
+}
+
+```
+
+
+3. Creating an array item for one visitor.
 
 ```
 jsonData.visitors.push({
@@ -50,7 +69,7 @@ jsonData.visitors.push({
 
 ```
 
- 3. Log visitor details to visitor_log.json.
+ 4. Log visitor details to visitor_log.json.
 
 The server follows the steps stated below when logging visitor details:
 
@@ -58,7 +77,7 @@ The server follows the steps stated below when logging visitor details:
   ii.  If fingerprint is found update the visit count and last visit date and update log file with new data. <br>
   iii. If the fingerprint is new, add new data to the file.
 
-4. Example of log entries.
+5. Example of log entries.
 
 ```
 {
@@ -91,36 +110,36 @@ The server follows the steps stated below when logging visitor details:
 
 ```
 
-5. Screenshots of demonstrations with five different browsers.
+6. Screenshots of demonstrations with five different browsers.
 
-* Google Chrome (device - Laptop)
+* Google Chrome (device - Laptop, served html file -  myfavs.html)  
 
  <kbd><img src="screenshots/google_chrome.png" width="700" ></kbd>
 
 
-* Brave (device - Laptop)
+* Opera (device - Laptop, served html file - taylor.html )
 
- <kbd><img src="screenshots/brave.png" width="700" ></kbd>
+ <kbd><img src="screenshots/opera.png" width="700" ></kbd>
 
 
-* Microsoft Edge (device - Laptop)
+* Microsoft Edge (device - Laptop, served html file - johnwick.html )
 
  <kbd><img src="screenshots/edge.png" width="700" ></kbd>
 
 
-* Firefox (device - Laptop)
+* Firefox (device - Laptop, served html file - suits.html)
 
  <kbd><img src="screenshots/firefox.png" width="700" ></kbd>
 
 
-* curl (device - Laptop)
+* curl (device - Laptop, served html file - kumu1.html)
 
  <kbd><img src="screenshots/curl.png" width="700" ></kbd>
 
 
-4. Screenshot of demonstration with mobile phone.
+7. Screenshot of demonstration with mobile phone. [Browser - Google Chrome] 
 
- <kbd><img src="screenshots/mobile_phone.jpg" width="300" height="550" ></kbd>
+ <kbd><img src="screenshots/mobile.jpg" width="300" height="550" ></kbd>
 
 
 
