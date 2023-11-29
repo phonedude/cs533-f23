@@ -1,0 +1,18 @@
+<br />
+<button id="loadBtn">Get user data!</button>
+<br />
+<pre id="dataView"></pre>
+
+<script>    
+    const actionBtn = document.getElementById('loadBtn')
+    const dataEl = document.getElementById('dataView')
+
+    actionBtn.onclick = () => {
+        fetch('http://localhost:9001/users/david/favorites')
+            .then(res => res.text())
+            .then(data => {
+                dataEl.textContent = JSON.stringify(JSON.parse(data), undefined, 2)
+            })
+            .catch(err => dataEl.textContent = 'Unable to retrieve JSON data!!!')
+    }
+</script>
