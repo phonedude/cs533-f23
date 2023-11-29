@@ -119,7 +119,7 @@ his course materials (although any errors are mine).
     * [The Annoying Site](https://github.com/feross/theannoyingsite.com)
     * [Phishing with Unicode Domains](https://www.xudongz.com/blog/2017/idn-phishing/)
     * [The inception bar: a new phishing method](https://jameshfisher.com/2019/04/27/the-inception-bar-a-new-phishing-method/)
-    * [Class slides](https://docs.google.com/presentation/d/1JUx36cSvJ33m5vgtDkkveh58JoRDTT9vZnTLumB9sY8/edit)
+    * [Class slides](https://docs.google.com/presentation/d/1tFVuMX7r1FDp4ogX1y5hQilBKxfn40hIhB4dQW4Tizc/edit)
 
 * Week 14 - December 6 - Rehosting, Web Archiving
     * [Rewriting History: Changing the Archived Web from the Present](https://rewritinghistory.cs.washington.edu/) ([slides](slides/Lerner-ACM-CCS-2017.pdf), [video](https://www.youtube.com/watch?v=Pn65m3l0Zw8), [DSHR blog post](https://blog.dshr.org/2017/09/attacking-users-of-wayback-machine.html))
