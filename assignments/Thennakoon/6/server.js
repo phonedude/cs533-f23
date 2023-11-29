@@ -24,7 +24,20 @@ app.get("/", function (req, res) {
 		var fingerprint_id = md5(fingerprint);
 	
 	//serve file
-    res.sendFile(__dirname + "/kumu_1.html");
+	//serve file
+	if (header1.includes('Edg')){
+		res.sendFile(__dirname + "/johnwick.html");
+	}else if (header1.includes('Firefox')){
+		res.sendFile(__dirname + "/suits.html");
+	} else if(header1.includes('curl')){
+		res.sendFile(__dirname + "/kumu_1.html");
+	}else if (header1.includes('OPR')){
+		res.sendFile(__dirname + "/taylor.html");
+	}else {
+		res.sendFile(__dirname + "/myfavs.html");
+	}
+    
+	//res.sendFile(__dirname + "/kumu_1.html");
 	
 	//read json file
 	const data = fs.readFileSync('visitors_log.json');
@@ -67,9 +80,7 @@ app.get("/", function (req, res) {
 			
 			fs.writeFileSync('visitors_log.json', JSON.stringify(jsonData) + "\n", 'utf-8', (err) => {
 			if (err) throw err;
-			
-			});
-			
+			});	
 		}
 	}else {
 			jsonData.visitors.push({
@@ -85,7 +96,6 @@ app.get("/", function (req, res) {
 			fs.writeFileSync('visitors_log.json', JSON.stringify(jsonData) + "\n", 'utf-8', (err) => {
 			if (err) throw err;
 			console.log('Data added to file');
-			
 			});
 		}
 			
