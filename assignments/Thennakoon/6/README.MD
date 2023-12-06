@@ -5,7 +5,7 @@
 ### List of files in 6
 
 * [kumu_1.html](kumu_1.html) - html file served to curl.
-* [johnwcik.html](johnwcik.html) - html file served to Microsoft Edge.
+* [johnwick.html](johnwick.html) - html file served to Microsoft Edge.
 * [taylor.html](taylor.html) - html file served to Opera.
 * [suits.html](suits.html) - html file served to FireFox.
 * [myfavs.html](myfavs.html) - html file served to Google Chrome.
