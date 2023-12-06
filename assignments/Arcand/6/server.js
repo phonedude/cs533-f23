@@ -23,12 +23,14 @@ function generateFingerprint(req) {
     ];
 
     const fingerprintAndAdditionalInfo = headersToInclude.reduce((acc, header) => {
-        const value = req.get(header) || 'Not provided';
-        acc.fingerprintData += value;
-        acc.additionalInfo[header] = value;
+        if (header !== 'if-modified-since' && header !== 'if-none-match') {
+			const value = req.get(header) || 'Not provided';
+			acc.fingerprintData += value;
+			acc.additionalInfo[header] = value;
+		}
         return acc;
     }, { fingerprintData: '', additionalInfo: {} });
-
+	
     const combinedFingerprint = fingerprintAndAdditionalInfo.fingerprintData + Object.values(fingerprintAndAdditionalInfo.additionalInfo).join('');
 
     return md5(combinedFingerprint);

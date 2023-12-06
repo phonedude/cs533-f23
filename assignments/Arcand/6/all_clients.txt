@@ -1,77 +1,5 @@
-[Sun Nov 26 2023 15:08:16 GMT-0500 (Eastern Standard Time)] {
-  "date": "2023-11-26T20:08:16.715Z",
-  "fingerprint": "a9562162e58e4c352c6bfc502bfe6ff4",
-  "ip": "192.168.4.29",
-  "headers": {
-    "host": "192.168.4.29:3000",
-    "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:120.0) Gecko/20100101 Firefox/120.0",
-    "accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8",
-    "accept-language": "en-US,en;q=0.5",
-    "accept-encoding": "gzip, deflate",
-    "connection": "keep-alive",
-    "upgrade-insecure-requests": "1",
-    "if-modified-since": "Tue, 21 Nov 2023 21:23:27 GMT",
-    "if-none-match": "W/\"12e-18bf3c4417a\""
-  },
-  "browserUsed": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:120.0) Gecko/20100101 Firefox/120.0"
-}
-[Sun Nov 26 2023 15:08:18 GMT-0500 (Eastern Standard Time)] {
-  "date": "2023-11-26T20:08:18.897Z",
-  "fingerprint": "a9562162e58e4c352c6bfc502bfe6ff4",
-  "ip": "192.168.4.29",
-  "headers": {
-    "host": "192.168.4.29:3000",
-    "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:120.0) Gecko/20100101 Firefox/120.0",
-    "accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8",
-    "accept-language": "en-US,en;q=0.5",
-    "accept-encoding": "gzip, deflate",
-    "connection": "keep-alive",
-    "upgrade-insecure-requests": "1",
-    "if-modified-since": "Tue, 21 Nov 2023 21:23:27 GMT",
-    "if-none-match": "W/\"12e-18bf3c4417a\""
-  },
-  "browserUsed": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:120.0) Gecko/20100101 Firefox/120.0"
-}
-[Sun Nov 26 2023 15:08:28 GMT-0500 (Eastern Standard Time)] {
-  "date": "2023-11-26T20:08:28.607Z",
-  "fingerprint": "0e455e7a60ab9a29a6f53b963870cdbe",
-  "ip": "192.168.4.29",
-  "headers": {
-    "host": "192.168.4.29:3000",
-    "connection": "keep-alive",
-    "cache-control": "max-age=0",
-    "dnt": "1",
-    "upgrade-insecure-requests": "1",
-    "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36 Edg/119.0.0.0",
-    "accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7",
-    "accept-encoding": "gzip, deflate",
-    "accept-language": "en-US,en;q=0.9",
-    "if-none-match": "W/\"12e-18bf3c4417a\"",
-    "if-modified-since": "Tue, 21 Nov 2023 21:23:27 GMT"
-  },
-  "browserUsed": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36 Edg/119.0.0.0"
-}
-[Sun Nov 26 2023 15:08:29 GMT-0500 (Eastern Standard Time)] {
-  "date": "2023-11-26T20:08:29.615Z",
-  "fingerprint": "0e455e7a60ab9a29a6f53b963870cdbe",
-  "ip": "192.168.4.29",
-  "headers": {
-    "host": "192.168.4.29:3000",
-    "connection": "keep-alive",
-    "cache-control": "max-age=0",
-    "dnt": "1",
-    "upgrade-insecure-requests": "1",
-    "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36 Edg/119.0.0.0",
-    "accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7",
-    "accept-encoding": "gzip, deflate",
-    "accept-language": "en-US,en;q=0.9",
-    "if-none-match": "W/\"12e-18bf3c4417a\"",
-    "if-modified-since": "Tue, 21 Nov 2023 21:23:27 GMT"
-  },
-  "browserUsed": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36 Edg/119.0.0.0"
-}
-[Sun Nov 26 2023 15:08:36 GMT-0500 (Eastern Standard Time)] {
-  "date": "2023-11-26T20:08:36.621Z",
+[Wed Dec 06 2023 13:42:24 GMT-0500 (Eastern Standard Time)] {
+  "date": "2023-12-06T18:42:24.523Z",
   "fingerprint": "34970e8eae4412adb23b734bdf6603f3",
   "ip": "192.168.4.29",
   "headers": {
@@ -89,8 +17,59 @@
   },
   "browserUsed": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36"
 }
-[Sun Nov 26 2023 15:08:37 GMT-0500 (Eastern Standard Time)] {
-  "date": "2023-11-26T20:08:37.974Z",
+[Wed Dec 06 2023 13:42:24 GMT-0500 (Eastern Standard Time)] {
+  "date": "2023-12-06T18:42:24.543Z",
+  "fingerprint": "34970e8eae4412adb23b734bdf6603f3",
+  "ip": "192.168.4.29",
+  "headers": {
+    "host": "192.168.4.29:3000",
+    "connection": "keep-alive",
+    "cache-control": "max-age=0",
+    "dnt": "1",
+    "upgrade-insecure-requests": "1",
+    "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36",
+    "accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7",
+    "accept-encoding": "gzip, deflate",
+    "accept-language": "en-US,en;q=0.9"
+  },
+  "browserUsed": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36"
+}
+[Wed Dec 06 2023 13:42:24 GMT-0500 (Eastern Standard Time)] {
+  "date": "2023-12-06T18:42:24.556Z",
+  "fingerprint": "34970e8eae4412adb23b734bdf6603f3",
+  "ip": "192.168.4.29",
+  "headers": {
+    "host": "192.168.4.29:3000",
+    "connection": "keep-alive",
+    "cache-control": "max-age=0",
+    "dnt": "1",
+    "upgrade-insecure-requests": "1",
+    "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36",
+    "accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7",
+    "accept-encoding": "gzip, deflate",
+    "accept-language": "en-US,en;q=0.9"
+  },
+  "browserUsed": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36"
+}
+[Wed Dec 06 2023 13:42:24 GMT-0500 (Eastern Standard Time)] {
+  "date": "2023-12-06T18:42:24.563Z",
+  "fingerprint": "34970e8eae4412adb23b734bdf6603f3",
+  "ip": "192.168.4.29",
+  "headers": {
+    "host": "192.168.4.29:3000",
+    "connection": "keep-alive",
+    "cache-control": "max-age=0",
+    "dnt": "1",
+    "upgrade-insecure-requests": "1",
+    "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36",
+    "accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7",
+    "accept-encoding": "gzip, deflate",
+    "accept-language": "en-US,en;q=0.9"
+  },
+  "browserUsed": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36"
+}
+[Wed Dec 06 2023 13:42:33 GMT-0500 (Eastern Standard Time)] {
+  "date": "2023-12-06T18:42:33.127Z",
   "fingerprint": "34970e8eae4412adb23b734bdf6603f3",
   "ip": "192.168.4.29",
   "headers": {
@@ -108,63 +87,22 @@
   },
   "browserUsed": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36"
 }
-[Sun Nov 26 2023 15:08:46 GMT-0500 (Eastern Standard Time)] {
-  "date": "2023-11-26T20:08:46.796Z",
-  "fingerprint": "ea088fbe1d45fa0d98d0698536839b3c",
-  "ip": "192.168.4.22",
+[Wed Dec 06 2023 13:42:34 GMT-0500 (Eastern Standard Time)] {
+  "date": "2023-12-06T18:42:34.003Z",
+  "fingerprint": "34970e8eae4412adb23b734bdf6603f3",
+  "ip": "192.168.4.29",
   "headers": {
     "host": "192.168.4.29:3000",
+    "connection": "keep-alive",
+    "cache-control": "max-age=0",
+    "dnt": "1",
     "upgrade-insecure-requests": "1",
-    "accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
-    "user-agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_1_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.1.1 Mobile/15E148 Safari/604.1",
-    "accept-language": "en-US,en;q=0.9",
+    "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36",
+    "accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7",
     "accept-encoding": "gzip, deflate",
-    "connection": "keep-alive"
-  },
-  "browserUsed": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_1_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.1.1 Mobile/15E148 Safari/604.1"
-}
-[Sun Nov 26 2023 15:08:50 GMT-0500 (Eastern Standard Time)] {
-  "date": "2023-11-26T20:08:50.131Z",
-  "fingerprint": "ea088fbe1d45fa0d98d0698536839b3c",
-  "ip": "192.168.4.22",
-  "headers": {
-    "host": "192.168.4.29:3000",
-    "upgrade-insecure-requests": "1",
-    "accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
-    "user-agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_1_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.1.1 Mobile/15E148 Safari/604.1",
     "accept-language": "en-US,en;q=0.9",
-    "accept-encoding": "gzip, deflate",
-    "connection": "keep-alive"
+    "if-none-match": "W/\"12e-18bf3c4417a\"",
+    "if-modified-since": "Tue, 21 Nov 2023 21:23:27 GMT"
   },
-  "browserUsed": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_1_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.1.1 Mobile/15E148 Safari/604.1"
-}
-[Sun Nov 26 2023 15:08:56 GMT-0500 (Eastern Standard Time)] {
-  "date": "2023-11-26T20:08:56.933Z",
-  "fingerprint": "edc75ffea2da70eede0aeeda3b8e21ad",
-  "ip": "192.168.4.22",
-  "headers": {
-    "host": "192.168.4.29:3000",
-    "upgrade-insecure-requests": "1",
-    "accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
-    "user-agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) CriOS/119.0.6045.169 Mobile/15E148 Safari/604.1",
-    "accept-language": "en-US,en;q=0.9",
-    "accept-encoding": "gzip, deflate",
-    "connection": "keep-alive"
-  },
-  "browserUsed": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) CriOS/119.0.6045.169 Mobile/15E148 Safari/604.1"
-}
-[Sun Nov 26 2023 15:09:00 GMT-0500 (Eastern Standard Time)] {
-  "date": "2023-11-26T20:09:00.381Z",
-  "fingerprint": "edc75ffea2da70eede0aeeda3b8e21ad",
-  "ip": "192.168.4.22",
-  "headers": {
-    "host": "192.168.4.29:3000",
-    "upgrade-insecure-requests": "1",
-    "accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
-    "user-agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) CriOS/119.0.6045.169 Mobile/15E148 Safari/604.1",
-    "accept-language": "en-US,en;q=0.9",
-    "accept-encoding": "gzip, deflate",
-    "connection": "keep-alive"
-  },
-  "browserUsed": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) CriOS/119.0.6045.169 Mobile/15E148 Safari/604.1"
+  "browserUsed": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36"
 }

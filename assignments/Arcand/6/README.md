@@ -1,5 +1,58 @@
 ## Assignment 6
 ## CS 533: Web Security
+___________________________________________________________________________________
+Added requested changes & information:
+
+Enumerated list of which HTTP request headers I'm using to form the fingerprint:
+
+1: User-Agent
+
+2: Accept-Language
+
+3: Accept-Encoding
+
+4: Connection
+
+5: DNT (Do Not Track)
+
+6: Sec-Fetch-Site
+
+7: Sec-Fetch-Mode
+
+8: Sec-Fetch-User
+
+
+Note: The IP address, along with "if-modified-since" and "if-none-match" headers, are deliberately omitted from the fingerprinting process.
+
+Here's the relevant part of my code:
+
+const fingerprintAndAdditionalInfo = headersToInclude.reduce((acc, header) => {
+
+    if (header !== 'if-modified-since' && header !== 'if-none-match') {
+
+        const value = req.get(header) || 'Not provided';
+
+        acc.fingerprintData += value;
+
+        acc.additionalInfo[header] = value;
+
+    }
+
+    return acc;
+
+}, { fingerprintData: '', additionalInfo: {} });
+
+Please be advised that the following links have been verified and are operational. You can access the associated files directly:
+
+server.js: https://github.com/phonedude/cs533-f23/blob/main/assignments/Arcand/6/server.js
+
+index.html: https://github.com/phonedude/cs533-f23/blob/main/assignments/Arcand/6/public/html/default/index.html
+For additional confirmation, screenshots illustrating the functionality of these links are provided below.
+
+<img src="images/8.png" width="700">
+<img src="images/9.png" width="700">
+
+___________________________________________________________________________________
 
 Assignment 6 is focused on demonstrating and exploring issues related to fingerprinting.
 To that end, I created a README.md report for this assignment containing links to the code, a short description of the fingerprinting algorithm, a screenshot of the 5 fingerprints, as well as a link to the Youtube video demonstrating the clients connecting and being recognized by the server.
