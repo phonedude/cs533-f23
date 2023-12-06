@@ -1,6 +1,17 @@
 ## Assignment 7
 ## CS 533: Web Security
 
+Update:
+_________________________________________________________________________________________________________________________
+Domain: adobe.com
+
+URL: https://auth.services.adobe.com/en_US/index.html?callback=https%3A%2F%2Fims-na1.adobelogin.com%2Fims%2Fadobeid%2Fhomepage_milo%2FAdobeID%2Ftoken%3Fredirect_uri%3Dhttps%253A%252F%252Fwww.adobe.com%252F%2523old_hash%253D%2526from_ims%253Dtrue%253Fclient_id%253Dhomepage_milo%2526api%253Dauthorize%2526scope%253DAdobeID%252Copenid%252Cgnav%26state%3D%257B%2522jslibver%2522%253A%2522v2-v0.39.0-39-g71c9b5a%2522%252C%2522nonce%2522%253A%25223689732575255653%2522%257D%26code_challenge_method%3Dplain%26use_ms_for_expiry%3Dtrue&client_id=homepage_milo&scope=AdobeID%2Copenid%2Cgnav&state=%7B%22jslibver%22%3A%22v2-v0.39.0-39-g71c9b5a%22%2C%22nonce%22%3A%223689732575255653%22%7D&relay=2ee38296-b862-4a53-9b4f-4ec48924fe53&locale=en_US&flow_type=token&idp_flow_type=login&s_p=google%2Cfacebook%2Capple&response_type=token&code_challenge_method=plain&redirect_uri=https%3A%2F%2Fwww.adobe.com%2F%23old_hash%3D%26from_ims%3Dtrue%3Fclient_id%3Dhomepage_milo%26api%3Dauthorize%26scope%3DAdobeID%2Copenid%2Cgnav&use_ms_for_expiry=true#/
+
+Saved the DOM from the browser dev tools and built from that:
+
+<img src="images/13.png" width="700">
+_________________________________________________________________________________________________________________________
+
 Assignment 7 is focused on demonstrating and exploring issues related to phishing.
 To that end, I created a README.md report for this assignment containing links to the code, a short discussion of any issues I encountered making the site "display" correctly from my server (if any), screen shots of the site rendered in my browser, the log file of harvested user names and passwords, and a Youtube video of my site in operation.
 
