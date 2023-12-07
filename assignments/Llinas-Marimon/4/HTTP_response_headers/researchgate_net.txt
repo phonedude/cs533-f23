@@ -1,0 +1,38 @@
+HTTP/1.1 301 Moved Permanently
+Date: Thu, 19 Oct 2023 20:57:25 GMT
+Cache-Control: max-age=3600
+Expires: Thu, 19 Oct 2023 21:57:25 GMT
+Location: https://www.researchgate.net/
+Set-Cookie: __cf_bm=L8ShZZ0V82aCgRU_aWai1qRZaYlXE3VCQBgFjb2grPE-1697749045-0-AScAo80Enfux6cCp0p00BCfXC69WCGj3FAugch/2lTXrPrITbfAUSnFGOX4+vlTV6L0hO4cSMYvWCkkuo/8DoUUUg/FCYgzHxcqDYTipC074; path=/; expires=Thu, 19-Oct-23 21:27:25 GMT; domain=.researchgate.net; HttpOnly; SameSite=None
+Set-Cookie: _cfuvid=DkURCdI.uqQFUlRUWrwuLhsSUKs0iR.aMgpRRh4DDME-1697749045683-0-604800000; path=/; domain=.researchgate.net; HttpOnly
+Server: cloudflare
+CF-RAY: 818beeef79a2505d-ORF
+alt-svc: h3=":443"; ma=86400
+Via: HTTP/1.1 forward.http.proxy:3128
+Connection: keep-alive
+
+HTTP/2 200 
+date: Thu, 19 Oct 2023 20:57:25 GMT
+content-type: text/html; charset=utf-8
+content-length: 0
+cf-ray: 818beeefbac0505b-ORF
+cf-cache-status: DYNAMIC
+cache-control: must-revalidate, no-cache, no-store, post-check=0, pre-check=0, private
+expires: Thu, 19 Nov 1981 08:52:00 GMT
+set-cookie: did=EW0tqv4zAzMoTTWWs1s1lSQH51wNtq55rj010rAKt3erGgNVxFPjDnQDOdRt0iQD; expires=Sat, 19-Oct-2024 20:57:25 GMT; Max-Age=31622400; path=/; domain=.www.researchgate.net; secure; httponly
+strict-transport-security: max-age=15552000; includeSubDomains; preload
+p3p: CP="IDC DSP COR CURa ADMa OUR IND PHY ONL COM STA"
+pragma: no-cache
+x-content-type-options: nosniff
+x-correlation-id: rgreq-9742e59b6d100a758c1ea28100956eab
+x-envoy-upstream-service-time: 23
+x-frame-options: SAMEORIGIN
+x-ua-compatible: IE=Edge
+x-xss-protection: 1; mode=block
+set-cookie: ptc=RG1.5243590688251882616.1697749045; expires=Sat, 18-Oct-2025 20:57:25 GMT; Max-Age=63072000; path=/; domain=.www.researchgate.net; secure; httponly
+set-cookie: sid=a1MSgY72pQ1JevO5c1YuHg4TmzVDFqJaYv1U3sqfnjA7fgbCMyaFGwn60V1ijquFSOKAyxKbEKUbCMLkC5uX5v8fSwnctf4qWiMWY3F92WE0MJlirfAcW1pulypMnMxm; Path=/; Domain=.www.researchgate.net; Secure; HttpOnly
+set-cookie: __cf_bm=lOlV6_vB_ffKvJ9Rk7_Za1er7y36T5lPwlOa2ji.jcI-1697749045-0-AXnJe2MUxmPuNhBu5ezSuSu4jzf3XuZ1mQaIKQXxPCVhjs6d8JAVaq2yBzS1/QVj5fwbtXFaDoZCMlXUw68oSecbeD3q6mCSMrOwTdTsfmZ3; path=/; expires=Thu, 19-Oct-23 21:27:25 GMT; domain=.researchgate.net; HttpOnly; Secure; SameSite=None
+set-cookie: _cfuvid=Ds7IR_yAvbhybhNKpw3Wf_G3aFt6Kx7..0fFqX56.I0-1697749045850-0-604800000; path=/; domain=.researchgate.net; HttpOnly; Secure; SameSite=None
+server: cloudflare
+alt-svc: h3=":443"; ma=86400
+

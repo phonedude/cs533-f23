@@ -1,0 +1,32 @@
+HTTP/1.1 301 Moved Permanently
+Server: awselb/2.0
+Date: Mon, 04 Dec 2023 01:25:09 GMT
+Content-Type: text/html
+Content-Length: 134
+Location: https://offset.com:443/
+Via: HTTP/1.1 forward.http.proxy:3128
+Connection: keep-alive
+
+HTTP/2 301 
+server: awselb/2.0
+date: Mon, 04 Dec 2023 01:25:10 GMT
+content-type: text/html
+content-length: 134
+location: https://www.offset.com:443/
+
+HTTP/2 200 
+date: Mon, 04 Dec 2023 01:25:10 GMT
+content-type: text/html; charset=utf-8
+content-length: 118125
+server: nginx
+x-frame-options: DENY
+set-cookie: _photo_session_id=ZayFM541hK5SB7dTwF6239qWVv6XcXSM; Domain=.offset.com; Path=/; HttpOnly; Secure; SameSite=Lax
+set-cookie: visit_id=79425304156; Domain=.offset.com; Path=/; Expires=Mon, 04 Dec 2023 01:55:10 GMT
+set-cookie: visitor_id=72013524760; Domain=.offset.com; Path=/; Expires=Sun, 04 Dec 2033 01:25:10 GMT
+set-cookie: did=75ff8067-d014-40f5-b632-33cd856988d9; Max-Age=315360000; Domain=.offset.com; Path=/; Expires=Thu, 01 Dec 2033 01:25:10 GMT; Secure; SameSite=None
+set-cookie: seen_locales=j%3A%5B%22en%22%5D; Domain=.offset.com; Path=/; HttpOnly; Secure; SameSite=Lax
+set-cookie: offset.prod.sid=s%3AZayFM541hK5SB7dTwF6239qWVv6XcXSM.PQe%2FqQvezYnQ70OVPJftLFKMjgUPrFSA3Q5aYCIMlvc; Domain=.offset.com; Path=/; HttpOnly; Secure; SameSite=Lax
+x-end-user-visit-id: 79425304156
+x-end-user-visitor-id: 72013524760
+etag: W/"1cd6d-MquSJvTUj9EqT7B5SozyatmEavQ"
+

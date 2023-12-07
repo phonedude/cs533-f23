@@ -1,0 +1,56 @@
+HTTP/1.1 301 Moved Permanently
+Content-Length: 0
+Server: Varnish
+Retry-After: 0
+Location: https://upenn.edu/
+Accept-Ranges: bytes
+Date: Thu, 19 Oct 2023 20:57:33 GMT
+Via: 1.1 varnish, HTTP/1.1 forward.http.proxy:3128
+X-Served-By: cache-iad-kjyo7100101-IAD
+X-Cache: HIT
+X-Cache-Hits: 0
+Strict-Transport-Security: max-age=300
+Connection: close
+
+HTTP/2 301 
+server: Varnish
+retry-after: 0
+location: https://www.upenn.edu/
+accept-ranges: bytes
+date: Thu, 19 Oct 2023 20:57:33 GMT
+via: 1.1 varnish
+x-served-by: cache-iad-kjyo7100120-IAD
+x-cache: HIT
+x-cache-hits: 0
+x-timer: S1697749054.972217,VS0,VE1
+strict-transport-security: max-age=300
+content-length: 0
+
+HTTP/2 200 
+cache-control: max-age=3600, public
+content-language: en
+content-type: text/html; charset=UTF-8
+etag: W/"1697722001"
+expires: Sun, 19 Nov 1978 05:00:00 GMT
+last-modified: Thu, 19 Oct 2023 13:26:41 GMT
+server: nginx
+strict-transport-security: max-age=300
+x-content-type-options: nosniff
+x-drupal-cache: HIT
+x-drupal-dynamic-cache: HIT
+x-frame-options: SAMEORIGIN
+x-generator: Drupal 9 (https://www.drupal.org)
+x-pantheon-styx-hostname: styx-fe1-b-695fb49478-k9lg6
+x-styx-req-id: 2dad5e79-6ec0-11ee-bc6d-d2528512c91d
+x-ua-compatible: IE=edge
+age: 837
+accept-ranges: bytes
+via: 1.1 varnish, 1.1 varnish, 1.1 varnish
+date: Thu, 19 Oct 2023 20:57:34 GMT
+x-served-by: cache-chi-klot8100032-CHI, cache-iad-kjyo7100139-IAD, cache-iad-kjyo7100166-IAD
+x-cache: HIT, HIT, MISS
+x-cache-hits: 5, 1, 0
+x-timer: S1697749054.053957,VS0,VE4
+vary: Accept-Encoding, Cookie, Cookie, Cookie
+content-length: 160823
+
