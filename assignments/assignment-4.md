@@ -23,7 +23,7 @@ Points available: 15
 
 ### Extra credit (2 points)
 
-* Week 5 lecture, slide 64 has a literary reference in its title.  To what work does that reference refer?
+* Week 5 lecture, slide 65 has a literary reference in its title.  To what work does that reference refer?
 
 ### Setting up directory "4"
 

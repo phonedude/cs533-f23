@@ -65,24 +65,24 @@ his course materials (although any errors are mine).
    * [Same Origin policy](https://developer.mozilla.org/en-US/docs/Web/Security/Same-origin_policy)
    * [Cross-Site Request Forgery Prevention](https://cheatsheetseries.owasp.org/cheatsheets/Cross-Site_Request_Forgery_Prevention_Cheat_Sheet.html)
    * [Origin](https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers/Origin)
-   * [Class slides](https://docs.google.com/presentation/d/144GMLCLIOrRMeT0Yzy_KpbOhvKk8-c49E5MYYJ1ydAc/edit)
+   * [Class slides](https://docs.google.com/presentation/d/1XYuu3Vu7GwwHM1KzSsG9IPMHglc3bfD-IIUADXIggVo/edit)
 
 * Week 04 - September 20 - Exceptions to the Same Origin Policy
    * [X-Frame-Options](https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers/X-Frame-Options), [RFC 7034](https://tools.ietf.org/html/rfc7034)
    * [Frame Hijacking](https://seclab.stanford.edu/websec/frames/)
    * [Busting Frame Busting](https://seclab.stanford.edu/websec/framebusting/)
-   * [Class slides](https://docs.google.com/presentation/d/1-BN2SL8N6nRg1pEbF7r7unH4ia1raOYGsHOdVFp21Qs/edit)
+   * [Class slides](https://docs.google.com/presentation/d/17h10fVeoSunelmmmM57fAfVBa14hy1wPhHfuUqHTfYQ/edit)
 
 * Week 05 - September 27 - Cross-Site Scripting (XSS)
    * [Cross Site Scripting Prevention Cheat Sheet](https://cheatsheetseries.owasp.org/cheatsheets/Cross_Site_Scripting_Prevention_Cheat_Sheet.html)
    * [XSS Filter Evasion Cheat Sheet](https://owasp.org/www-community/xss-filter-evasion-cheatsheet)
-   * [Class slides](https://docs.google.com/presentation/d/1gOQRmBsIXlTYa4M6a3jqx8nrl5Yf_P2YopDVb3YLSZk/edit)
+   * [Class slides](https://docs.google.com/presentation/d/1eaHS8z9UogRbuAkiY5XrypBwfkpyt29nH96jwVfy1KA/edit)
 
 * Week 06 - October 4 - XSS and Content Security Policy (CSP)
    * [Content Security Policy (CSP)](https://developer.mozilla.org/en-US/docs/Web/HTTP/CSP) 
    * [CSP Is Dead, Long Live CSP! On the Insecurity of Whitelists and the Future of Content Security Policy](https://research.google/pubs/pub45542/)
    * [Defence in Depth: The medieval castle approach to internet security](https://medstack.co/blog/defence-in-depth-the-medieval-castle-approach-to-internet-security/)
-   * [Class slides](https://docs.google.com/presentation/d/1TbWOIvw1Cl8RnkpMfilhk1j8Tp3y11vI8U0htH6UxoE/edit)
+   * [Class slides](https://docs.google.com/presentation/d/1zl9Fnz0_izeb9l4wXYsMuCIlb9J7XfnHgjGZ53LT_ms/edit)
 
 * Week 07 - October 11 - Fingerprinting and Privacy
    * [Browser Fingerprinting: An Introduction and the Challenges Ahead](https://blog.torproject.org/browser-fingerprinting-introduction-and-challenges-ahead)
@@ -91,22 +91,22 @@ his course materials (although any errors are mine).
 * Week 08 - October 18 - Transport Layer Security
     * [Looking back at the Snowden revelations](https://blog.cryptographyengineering.com/2019/09/24/looking-back-at-the-snowden-revelations/)
     * [HTTPS encryption on the web](https://transparencyreport.google.com/https/overview)
-    * [Class slides](https://docs.google.com/presentation/d/1IsqT_E3vNElJX9_mphzac-ka9Qcac6PSe6FzP4-kNrM/edit)
+    * [Class slides](https://docs.google.com/presentation/d/1XCbpbbsOII5B2bu35Y2ZB9DWUU2VI_fhdiF0_jlLHfI/edit)
 
 * Week 09 - October 25 - HSTS, Certificate Transparency
     * [Strict-Transport-Security](https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers/Strict-Transport-Security)
     * [Protecting Against HSTS Abuse](https://webkit.org/blog/8146/protecting-against-hsts-abuse/)
-    * [HTTP Public Key Pinning (HPKP)](https://developer.mozilla.org/en-US/docs/Web/HTTP/Public_Key_Pinning)
+    * [HTTP Public Key Pinning (HPKP)](https://developer.mozilla.org/en-US/docs/Web/HTTP/Public_Key_Pinning) (now redirects to [Certificate Transparency](https://developer.mozilla.org/en-US/docs/Web/Security/Certificate_Transparency); [archived version](http://web.archive.org/web/20220329000600/https://developer.mozilla.org/en-US/docs/Web/HTTP/Public_Key_Pinning); [Wikipedia HPKP](https://en.wikipedia.org/wiki/HTTP_Public_Key_Pinning))
     * [Certificate Transparency](https://tools.ietf.org/html/rfc6962)
     * [Class slides](slides/stark-palmer-https-2019.pdf)
 
 * Week 10 - November 1 - Authentication
     * [Authentication Cheat Sheet](https://cheatsheetseries.owasp.org/cheatsheets/Authentication_Cheat_Sheet.html)
-    * [Class slides](https://docs.google.com/presentation/d/1XdwPN2ai2kbbZNh5HQG1Gb1aOA-KFM37DOn8gzE7jf0/edit)
+    * [Class slides](https://docs.google.com/presentation/d/1DSTAmRKJgc6_2-IrzZI_M12eflqM_OSn57Vy00z9iVI/edit)
 
 * Week 11 - November 8 - Local HTTP Server Security
     * [Zoom Zero Day: 4+ Million Webcams & maybe an RCE? Just get them to visit your website!](https://infosecwriteups.com/zoom-zero-day-4-million-webcams-maybe-an-rce-just-get-them-to-visit-your-website-ac75c83f4ef5)
-    * [Class slides](https://docs.google.com/presentation/d/1NZQ2tPCqdzaPlVbeEJfdbiEutXEZYbTvGgTnBOwlbuw/edit)
+    * [Class slides](https://docs.google.com/presentation/d/1onYeg9tRDaSFWs_bMqcUSwwzeoIfZGeBgZ34GZYeFbY/edit)
 
 * Week 12 - November 15 - DNS rebinding attacks
     * [Millions of Streaming Devices Are Vulnerable to a Retro Web Attack](https://www.wired.com/story/chromecast-roku-sonos-dns-rebinding-vulnerability/)
@@ -119,7 +119,7 @@ his course materials (although any errors are mine).
     * [The Annoying Site](https://github.com/feross/theannoyingsite.com)
     * [Phishing with Unicode Domains](https://www.xudongz.com/blog/2017/idn-phishing/)
     * [The inception bar: a new phishing method](https://jameshfisher.com/2019/04/27/the-inception-bar-a-new-phishing-method/)
-    * [Class slides](https://docs.google.com/presentation/d/1JUx36cSvJ33m5vgtDkkveh58JoRDTT9vZnTLumB9sY8/edit)
+    * [Class slides](https://docs.google.com/presentation/d/1tFVuMX7r1FDp4ogX1y5hQilBKxfn40hIhB4dQW4Tizc/edit)
 
 * Week 14 - December 6 - Rehosting, Web Archiving
     * [Rewriting History: Changing the Archived Web from the Present](https://rewritinghistory.cs.washington.edu/) ([slides](slides/Lerner-ACM-CCS-2017.pdf), [video](https://www.youtube.com/watch?v=Pn65m3l0Zw8), [DSHR blog post](https://blog.dshr.org/2017/09/attacking-users-of-wayback-machine.html))
