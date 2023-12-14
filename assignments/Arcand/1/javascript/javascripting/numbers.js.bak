@@ -1,5 +1,0 @@
-// Define a variable named example that references the integer 123456789
-const example = 123456789;
-
-// Use console.log() to print the number to the terminal
-console.log(example);

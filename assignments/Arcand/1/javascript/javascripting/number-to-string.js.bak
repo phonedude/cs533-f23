@@ -1,8 +1,0 @@
-// Define a variable named 'n' that references the number 128
-const n = 128;
-
-// Call the .toString() method on the 'n' variable
-const nToString = n.toString();
-
-// Use console.log() to print the result of the .toString() method to the terminal
-console.log(nToString);

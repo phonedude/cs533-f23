@@ -1,5 +1,0 @@
-// Define the pizzaToppings array
-const pizzaToppings = ["tomato sauce", "cheese", "pepperoni"];
-
-// Print the pizzaToppings array to the terminal
-console.log(pizzaToppings);
