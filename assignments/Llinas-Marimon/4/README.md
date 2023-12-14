@@ -133,15 +133,11 @@
 
 
 
-
+* In the non-framable classification, 10 websites were examined without a valid justification for their resistance to framing. These 10 sites, marked with the reason "nan" in blank, lack the establishment of x-frame -options and content security poicy. Additionally, no status code was detected, thereby hindering the loading of the page within an iframe.
 * Screenshot of a non-framable site
 
-    <img src="images/iframe_not_loaded.png" width="700" >
-
-
-## Question 2 -
-
-### How the Path attribute for Cookies is not suitable for security
+    <img src="image/iframe_not_loaded.png" width="700" >
+## Question 2 - How the Path attribute for Cookies is not suitable for security
 
 ### List of files
 
