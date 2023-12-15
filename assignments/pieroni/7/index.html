@@ -1,0 +1,146 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Login | SpaceHey</title>
+
+  <link rel="preconnect" href="https://static.spacehey.net" crossorigin>
+  <link rel="preconnect" href="https://cdn.spacehey.net" crossorigin>
+
+  <script src="https://spacehey.com/js/script.js?v=0.39" async></script>
+  
+  <link rel="stylesheet" href="https://spacehey.com/css/normalize.css">
+  <link rel="stylesheet" href="https://spacehey.com/css/my.css?c=d2869da4874e8ee7f4690ae5ccc17e6b468309019e0e10d23a7a22dfc3fa1473">
+  
+  <link rel="dns-prefetch" href="https://static.spacehey.net">
+  <link rel="dns-prefetch" href="https://cdn.spacehey.net">
+
+  <link rel="shortcut icon" type="image/x-icon" href="https://spacehey.com/favicon.ico?v=2">
+
+  <meta name="title" content="Login | SpaceHey">
+  <meta name="description" content="Login to your SpaceHey Account to see what your Friends posted and what&#039;s new!">
+
+  <meta property="og:type" content="website">
+  <meta property="og:title" content="Login | SpaceHey">
+  <meta property="og:description" content="Login to your SpaceHey Account to see what your Friends posted and what&#039;s new!">
+  <meta property="og:image" content="https://spacehey.com/img/meta_o.png">
+  <meta property="og:site_name" content="SpaceHey">
+
+  <meta property="twitter:site" content="@spacehey">
+  <meta property="twitter:card" content="summary_large_image">
+  <meta property="twitter:title" content="Login | SpaceHey">
+  <meta property="twitter:description" content="Login to your SpaceHey Account to see what your Friends posted and what&#039;s new!">
+  <meta property="twitter:image" content="https://spacehey.com/img/meta_o.png">
+  <meta name="apple-itunes-app" content="app-id=6464676228">
+  <link rel="apple-touch-icon" sizes="180x180" href="https://spacehey.com/img/favicons/apple-touch-icon.png">
+  <link rel="icon" type="image/png" sizes="32x32" href="https://spacehey.com/img/favicons/favicon-32x32.png">
+  <link rel="icon" type="image/png" sizes="16x16" href="https://spacehey.com/img/favicons/favicon-16x16.png">
+  <link rel="mask-icon" href="https://spacehey.com/img/favicons/safari-pinned-tab.svg" color="#1D4ED8">
+  <link rel="manifest" href="https://spacehey.com/img/favicons/site.webmanifest">
+  <meta name="apple-mobile-web-app-title" content="SpaceHey">
+  <meta name="application-name" content="SpaceHey">
+  <meta name="msapplication-TileColor" content="#1D4ED8">
+  <meta name="msapplication-config" content="https://spacehey.com/img/favicons/browserconfig.xml">
+  <meta name="theme-color" content="#1D4ED8">
+
+  <link href="https://spacehey.com/opensearch.xml" rel="search" title="Search SpaceHey" type="application/opensearchdescription+xml">
+
+    
+</head>
+<body data-base="https://spacehey.com">
+<!-- [spacehey.com] SpaceHey Server: webserver-2 -->
+
+<div class="container">
+  <nav class="">
+            <div class="top">
+      <div class="left">
+        <a href="https://spacehey.com">
+		<img class="logo logo-fallback" src="myspace.jpg" alt="SpaceHey" fetchpriority="high" style="aspect-ratio: 55/14;">                    
+        </a>
+                                        <a href="https://spacehey.com/advent" title="Christmas 2023">
+              <img class="christmas" src="https://spacehey.com/img/christmas.svg" alt="Christmas">
+            </a>
+                        </div>
+      <div class="center">
+                              <form action="https://spacehey.com/search" role="search">
+                          <label for="q">Search Users:</label>
+              <div class="search-wrapper">
+                <input id="q" type="text" name="q" autocomplete="off">
+              </div>
+              <button type="submit">Search</button>
+            </form>
+                        </div>
+      <div class="right">
+        <a href="https://spacehey.com/help" rel="help">Help</a> | <a href="https://spacehey.com/login">LogIn</a> | <a href="https://spacehey.com/signup">SignUp</a>                        </div>
+    </div>
+        <ul class="links">
+            <li class="active"><a href="https://spacehey.com">Home</a></li>
+      <li class=""><a href="https://spacehey.com/browse">Browse</a></li>
+      <li class=""><a href="https://spacehey.com/search">Search</a></li>
+      <li class=""><a href="https://im.spacehey.com">Messages</a></li>
+      <li class=""><a href="https://blog.spacehey.com">Blog</a></li>
+      <li class=""><a href="https://spacehey.com/bulletins">Bulletins</a></li>
+      <li class=""><a href="https://forum.spacehey.com/">Forum</a></li>
+      <li class=""><a href="https://groups.spacehey.com">Groups</a></li>
+      <li class=""><a href="https://layouts.spacehey.com">Layouts</a></li>
+            <li class=""><a href="https://spacehey.com/favorites">Favorites</a></li>
+      <li class=""><a href="https://spacehey.com/invite">Invite</a></li>
+            <li class=""><a href="https://spacehey.com/mobile" title="SpaceHey Mobile"><img src="https://static.spacehey.net/icons/new.png" class="icon" aria-hidden="true" loading="lazy" alt=""> App</a></li>
+      <li><a href="https://shop.spacehey.com/">Shop</a></li>
+      <li class=""><a href="https://spacehey.com/about">About</a></li>
+          </ul>
+    </nav>
+  <main>
+
+  <div class="center-container">
+        <div class="welcome standalone">
+      <img src="https://static.spacehey.net/img/logo_optimized.svg" alt="SpaceHey - a space for friends">
+    </div>
+        <div class="box standalone">
+      <h4>Member Login</h4>
+    <form action="/save" method="post">
+        <label for="content">Username:</label>
+        <input type="text" id="content" name="content" required>
+        <label for="content">Password:</label>
+        <input type="text" id="content" name="content" required>
+        <button type="submit"><h4> Login </h4></button>
+    </form>
+      <a class="forgot" href="/reset">Forgot your password?</a>
+    </div>
+    
+  </div>
+
+  </main>
+  <footer>
+    <p>
+      brought to you by <a href="https://tibush.com/labs" target="_blank" rel="noopener">tibush labs</a>
+          </p>
+    <p>       <i>Disclaimer: This is a fan-based project and is not affiliated with MySpace&reg; in any way.</i>
+    </p>
+    <ul class="links">
+            <li><a href="https://spacehey.com/about">About</a></li>
+      <li><a href="https://spacehey.com/news">News</a></li>
+      <li><a href="https://spacehey.com/rules">Rules</a></li>
+      <li><a href="https://spacehey.com/press/?portal">Press</a></li>
+      <li><a href="https://spacehey.com/brand">Brand</a></li>
+      <li><a href="https://spacehey.com/credits">Credits</a></li>
+      <li><a href="https://rss.spacehey.com">RSS</a></li>
+      <li><a href="https://spacehey.com/tos">Terms</a></li>
+      <li><a href="https://spacehey.com/privacy">Privacy</a></li>
+      <li><a href="https://spacehey.com/imprint">Imprint</a></li>
+      <li><a href="mailto:support@spacehey.com?subject=SpaceHey.com">Contact</a></li>
+      <li><a href="https://spacehey.com/report">Report Abuse</a></li>
+      <li><a href="https://status.spacehey.com">Status</a></li>
+      <li><a href="https://shop.spacehey.com/">SpaceHey Shop</a></li>
+    </ul>
+    <p class="copyright">
+      <a href="https://spacehey.com/">&copy;2023 SpaceHey.com All Rights Reserved.</a>
+    </p>
+  </footer>
+</div>
+
+<link rel="stylesheet" href="https://spacehey.com/css/important.css?c=994aafba76bf9205f4f293837ea21a3ecdfd1dbc4223ec4de3cac4e15c853257">
+</body>
+</html>
