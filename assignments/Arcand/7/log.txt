@@ -1,4 +1,0 @@
-Username: Greg, Password: Arcand
-Username: Greg1, Password: Arcand1
-Username: Greg2, Password: Arcand2
-Username: Greg3, Password: Arcand3

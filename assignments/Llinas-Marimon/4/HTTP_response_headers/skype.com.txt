@@ -1,0 +1,32 @@
+HTTP/1.1 301 Moved Permanently
+Date: Mon, 04 Dec 2023 01:25:17 GMT
+Server: Kestrel
+Location: https://www.skype.com/
+Strict-Transport-Security: max-age=31536000
+Via: HTTP/1.1 forward.http.proxy:3128
+Connection: keep-alive
+
+HTTP/2 301 
+content-length: 0
+location: /en/
+x-msedge-ref: Ref A: 8772B75B0D3F4F128DE2CDEFE4C1A445 Ref B: BLUEDGE1118 Ref C: 2023-12-04T01:25:17Z
+date: Mon, 04 Dec 2023 01:25:17 GMT
+
+HTTP/2 200 
+cache-control: max-age=3600
+content-length: 96692
+content-type: text/html
+content-md5: jttgjL4mrPslQBXQtxujBA==
+expires: Mon, 04 Dec 2023 02:25:17 GMT
+last-modified: Mon, 04 Dec 2023 00:01:47 GMT
+accept-ranges: bytes
+age: 762
+etag: 0x8DBF45C35952E03
+x-cache: CONFIG_NOCACHE
+x-ms-blob-type: BlockBlob
+x-ms-lease-status: unlocked
+x-ms-request-id: 0e8de393-201e-0071-1a4e-26d0aa000000
+x-ms-version: 2009-09-19
+x-msedge-ref: Ref A: 0ACEC094935D4986938DAD8207C28EA6 Ref B: BLUEDGE1118 Ref C: 2023-12-04T01:25:17Z
+date: Mon, 04 Dec 2023 01:25:17 GMT
+
