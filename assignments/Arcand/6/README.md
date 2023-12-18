@@ -56,6 +56,8 @@ ________________________________________________________________________________
 
 Added another youtube video:
 
+https://www.youtube.com/watch?v=3YfvSWSoUPU
+
 ___________________________________________________________________________________
 
 Assignment 6 is focused on demonstrating and exploring issues related to fingerprinting.
