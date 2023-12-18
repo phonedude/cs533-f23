@@ -1,0 +1,31 @@
+HTTP/1.1 301 Moved Permanently
+Date: Thu, 19 Oct 2023 01:00:59 GMT
+Server: Varnish
+X-Varnish: 42058142
+Location: https://elmundo.es/
+Content-Length: 0
+Connection: keep-alive
+
+HTTP/1.1 301 Moved Permanently
+Date: Thu, 19 Oct 2023 01:01:00 GMT
+Server: Varnish
+X-Varnish: 39632451
+Location: https://www.elmundo.es/
+Content-Length: 0
+Connection: keep-alive
+
+HTTP/1.1 200 OK
+Connection: keep-alive
+Content-Length: 365218
+Content-Type: text/html; charset=iso-8859-15
+Referrer-Policy: unsafe-url
+Cache-Control: s-maxage=60
+x-backend: CONTENT
+Accept-Ranges: bytes
+Date: Thu, 19 Oct 2023 01:01:00 GMT
+Age: 30
+X-Served-By: cache-ams12733-AMS, cache-iad-kiad7000097-IAD
+X-Cache: HIT, MISS
+X-Cache-Hits: 1, 0
+X-Timer: S1697677260.392512,VS0,VE118
+Vary: Accept-Encoding, User-Agent

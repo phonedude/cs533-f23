@@ -1,0 +1,26 @@
+HTTP/1.1 301 Moved Permanently
+Content-Length: 0
+Connection: keep-alive
+Date: Sat, 14 Oct 2023 20:05:11 GMT
+location: https://soundcloud.com/
+X-Cache: Miss from cloudfront
+Via: 1.1 684812801fd7e26ff0924d8ea79cb92c.cloudfront.net (CloudFront)
+X-Amz-Cf-Pop: ATL56-C3
+X-Amz-Cf-Id: fitTeXlm2obt29FemGUFcGaWvVY_SLDfNNosmNbEt9trst9iYM6ofQ==
+
+HTTP/1.1 200 OK
+Content-Type: text/html
+Content-Length: 19894
+Connection: keep-alive
+x-pants: distant-towel
+x-xss-protection: 1; mode=block
+cache-control: private, max-age=0, no-cache, no-store
+x-frame-options: SAMEORIGIN
+date: Sat, 14 Oct 2023 20:05:11 GMT
+strict-transport-security: max-age=63072000; includeSubdomains; preload
+server: am/2
+X-Cache: Miss from cloudfront
+Via: 1.1 214d8ace1e09cf551a2d2428ad0889a0.cloudfront.net (CloudFront)
+X-Amz-Cf-Pop: ATL56-C3
+X-Amz-Cf-Id: 2chc4VxJM9K9Av7YWRpzyu6aI2uyxeAh4FZg4-GiipFCzpZPtm9fyg==
+

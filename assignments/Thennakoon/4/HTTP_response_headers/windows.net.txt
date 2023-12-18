@@ -1,0 +1,23 @@
+HTTP/1.1 301 Moved Permanently
+Date: Tue, 31 Oct 2023 23:00:32 GMT
+Server: Kestrel
+Location: http://www.microsoft.com/net
+Strict-Transport-Security: max-age=31536000
+
+HTTP/1.1 301 Moved Permanently
+Location: https://dotnet.microsoft.com/
+Strict-Transport-Security: max-age=31536000
+Expires: Tue, 31 Oct 2023 23:00:33 GMT
+Cache-Control: max-age=0, no-cache, no-store
+Pragma: no-cache
+Date: Tue, 31 Oct 2023 23:00:33 GMT
+Connection: keep-alive
+TLS_version: UNKNOWN
+ms-cv: CASMicrosoftCV70ca361a.0
+ms-cv-esi: CASMicrosoftCV70ca361a.0
+X-RTag: RT
+
+HTTP/2 403 
+x-azure-ref: 0EodBZQAAAACO/JcEMzYHSI0Po9Si8izLTU5aMjIxMDYwNjEyMDIxAGUxZGYwNzBhLWFlNDQtNGMwYi1hNTRiLWM0OTM4MDRlNGQ5Zg==
+date: Tue, 31 Oct 2023 23:00:33 GMT
+

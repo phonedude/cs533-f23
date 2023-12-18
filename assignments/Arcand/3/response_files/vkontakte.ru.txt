@@ -1,0 +1,8 @@
+HTTP/1.1 418 
+Server: kittenx
+Date: Sat, 14 Oct 2023 20:05:21 GMT
+Content-Length: 0
+Connection: keep-alive
+X-Frontend: front224006
+Access-Control-Expose-Headers: X-Frontend
+

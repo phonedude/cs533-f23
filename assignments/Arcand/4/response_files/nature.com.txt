@@ -1,0 +1,170 @@
+HTTP/1.0 301 Moved Permanently
+Location: http://www.nature.com/
+Server: BigIP
+Connection: Keep-Alive
+Content-Length: 0
+
+HTTP/1.1 301 Moved Permanently
+Connection: close
+Content-Length: 166
+Cache-Control: public,max-age=600
+Content-Security-Policy: upgrade-insecure-requests;
+Content-Type: text/html
+Location: https://www.nature.com/
+Server: Oscar Platform 0.1083.0
+X-Vcap-Request-Id: 622b9761-db48-4269-7aba-9f761141a144
+Via: 1.1 google, 1.1 varnish
+X-Cdn-Origin: SNPaaS
+Accept-Ranges: bytes
+Date: Mon, 16 Oct 2023 18:07:38 GMT
+Age: 0
+X-Served-By: cache-atl18443-ATL
+X-Cache: MISS
+X-Cache-Hits: 0
+X-Timer: S1697479659.555382,VS0,VE106
+Vary: x-forwarded-host, upgrade-insecure-requests
+alt-svc: h3=":443";ma=86400,h3-29=":443";ma=86400,h3-27=":443";ma=86400
+
+HTTP/1.1 303 See Other
+Connection: close
+Content-Length: 0
+Age: 0
+Cache-Control: private,must-revalidate,max-age=0,no-store
+Content-Type: text/html; charset="UTF-8"
+Location: https://idp.nature.com/authorize?response_type=cookie&client_id=grover&redirect_uri=https%3A%2F%2Fwww.nature.com%2Fnature
+Server: Oscar Platform 0.1083.0
+Strict-Transport-Security: max-age=31536000;preload
+Traceparent: 00-2d7e7f2df16d432350a38d2666f5b1fd-e9eba3e13c0ba03c-01
+Traceparent: 00-2d7e7f2df16d432350a38d2666f5b1fd-a29d33c5657ecdda-01
+Tracestate: gorouter=b487d7a9a023cb04
+Tracestate: gorouter=b487d7a9a023cb04
+X-B3-Sampled: 1
+X-B3-Spanid: 50a38d2666f5b1fd
+X-B3-Traceid: 2d7e7f2df16d432350a38d2666f5b1fd
+X-Content-Type-Options: nosniff
+X-Dump-Request-Bodies: 0
+X-Forwarded-Host: www.nature.com
+X-Frame-Options: DENY
+X-Sn-Servicetimems: 7
+X-Vcap-Request-Id: 2d7e7f2d-f16d-4323-50a3-8d2666f5b1fd
+X-Xss-Protection: 1; mode=block
+Via: 1.1 google, 1.1 varnish
+X-Cdn-Origin: SNPaaS
+Accept-Ranges: bytes
+Date: Mon, 16 Oct 2023 18:07:38 GMT
+X-Served-By: cache-ffcdde1a-internal, cache-atl18457-ATL
+X-Cache: MISS, MISS
+X-Cache-Hits: 0
+X-Timer: S1697479659.851539,VS0,VE131
+Vary: X-Frame-Options,X-Oscar-Cache-Mode
+alt-svc: h3=":443";ma=86400,h3-29=":443";ma=86400,h3-27=":443";ma=86400
+
+HTTP/1.1 302 Found
+Connection: close
+Content-Length: 0
+Cache-Control: no-cache, no-store, max-age=0, must-revalidate
+Content-Security-Policy: frame-ancestors 'none';
+Expires: 0
+Location: https://idp.nature.com/transit?redirect_uri=https%3A%2F%2Fwww.nature.com%2Fnature&code=e12863d1-5691-47b8-9f96-5cd362c8c7c0
+Pragma: no-cache
+Set-Cookie: idp_session=sVERSION_146a0db42-9f56-46c1-9644-9168ea54fdf1; Domain=.nature.com; Path=/; Secure; SameSite=None; HttpOnly
+Set-Cookie: idp_session_http=hVERSION_1b075b9ee-69a1-4006-8a79-6d081af8af1a; Domain=.nature.com; Path=/; HttpOnly
+Set-Cookie: idp_marker=21124bc8-83e0-4e93-9871-15b8bdd4aa44; Domain=.nature.com; Path=/; Max-Age=34560000; HttpOnly
+Strict-Transport-Security: max-age=31536000 ; includeSubDomains
+Traceparent: 00-06d2e6c79f3749937e03e68b83a73803-0db1d00e8a346f0e-01
+X-Content-Type-Options: nosniff
+X-Frame-Options: DENY
+X-Vcap-Request-Id: 06d2e6c7-9f37-4993-7e03-e68b83a73803
+X-Xss-Protection: 1; mode=block
+Via: 1.1 google, 1.1 varnish
+X-Cdn-Origin: SNPaaS
+Accept-Ranges: bytes
+Date: Mon, 16 Oct 2023 18:07:39 GMT
+X-Served-By: cache-atl18432-ATL
+X-Cache: MISS
+X-Cache-Hits: 0
+X-Timer: S1697479659.276335,VS0,VE142
+Vary: x-forwarded-proto
+alt-svc: h3=":443";ma=86400,h3-29=":443";ma=86400,h3-27=":443";ma=86400
+
+HTTP/1.1 302 Found
+Connection: close
+Content-Length: 0
+Cache-Control: no-cache, no-store, max-age=0, must-revalidate
+Content-Language: en-US
+Content-Security-Policy: frame-ancestors 'none';
+Expires: 0
+Location: https://www.nature.com/nature?error=cookies_not_supported&code=e12863d1-5691-47b8-9f96-5cd362c8c7c0
+Pragma: no-cache
+Strict-Transport-Security: max-age=31536000 ; includeSubDomains
+Traceparent: 00-f473c2aa318042b979217a5cd21c0b2a-4b91addc577e6c21-01
+X-Content-Type-Options: nosniff
+X-Frame-Options: DENY
+X-Vcap-Request-Id: f473c2aa-3180-42b9-7921-7a5cd21c0b2a
+X-Xss-Protection: 1; mode=block
+Via: 1.1 google, 1.1 varnish
+X-Cdn-Origin: SNPaaS
+Accept-Ranges: bytes
+Date: Mon, 16 Oct 2023 18:07:39 GMT
+X-Served-By: cache-atl18450-ATL
+X-Cache: MISS
+X-Cache-Hits: 0
+X-Timer: S1697479660.534415,VS0,VE108
+Vary: x-forwarded-proto
+alt-svc: h3=":443";ma=86400,h3-29=":443";ma=86400,h3-27=":443";ma=86400
+
+HTTP/1.1 301 Moved Permanently
+Connection: close
+Content-Length: 166
+Cache-Control: public,max-age=600
+Content-Type: text/html
+Location: https://www.nature.com/?error=cookies_not_supported&code=e12863d1-5691-47b8-9f96-5cd362c8c7c0
+Server: Oscar Platform 0.1083.0
+Strict-Transport-Security: max-age=31536000;preload
+X-Vcap-Request-Id: 0cb79873-655d-4abc-54c9-b222abfb9902
+Via: 1.1 google, 1.1 varnish
+X-Cdn-Origin: SNPaaS
+Accept-Ranges: bytes
+Date: Mon, 16 Oct 2023 18:07:39 GMT
+Age: 0
+X-Served-By: cache-atl18449-ATL
+X-Cache: MISS
+X-Cache-Hits: 0
+X-Timer: S1697479660.765447,VS0,VE107
+Vary: x-forwarded-host, upgrade-insecure-requests
+alt-svc: h3=":443";ma=86400,h3-29=":443";ma=86400,h3-27=":443";ma=86400
+
+HTTP/1.1 200 OK
+Connection: close
+Accept-Ranges: bytes
+Age: 0
+Cache-Control: private, must-revalidate
+Content-Type: text/html; charset="UTF-8"
+Etag: W/"171ba34ab3f3ec84069e41339ff438fc"
+Server: Oscar Platform 0.1083.0
+Set-Cookie: user.uuid.v2="63c88631-fe46-4e5f-a949-96e00dbf4df2"; Expires=Tue, 16 Jan 2024 18:07:40 GMT; Path=/
+Strict-Transport-Security: max-age=31536000;preload
+Traceparent: 00-42facb97e4734d7d553923dc7ff8f005-6cdb1e6117ab09f4-01
+Traceparent: 00-42facb97e4734d7d553923dc7ff8f005-b0b742ff58fe7b16-01
+Tracestate: gorouter=4b8af30342402879
+Tracestate: gorouter=4b8af30342402879
+X-B3-Sampled: 1
+X-B3-Spanid: 553923dc7ff8f005
+X-B3-Traceid: 42facb97e4734d7d553923dc7ff8f005
+X-Content-Type-Options: nosniff
+X-Dump-Request-Bodies: 0
+X-Forwarded-Host: www.nature.com
+X-Frame-Options: DENY
+X-Sn-Servicetimems: 115
+X-Vcap-Request-Id: 42facb97-e473-4d7d-5539-23dc7ff8f005
+X-Xss-Protection: 1; mode=block
+Via: 1.1 google, 1.1 varnish
+X-Cdn-Origin: SNPaaS
+Date: Mon, 16 Oct 2023 18:07:40 GMT
+X-Served-By: cache-cb6df4d5-internal, cache-atl18479-ATL
+X-Cache: MISS, MISS
+X-Cache-Hits: 0
+X-Timer: S1697479660.986314,VS0,VE249
+Vary: X-Frame-Options,X-Oscar-Cache-Mode, Accept-Encoding
+alt-svc: h3=":443";ma=86400,h3-29=":443";ma=86400,h3-27=":443";ma=86400
+

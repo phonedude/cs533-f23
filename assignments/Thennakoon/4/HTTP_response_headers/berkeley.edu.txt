@@ -1,0 +1,41 @@
+HTTP/1.1 301 Moved Permanently
+Date: Tue, 31 Oct 2023 22:59:42 GMT
+Content-Type: text/html
+Connection: keep-alive
+Location: http://www.berkeley.edu/
+CF-Cache-Status: DYNAMIC
+Server: cloudflare
+CF-RAY: 81ef828f9baf78e7-EWR
+alt-svc: h3=":443"; ma=86400
+
+HTTP/1.1 301 Moved Permanently
+Date: Tue, 31 Oct 2023 22:59:43 GMT
+Content-Type: text/html
+Connection: keep-alive
+Location: https://www.berkeley.edu/
+CF-Cache-Status: DYNAMIC
+Server: cloudflare
+CF-RAY: 81ef82911ac915d3-EWR
+alt-svc: h3=":443"; ma=86400
+
+HTTP/2 200 
+date: Tue, 31 Oct 2023 22:59:43 GMT
+content-type: text/html; charset=UTF-8
+vary: Accept-Encoding
+vary: Accept-Encoding
+vary: Accept-Encoding
+vary: Accept-Encoding,Cookie
+x-frame-options: SAMEORIGIN
+link: <https://www.berkeley.edu/wp-json/>; rel="https://api.w.org/"
+link: <https://www.berkeley.edu/wp-json/wp/v2/pages/2090>; rel="alternate"; type="application/json"
+link: <https://www.berkeley.edu/>; rel=shortlink
+x-powered-by: WP Engine
+x-cacheable: SHORT
+cache-control: max-age=600, must-revalidate
+x-cache: HIT: 2
+x-cache-group: normal
+cf-cache-status: DYNAMIC
+server: cloudflare
+cf-ray: 81ef82924ca85e79-EWR
+alt-svc: h3=":443"; ma=86400
+

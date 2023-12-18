@@ -1,0 +1,5 @@
+> HTTP/1.1 200 OK
+> set-cookie: WMF-Last-Access=06-Oct-2023;Path=/;HttpOnly;secure;Expires=Tue, 07 Nov 2023 12:00:00 GMT
+> set-cookie: WMF-Last-Access-Global=06-Oct-2023;Path=/;Domain=.wikipedia.org;HttpOnly;secure;Expires=Tue, 07 Nov 2023 12:00:00 GMT
+> set-cookie: GeoIP=US:VA:Newport_News:37.07:-76.50:v4; Path=/; secure; Domain=.wikipedia.org
+> set-cookie: NetworkProbeLimit=0.001;Path=/;Secure;Max-Age=3600

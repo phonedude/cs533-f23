@@ -1,0 +1,21 @@
+HTTP/1.1 301 Moved
+Date: Mon, 16 Oct 2023 18:07:16 GMT
+Content-Type: text/html
+Content-Length: 564
+Connection: keep-alive
+Last-Modified: Mon, 16 Oct 2023 11:22:26 GMT
+Location: https://home.pl/
+Server: IdeaWebServer/5.2.0
+X-Content-Type-Options: nosniff
+X-Frame-Options: SAMEORIGIN
+
+HTTP/1.1 200 OK
+Date: Mon, 16 Oct 2023 18:07:17 GMT
+Content-Type: text/html
+Content-Length: 243425
+Connection: keep-alive
+Last-Modified: Mon, 16 Oct 2023 11:22:26 GMT
+Server: IdeaWebServer/5.2.0
+X-Content-Type-Options: nosniff
+X-Frame-Options: SAMEORIGIN
+

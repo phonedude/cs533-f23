@@ -1,0 +1,43 @@
+HTTP/1.1 301 Moved Permanently
+Date: Mon, 16 Oct 2023 18:07:20 GMT
+Connection: keep-alive
+Cache-Control: max-age=3600
+Expires: Mon, 16 Oct 2023 19:07:20 GMT
+Location: https://ietf.org/
+Server: cloudflare
+CF-RAY: 81723daaf9d10a9b-IAD
+alt-svc: h3=":443"; ma=86400
+
+HTTP/1.1 302 Found
+Date: Mon, 16 Oct 2023 18:07:21 GMT
+Content-Type: text/html; charset=iso-8859-1
+Connection: keep-alive
+Location: https://www.ietf.org/
+CF-Cache-Status: DYNAMIC
+Server: cloudflare
+CF-RAY: 81723dac2a35820c-IAD
+alt-svc: h3=":443"; ma=86400
+
+HTTP/1.1 200 OK
+Date: Mon, 16 Oct 2023 18:07:21 GMT
+Content-Type: text/html; charset=utf-8
+Connection: keep-alive
+X-Frame-Options: ALLOW-FROM ietf.org *.ietf.org meetecho.com *.meetecho.com gather.town *.gather.town
+Vary: Cookie,Accept-Encoding
+X-Content-Type-Options: nosniff
+X-Content-Type-Options: nosniff
+Referrer-Policy: same-origin
+Expires: Mon, 16 Oct 2023 22:07:21 GMT
+Cache-Control: public, max-age=14400
+Strict-Transport-Security: max-age=31536000; preload
+X-Xss-Protection: 1; mode=block
+Content-Security-Policy: frame-ancestors 'self' ietf.org *.ietf.org meetecho.com *.meetecho.com gather.town *.gather.town
+Access-Control-Allow-Origin: *
+Access-Control-Allow-Headers: *
+Last-Modified: Mon, 16 Oct 2023 17:24:23 GMT
+CF-Cache-Status: HIT
+Age: 898
+Server: cloudflare
+CF-RAY: 81723daf1cec2052-IAD
+alt-svc: h3=":443"; ma=86400
+

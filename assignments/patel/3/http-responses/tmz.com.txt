@@ -1,0 +1,39 @@
+HTTP/1.1 301 Moved Permanently
+Content-Type: text/html; charset=iso-8859-1
+Content-Length: 228
+Connection: keep-alive
+Date: Thu, 19 Oct 2023 01:34:39 GMT
+Server: Apache
+Location: https://www.tmz.com/
+X-Cache: Hit from cloudfront
+Via: 1.1 193d4441ee6d312fd234f2d28e48c110.cloudfront.net (CloudFront)
+X-Amz-Cf-Pop: PHL50-C1
+Alt-Svc: h3=":443"; ma=86400
+X-Amz-Cf-Id: 0jdAuztDS_LafvKUszNhK_-8Y0Xkq7RkbhQcoJah11qYEop-5hnwrg==
+Age: 341
+
+HTTP/1.1 200 OK
+Content-Type: text/html; charset=UTF-8
+Connection: keep-alive
+Date: Thu, 19 Oct 2023 01:40:10 GMT
+Server: Apache
+Cache-Control: max-age=30, public, s-maxage=60
+Link: <https://imagez.tmz.com>; rel="preconnect"; crossorigin="anonymous",<https://static.tmz.com>; rel="preconnect"; crossorigin="anonymous"
+x-fpc-key: 9e4e124dd26ff10f21514103a1262bfd855aed20a2e0b371a6cd3c6d983d027d
+x-fpc: hit
+Set-Cookie: lang.prev=en; expires=Fri, 18 Oct 2024 01:40:10 GMT; Max-Age=31536000; path=/; domain=.tmz.com; secure; httponly; samesite=strict
+Content-Security-Policy: upgrade-insecure-requests;
+Strict-Transport-Security: max-age=63072000; includeSubDomains; preload
+X-Content-Type-Options: nosniff
+X-XSS-Protection: 1; mode=block
+Referrer-Policy: unsafe-url
+Permissions-Policy: ch-ua-arch=*, ch-ua-bitness=*, ch-ua-full-version=*, ch-ua-full-version-list=*, ch-ua-mobile=*, ch-ua-model=*, ch-ua-platform-version=*, ch-ua-platform=*, ch-ua=*
+Accept-CH: Sec-CH-UA-Arch, Sec-CH-UA-Bitness, Sec-CH-UA-Full-Version, Sec-CH-UA-Full-Version-List, Sec-CH-UA-Mobile, Sec-CH-UA-Model, Sec-CH-UA-Platform-Version, Sec-CH-UA-Platform, Sec-CH-UA
+X-Frame-Options: SAMEORIGIN
+Vary: CloudFront-Viewer-Country
+X-Cache: Hit from cloudfront
+Via: 1.1 3a9f76e15ac64134cc339fc4f9fb6a4c.cloudfront.net (CloudFront)
+X-Amz-Cf-Pop: PHL50-C1
+Alt-Svc: h3=":443"; ma=86400
+X-Amz-Cf-Id: V6enK4wG_DX5VBpLdIrPXLoz5ntcGRBnkSJo81Ur8rEv3DrU793RcA==
+Age: 10

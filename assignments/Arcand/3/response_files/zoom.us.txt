@@ -1,0 +1,47 @@
+HTTP/1.1 301 Moved Permanently
+Date: Sat, 14 Oct 2023 20:05:29 GMT
+Content-Type: text/html
+Content-Length: 134
+Connection: keep-alive
+Location: https://zoom.us/
+CF-Cache-Status: DYNAMIC
+Set-Cookie: __cf_bm=6Z1rfCNw075R11Ue9YU65aHGyUHRnvWZkfvoXJ.afas-1697313929-0-Aft9CCSydZFstX8fScI5/A9nfDoymcXH6MNokI6irF6KVlSXEGeVqWnTWV3M3cX/wXCesH0IPqIq3wKrN9l+vBQ=; path=/; expires=Sat, 14-Oct-23 20:35:29 GMT; domain=.zoom.us; HttpOnly; SameSite=None
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=UcR6Et1BWBluidFymMYvLvZ7VaM%2FvXdaEpEFcnH2tEV7g9Nn15J%2BWJk%2BTpciTFphk5XMzuzoeNonl0dr%2Bp6t4bHrXYMzgotBf49txZanQ3INE2zc%2BF3HsnGNcsSlDqwiXBR0VEE%3D"}],"group":"cf-nel","max_age":604800}
+NEL: {"success_fraction":0.01,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+CF-RAY: 81626ffbcaa382cc-IAD
+alt-svc: h3=":443"; ma=86400
+
+HTTP/1.1 200 OK
+Date: Sat, 14 Oct 2023 20:05:29 GMT
+Content-Type: text/html;charset=utf-8
+Connection: keep-alive
+x-zm-trackingid: v=2.0;clid=aw1;rid=WEB_b31a69611cad9afc8b358bb216ae7f2a
+x-content-type-options: nosniff
+content-security-policy: upgrade-insecure-requests; default-src https://*.zoom.us https://zoom.us blob: 'self'; img-src https: about: blob: data: 'self'; style-src https: safari-extension: chrome-extension: 'unsafe-inline' data: 'self'; font-src https: safari-extension: chrome-extension: blob: data: 'self'; connect-src * about: blob: data: 'self'; media-src * rtmp: blob: data: 'self'; frame-src https: ms-appx-web: zoommtg: zoomus: wvjbscheme: zoomprc: data: blob: 'self'; object-src 'none'; base-uri 'none';script-src 'self' 'strict-dynamic' 'nonce-yajAe0GcSTusP5RFCrKDaA' 'unsafe-inline' blob: https:;
+x-frame-options: SAMEORIGIN
+set-cookie: zm_aid=; Max-Age=0; Expires=Thu, 01 Jan 1970 00:00:10 GMT; Domain=zoom.us; Path=/; Secure; HttpOnly
+x-zm-zoneid: VA
+content-language: en-US
+strict-transport-security: max-age=31536000; includeSubDomains
+x-xss-protection: 1; mode=block
+referrer-policy: strict-origin-when-cross-origin
+Cache-Control: private, max-age=0
+CF-Cache-Status: DYNAMIC
+Set-Cookie: zm_haid=; Max-Age=0; Expires=Thu, 01 Jan 1970 00:00:10 GMT; Domain=zoom.us; Path=/; Secure; HttpOnly
+Set-Cookie: zm_tmaid=; Max-Age=0; Expires=Thu, 01 Jan 1970 00:00:10 GMT; Domain=zoom.us; Path=/; Secure; HttpOnly
+Set-Cookie: zm_htmaid=; Max-Age=0; Expires=Thu, 01 Jan 1970 00:00:10 GMT; Domain=zoom.us; Path=/; Secure; HttpOnly
+Set-Cookie: cred=0611CD56DB589A19623D639C7C61835C; Path=/; Secure; HttpOnly
+Set-Cookie: _zm_page_auth=aw1_c_uCVpOPVeQwqZECGamub6qg; Domain=zoom.us; Path=/; Secure; HttpOnly
+Set-Cookie: _zm_ssid=aw1_c_4R1DbPTnSwWzcqgm67QShg; Domain=zoom.us; Path=/; Secure; HttpOnly
+Set-Cookie: _zm_mtk_guid=1f6cd52ecf524c4ea16d613b6fe43d56; Max-Age=63072000; Expires=Mon, 13 Oct 2025 20:05:29 GMT; Domain=zoom.us; Path=/; Secure
+Set-Cookie: _zm_csp_script_nonce=yajAe0GcSTusP5RFCrKDaA; Domain=zoom.us; Path=/; Secure; HttpOnly
+Set-Cookie: _zm_currency=USD; Max-Age=86400; Expires=Sun, 15 Oct 2023 20:05:29 GMT; Domain=zoom.us; Path=/; Secure
+Set-Cookie: _zm_visitor_guid=1f6cd52ecf524c4ea16d613b6fe43d56; Max-Age=31536000; Expires=Sun, 13 Oct 2024 20:05:29 GMT; Domain=zoom.us; Path=/; Secure
+Set-Cookie: __cf_bm=aJ_iv7sHyuQO7Jfh.GCwIvxtenOzTqZHOJjIuJHRB2I-1697313929-0-AQIRex8JGenrmbp3JEAEH8LO5hYTjPdw/LUJ+AJgV1eO6hscUihM7GXjKJDmZy3534XXae56BkEhSOcaRDlEuIQ=; path=/; expires=Sat, 14-Oct-23 20:35:29 GMT; domain=.zoom.us; HttpOnly; Secure; SameSite=None
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=jz0ZJN05lThgsaTZNNQ5W4U%2F3gFHFhOY1f8U3Bvp5fZljDBDQjJuR9%2B1gSQAuRyouX4h7vE45jeSP1oHA2ayFEoHne8w6FHlZA3ZHGDayends7sQwTAjonT1Ysjycw%2F%2BMwoBE%2BU%3D"}],"group":"cf-nel","max_age":604800}
+NEL: {"success_fraction":0.01,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+CF-RAY: 81626ffd28096ff7-IAD
+alt-svc: h3=":443"; ma=86400
+

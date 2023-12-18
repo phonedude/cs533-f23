@@ -1,0 +1,59 @@
+HTTP/1.1 301 Moved Permanently
+Server: CloudFront
+Date: Tue, 31 Oct 2023 23:00:17 GMT
+Content-Type: text/html
+Content-Length: 167
+Connection: keep-alive
+Location: https://surveymonkey.com/
+X-Cache: Redirect from cloudfront
+Via: 1.1 caafbc8a9aa04b09dd564a3ddef60622.cloudfront.net (CloudFront)
+X-Amz-Cf-Pop: IAD12-P3
+X-Amz-Cf-Id: LoqFtOxk4_dx3zVYNcm2rTs8RJBn061xkuZxX2DaKRXyt8zt-Jsx_Q==
+
+HTTP/1.1 301 Moved Permanently
+Content-Type: text/html
+Content-Length: 162
+Connection: keep-alive
+Date: Tue, 31 Oct 2023 23:00:17 GMT
+Server: nginx
+Location: https://www.surveymonkey.com/
+Referrer-Policy: strict-origin-when-cross-origin
+Strict-Transport-Security: max-age=31536000; includeSubDomains
+set-cookie: attr_multitouch="6qhyEUEtwJbURed9aKW5rf9n9cg="; Domain=.com; expires=Wed, 30 Oct 2024 23:00:18 GMT; Path=/; SameSite=none; Secure
+set-cookie: cdp_seg="IiaK3HdskbyrA28IJCzZxNZJb3U="; Domain=.com; expires=Mon, 29 Jan 2024 23:00:18 GMT; Path=/; SameSite=none; Secure
+set-cookie: ep201="tzgQhfNiFR1BbycMubCcurtq47I="; Domain=.com; expires=Tue, 31 Oct 2023 23:30:18 GMT; Path=/; SameSite=none; Secure
+set-cookie: ep202="lJiGVNAWuET/sZ1cCvF8eXzYebY="; Domain=.com; expires=Mon, 29 Jan 2024 23:00:18 GMT; Path=/; SameSite=none; Secure
+set-cookie: ep203="3S09zx5ePBpygl+ZSf9MxRgOud8="; Domain=.com; expires=Mon, 29 Jan 2024 23:00:18 GMT; HttpOnly; Path=/; SameSite=none; Secure
+X-Cache: Miss from cloudfront
+Via: 1.1 3203c4b5504fa019a752072f0419ef6a.cloudfront.net (CloudFront)
+X-Amz-Cf-Pop: IAD12-P3
+X-Amz-Cf-Id: gbiU3uV0yMZZJeD8S45M9Y_TafsX0QDxx08-HziTS1BzDKuYQNdGDA==
+
+HTTP/1.1 200 OK
+Content-Type: text/html; charset=utf-8
+Content-Length: 423981
+Connection: keep-alive
+Date: Tue, 31 Oct 2023 23:00:18 GMT
+Server: nginx
+Vary: Accept-Encoding
+Vary: Accept-Encoding
+Vary: Accept-Encoding
+Access-Control-Expose-Headers: Server-Timing
+Server-Timing: traceparent;desc="00-d4693de2a15f0b8971ea6a091bb73f96-94d4da7fb1d3a8e0-01"
+Accept-Ranges: bytes
+Content-Security-Policy: default-src https: data: blob: 'unsafe-eval' 'unsafe-inline' https://www.google.com https://www.gstatic.com https://www.recaptcha.net https://api.amplitude.com https://api2.amplitude.com  wss://*.hotjar.com wss://*.qualified.com 'self'; upgrade-insecure-requests; frame-ancestors 'self' https://*.zendesk.com https://*.myshopify.com https://teams.microsoft.com https://*.eloqua.com https://*.surveymonkey.com https://*.sharepoint.com https://*.worldpay.com https://*.cardinalcommerce.com https://*.office.com https://*.office365.com https://*.microsoft365.com;
+X-XSS-Protection: 1;mode=block
+X-Content-Type-Options: nosniff
+Referrer-Policy: strict-origin-when-cross-origin
+Strict-Transport-Security: max-age=31536000; includeSubDomains
+set-cookie: attr_multitouch="+VCzg+ss8Y3U7uJA9Ibs/ImRWHM="; Domain=.surveymonkey.com; expires=Wed, 30 Oct 2024 23:00:18 GMT; Path=/; SameSite=none; Secure
+set-cookie: cdp_seg="Xo6TUGJRW+472t0uIIfo5vASoRM="; Domain=.surveymonkey.com; expires=Mon, 29 Jan 2024 23:00:18 GMT; Path=/; SameSite=none; Secure
+set-cookie: ep201="wrGr1LtZO6WN/XXFI8RuDJAiRT0="; Domain=.surveymonkey.com; expires=Tue, 31 Oct 2023 23:30:18 GMT; Path=/; SameSite=none; Secure
+set-cookie: ep202="V/bUCfmIlisBNI9afxrPvue8QmI="; Domain=.surveymonkey.com; expires=Mon, 29 Jan 2024 23:00:18 GMT; Path=/; SameSite=none; Secure
+set-cookie: ep203="ac8eOsYB534TrOxk64J2Lnc/JSY="; Domain=.surveymonkey.com; expires=Mon, 29 Jan 2024 23:00:18 GMT; HttpOnly; Path=/; SameSite=none; Secure
+X-Cache: Miss from cloudfront
+Via: 1.1 e8eec15d9551dd475d4c478f9fbb5f04.cloudfront.net (CloudFront)
+X-Amz-Cf-Pop: IAD12-P3
+X-Amz-Cf-Id: DhwA1RjQ9RVHE-QxIvBtc9i_-e3hy2Gx0qHAOkdQ0Q7_jKgbALN3xw==
+Age: 13531
+

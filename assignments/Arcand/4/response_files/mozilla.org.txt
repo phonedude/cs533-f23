@@ -1,0 +1,45 @@
+HTTP/1.1 301 Moved Permanently
+Date: Mon, 16 Oct 2023 18:07:32 GMT
+Content-Type: text/html
+Content-Length: 162
+Connection: keep-alive
+Location: https://mozilla.org
+X-Frame-Options: SAMEORIGIN
+Content-Security-Policy: frame-ancestors 'none'
+
+HTTP/1.1 301 Moved Permanently
+Date: Mon, 16 Oct 2023 18:07:32 GMT
+Content-Type: text/html
+Content-Length: 162
+Connection: keep-alive
+Location: https://www.mozilla.org/
+Strict-Transport-Security: max-age=60; includeSubDomains
+X-Backend-Server: TS
+Cache-Control: max-age=3600
+X-Frame-Options: SAMEORIGIN
+Content-Security-Policy: frame-ancestors 'none'
+
+HTTP/1.1 200 OK
+Content-Type: text/html; charset=utf-8
+Content-Length: 63111
+Connection: keep-alive
+Server: meinheld/1.0.2
+Date: Mon, 16 Oct 2023 18:02:53 GMT
+X-Frame-Options: DENY
+Content-Security-Policy: child-src 'self' *.mozilla.net *.mozilla.org *.mozilla.com *.mozilla.org www.googletagmanager.com www.google-analytics.com www.youtube-nocookie.com trackertest.org www.surveygizmo.com accounts.firefox.com accounts.firefox.com.cn www.youtube.com js.stripe.com; default-src 'self' *.mozilla.net *.mozilla.org *.mozilla.com *.mozilla.org; img-src 'self' *.mozilla.net *.mozilla.org *.mozilla.com *.mozilla.org data: mozilla.org www.googletagmanager.com www.google-analytics.com creativecommons.org cdn-4.convertexperiments.com logs.convertexperiments.com images.ctfassets.net; style-src 'self' *.mozilla.net *.mozilla.org *.mozilla.com *.mozilla.org 'unsafe-inline' app.convert.com; connect-src 'self' *.mozilla.net *.mozilla.org *.mozilla.com *.mozilla.org www.googletagmanager.com www.google-analytics.com region1.google-analytics.com logs.convertexperiments.com 1003350.metrics.convertexperiments.com 1003343.metrics.convertexperiments.com sentry.prod.mozaws.net o1069899.sentry.io o1069899.ingest.sentry.io https://accounts.firefox.com/ stage.cjms.nonprod.cloudops.mozgcp.net cjms.services.mozilla.com; frame-src 'self' *.mozilla.net *.mozilla.org *.mozilla.com *.mozilla.org www.googletagmanager.com www.google-analytics.com www.youtube-nocookie.com trackertest.org www.surveygizmo.com accounts.firefox.com accounts.firefox.com.cn www.youtube.com js.stripe.com; script-src 'self' *.mozilla.net *.mozilla.org *.mozilla.com *.mozilla.org 'unsafe-inline' 'unsafe-eval' www.googletagmanager.com www.google-analytics.com tagmanager.google.com www.youtube.com s.ytimg.com cdn-4.convertexperiments.com app.convert.com data.track.convertexperiments.com 1003350.track.convertexperiments.com 1003343.track.convertexperiments.com js.stripe.com; font-src 'self'
+Cache-Control: max-age=600
+Expires: Mon, 16 Oct 2023 18:12:53 GMT
+X-Clacks-Overhead: GNU Terry Pratchett
+X-Backend-Server: bedrock-5cbb9f45bd-vpcp9.gcp-us-west1
+Strict-Transport-Security: max-age=31536000
+X-Content-Type-Options: nosniff
+X-XSS-Protection: 1; mode=block
+Referrer-Policy: strict-origin-when-cross-origin
+Via: 1.1 google, 1.1 221ee5ec812ed71353497211271896dc.cloudfront.net (CloudFront)
+ETag: "b0eb729e50749ffbb7dfe0278e251bc0"
+Vary: Accept-Encoding,Accept-Language
+X-Cache: Hit from cloudfront
+X-Amz-Cf-Pop: ATL59-P7
+X-Amz-Cf-Id: 68teB87PQ5YE2g2kdS9cTqwxtYMEBR5jzxqcCnUWzN36rvu9dI8n6g==
+Age: 279
+

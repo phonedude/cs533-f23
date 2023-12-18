@@ -1,0 +1,29 @@
+<html>
+<head>
+<title>
+Kumushini's Page
+</title>
+</head>
+
+<body>
+
+<h1>Welcome to my page! - Reading HTTP response headers</h1>
+
+<br><br>
+<h3>This page is created to demonstrate on how blocking and reading HTTP response headers from another origin.</h3>
+
+<script>
+
+fetch('http://localhost:4005')
+  .then(response => {
+  var movie = response.headers.get("X-CS533f23-movie")
+  var tvshow = response.headers.get("X-CS533f23-tvshow")
+  var musician = response.headers.get("X-CS533f23-musician")
+  console.log(`${movie}`)
+  console.log(`${tvshow}`)
+  console.log(`${musician}`)
+  })
+</script>
+
+</body>
+</html>

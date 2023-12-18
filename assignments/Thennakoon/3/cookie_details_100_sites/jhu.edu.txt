@@ -1,0 +1,28 @@
+HTTP/1.1 301 Moved Permanently
+Server: nginx/1.23.4
+Date: Tue, 10 Oct 2023 00:36:32 GMT
+Content-Type: text/html
+Content-Length: 169
+Connection: keep-alive
+Location: https://www.jhu.edu/
+
+HTTP/2 200 
+content-type: text/html; charset=UTF-8
+x-frame-options: SAMEORIGIN
+x-content-type-options: nosniff
+referrer-policy: strict-origin
+permissions-policy: geolocation=(),midi=(),microphone=(),camera=(),magnetometer=(),gyroscope=(),fullscreen=(self),payment=()
+link: <https://www.jhu.edu/wp-json/>; rel="https://api.w.org/"
+link: <https://www.jhu.edu/wp-json/wp/v2/pages/12375>; rel="alternate"; type="application/json"
+link: <https://www.jhu.edu/>; rel=shortlink
+strict-transport-security: max-age=31536000; includeSubDomains; preload
+x-xss-protection: 1; mode=block
+strict-transport-security: max-age=31536000; includeSubDomains
+x-content-type-options: nosniff
+x-frame-options: SAMEORIGIN
+x-xss-protection: 1; mode=block
+referrer-policy: strict-origin
+cache-control: max-age=703
+expires: Tue, 10 Oct 2023 00:48:15 GMT
+date: Tue, 10 Oct 2023 00:36:32 GMT
+

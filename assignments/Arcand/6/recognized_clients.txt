@@ -1,0 +1,19 @@
+[Wed Dec 06 2023 13:42:34 GMT-0500 (Eastern Standard Time)] {
+  "date": "2023-12-06T18:42:34.003Z",
+  "fingerprint": "34970e8eae4412adb23b734bdf6603f3",
+  "ip": "192.168.4.29",
+  "headers": {
+    "host": "192.168.4.29:3000",
+    "connection": "keep-alive",
+    "cache-control": "max-age=0",
+    "dnt": "1",
+    "upgrade-insecure-requests": "1",
+    "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36",
+    "accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7",
+    "accept-encoding": "gzip, deflate",
+    "accept-language": "en-US,en;q=0.9",
+    "if-none-match": "W/\"12e-18bf3c4417a\"",
+    "if-modified-since": "Tue, 21 Nov 2023 21:23:27 GMT"
+  },
+  "browserUsed": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36"
+}

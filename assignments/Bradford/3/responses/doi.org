@@ -1,0 +1,17 @@
+> HTTP/1.1 200 OK
+> Content-Type: text/html
+> Content-Length: 6819
+> Connection: keep-alive
+> Date: Fri, 06 Oct 2023 14:10:50 GMT
+> Last-Modified: Mon, 10 Apr 2023 08:52:49 GMT
+> ETag: "738314b5665f38027821605b70311c81"
+> x-amz-server-side-encryption: AES256
+> x-amz-meta-md5chksum: 738314b5665f38027821605b70311c81
+> Content-Encoding: gzip
+> Accept-Ranges: bytes
+> Server: AmazonS3
+> X-Cache: Miss from cloudfront
+> Via: 1.1 be4fef3f6c1b2c76e0341ff49a27ce40.cloudfront.net (CloudFront)
+> X-Amz-Cf-Pop: IAD61-P1
+> X-Amz-Cf-Id: XseoOf24hRjnoFwIdXcjsr2h9psSZxXq590RHTvzRcb54H7S32MFIw==
+> 

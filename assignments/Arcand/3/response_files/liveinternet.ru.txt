@@ -1,0 +1,17 @@
+HTTP/1.1 301 Moved Permanently
+Server: nginx/1.14.2
+Date: Sat, 14 Oct 2023 20:04:29 GMT
+Content-Type: text/html
+Content-Length: 185
+Connection: keep-alive
+Location: https://www.liveinternet.ru/
+
+HTTP/1.1 200 OK
+Server: nginx/1.14.2
+Date: Sat, 14 Oct 2023 20:04:30 GMT
+Content-Type: text/html; charset=utf-8
+Connection: keep-alive
+Expires: Thu, 13 Oct 2022 21:00:00 GMT
+Pragma: no-cache
+Cache-control: no-cache
+

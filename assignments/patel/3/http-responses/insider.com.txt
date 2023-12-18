@@ -1,0 +1,38 @@
+HTTP/1.1 301 Moved Permanently
+Connection: close
+Content-Length: 2047
+Server: Varnish
+Retry-After: 0
+Content-Type: text/html; charset=utf-8
+Accept-Ranges: bytes
+Date: Thu, 19 Oct 2023 01:22:33 GMT
+Via: 1.1 varnish
+X-Served-By: cache-iad-kiad7000137-IAD
+X-Cache: MISS
+X-Cache-Hits: 0
+X-Timer: S1697678554.951218,VS0,VE0
+Strict-Transport-Security: max-age=31536000
+Location: https://www.insider.com/
+
+HTTP/1.1 200 OK
+Connection: keep-alive
+Content-Length: 329370
+Content-Type: text/html; charset=utf-8
+X-Powered-By: Fenrir
+Last-Modified: Thu, 19 Oct 2023 01:21:46 GMT
+Cache-Control: public, max-age=120
+X-Frame-Options: sameorigin
+Access-Control-Allow-Headers: Origin, X-Requested-With, Content-Type, Accept
+Link: </styles/landing-page.6ad6ea7a5b27f5ac739b.css>; rel=preload; as=style; nopush, </scripts/main.fa1e9a65b931e8c3c461.js>; rel=preload; as=script; nopush, </scripts/vendors.f1c31d14dbc7b2db42d0.js>; rel=preload; as=script; nopush, </scripts/utilities.b48926f4b9eded159e20.js>; rel=preload; as=script; nopush, </public/fonts/subset/LabGrotesque-Black-subset.woff2>; rel=preload; as=font; type=font/woff2; crossorigin; nopush
+ETag: W/"5069a-5h4nvIqAfnlQcQgd0fjK6XAk1wY"
+X-Country-Code: US
+Accept-Ranges: bytes
+Date: Thu, 19 Oct 2023 01:22:34 GMT
+Via: 1.1 varnish
+Age: 48
+X-Served-By: cache-iad-kiad7000172-IAD
+X-Cache: HIT
+X-Cache-Hits: 1
+X-Timer: S1697678554.049859,VS0,VE3
+Vary: Accept-Encoding, Authorization, Fastly-SSL, X-Device, X-Continent-Code, X-Piano-Disabled, X-User-Logged-In, X-User-Has-Access, X-ABTest-smart-banner, X-ABTest-taboola-widgets-for-review, X-ABTest-ad-unit-launch
+Strict-Transport-Security: max-age=31536000

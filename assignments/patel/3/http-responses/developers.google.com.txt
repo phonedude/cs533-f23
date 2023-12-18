@@ -1,0 +1,27 @@
+HTTP/1.1 301 Moved Permanently
+Location: https://developers.google.com/
+X-Cloud-Trace-Context: 486ad76f31ffdf702103d145172ee1d0
+Date: Thu, 19 Oct 2023 00:59:01 GMT
+Content-Type: text/html
+Server: Google Frontend
+Transfer-Encoding: chunked
+
+HTTP/1.1 200 OK
+Last-Modified: Tue, 17 Oct 2023 20:17:19 GMT
+Content-Type: text/html; charset=utf-8
+Vary: Cookie
+Set-Cookie: _ga_devsite=GA1.3.898587527.1697677142; Expires=Sat, 18 Oct 2025 00:59:02 GMT; Max-Age=63072000; Path=/
+Set-Cookie: _ga_devsite=GA1.3.898587527.1697677142; Expires=Sat, 18 Oct 2025 00:59:02 GMT; Max-Age=63072000; Path=/
+Content-Security-Policy: base-uri 'self'; object-src 'none'; script-src 'strict-dynamic' 'unsafe-inline' https: http: 'nonce-VJcgE4MCRytzjeiHK2pW5IUpSCC0Nw' 'unsafe-eval'; report-uri https://csp.withgoogle.com/csp/devsite/v2
+Strict-Transport-Security: max-age=63072000; includeSubdomains; preload
+X-Frame-Options: SAMEORIGIN
+X-XSS-Protection: 0
+X-Content-Type-Options: nosniff
+Cache-Control: no-cache, must-revalidate
+Expires: 0
+Pragma: no-cache
+X-Cloud-Trace-Context: f9528f5199d7826af73e01fa7135f35a
+Content-Length: 182706
+Date: Thu, 19 Oct 2023 00:59:02 GMT
+Server: Google Frontend
+Alt-Svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000

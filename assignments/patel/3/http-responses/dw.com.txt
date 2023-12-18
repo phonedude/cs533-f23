@@ -1,0 +1,13 @@
+HTTP/1.1 301 Moved Permanently
+Content-length: 0
+Location: https://www.dw.com/
+
+HTTP/1.1 200 OK
+Strict-Transport-Security: max-age=31536000
+ETag: "2d30-25Lx1twSTyZwp1Av8/7LPTM90MQ"
+Content-Type: text/html; charset=utf-8
+Onion-Location: https://www.dwnewsgngmhlplxy6o2twtfgjnrnjxbegbwqx6wnotdhkzt562tszfid.onion/
+Access-Control-Allow-Origin: *
+Cache-Control: public, max-age=30, s-maxage=60
+Date: Thu, 19 Oct 2023 01:00:14 GMT
+Connection: keep-alive

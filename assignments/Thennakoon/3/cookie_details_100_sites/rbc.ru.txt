@@ -1,0 +1,22 @@
+HTTP/1.1 301 Moved Permanently
+Server: QRATOR
+Date: Tue, 10 Oct 2023 00:36:47 GMT
+Content-Type: text/html
+Content-Length: 36
+Connection: keep-alive
+Keep-Alive: timeout=15
+Location: https://www.rbc.ru/
+
+HTTP/1.1 405 Not Allowed
+Server: QRATOR
+Date: Tue, 10 Oct 2023 00:36:48 GMT
+Content-Type: text/html
+Content-Length: 150
+Connection: keep-alive
+Keep-Alive: timeout=15
+Set-Cookie: splituid=uUjlc2UknJ+m4x4IA1G6Ag==; expires=Thu, 30-Jul-26 00:36:47 GMT; domain=.rbc.ru; path=/
+Cache-Control: no-cache, no-store, must-revalidate
+Pragma: no-cache
+Expires: 0
+Set-Cookie: qrator_msid=1696898207.640.fSnzZ81ztc6bJCHJ-p6jk20o2lnut66gelrt8s7aaffpd4dgj; Max-Age=2000;  Domain=.rbc.ru; Path=/
+

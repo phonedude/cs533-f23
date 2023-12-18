@@ -1,0 +1,43 @@
+HTTP/1.1 301 Moved Permanently
+Date: Tue, 31 Oct 2023 23:00:26 GMT
+Server: Apache
+Location: https://www.webmd.com/
+Content-Type: text/html; charset=iso-8859-1
+
+HTTP/2 200 
+date: Tue, 31 Oct 2023 23:00:27 GMT
+content-type: text/html
+cf-cache-status: HIT
+access-control-allow-origin: *
+age: 20
+cache-control: no-cache, no-store, must-revalidate
+set-cookie: lrt_wrk=lrt1_cached_k8_worker_1_40S_21S_2023-10-19_14:01:14_gdbp_false_gtedgefrom_MA1_E_false_UC_false_UD_false_mp_false_active_true_from_MA1_ovr__config_envName_.k8s.lb._envNameFound_true_actv_true_blk_N/A_1698793227492_hvid_false; domain=.webmd.com; path=/
+cf-edge-cache-control: s-maxage=119, maxage=10, proxy-revalidate, stale-while-revalidate=30
+cf-wrk: lrt1_cached_k8_worker_1_40S_21S_2023-10-19_14:01:14_gdbp_false_gtedgefrom_MA1_E_false_UC_false_UD_false_mp_false_active_true_from_MA1_ovr__config_envName_.k8s.lb._envNameFound_true_actv_true_blk_N/A_1698793227492
+content-security-policy: upgrade-insecure-requests
+set-cookie: gtinfo={"ct":"Norfolk","c":"Norfolk City","cc":"51710","st":"VA","sc":"47","z":"23529","lat":"36.88","lon":"-76.31","dma":"544","cntr":"usa","cntrc":"840","tz":null,"ci":"128.82.19.1"}; domain=.webmd.com; path=/
+set-cookie: VisitorId=8d8201c1-fd52-490b-4d9f-351230a448f3; Expires=Mon, 31 Oct 2033 23:00:27 GMT; domain=.webmd.com; path=/
+set-cookie: ab=default; domain=.webmd.com; path=/; expires=Thu, 01 Jan 1970 00:00:00 GMT
+x-backend: default
+x-backend-by: default
+x-cache: HIT
+x-cache-control-by: override
+x-cache-duration: 0.083333333333333h
+x-cache-expiry: Tuesday, 31-Oct-2023 23:01:04 GMT
+x-cache-reason: routing
+x-cache-time: Tuesday, 31-Oct-2023 22:56:05 GMT
+x-datacenter: MA1
+x-dbg-gt: gtinfo={"ct":"Moscow","c":null,"cc":null,"st":"MOW","sc":null,"z":"107564","lat":"55.74830","lon":"37.61710","dma":null,"cntr":"RUS","cntrc":"643","tz":"Europe/Moscow","ci":"185.234.216.114","debug":"Cloudflare"}
+x-edge-cache-duration: 0.033333333333333h
+x-edge-cache-expiry: Tuesday, 31-Oct-2023 22:58:04 GMT
+x-gt-setter: usr
+x-redis: redis_server_2
+x-route: pg
+x-route-akamai: N/A
+x-runtime: new
+x-true-client-ip: 128.82.19.1
+report-to: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=P2YQPl6gR7TlS83LKhljOUeHELnMlUp3wKRkcYZNrfO4s9q2x1vWlY8nQD1C8CB8lVtnQATnvKuFg29f5Ph8FAHKy6Z6vC%2B8vZBy45%2BLVY3gMNfuTv9H5CI8ls0cHhY%3D"}],"group":"cf-nel","max_age":604800}
+nel: {"success_fraction":0.01,"report_to":"cf-nel","max_age":604800}
+server: cloudflare
+cf-ray: 81ef83a739764210-EWR
+

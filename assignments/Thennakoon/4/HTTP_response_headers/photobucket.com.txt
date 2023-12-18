@@ -1,0 +1,32 @@
+HTTP/1.1 301 Moved Permanently
+Date: Tue, 31 Oct 2023 23:00:05 GMT
+Content-Type: text/html
+Content-Length: 167
+Connection: keep-alive
+Location: https://photobucket.com/
+X-Cache: Redirect from cloudfront
+Via: 1.1 55e412eec3baebe47cd72947531b5c5c.cloudfront.net (CloudFront)
+X-Amz-Cf-Pop: IAD79-C3
+X-Amz-Cf-Id: YP4aHnKfy6LOJLflxgR20Cd6TQyXYe6RIOi9asB1hPAAaEqDq_yGSw==
+Cache-Control: no-cache
+server: Photobucket
+Vary: Origin
+
+HTTP/2 200 
+content-type: text/html
+content-length: 2636
+last-modified: Thu, 26 Oct 2023 15:31:20 GMT
+x-amz-server-side-encryption: AES256
+accept-ranges: bytes
+server: Photobucket
+date: Tue, 31 Oct 2023 15:35:09 GMT
+etag: "5f452748fa34b8be568769a40ddc1d7d"
+vary: Accept-Encoding
+x-cache: Error from cloudfront
+via: 1.1 c3fbf93d9b0f1f9b36fcc420314f3186.cloudfront.net (CloudFront)
+x-amz-cf-pop: IAD79-C3
+x-amz-cf-id: nES10j87jdVagk5DTfT9912YOJQE2VIhcbXG6M_a3LW_onqIViGVzw==
+age: 26697
+cache-control: no-cache
+vary: Origin
+

@@ -1,0 +1,12 @@
+> HTTP/1.1 200 OK
+> Date: Fri, 06 Oct 2023 14:11:19 GMT
+> Content-Type: text/html
+> Connection: keep-alive
+> Server: nginx
+> Vary: Accept-Encoding
+> Vary: Accept-Encoding,User-Agent
+> Expires: Fri, 06 Oct 2023 14:26:19 GMT
+> Cache-Control: max-age=900
+> Strict-Transport-Security: max-age=31536000
+> Content-Encoding: gzip
+> 

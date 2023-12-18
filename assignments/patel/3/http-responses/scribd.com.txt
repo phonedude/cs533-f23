@@ -1,0 +1,60 @@
+HTTP/1.1 301 Moved Permanently
+Connection: close
+Content-Length: 0
+Server: Varnish
+Retry-After: 0
+Location: https://scribd.com/
+Accept-Ranges: bytes
+Date: Thu, 19 Oct 2023 01:32:27 GMT
+Via: 1.1 varnish
+X-Served-By: cache-iad-kiad7000062-IAD
+X-Cache: HIT
+X-Cache-Hits: 0
+Vary:
+
+HTTP/1.1 302 Found
+Connection: close
+Content-Length: 0
+Server: Varnish
+Retry-After: 0
+Location: https://www.scribd.com/
+Accept-Ranges: bytes
+Date: Thu, 19 Oct 2023 01:32:27 GMT
+Via: 1.1 varnish
+X-Served-By: cache-iad-kiad7000176-IAD
+X-Cache: HIT
+X-Cache-Hits: 0
+Vary:
+Strict-Transport-Security: max-age=63072000; includeSubDomains; preload
+Set-Cookie: scribd_ubtc=u%3Db99066c4-e1dc-48d9-815e-4cf383bec392%26h%3D%2BEeDKP8blbLDk1TtTVV%2BM4479NgDXPnqylAGVVGwadA%3D; Domain=.scribd.com; Path=/; Expires=Sat, 25 Sep 2123 01:32:27 GMT; SameSite=None; Secure
+
+HTTP/1.1 200 OK
+Connection: keep-alive
+Content-Length: 648000
+Content-Type: text/html; charset=utf-8
+Cache-Control: public, no-cache
+Content-Security-Policy: frame-ancestors 'self'
+Etag: W/"37dd31095c333f1ef760e7878a418327"
+Link: <https://cmp.osano.com/AzZdHGSGtpxCq1Cpt/4e10b135-d113-4574-a477-270ace40bba7/osano.js?language=en>; rel=preload; as=script; critical
+Referrer-Policy: strict-origin-when-cross-origin
+Server: nginx
+Status: 200 OK
+X-Content-Type-Options: nosniff
+X-Download-Options: noopen
+X-Frame-Options: SAMEORIGIN
+X-Permitted-Cross-Domain-Policies: none
+X-Request-Id: 00182dd98a6803b1cfd52f066d4ee1c9ee138c45ce699c46a9aa0148aa4dc20f
+X-Runtime: 0.212378
+X-Xss-Protection: 1; mode=block
+Accept-Ranges: bytes
+Date: Thu, 19 Oct 2023 01:32:27 GMT
+Via: 1.1 varnish
+Age: 148350
+X-Served-By: cache-iad-kiad7000027-IAD
+X-Cache: HIT
+X-Cache-Hits: 1
+X-Timer: S1697679147.206667,VS0,VE3
+Vary: Accept-Encoding, X-Language-Locale, X-Scribd-Country-Code
+Strict-Transport-Security: max-age=63072000; includeSubDomains
+Set-Cookie: scribd_ubtc=u%3D9a91a07f-c09d-47b0-bfc9-ffdf37a32d52%26h%3D%2BDuc6wSIQ83mNrhSLfKSzCpAzqMBPsTPBAAvUxQ0aco%3D; Domain=.scribd.com; Path=/; Expires=Sat, 25 Sep 2123 01:32:27 GMT; SameSite=None; Secure
+alt-svc: h3=":443";ma=86400,h3-29=":443";ma=86400,h3-27=":443";ma=86400

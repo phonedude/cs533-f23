@@ -1,0 +1,55 @@
+HTTP/1.1 301 Moved Permanently
+content-length: 0
+location: https://ovh.com/
+date: Mon, 16 Oct 2023 18:07:45 GMT
+x-cdn-pop: bhs
+x-cdn-pop-ip: 137.74.122.0/26
+x-request-id: 61407467
+x-cacheable: Cacheable
+x-iplb-request-id: 60252A83:C78D_C61B5C01:0050_652D7BF1_5CC75:2BDBD
+x-iplb-instance: 42352
+
+HTTP/1.1 301 Moved Permanently
+Date: Mon, 16 Oct 2023 18:07:45 GMT
+Content-Length: 0
+location: https://www.ovh.com/
+x-iplb-request-id: 90D9023E:4650_C063418B:01BB_652D7BF1_13F0:2A898
+x-iplb-instance: 49220
+X-CDN-Pop: bhs
+X-CDN-Pop-IP: 137.74.122.0/26
+X-Request-ID: 1071874321
+X-Cacheable: Cacheable
+Connection: keep-alive
+
+HTTP/1.1 301 Moved Permanently
+Date: Mon, 16 Oct 2023 18:07:46 GMT
+X-Cacheable: Not cacheable: not http 200
+X-CDN-Pop: bhs
+X-CDN-Pop-IP: 137.74.122.0/26
+Content-Type: text/html; charset=utf-8
+X-Request-ID: 78086225
+Location: https://www.ovhcloud.com/en/
+Content-Length: 0
+Connection: keep-alive
+
+HTTP/1.1 200 OK
+Date: Mon, 16 Oct 2023 18:07:46 GMT
+Content-Type: text/html
+last-modified: Mon, 16 Oct 2023 15:02:17 GMT
+vary: Accept-Encoding
+etag: W/"652d5079-6aea1"
+x-frame-options: SAMEORIGIN
+x-xss-protection: 1; mode=block
+x-content-type-options: nosniff
+x-toujours-debout-location: BHS
+x-toujours-debout-branch: B
+cache-control: public, must-revalidate, max-age=90
+x-iplb-request-id: 90D90235:6AF8_C063418B:01BB_652D7BF2_1C20:2A8A6
+x-iplb-instance: 49220
+X-CDN-Pop: bhs
+X-CDN-Pop-IP: 137.74.122.0/26
+X-Request-ID: 952404253
+X-Cacheable: Cacheable
+Accept-Ranges: bytes
+Connection: keep-alive
+

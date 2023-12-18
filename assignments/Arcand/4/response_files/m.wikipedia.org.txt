@@ -1,0 +1,51 @@
+HTTP/1.1 301 Moved Permanently
+content-length: 0
+location: https://m.wikipedia.org/
+server: HAProxy
+x-cache: cp1085 int
+x-cache-status: int-tls
+connection: close
+
+HTTP/1.1 301 Moved Permanently
+date: Mon, 16 Oct 2023 11:10:00 GMT
+server: mw1403.eqiad.wmnet
+location: https://www.wikipedia.org/
+content-length: 234
+content-type: text/html; charset=iso-8859-1
+vary: X-Forwarded-Proto
+age: 25047
+x-cache: cp1079 miss, cp1081 hit/15
+x-cache-status: hit-front
+server-timing: cache;desc="hit-front", host;desc="cp1081"
+strict-transport-security: max-age=106384710; includeSubDomains; preload
+report-to: { "group": "wm_nel", "max_age": 604800, "endpoints": [{ "url": "https://intake-logging.wikimedia.org/v1/events?stream=w3c.reportingapi.network_error&schema_uri=/w3c/reportingapi/network_error/1.0.0" }] }
+nel: { "report_to": "wm_nel", "max_age": 604800, "failure_fraction": 0.05, "success_fraction": 0.0}
+set-cookie: WMF-Last-Access=16-Oct-2023;Path=/;HttpOnly;secure;Expires=Fri, 17 Nov 2023 12:00:00 GMT
+set-cookie: WMF-Last-Access-Global=16-Oct-2023;Path=/;Domain=.wikipedia.org;HttpOnly;secure;Expires=Fri, 17 Nov 2023 12:00:00 GMT
+x-client-ip: 2600:6c60:6000:fd:c164:3fc5:7cf4:c1ea
+set-cookie: GeoIP=US:VA:Suffolk:36.73:-76.59:v4; Path=/; secure; Domain=.wikipedia.org
+set-cookie: NetworkProbeLimit=0.001;Path=/;Secure;Max-Age=3600
+
+HTTP/1.1 200 OK
+date: Sun, 15 Oct 2023 22:26:12 GMT
+server: mw-web.eqiad.main-76b85c5fdc-fv7r7
+last-modified: Mon, 18 Sep 2023 15:35:20 GMT
+cache-control: s-maxage=86400, must-revalidate, max-age=3600
+content-type: text/html
+etag: W/"1514f-605a3e3cdfe00"
+vary: Accept-Encoding
+age: 70876
+x-cache: cp1079 hit, cp1081 hit/1091808
+x-cache-status: hit-front
+server-timing: cache;desc="hit-front", host;desc="cp1081"
+strict-transport-security: max-age=106384710; includeSubDomains; preload
+report-to: { "group": "wm_nel", "max_age": 604800, "endpoints": [{ "url": "https://intake-logging.wikimedia.org/v1/events?stream=w3c.reportingapi.network_error&schema_uri=/w3c/reportingapi/network_error/1.0.0" }] }
+nel: { "report_to": "wm_nel", "max_age": 604800, "failure_fraction": 0.05, "success_fraction": 0.0}
+set-cookie: WMF-Last-Access=16-Oct-2023;Path=/;HttpOnly;secure;Expires=Fri, 17 Nov 2023 12:00:00 GMT
+set-cookie: WMF-Last-Access-Global=16-Oct-2023;Path=/;Domain=.wikipedia.org;HttpOnly;secure;Expires=Fri, 17 Nov 2023 12:00:00 GMT
+x-client-ip: 2600:6c60:6000:fd:c164:3fc5:7cf4:c1ea
+set-cookie: GeoIP=US:VA:Suffolk:36.73:-76.59:v4; Path=/; secure; Domain=.wikipedia.org
+set-cookie: NetworkProbeLimit=0.001;Path=/;Secure;Max-Age=3600
+accept-ranges: bytes
+content-length: 86351
+

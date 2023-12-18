@@ -1,0 +1,34 @@
+HTTP/1.1 301 Moved Permanently
+Server: PAAS-WEB
+Date: Sat, 14 Oct 2023 20:04:23 GMT
+Content-Type: text/html
+Content-Length: 165
+Connection: keep-alive
+Location: https://www.huawei.com/
+processtime: 0.000
+
+HTTP/1.1 301 Moved Permanently
+Server: AkamaiGHost
+Content-Length: 0
+Location: https://www.huawei.com/en/?ic_medium=direct&ic_source=surlent
+Date: Sat, 14 Oct 2023 20:04:23 GMT
+Connection: keep-alive
+IPv6: 2600:1407:e800:582::2c15 serving 2600:6c60:6000:fd:7845:f21:9a37:b4ac from US
+
+HTTP/1.1 200 OK
+Server: PAAS-WEB
+Content-Type: text/html; charset=utf-8
+X-Frame-Options: SAMEORIGIN
+X-Content-Type-Options: nosniff
+X-XSS-Protection: 1; mode=block
+X-Download-Options: noopen
+Strict-Transport-Security: max-age=31536000
+X-Powered-By: ASP.NET
+processtime: 0.040
+Expires: Sat, 14 Oct 2023 20:04:24 GMT
+Cache-Control: max-age=0, no-cache, no-store
+Pragma: no-cache
+Date: Sat, 14 Oct 2023 20:04:24 GMT
+Connection: keep-alive
+IPv6: 2600:1407:e800:582::2c15 serving 2600:6c60:6000:fd:7845:f21:9a37:b4ac from US
+

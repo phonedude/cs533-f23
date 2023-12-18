@@ -1,0 +1,38 @@
+HTTP/1.1 301 Moved Permanently
+Connection: close
+Content-Length: 0
+Server: Varnish
+Retry-After: 0
+Location: https://www.fastcompany.com/
+X-API-Version: 0
+Accept-Ranges: bytes
+Date: Mon, 16 Oct 2023 18:07:05 GMT
+Via: 1.1 varnish
+X-Served-By: cache-pdk-kpdk1780040-PDK
+X-Cache: HIT
+X-Cache-Hits: 0
+
+HTTP/1.1 403 Forbidden
+Connection: keep-alive
+Content-Length: 586
+Server: DataDome
+X-DataDome: protected
+Accept-CH: Sec-CH-UA,Sec-CH-UA-Mobile,Sec-CH-UA-Platform,Sec-CH-UA-Arch,Sec-CH-UA-Full-Version-List,Sec-CH-UA-Model,Sec-CH-Device-Memory
+Content-Type: text/html;charset=utf-8
+Charset: utf-8
+Cache-Control: max-age=0, private, no-cache, no-store, must-revalidate
+Pragma: no-cache
+Access-Control-Allow-Credentials: true
+Access-Control-Expose-Headers: x-dd-b, x-set-cookie
+Access-Control-Allow-Origin: *
+Accept-CH: Sec-CH-UA,Sec-CH-UA-Mobile,Sec-CH-UA-Platform,Sec-CH-UA-Arch,Sec-CH-UA-Full-Version-List,Sec-CH-UA-Model,Sec-CH-Device-Memory
+X-DataDome-CID: AHrlqAAAAAMAR4oaPq7RjcMAYCUqgw==
+Set-Cookie: datadome=X08Je7j7Uqd0jQxpyu3iBqxschPwv_cI4PIJfJWazZTpFMl89HDy02XjR3x1Wm3P~nuJbJ445KpitqaaKiE6PNPYQurbzAvm9ACN~txviTugw5VJqIsjdVSgC~MJIC_6; Max-Age=31536000; Domain=.fastcompany.com; Path=/; Secure; SameSite=Lax
+x-datadome-timer: S1697479626.770202,VS0,VE81
+Accept-Ranges: bytes
+Date: Mon, 16 Oct 2023 18:07:05 GMT
+Via: 1.1 varnish
+X-Served-By: cache-pdk-kpdk1780134-PDK
+X-Cache: MISS
+X-Cache-Hits: 0
+

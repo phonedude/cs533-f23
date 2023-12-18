@@ -1,0 +1,25 @@
+HTTP/1.1 301 Moved Permanently
+Date: Tue, 10 Oct 2023 00:36:18 GMT
+Server: Apache/2.4.6 (CentOS)
+Location: https://www.cointernet.com.co/
+Content-Type: text/html; charset=iso-8859-1
+
+HTTP/1.1 200 OK
+Date: Tue, 10 Oct 2023 00:36:18 GMT
+Content-Type: text/html; charset=utf-8
+Connection: keep-alive
+Server: nginx/1.20.1
+X-Powered-By: PHP/7.1.33
+X-Frame-Options: SAMEORIGIN
+X-Content-Type-Options: nosniff
+Referrer-Policy: no-referrer
+Permissions-Policy: geolocation=(),midi=(),sync-xhr=(),microphone=(),camera=(),magnetometer=(),gyroscope=(),fullscreen=(self),payment=()
+X-XSS-Protection: 1; mode=block
+Content-Security-Policy: default-src 'self'; style-src 'self'; script-src 'self' https://www.gstatic.com https://stats.g.doubleclick.net https://www.google-analytics.com https://www.expedrion.biz https://www.googleadservices.com https://www.google.com https://www.googletagmanager.com; img-src * https://googleads.g.doubleclick.net https://www.google.com data: 'unsafe-inline' https://*.google-analytics.com https://*.analytics.google.com https://*.googletagmanager.com https://*.g.doubleclick.net https://*.google.com; connect-src * 'unsafe-inline'; font-src 'self' https://fonts.gstatic.com; frame-src *
+Strict-Transport-Security: max-age=31536000; includeSubdomains; preload
+Access-Control-Allow-Origin: https://www.expedrion.biz
+Access-Control-Allow-Origin: https://stats.g.doubleclick.net/j/collect
+Access-Control-Allow-Origin: https://www.youtube.com
+Surrogate-Control: public, max-age=86400
+Cache-Control: public, max-age=120
+

@@ -1,0 +1,30 @@
+HTTP/1.1 301 Moved Permanently
+Date: Tue, 31 Oct 2023 22:59:52 GMT
+Server: Apache
+X-Frame-Options: SAMEORIGIN
+Location: http://www.hp.com/
+Cache-Control: max-age=7200
+Expires: Wed, 01 Nov 2023 00:59:52 GMT
+Vary: Accept-Encoding
+Content-Type: text/html; charset=iso-8859-1
+X-Varnish: 444083886
+Age: 0
+Via: 1.1 varnish (Varnish/6.0)
+X-Varnish-Origin: g7t14874g.inc.hp.com
+X-Cache: MISS
+Connection: keep-alive
+
+HTTP/1.1 503 Service Unavailable
+Server: AkamaiGHost
+Mime-Version: 1.0
+Content-Type: text/html
+Content-Length: 176
+Expires: Tue, 31 Oct 2023 22:59:52 GMT
+Date: Tue, 31 Oct 2023 22:59:52 GMT
+Connection: keep-alive
+Set-Cookie: aka_client_code=US-
+Akamai-GRN: 0.0b6bdc17.1698793192.d6a65d30
+Set-Cookie: _abck=5FC90023E7A9AA07B9FFCABA25FB0C62~-1~YAAQC2vcFzXzR1CLAQAA4/32hwpeWnhpI9JzBfn/3jR2JI8J2j7lFRdDUp1i/A5r78mUMN+2U1AwyE3jUoxFpStslIWvgKURNB221spd1J9wUWD7sz0dInGJ8j/XfmdQ5PN/of6ZvDGsW0ja4APe3LG7zzDArEgctcufQ+2sQytUTLpzi4UQisIjHFCcZiKjnFNJu7Qw7c9dPOqWoiffUYLPZOf7iH4LT543uAf/AFz6LjR8XJngnYA/EU/AnMytKMMPnFWmSa6puVWGBGcDH0Ybb8OuAioZ3MBpz/2gV+ol5RW0uiqR1sBlXNX5OB5v6dyhgw2y7z/TaWhhgg0oYQ==~-1~-1~-1; Domain=.hp.com; Path=/; Expires=Wed, 30 Oct 2024 22:59:52 GMT; Max-Age=31536000
+Set-Cookie: bm_sz=F8A7A9B8615EBAB6A9AC6520D61780EA~YAAQC2vcFzbzR1CLAQAA4/32hxWzf+KvR6hW07X1wmdUPf5KYZTointzDSrThZjdOTp1uaWHv7HKH6ymonZfXREfuXpXb86QgXTT8c/Xu8uDDShcXG4UkHrf8Z8THMcISI1lE5V6m6rQVq4vpoa4Bv3RzHx+In+dVslSApMeWMIM5/8wZiZrCx7Lexp09/ZZvLDMe5YkD2rImym9AsghDSB4iQqIcBd7MRxae8jIDNYg93IYhHfUZ1Ce9/FPwt2bhX+krDx+MsRsrdu30beKhOrwBxocxMYEEbIlFb0zwQ==~3683894~3616818; Domain=.hp.com; Path=/; Expires=Wed, 01 Nov 2023 02:59:52 GMT; Max-Age=14400
+Server-Timing: ak_p; desc="1698793192919_400321291_3601227056_24_11127_9_0_-";dur=1
+

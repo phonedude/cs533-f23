@@ -1,0 +1,27 @@
+HTTP/1.1 301 Moved Permanently
+Date: Sat, 14 Oct 2023 20:04:39 GMT
+Content-Type: text/html
+Content-Length: 166
+Connection: keep-alive
+Location: https://www.namecheap.com/
+Server: namecheap-nginx
+Strict-Transport-Security: max-age=16000000
+
+HTTP/1.1 200 OK
+Date: Sat, 14 Oct 2023 20:04:39 GMT
+Content-Type: text/html; charset=UTF-8
+Connection: keep-alive
+CF-Ray: 81626ec36b8853c0-ATL
+CF-Cache-Status: EXPIRED
+Cache-Control: public, max-age=14400
+Expires: Sun, 15 Oct 2023 00:04:39 GMT
+Last-Modified: Sat, 14 Oct 2023 20:02:11 GMT
+Set-Cookie: __cflb=02DiuJ7dRDeDqrVicRhJqrVRixjQApyUWTNypXddsB2y2; SameSite=Lax; path=/; expires=Sun, 15-Oct-23 19:04:39 GMT; HttpOnly
+Strict-Transport-Security: max-age=16000000; includeSubDomains
+Vary: Accept-Encoding
+x-frame-options: SAMEORIGIN
+x-xss-protection: 1; mode=block
+Set-Cookie: x-ab-promoted-home-different-content=1;expires=Mon, 13 Nov 2023 20:04:39 GMT
+Set-Cookie: __cfruid=efeef93de82aa56438bcd7eb8e8c6d472d483956-1697313879; path=/; domain=.namecheap.com; HttpOnly; Secure; SameSite=None
+Server: cloudflare
+

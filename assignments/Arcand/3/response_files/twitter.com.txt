@@ -1,0 +1,27 @@
+HTTP/1.1 301 Moved Permanently
+perf: 7626143928
+location: https://twitter.com/
+cache-control: no-cache, no-store, max-age=0
+content-length: 0
+x-transaction-id: 3fa60e24ff5fb506
+x-response-time: 1
+x-connection-hash: 6d1e8adca1fd0505ada34645c3dc1b7934f74516069e39d70b423b473d4ee543
+date: Sat, 14 Oct 2023 20:05:17 GMT
+server: tsa_b
+
+HTTP/1.1 403 Forbidden
+date: Sat, 14 Oct 2023 20:05:17 GMT
+perf: 7626143928
+server: tsa_b
+set-cookie: guest_id_marketing=v1%3A169731391779753203; Max-Age=63072000; Expires=Mon, 13 Oct 2025 20:05:17 GMT; Path=/; Domain=.twitter.com; Secure; SameSite=None
+set-cookie: guest_id_ads=v1%3A169731391779753203; Max-Age=63072000; Expires=Mon, 13 Oct 2025 20:05:17 GMT; Path=/; Domain=.twitter.com; Secure; SameSite=None
+set-cookie: personalization_id="v1_ugvZgXU8PXxE5+mb5TdUow=="; Max-Age=63072000; Expires=Mon, 13 Oct 2025 20:05:17 GMT; Path=/; Domain=.twitter.com; Secure; SameSite=None
+set-cookie: guest_id=v1%3A169731391779753203; Max-Age=63072000; Expires=Mon, 13 Oct 2025 20:05:17 GMT; Path=/; Domain=.twitter.com; Secure; SameSite=None
+x-powered-by: Express
+cache-control: no-cache, no-store, max-age=0
+x-transaction-id: 9139b58daab97560
+strict-transport-security: max-age=631138519
+x-response-time: 16
+x-connection-hash: 2695a936ba03743dffe2d85a6445ce49eafe3061e12c726c3e0b630181018d47
+transfer-encoding: chunked
+

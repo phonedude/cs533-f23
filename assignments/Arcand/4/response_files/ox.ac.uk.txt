@@ -1,0 +1,61 @@
+HTTP/1.1 301 Moved Permanently
+Connection: close
+Content-Length: 0
+Server: Varnish
+Retry-After: 0
+Location: https://ox.ac.uk/
+Accept-Ranges: bytes
+Date: Mon, 16 Oct 2023 18:07:47 GMT
+Via: 1.1 varnish
+X-Served-By: cache-pdk-kpdk1780026-PDK
+X-Cache: HIT
+X-Cache-Hits: 0
+X-Timer: S1697479668.500597,VS0,VE1
+Strict-Transport-Security: max-age=300
+
+HTTP/1.1 301 Moved Permanently
+Connection: keep-alive
+Content-Length: 162
+Content-Type: text/html
+Location: https://www.ox.ac.uk/
+Traceresponse: 00-178ea81dfcfb54c68f602aad6aa6957f-7030a6bca24e3657-01
+X-Debug-Info: eyJyZXRyaWVzIjowfQ==
+X-Platform-Cluster: z2uh6ocdweans-master-7rqtwti
+X-Platform-Router: zpyfg66sv7ekuxqrsi4xxxffgy
+Via: 1.1 varnish, 1.1 varnish
+Accept-Ranges: bytes
+Date: Mon, 16 Oct 2023 18:07:47 GMT
+Age: 0
+X-Served-By: cache-lcy-eglc8600053-LCY, cache-pdk-kpdk1780021-PDK
+X-Cache: HIT, MISS
+X-Cache-Hits: 28, 0
+Strict-Transport-Security: max-age=300
+
+HTTP/1.1 200 OK
+Connection: keep-alive
+Content-Length: 92394
+Cache-Control: public, max-age=1800
+Content-Language: en
+Content-Security-Policy: default-src * 'self' 'unsafe-inline' 'unsafe-eval' clapi.civiccomputing.com cc.cdn.civiccomputing.com apikeys.civiccomputing.com data:;; frame-ancestors 'self' canvas.ox.ac.uk; report-uri /report-csp-violation
+Content-Type: text/html; charset=utf-8
+Etag: "1697477274-1"
+Expires: Sun, 19 Nov 1978 05:00:00 GMT
+Last-Modified: Mon, 16 Oct 2023 17:27:54 GMT
+Link: <https://www.ox.ac.uk/>; rel="canonical",<https://www.ox.ac.uk/>; rel="shortlink"
+Traceresponse: 00-178ea7782287c425babf979a78c42d90-b519584c5b56bcd3-01
+X-Content-Type-Options: nosniff
+X-Debug-Info: eyJyZXRyaWVzIjowfQ==
+X-Drupal-Cache: HIT
+X-Platform-Cluster: z2uh6ocdweans-master-7rqtwti
+X-Platform-Processor: nyyaffsw6pbmph2vbnhbx26g24
+X-Platform-Router: zpyfg66sv7ekuxqrsi4xxxffgy
+Via: 1.1 varnish, 1.1 varnish
+Accept-Ranges: bytes
+Date: Mon, 16 Oct 2023 18:07:48 GMT
+Age: 1424
+X-Served-By: cache-lcy-eglc8600078-LCY, cache-pdk-kpdk1780118-PDK
+X-Cache: HIT, MISS
+X-Cache-Hits: 134, 0
+Vary: Cookie, Accept-Encoding
+Strict-Transport-Security: max-age=300
+

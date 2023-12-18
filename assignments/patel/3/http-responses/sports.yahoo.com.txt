@@ -1,0 +1,28 @@
+HTTP/1.1 301 Redirect
+Date: Thu, 19 Oct 2023 01:34:21 GMT
+Connection: keep-alive
+Server: ATS
+Cache-Control: no-store
+Location: https://sports.yahoo.com/
+Content-Type: text/html
+Content-Language: en
+Content-Length: 307
+
+HTTP/1.1 404 Not Found
+referrer-policy: no-referrer-when-downgrade
+strict-transport-security: max-age=31536000
+x-frame-options: SAMEORIGIN
+content-type: text/html; charset=utf-8
+content-length: 9
+etag: W/"9-0gXL1ngzMqISxa6S1zx3F4wtLyg"
+date: Thu, 19 Oct 2023 01:34:21 GMT
+x-envoy-upstream-service-time: 16
+server: ATS
+Cache-Control: max-age=0, private
+Expires: -1
+Age: 0
+Content-Security-Policy: frame-ancestors 'self' https://*.builtbygirls.com https://*.rivals.com https://*.engadget.com https://*.intheknow.com https://*.autoblog.com https://*.techcrunch.com https://*.yahoo.com https://*.aol.com https://*.huffingtonpost.com https://*.oath.com https://*.search.yahoo.com https://*.pnr.ouryahoo.com https://pnr.ouryahoo.com https://*.search.aol.com https://*.search.huffpost.com https://*.onesearch.com https://*.verizonmedia.com https://*.publishing.oath.com https://*.autoblog.com; sandbox allow-forms allow-same-origin allow-scripts allow-popups allow-popups-to-escape-sandbox allow-presentation; report-uri https://csp.yahoo.com/beacon/csp?src=ats&site=sports&region=US&lang=en-US&device=desktop&yrid=1tupcg9ij11st&partner=;
+Connection: keep-alive
+Expect-CT: max-age=31536000, report-uri="http://csp.yahoo.com/beacon/csp?src=yahoocom-expect-ct-report-only"
+X-XSS-Protection: 1; mode=block
+X-Content-Type-Options: nosniff

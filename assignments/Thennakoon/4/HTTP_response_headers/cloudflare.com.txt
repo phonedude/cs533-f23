@@ -1,0 +1,33 @@
+HTTP/1.1 301 Moved Permanently
+Date: Tue, 31 Oct 2023 22:59:46 GMT
+Connection: keep-alive
+Cache-Control: max-age=3600
+Expires: Tue, 31 Oct 2023 23:59:46 GMT
+Location: https://www.cloudflare.com/
+Set-Cookie: __cf_bm=oOvlfJcdd_rcIYG3AJkiO0RNGH7IcaX1sDV6toRykY4-1698793186-0-AWfpduU+qOs4G1KbPIQaX39cISn02CMWXW22l03IbOF9JLHCxj5gzyPDcNbt5vVhk5iW+340NQl0BNuPze0opY0=; path=/; expires=Tue, 31-Oct-23 23:29:46 GMT; domain=.cloudflare.com; HttpOnly; SameSite=None
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=DiMABS8wsy7ct%2BUp4hl0dwKKBCffKbmDapUdgpPYN6jReNZcPghEJjBhaWqK41ZtGrgcGpApU4MivhM3eLyWuyE5Bx9oIwR5o5PPsrun2XsX%2By5fs2AdgIGY17Kxtgk4"}],"group":"cf-nel","max_age":604800}
+NEL: {"success_fraction":0,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+CF-RAY: 81ef82a58c65c338-EWR
+alt-svc: h3=":443"; ma=86400
+
+HTTP/2 200 
+date: Tue, 31 Oct 2023 22:59:46 GMT
+content-type: text/html; charset=utf-8
+cf-cache-status: MISS
+accept-ranges: bytes
+cache-control: max-age=120
+expires: Tue, 31 Oct 2023 23:00:00 GMT
+last-modified: Tue, 31 Oct 2023 22:33:28 GMT
+strict-transport-security: max-age=31536000; includeSubDomains
+x-content-type-options: nosniff
+x-frame-options: SAMEORIGIN
+x-rm: RDWD
+x-xss-protection: 1; mode=block
+set-cookie: __cf_bm=A.b6p7pA7u1gMHcEnqrART.9fQxTyrZrfAOpzUQm26c-1698793186-0-AbZHmGVTS76fb2JIlWtJRuSIKDbQl2j8RBxXgEPujfzK6QBsR8YucMpI+np11wL+dsMB//yupwnsO+f0CGVUB2knOZVrQvDD8TplCFsMHjbp; path=/; expires=Tue, 31-Oct-23 23:29:46 GMT; domain=.www.cloudflare.com; HttpOnly; Secure; SameSite=None
+report-to: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=ki6iuRAjX9Dtz3NA2NVxpV%2BR6X60dWb%2F43%2B%2BfaIqbecVwlT0yEQUdQdh0%2FHjLgXfmaaRDm1QkrgpBBs78kNLylalbdsEV2Tnhc%2FBhiOfP74o8Gpg6sTg5gtRhFN8fl9ZUi1FUA%3D%3D"}],"group":"cf-nel","max_age":604800}
+nel: {"success_fraction":0,"report_to":"cf-nel","max_age":604800}
+server: cloudflare
+cf-ray: 81ef82a60b210f6f-EWR
+alt-svc: h3=":443"; ma=86400
+

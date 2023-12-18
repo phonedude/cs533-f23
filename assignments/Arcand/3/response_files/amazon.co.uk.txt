@@ -1,0 +1,35 @@
+HTTP/1.1 301 Moved Permanently
+Server: Server
+Date: Sat, 14 Oct 2023 20:03:39 GMT
+Content-Type: text/html
+Content-Length: 163
+Connection: keep-alive
+Location: https://amazon.co.uk/
+
+HTTP/1.1 301 Moved Permanently
+Server: Server
+Date: Sat, 14 Oct 2023 20:03:39 GMT
+Content-Type: text/html
+Connection: keep-alive
+Location: https://www.amazon.co.uk/
+
+HTTP/1.1 405 Method Not Allowed
+Content-Type: text/html;charset=UTF-8
+Content-Length: 0
+Connection: keep-alive
+Server: Server
+Date: Sat, 14 Oct 2023 20:03:40 GMT
+x-amz-rid: MT6VSG8MV6WYVE3TQTKA
+Cache-Control: no-cache
+Pragma: no-cache
+Expires: -1
+Allow: GET, POST, PUT, DELETE, OPTIONS
+Vary: Accept-Encoding,User-Agent,Content-Type,Accept-Encoding,User-Agent
+Strict-Transport-Security: max-age=47474747; includeSubDomains; preload
+X-Frame-Options: SAMEORIGIN
+X-Cache: Error from cloudfront
+Via: 1.1 85a5b0f6d760d71ec1e7840a933b5572.cloudfront.net (CloudFront)
+X-Amz-Cf-Pop: ATL56-P1
+Alt-Svc: h3=":443"; ma=86400
+X-Amz-Cf-Id: B_OmNE1ZH9Ls5SmBfea8_GHXDsDFM78WvdG77tf3DBM3QHuFhOqwjg==
+
