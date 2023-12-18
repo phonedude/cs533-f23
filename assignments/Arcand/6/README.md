@@ -54,6 +54,10 @@ For additional confirmation, screenshots illustrating the functionality of these
 
 ___________________________________________________________________________________
 
+Added another youtube video:
+
+___________________________________________________________________________________
+
 Assignment 6 is focused on demonstrating and exploring issues related to fingerprinting.
 To that end, I created a README.md report for this assignment containing links to the code, a short description of the fingerprinting algorithm, a screenshot of the 5 fingerprints, as well as a link to the Youtube video demonstrating the clients connecting and being recognized by the server.
 
