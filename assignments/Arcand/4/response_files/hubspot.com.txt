@@ -1,0 +1,57 @@
+HTTP/1.1 301 Moved Permanently
+Date: Mon, 16 Oct 2023 18:07:19 GMT
+Connection: keep-alive
+Cache-Control: max-age=3600
+Expires: Mon, 16 Oct 2023 19:07:19 GMT
+Location: https://hubspot.com/
+Set-Cookie: __cf_bm=O9MLjF2xP.q96owTk38jCHmY3QKErxwbP4JFWbJmGB8-1697479639-0-AVDocmR/WSOqSKsHIOs47MCqTue94j/hRHrZpz44pIZbJpD8ftGox/6nuh7o387VQMAB2CznKgXz2tIEFFFEQSg=; path=/; expires=Mon, 16-Oct-23 18:37:19 GMT; domain=.hubspot.com; HttpOnly; SameSite=None
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=xkUcoyXL%2FiTuci97dlqH9P5PsfY9GYzHWv2qgpmWG05wS%2FZADdV4bsR3lxgz3HY0YortQK1uMcV8NKfZvzeVbE3BrjNijNwyIEK9dDbu8JICQ%2FXRzSqy4L8a8M07EhDKMHr1Q9Nwff6y"}],"group":"cf-nel","max_age":604800}
+NEL: {"success_fraction":0.01,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+CF-RAY: 81723da4b9dc0812-IAD
+
+HTTP/1.1 301 Moved Permanently
+Date: Mon, 16 Oct 2023 18:07:19 GMT
+Connection: keep-alive
+Cache-Control: max-age=3600
+Expires: Mon, 16 Oct 2023 19:07:19 GMT
+Location: https://www.hubspot.com/
+Set-Cookie: __cf_bm=FOVVBqYtwX3p2jWkwvVjaHXEd6Wx0AYrcWvq5bUgqTc-1697479639-0-AcgbcSlLKBmCij6ViUS1chEse+rcBfA8GgOP4m7CXBYrhobmnqFrNkLwIgVdI2q1NMoioaW6VRYD7zUdVEll6vk=; path=/; expires=Mon, 16-Oct-23 18:37:19 GMT; domain=.hubspot.com; HttpOnly; Secure; SameSite=None
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=YLCNcsrJp%2BbPZG5YyJzV5ZpZvHyiD%2BouTrzCxEm2Dp0NtdtE5NikFdDa1Mg7nJWyjFROzogzxS3NbzNKu4Hwsnu%2FS6%2BuIuRHyABVWhBq9QJtUCAtjgfs%2BIa9VETlEplC5Vw6j%2FdsD4%2Bw"}],"group":"cf-nel","max_age":604800}
+NEL: {"success_fraction":0.01,"report_to":"cf-nel","max_age":604800}
+Strict-Transport-Security: max-age=31536000; includeSubDomains; preload
+Server: cloudflare
+CF-RAY: 81723da5ed98390c-IAD
+
+HTTP/1.1 200 OK
+Date: Mon, 16 Oct 2023 18:07:20 GMT
+Content-Type: text/html; charset=UTF-8
+Connection: keep-alive
+CF-Ray: 81723da7e85e289a-IAD
+CF-Cache-Status: DYNAMIC
+Cache-Control: no-store, no-cache, must-revalidate
+Last-Modified: Mon, 16 Oct 2023 14:38:28 GMT
+Link: </hs/hsstatic/HubspotToolsMenu/static-1.191/js/index.js>; rel=preload; as=script,</hs/hsstatic/cos-i18n/static-1.53/bundles/project.js>; rel=preload; as=script
+Set-Cookie: __cfruid=a214ae6cd556d4e767d0ffd913d99458ec6bde51-1697479640; path=/; domain=.www.hubspot.com; HttpOnly; Secure; SameSite=None
+Strict-Transport-Security: max-age=31536000; includeSubDomains; preload
+Vary: Accept-Encoding
+Content-Security-Policy: script-src 'unsafe-inline' 'unsafe-eval' 'self' 1003891.track.convertexperiments.com app.hubspot.com cdn-3.convertexperiments.com cdn.pdst.fm connect.facebook.net js.hs-analytics.net js.hs-banner.com js.hsforms.net js.hsleadflows.net js.hubspotfeedback.com js.usemessages.com organizer.bizzabo.com play.vidyard.com script.hotjar.com snap.licdn.com static.hotjar.com static.hsappstatic.net www.google-analytics.com www.googletagmanager.com www.recaptcha.net code.highcharts.com www.youtube.com js.hubspot.com www.dropbox.com widget.altrulabs.com www.google.com maps.googleapis.com wt-assets.hubteam.com cdn2.hubspot.net www.redditstatic.com cdn.veritonic.com gosniply.com d.impactradius-event.com js.hubspot.com analytics.tiktok.com; report-uri https://send.hsbrowserreports.com/csp/report; upgrade-insecure-requests
+Content-Security-Policy-Report-Only: script-src 'self' 'unsafe-inline' 'unsafe-eval' 1003891.track.convertexperiments.com app.hubspot.com cdn-3.convertexperiments.com cdn.pdst.fm connect.facebook.net js.hs-analytics.net js.hs-banner.com js.hsforms.net js.hsleadflows.net js.hubspotfeedback.com js.usemessages.com play.vidyard.com script.hotjar.com snap.licdn.com static.hotjar.com static.hsappstatic.net www.google-analytics.com www.googletagmanager.com www.recaptcha.net code.highcharts.com www.youtube.com js.hubspot.com www.dropbox.com widget.altrulabs.com www.google.com maps.googleapis.com wt-assets.hubteam.com cdn2.hubspot.net www.redditstatic.com cdn.veritonic.com gosniply.com d.impactradius-event.com test.test.com js.hubspot.com analytics.tiktok.com; report-uri https://send.hsbrowserreports.com/csp/report
+Edge-Cache-Tag: CT-128188452889,P-53,CW-117899191457,CW-117899191462,CW-117909732439,CW-117909732444,CW-117909732448,CW-117909735318,CW-117909735322,CW-117909735325,CW-128019722664,CW-39963105441,CW-45191864389,CW-66945685888,CW-80990896713,CW-80991154572,CW-80992206946,CW-80992206947,DB-2678762,DB-2679608,DB-2896948,DB-5387803,E-112565063773,E-117899191898,E-117907621800,E-117909735331,E-117909735346,E-117912224792,E-117913039707,E-117913090223,E-117913091097,E-124154297647,E-128186837045,E-130242358360,E-130251752609,E-130252115360,E-130252115370,E-130253705472,E-130253705476,E-130253896065,E-130253896067,E-137607637654,E-137607693906,E-137607934013,E-27335243879,E-27335426396,E-28338820573,E-29576524729,E-29576570488,E-29584276880,E-29584276881,E-29584276882,E-29585270432,E-29744273155,E-32625894203,E-33497625588,E-34744580980,E-34744580982,E-34749935782,E-34750032314,E-34750388456,E-34750517861,E-34750631304,E-35189903962,E-36805574505,E-47877986610,E-66318755979,E-67449602986,E-80991207740,E-80991207741,E-80992946022,E-80992946326,E-80992946331,E-80992946334,E-80992946336,E-80992946337,E-80992946343,E-80992946344,E-8384041284,E-88014303377,E-90560158310,E-92229414002,E-92239163801,E-92239689997,E-92239689998,PGS-ALL,SW-0
+NEL: {"success_fraction":0.01,"report_to":"cf-nel","max_age":604800}
+Referrer-Policy: no-referrer-when-downgrade
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=0dlKI93ARHkM8cht4r4M5iQG0nAHZg3S5KZl%2BVEjAfijc3HvEDNLuFqa%2FdsjUkYE079rSAanLQWbTKfqoAtDLvoZhy%2BsYUd0pOrOo1psz%2FM1If0V1fiqQ%2BW%2B5ISV0mkMrVn8QJQbA6BghRv3bQ%3D%3D"}],"group":"cf-nel","max_age":604800}
+X-Content-Type-Options: nosniff
+X-Frame-Options: deny
+X-HS-Cache-Config: BrowserCache-5s-EdgeCache-180s
+X-HS-Cache-Control: s-maxage=10800, max-age=0
+X-HS-CF-Cache-Status: EXPIRED
+X-HS-Content-Campaign-Id: 04cbbcfa-f5ea-4e61-b964-94568fa05973
+X-HS-Content-Id: 128188452889
+X-Hs-Https-Only: worker
+X-HS-Hub-Id: 53
+X-HS-Prerendered: Mon, 16 Oct 2023 14:38:28 GMT
+x-laboratory-response-status: unknown-utk
+X-XSS-Protection: 1
+Server: cloudflare
+

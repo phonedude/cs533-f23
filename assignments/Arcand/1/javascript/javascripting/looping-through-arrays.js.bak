@@ -1,0 +1,10 @@
+// Define the pets array
+var pets = ['cat', 'dog', 'rat'];
+
+// Create a for loop to pluralize each pet
+for (var i = 0; i < pets.length; i++) {
+  pets[i] = pets[i] + 's';
+}
+
+// Print the updated pets array
+console.log(pets);

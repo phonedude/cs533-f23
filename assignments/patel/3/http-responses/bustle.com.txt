@@ -1,0 +1,41 @@
+HTTP/1.1 301 Moved Permanently
+Server: CloudFront
+Date: Thu, 19 Oct 2023 00:44:37 GMT
+Content-Type: text/html
+Content-Length: 167
+Connection: keep-alive
+Location: https://bustle.com/
+X-Cache: Redirect from cloudfront
+Via: 1.1 841dfa6074cf4b3b0718988f088a4ac2.cloudfront.net (CloudFront)
+X-Amz-Cf-Pop: IAD89-C1
+Alt-Svc: h3=":443"; ma=86400
+X-Amz-Cf-Id: Wm5zHSWfF-CRjHT6nL_yMCQngFCXxuMV4RoZxNpezWIanqsdPbqvuA==
+
+HTTP/1.1 301 Moved Permanently
+Server: CloudFront
+Date: Thu, 19 Oct 2023 00:44:37 GMT
+Content-Length: 0
+Connection: keep-alive
+Location: https://www.bustle.com
+X-Cache: FunctionGeneratedResponse from cloudfront
+Via: 1.1 148f45d892bd2198be5295012ed59888.cloudfront.net (CloudFront)
+X-Amz-Cf-Pop: IAD89-C1
+Alt-Svc: h3=":443"; ma=86400
+X-Amz-Cf-Id: XFpIf9VjwEBqkJYpPyWuVEVpS37i6VW4v8pZKYr6dszhWRoxy5rapQ==
+
+HTTP/1.1 200 OK
+Content-Type: text/html; charset=utf-8
+Content-Length: 458701
+Connection: keep-alive
+Date: Thu, 19 Oct 2023 00:44:08 GMT
+content-security-policy: frame-ancestors 'self' http://localhost:* https://*.bustle.com https://*.bdg.com
+strict-transport-security: max-age=31536000
+Cache-Control: s-maxage=60
+Apigw-Requestid: NBhJvh_sIAMEVTQ=
+Vary: Accept-Encoding
+X-Cache: Hit from cloudfront
+Via: 1.1 824fe21e467658628899bdd8725649ee.cloudfront.net (CloudFront)
+X-Amz-Cf-Pop: IAD89-C1
+Alt-Svc: h3=":443"; ma=86400
+X-Amz-Cf-Id: dNxnkHVReWQ9yT_1QXeObEwF4EcRcUsEaaP6MArwkLKHeOBjqqsrhQ==
+Age: 29

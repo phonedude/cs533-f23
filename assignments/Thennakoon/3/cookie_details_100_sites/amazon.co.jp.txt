@@ -1,0 +1,32 @@
+HTTP/1.1 301 Moved Permanently
+Server: Server
+Date: Tue, 10 Oct 2023 00:36:10 GMT
+Content-Type: text/html
+Content-Length: 163
+Connection: keep-alive
+Location: https://amazon.co.jp/
+
+HTTP/1.1 301 Moved Permanently
+Server: Server
+Date: Tue, 10 Oct 2023 00:36:10 GMT
+Content-Type: text/html
+Connection: keep-alive
+Location: https://www.amazon.co.jp/
+
+HTTP/2 405 
+server: Server
+content-type: text/html;charset=UTF-8
+content-length: 0
+x-amz-rid: MZXMKGGZ12XNF157P0KT
+cache-control: no-cache
+pragma: no-cache
+expires: -1
+allow: GET, POST, PUT, DELETE, OPTIONS
+vary: Accept-Encoding,User-Agent,Content-Type,Accept-Encoding,User-Agent
+strict-transport-security: max-age=47474747; includeSubDomains; preload
+x-frame-options: SAMEORIGIN
+date: Tue, 10 Oct 2023 00:36:10 GMT
+set-cookie: skin=noskin; path=/; domain=.amazon.co.jp
+alt-svc: h3=":443"; ma=93600
+x-cache: NotCacheable from child
+

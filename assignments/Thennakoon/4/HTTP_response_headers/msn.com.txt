@@ -1,0 +1,33 @@
+HTTP/1.1 301 Moved Permanently
+Content-Length: 0
+Location: https://msn.com/
+X-MSEdge-Ref: Ref A: C6CD2F5D392C41D39CA5299BFA53FE8D Ref B: BLUEDGE1415 Ref C: 2023-10-31T22:59:58Z
+Date: Tue, 31 Oct 2023 22:59:57 GMT
+
+HTTP/2 301 
+content-length: 0
+location: https://www.msn.com/
+strict-transport-security: max-age=63072000; includeSubDomains; preload
+accept-ch: Sec-CH-UA-Arch, Sec-CH-UA-Bitness, Sec-CH-UA-Full-Version, Sec-CH-UA-Full-Version-List, Sec-CH-UA-Mobile, Sec-CH-UA-Model, Sec-CH-UA-Platform, Sec-CH-UA-Platform-Version
+x-msedge-ref: Ref A: 3ABDBD860D2F463CB8F25E4583548EE5 Ref B: BL2EDGE1406 Ref C: 2023-10-31T22:59:58Z
+date: Tue, 31 Oct 2023 22:59:57 GMT
+
+HTTP/2 404 
+cache-control: no-store, no-cache
+pragma: no-cache
+content-length: 0
+set-cookie: _C_ETH=1; domain=.msn.com; path=/; secure; httponly
+set-cookie: _C_Auth=
+set-cookie: MUID=0287490DEFCC63F40AC55AB6EE7B6236; expires=Sun, 24 Nov 2024 22:59:58 GMT; domain=.msn.com; path=/; secure; samesite=none
+set-cookie: MUIDB=0287490DEFCC63F40AC55AB6EE7B6236; expires=Sun, 24 Nov 2024 22:59:58 GMT; path=/; httponly
+set-cookie: _EDGE_S=F=1&SID=02B2593827E968DC0A724A8326E769E3; domain=.msn.com; path=/; httponly
+set-cookie: _EDGE_V=1; expires=Sun, 24 Nov 2024 22:59:58 GMT; domain=.msn.com; path=/; httponly
+x-fabric-cluster: pmeprodeus
+nel: {"report_to":"network-errors","max_age":604800,"success_fraction":0.001,"failure_fraction":0.5}
+report-to: {"group":"network-errors","max_age":604800,"endpoints":[{"url":"https://deff.nelreports.net/api/report?cat=msn"}]},{"group":"csp-endpoint","max_age":86400,"endpoints":[{"url":"https://deff.nelreports.net/api/report"}]}
+x-ceto-ref: 8E560087D81344BBA75BFF866F89ED9B|2023-10-31T22:59:58.360Z
+x-cache: CONFIG_NOCACHE
+accept-ch: Sec-CH-UA-Arch, Sec-CH-UA-Bitness, Sec-CH-UA-Full-Version, Sec-CH-UA-Full-Version-List, Sec-CH-UA-Mobile, Sec-CH-UA-Model, Sec-CH-UA-Platform, Sec-CH-UA-Platform-Version
+x-msedge-ref: Ref A: 8E560087D81344BBA75BFF866F89ED9B Ref B: ASHEDGE1421 Ref C: 2023-10-31T22:59:58Z
+date: Tue, 31 Oct 2023 22:59:58 GMT
+

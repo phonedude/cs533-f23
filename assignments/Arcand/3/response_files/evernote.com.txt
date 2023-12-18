@@ -1,0 +1,23 @@
+HTTP/1.1 301 Moved Permanently
+Cache-Control: private
+Location: https://evernote.com:443/
+Content-Length: 0
+Date: Sat, 14 Oct 2023 20:04:08 GMT
+Content-Type: text/html; charset=UTF-8
+
+HTTP/1.1 200 OK
+x-nextjs-cache: HIT
+X-Powered-By: Next.js
+ETag: "d64utaw4bf2aqj"
+Content-Type: text/html; charset=utf-8
+Content-Length: 107270
+Cache-Control: s-maxage=31536000, stale-while-revalidate
+Vary: Accept-Encoding
+Date: Sat, 14 Oct 2023 20:04:08 GMT
+Via: 1.1 google
+Referrer-Policy: strict-origin-when-cross-origin
+Content-Security-Policy: connect-src 'self' https://stage.evernote.com
+X-Content-Type-Options: nosniff
+X-Permitted-Cross-Domain-Policies: none
+Alt-Svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+

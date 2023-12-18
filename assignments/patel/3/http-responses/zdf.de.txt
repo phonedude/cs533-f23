@@ -1,0 +1,25 @@
+HTTP/1.1 301 Moved Permanently
+Date: Thu, 19 Oct 2023 01:48:28 GMT
+X-Varnish: 30393500
+Location: https://www.zdf.de/
+Server: Myon
+Edge-Control: public, max-age=300
+Content-Length: 0
+Connection: keep-alive
+
+HTTP/1.1 200 OK
+Content-Type: text/html;charset=UTF-8
+Pragma: cache
+X-Frame-Options: sameorigin
+Content-Language: de-DE
+X-Backends-true-http-code: 200
+X-Request-Id: 55ae986f832d2a1b3b91dc02a179338f
+X-Dhc-Counter: HIT
+X-Dhc-ReRouted: False
+ETag: W/"04da225edd84311304ec9d3141a0b1918"
+grace: none
+X-Cache-Z: MISS
+X-XSS-Protection: 1; mode=block
+Cache-Control: max-age=16
+Date: Thu, 19 Oct 2023 01:48:29 GMT
+Connection: keep-alive

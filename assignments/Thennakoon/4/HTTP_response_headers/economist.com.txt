@@ -1,0 +1,31 @@
+HTTP/1.1 301 Moved Permanently
+Date: Tue, 31 Oct 2023 22:59:47 GMT
+Connection: keep-alive
+Cache-Control: max-age=3600
+Expires: Tue, 31 Oct 2023 23:59:47 GMT
+Location: https://www.economist.com/
+Set-Cookie: __cf_bm=HreymqGZtmycsa0lh_CQdCiD3IG6yTcZcoWDgDz65HY-1698793187-0-AbxWxz+K6EEK/Ud2tcSPrHoAO2rDVmgYowNBiiRQUsIWPzsaEw0DpfkDHxnHoMD24Zq/kFhwvgmcKXwzEbITbCo=; path=/; expires=Tue, 31-Oct-23 23:29:47 GMT; domain=.economist.com; HttpOnly; SameSite=None
+Set-Cookie: _cfuvid=2pHesdrfVKc0vcL7b3QBOEOsFqSWzzgo5RzXV4kqwyc-1698793187553-0-604800000; path=/; domain=.economist.com; HttpOnly
+Server: cloudflare
+CF-RAY: 81ef82ae2abe4213-EWR
+alt-svc: h3=":443"; ma=86400
+
+HTTP/2 200 
+date: Tue, 31 Oct 2023 22:59:47 GMT
+content-type: text/html; charset=utf-8
+cache-control: public,must-revalidate,max-age=300,s-maxage=0
+x-economist-env: ecs
+x-economist-features: SF_SIGNPOSTING,SOURCEPOINT,ONBOARDING_NOTIFICATION,ONBOARDING_GROUP_NOTIFICATION,OPTIMIZELY_SELF_HOSTING,LAPSED_USER_NOTIFICATION,CP2,IN_THIS_REPORT,REGISTRANT_ONBOARDING,SITEMAP,APP_PROMO_PAGE,CLOUDFLARE_IMAGE_FORMAT,NEXT_SCRIPT_THIRD_PARTIES,PODCAST_SHOW_PROMO_LINK_WIB,SHOW_ARTICLE_UPDATED_DATE,SUMMER_EDITION_1843,CP2_MIXING,CP2_LEAD_IMAGES,CP2_SKELETON,CP2_BODY,CP2_FEATURE_HEADER,PODCAST_NATIVE_AUDIO_PLAYER,LOCKED_PODCASTS
+set-cookie: economist_has_visited_app_before=true; Path=/; expires=Wed, 31 Jan 2024 22:59:47 GMT;
+x-amz-cf-pop: IAD12-P1
+x-amz-cf-pop: EWR53-C1
+x-cache: Miss from cloudfront
+via: 1.1 a171b1283e1187a443aee626cb753630.cloudfront.net (CloudFront)
+x-amz-cf-id: cS0OWX-aE87Uxgmx5JGNyzOsUadiWGwicA60m1sGZkBQYCvRUkc0EA==
+cf-cache-status: DYNAMIC
+set-cookie: __cf_bm=F5ZYve5r3Ei7EpyaviA.iMhDfnWO8.ybVBw9umtoQp4-1698793187-0-AYL3XBhMGsv1r2MrisrkLX8ZmUwmoa5KmYTh+7fepUfnsGD0i8rtCWo9jClwiHWuuTyUkvELjPhyf9LUdbve4Tk=; path=/; expires=Tue, 31-Oct-23 23:29:47 GMT; domain=.economist.com; HttpOnly; Secure; SameSite=None
+set-cookie: _cfuvid=G4axF3RCSa_9zxwuhDKHRsWPs9PYa_5vxF8vcltqkA4-1698793187854-0-604800000; path=/; domain=.economist.com; HttpOnly; Secure; SameSite=None
+server: cloudflare
+cf-ray: 81ef82aeca61c452-EWR
+alt-svc: h3=":443"; ma=86400
+

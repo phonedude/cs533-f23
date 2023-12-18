@@ -1,0 +1,20 @@
+HTTP/1.1 302 Moved Temporarily
+Server: awselb/2.0
+Date: Tue, 10 Oct 2023 00:36:38 GMT
+Content-Type: text/html
+Content-Length: 110
+Connection: keep-alive
+Location: https://www.nikkei.com:443/
+
+HTTP/2 200 
+content-type: text/html; charset=utf-8
+nikkei-app-version: 0-1-174
+accept-ranges: bytes
+date: Tue, 10 Oct 2023 00:36:39 GMT
+set-cookie: atlasId=65249c97.b8nixkf_mntjgrl46_kbjf9_3o7kusrj; Domain=.nikkei.com; Path=/; Max-Age=157680000; SameSite=Lax; Secure
+cache-control: no-cache,must-revalidate,proxy-revalidate
+content-security-policy: frame-ancestors 'self'
+referrer-policy: strict-origin-when-cross-origin
+vary: accept-encoding
+content-length: 607018
+

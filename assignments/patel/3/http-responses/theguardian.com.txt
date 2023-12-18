@@ -1,0 +1,76 @@
+HTTP/1.1 301
+Connection: close
+Content-Length: 0
+Server: Varnish
+Retry-After: 0
+Location: https://theguardian.com/
+Accept-Ranges: bytes
+Date: Thu, 19 Oct 2023 01:39:27 GMT
+Via: 1.1 varnish
+X-Served-By: cache-iad-kiad7000020-IAD
+X-Cache: HIT
+X-Cache-Hits: 0
+X-Timer: S1697679567.286851,VS0,VE0
+
+HTTP/1.1 301
+Connection: close
+Content-Length: 0
+Server: Varnish
+Retry-After: 0
+Location: https://www.theguardian.com/
+Accept-Ranges: bytes
+Date: Thu, 19 Oct 2023 01:39:27 GMT
+Via: 1.1 varnish
+X-Served-By: cache-iad-kiad7000060-IAD
+X-Cache: HIT
+X-Cache-Hits: 0
+X-Timer: S1697679567.348850,VS0,VE0
+Strict-Transport-Security: max-age=31536000
+
+HTTP/1.1 302
+Connection: close
+Content-Length: 0
+Retry-After: 0
+Location: /us
+Accept-Ranges: bytes
+Date: Thu, 19 Oct 2023 01:39:27 GMT
+Set-Cookie: GU_mvt_id=919487; expires=Wed, 17 Jan 2024 01:39:27 GMT; path=/; domain=.theguardian.com; Secure
+X-Timer: S1697679567.446961,VS0,VE0
+Strict-Transport-Security: max-age=63072000; includeSubDomains; preload
+X-Frame-Options: SAMEORIGIN
+X-XSS-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Security-Policy: default-src https:; script-src https: 'unsafe-inline' 'unsafe-eval' blob: 'unsafe-inline'; frame-src https: data:; style-src https: 'unsafe-inline'; img-src https: data: blob:; media-src https: data: blob:; font-src https: data:; connect-src https: wss: blob:; child-src https: blob:; object-src 'none'; base-uri 'none'
+Referrer-Policy: no-referrer-when-downgrade
+Feature-Policy: camera 'none'; microphone 'none'; midi 'none'; geolocation 'none'
+Permissions-Policy: camera=(), microphone=(), midi=(), geolocation=(), interest-cohort=()
+X-GU-Edition: us
+Cache-Control: max-age=0,no-transform
+Set-Cookie: GU_geo_country=US; path=/; Secure
+
+HTTP/1.1 200 OK
+Connection: keep-alive
+Content-Length: 927137
+content-type: text/html; charset=UTF-8
+link: <https://assets.guim.co.uk/polyfill.io/v3/polyfill.min.js?rum=0&features=es6%2Ces7%2Ces2017%2Ces2018%2Ces2019%2Cdefault-3.6%2CHTMLPictureElement%2CIntersectionObserver%2CIntersectionObserverEntry%2CURLSearchParams%2Cfetch%2CNodeList.prototype.forEach%2Cnavigator.sendBeacon%2Cperformance.now%2CPromise.allSettled&flags=gated&callback=guardianPolyfilled&unknown=polyfill&cacheClear=1&http3=true>; rel=prefetch,<https://assets.guim.co.uk/assets/frameworks.web.2fd8146acb8ccbee8a8b.js?http3=true>; rel=prefetch,<https://assets.guim.co.uk/assets/index.web.2b9f2709e59472c7b19d.js?http3=true>; rel=prefetch,<https://assets.guim.co.uk/javascripts/commercial/aae3625c9e044cc5e4d2/graun.standalone.commercial.js?http3=true>; rel=prefetch,,<https://assets.guim.co.uk/>; rel=preconnect,<https://i.guim.co.uk>; rel=preconnect,<https://j.ophan.co.uk>; rel=preconnect,<https://ophan.theguardian.com>; rel=preconnect,<https://api.nextgen.guardianapps.co.uk>; rel=preconnect,<https://hits-secure.theguardian.com>; rel=preconnect,<https://interactive.guim.co.uk>; rel=preconnect,<https://phar.gu-web.net>; rel=preconnect,<https://static.theguardian.com>; rel=preconnect,<https://support.theguardian.com>; rel=preconnect
+etag: W/"hash-8086708965233896186"
+onion-location: https://www.guardian2zotagl6tmjucg3lrhxdk4dw3lhbqnkvvkywawy3oqfoprid.onion/us
+x-gu-dotcomponents: true
+x-gu-frontend-git-commit-id: 6d2fda0cc8c4be44aaa5728c3f9589168dcc702d
+Accept-Ranges: bytes
+Date: Thu, 19 Oct 2023 01:39:27 GMT
+Age: 80
+Set-Cookie: GU_mvt_id=207222; expires=Wed, 17 Jan 2024 01:39:27 GMT; path=/; domain=.theguardian.com; Secure
+X-Timer: S1697679567.492598,VS0,VE5
+Strict-Transport-Security: max-age=63072000; includeSubDomains; preload
+X-Frame-Options: SAMEORIGIN
+X-XSS-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Security-Policy: default-src https:; script-src https: 'unsafe-inline' 'unsafe-eval' blob: 'unsafe-inline'; frame-src https: data:; style-src https: 'unsafe-inline'; img-src https: data: blob:; media-src https: data: blob:; font-src https: data:; connect-src https: wss: blob:; child-src https: blob:; object-src 'none'; base-uri 'none'
+Referrer-Policy: no-referrer-when-downgrade
+Feature-Policy: camera 'none'; microphone 'none'; midi 'none'; geolocation 'none'
+Permissions-Policy: camera=(), microphone=(), midi=(), geolocation=(), interest-cohort=()
+X-GU-Edition: us
+Cache-Control: max-age=60, stale-while-revalidate=6, stale-if-error=864000, private,no-transform
+Vary: Accept-Encoding,User-Agent
+Set-Cookie: GU_geo_country=US; path=/; Secure

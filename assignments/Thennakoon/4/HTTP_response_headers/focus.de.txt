@@ -1,0 +1,24 @@
+HTTP/1.1 301 Moved Permanently
+Content-Type: text/html
+Content-Length: 162
+Server: nginx
+Location: https://www.focus.de/
+Cache-Control: max-age=2592000
+Expires: Thu, 30 Nov 2023 22:59:48 GMT
+Date: Tue, 31 Oct 2023 22:59:48 GMT
+Connection: keep-alive
+
+HTTP/2 200 
+content-type: text/html;charset=UTF-8
+last-modified: Tue, 31 Oct 2023 22:58:06 GMT
+cmstype: s
+cmsid: s1
+content-language: de-DE
+access-control-allow-origin: *
+xkey: s1
+cache-control: max-age=60
+expires: Tue, 31 Oct 2023 23:00:48 GMT
+date: Tue, 31 Oct 2023 22:59:48 GMT
+permissions-policy: ch-ua-model=*,ch-ua-platform-version=*
+accept-ch: sec-ch-ua-model,sec-ch-ua-platform-version
+

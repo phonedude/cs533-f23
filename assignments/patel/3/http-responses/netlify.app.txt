@@ -1,0 +1,37 @@
+HTTP/1.1 301 Moved Permanently
+Content-Type: text/plain; charset=utf-8
+Date: Thu, 19 Oct 2023 01:26:48 GMT
+Location: https://netlify.app/
+Server: Netlify
+X-Nf-Request-Id: 01HD2RNNM5QVC2SHG87G5G9HTS
+
+HTTP/1.1 301 Moved Permanently
+Age: 5575
+Cache-Control: public,max-age=0,must-revalidate
+Content-Length: 39
+Content-Type: text/plain; charset=utf-8
+Date: Thu, 19 Oct 2023 01:26:48 GMT
+Location: https://www.netlify.com/
+Server: Netlify
+Strict-Transport-Security: max-age=31536000; includeSubDomains; preload
+X-Cnm-Signal-K: 1:69350086-d20e-4b5a-84cf-bf367a848374:65301664e87e570008d811e4:1697650333933
+X-Nf-Request-Id: 01HD2RNNQZF23T842HWHG1MFSY
+
+HTTP/1.1 200 OK
+Content-Type: text/html; charset=UTF-8
+Content-Length: 102989
+Connection: keep-alive
+Accept-Ranges: bytes
+Cache-Control: public,max-age=0,must-revalidate
+Date: Thu, 19 Oct 2023 01:26:49 GMT
+Etag: "5921b715acda7fe88390e939a0d24ccb-ssl"
+Server: Netlify
+Server-Timing: cr;desc="hit-fresh", ds;dur=0, dc;desc="aws-iad", cg;desc="global-production", cl;dur=102989, dist;dur=45, tls;desc="reused"
+Strict-Transport-Security: max-age=31536000; includeSubDomains; preload
+X-Cnm-Signal-K: 1:69350086-d20e-4b5a-84cf-bf367a848374:65301664e87e570008d811e4:1697650333933
+X-Nf-Request-Id: 01HD2RNNYVW2Z7E1ANBXCJN2E5
+X-Cache: Miss from cloudfront
+Via: 1.1 14a3ead1863bec56bc8bd13f14b2a62e.cloudfront.net (CloudFront)
+X-Amz-Cf-Pop: IAD66-C1
+X-Amz-Cf-Id: YRcL8wuERGNnCqCh05eKAJrFsj5RnJU3m7KT1UAU5r0VKvxYlGzYfw==
+Age: 5683

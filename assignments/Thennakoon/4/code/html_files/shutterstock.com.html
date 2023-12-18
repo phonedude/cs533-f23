@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>Framable HTML</title>
+    <script>
+        const body_parser=require('body-parser');
+    
+        app.use(body_parser.urlencoded({extended: false}));
+        app.use(body_parser.json());
+    
+        function stateChange() {
+            setTimeout(function () {
+            
+                const iframe = document.getElementById('myiframe');
+                //const isLoaded = iframe.childElementCount;
+                const isLoaded = iframe.contentWindow.window.length;
+                
+                if (isLoaded == 0) {
+                    alert("Iframe loaded");
+                    alert(iframe.innerText);
+                    alert(isLoaded);
+                }else{
+                    alert("Iframe NOT loaded");
+                    alert(iframe);
+                    alert(isLoaded);
+                }
+            }, 2000);
+        }  
+           
+        </script>
+</head>
+<body>
+	<h1>Assignment 4</h1>
+	<br>
+    <h2>Is this public site framable?</h2>
+    <hr> 
+    <iframe onload="stateChange()" onerror="onerror()" id="myiframe" src="https://shutterstock.com" width="600" height="400"></iframe>
+    <hr>
+</body>
+</html>

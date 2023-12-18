@@ -1,0 +1,17 @@
+{
+    "Movie": {
+      "name": "John Wick",
+      "reason": "This film is my favourite because of its action scenes. It has a good storyline which kept me attracted to it. The main actor Keanu was the perfect choice for the role of John Wick, and he brings a quiet intensity to the character that's impossible to ignore.",
+      "URL": "https://en.wikipedia.org/wiki/John_Wick_(film)"
+    },
+    "TV_Show": {
+      "name": "Suits",
+      "reason": "Suits is an interesting TV show that I enjoy because of the different behaviors of it's characters. The story is plotted around a law firm in New York and in this TV show no character is perfect, but their flaws, mistakes, and misjudgments make them interesting. Another reason to like this TV show is it's dialogoues.",
+      "URL": "https://en.wikipedia.org/wiki/Suits_(American_TV_series)"
+    },
+    "Musician": {
+      "name": "Taylor Swift",
+      "reason": "Taylor swift is a multi-talented young musian. Her songs are meaningful and she puts her true emotions into her songs. She sings about things that most people can relate to their lives. 'Love story', 'Blank space', 'You belng with me' are few songs that I listen more often.",
+      "URL": "https://www.taylorswift.com/"
+    }
+  }

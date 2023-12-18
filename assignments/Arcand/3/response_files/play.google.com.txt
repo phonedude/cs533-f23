@@ -1,0 +1,78 @@
+HTTP/1.1 302 Found
+Content-Type: application/binary
+Cache-Control: no-cache, no-store, max-age=0, must-revalidate
+Pragma: no-cache
+Expires: Mon, 01 Jan 1990 00:00:00 GMT
+Date: Sat, 14 Oct 2023 20:04:57 GMT
+Location: http://play.google.com/store
+Content-Length: 0
+P3P: CP="This is not a P3P policy! See g.co/p3phelp for more info."
+Server: ESF
+X-XSS-Protection: 0
+X-Frame-Options: SAMEORIGIN
+X-Content-Type-Options: nosniff
+Set-Cookie: NID=511=sRHN-GApDi61-tRn-y4Y7IeNgdWOCeMT3WasDYqEh652nZ6_02HjBW3so2VYYz21qhmzyrFwwEn_kl3KyVB_u0OlbiN7hITl9ookxm_1J0B-xq1Y5CDgqve1sSFIO8lk7VUJhVqu6hSTqMcqf5lIRQgdn8Ljk5VrJ-3nLx0KacU; expires=Sun, 14-Apr-2024 20:04:57 GMT; path=/; domain=.google.com; HttpOnly
+
+HTTP/1.1 301 Moved Permanently
+Content-Type: application/binary
+Cache-Control: no-cache, no-store, max-age=0, must-revalidate
+Pragma: no-cache
+Expires: Mon, 01 Jan 1990 00:00:00 GMT
+Date: Sat, 14 Oct 2023 20:04:57 GMT
+Location: https://play.google.com/store
+Content-Length: 0
+P3P: CP="This is not a P3P policy! See g.co/p3phelp for more info."
+Server: ESF
+X-XSS-Protection: 0
+X-Frame-Options: SAMEORIGIN
+X-Content-Type-Options: nosniff
+Set-Cookie: NID=511=nqPUCs-Ru3BR-uVVQ9GTvong_msL_fp6mqlk3HeVsF4FdvFGBg_r1RbRCxU4b94SmK1Pdl_4DrOmURjwfxycitkwx6FtaTUfzVqf7yz0MHdFNqg26lfAInO8B2nlfJtHW204JK7Ww7iq5mTQj1_sOvHmDdkoXSxpXbyrQsBKi8k; expires=Sun, 14-Apr-2024 20:04:57 GMT; path=/; domain=.google.com; HttpOnly
+
+HTTP/1.1 302 Found
+Content-Type: application/binary
+Vary: Sec-Fetch-Dest, Sec-Fetch-Mode, Sec-Fetch-Site
+Cache-Control: no-cache, no-store, max-age=0, must-revalidate
+Pragma: no-cache
+Expires: Mon, 01 Jan 1990 00:00:00 GMT
+Date: Sat, 14 Oct 2023 20:04:57 GMT
+Location: https://play.google.com/store/games
+Content-Length: 0
+P3P: CP="This is not a P3P policy! See g.co/p3phelp for more info."
+Strict-Transport-Security: max-age=31536000
+Permissions-Policy: ch-ua-arch=*, ch-ua-bitness=*, ch-ua-full-version=*, ch-ua-full-version-list=*, ch-ua-model=*, ch-ua-wow64=*, ch-ua-form-factor=*, ch-ua-platform=*, ch-ua-platform-version=*
+Content-Security-Policy: require-trusted-types-for 'script';report-uri /_/PlayStoreUi/cspreport
+Content-Security-Policy: script-src 'nonce-WfA_5mUNUzGbGbNFl4nb5g' 'unsafe-inline' 'unsafe-eval';object-src 'none';base-uri 'self';report-uri /_/PlayStoreUi/cspreport;worker-src 'self'
+Cross-Origin-Resource-Policy: same-site
+Accept-CH: Sec-CH-UA-Arch, Sec-CH-UA-Bitness, Sec-CH-UA-Full-Version, Sec-CH-UA-Full-Version-List, Sec-CH-UA-Model, Sec-CH-UA-WoW64, Sec-CH-UA-Form-Factor, Sec-CH-UA-Platform, Sec-CH-UA-Platform-Version
+Cross-Origin-Opener-Policy: same-origin-allow-popups
+Server: ESF
+X-XSS-Protection: 0
+X-Frame-Options: SAMEORIGIN
+X-Content-Type-Options: nosniff
+Set-Cookie: NID=511=imh4gQAOrjD-SABbO_1MsMPIEEFVvN0wh87mGxPjPa9UUK3cSZV_SpdCqe8luJTOTbKHvEviJPIRfWyIGWbURGDwWfK_pb8EOCLhnzqOO7ntcG3fXGuE9ccko-AHTaXpJPse_gO2Xxz31iJyH8oU-kN01U24HgGVUXUxM2Z6kgY; expires=Sun, 14-Apr-2024 20:04:57 GMT; path=/; domain=.google.com; HttpOnly
+Alt-Svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+
+HTTP/1.1 200 OK
+Content-Type: text/html; charset=utf-8
+Vary: Sec-Fetch-Dest, Sec-Fetch-Mode, Sec-Fetch-Site
+x-ua-compatible: IE=edge
+Cache-Control: no-cache, no-store, max-age=0, must-revalidate
+Pragma: no-cache
+Expires: Mon, 01 Jan 1990 00:00:00 GMT
+Date: Sat, 14 Oct 2023 20:04:57 GMT
+Content-Length: 2754974
+P3P: CP="This is not a P3P policy! See g.co/p3phelp for more info."
+Strict-Transport-Security: max-age=31536000
+Content-Security-Policy: require-trusted-types-for 'script';report-uri /_/PlayStoreUi/cspreport
+Content-Security-Policy: script-src 'nonce-ZyAK_PMx2PT02lJwPzRrow' 'unsafe-inline' 'unsafe-eval';object-src 'none';base-uri 'self';report-uri /_/PlayStoreUi/cspreport;worker-src 'self'
+Cross-Origin-Opener-Policy: same-origin-allow-popups
+Permissions-Policy: ch-ua-arch=*, ch-ua-bitness=*, ch-ua-full-version=*, ch-ua-full-version-list=*, ch-ua-model=*, ch-ua-wow64=*, ch-ua-form-factor=*, ch-ua-platform=*, ch-ua-platform-version=*
+Cross-Origin-Resource-Policy: same-site
+Accept-CH: Sec-CH-UA-Arch, Sec-CH-UA-Bitness, Sec-CH-UA-Full-Version, Sec-CH-UA-Full-Version-List, Sec-CH-UA-Model, Sec-CH-UA-WoW64, Sec-CH-UA-Form-Factor, Sec-CH-UA-Platform, Sec-CH-UA-Platform-Version
+Server: ESF
+X-XSS-Protection: 0
+X-Frame-Options: SAMEORIGIN
+X-Content-Type-Options: nosniff
+Set-Cookie: NID=511=U0yvOSikomFUHD-pgjfavP0eq5tC514EGTGiRypb1Dj14ipRR4pKpRgz-jBNqije6XaHOngSiDoGEpju5E5pQ5WVtNP-odtn8UuD1myfNbSblv5j9mW3l29qFm6yaRcbiEbAo7RQP5EC67hcWWJiLNB5UHpntKjZ2oVJ1_OJAJ4; expires=Sun, 14-Apr-2024 20:04:57 GMT; path=/; domain=.google.com; HttpOnly
+Alt-Svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+

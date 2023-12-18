@@ -1,0 +1,31 @@
+HTTP/1.1 302 Moved Temporarily
+Date: Tue, 31 Oct 2023 22:59:51 GMT
+Content-Type: text/html
+Content-Length: 154
+Connection: keep-alive
+Server: nginx
+Location: http://www.hatena.ne.jp
+
+HTTP/1.1 301 Moved Permanently
+Server: awselb/2.0
+Date: Tue, 31 Oct 2023 22:59:51 GMT
+Content-Type: text/html
+Content-Length: 134
+Connection: keep-alive
+Location: https://www.hatena.ne.jp:443/
+
+HTTP/1.1 200 OK
+Date: Tue, 31 Oct 2023 22:59:52 GMT
+Content-Type: text/html; charset=utf-8
+Content-Length: 318308
+Connection: close
+Server: nginx
+Vary: Accept-Encoding
+Set-Cookie: b=$1$2hjgauSy$VOFHMsgF7r5TFBDN8OMCw1; expires=Mon, 26-Oct-2043 22:59:52 GMT; domain=hatena.ne.jp; path=/
+Vary: Accept-Encoding
+ETag: "4db64-Oia0+DKSVYLrn79wzXxg7nPkNKg"
+Vary: Accept-Encoding
+X-Frame-Options: DENY
+X-Content-Type-Options: nosniff
+X-XSS-Protection: 1; mode=block
+

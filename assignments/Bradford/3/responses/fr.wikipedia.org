@@ -1,0 +1,23 @@
+> HTTP/1.1 200 OK
+> date: Fri, 06 Oct 2023 11:32:33 GMT
+> server: mw1414.eqiad.wmnet
+> x-content-type-options: nosniff
+> content-language: fr
+> accept-ch: 
+> vary: Accept-Encoding,Cookie
+> last-modified: Fri, 06 Oct 2023 11:32:20 GMT
+> content-type: text/html; charset=UTF-8
+> content-encoding: gzip
+> age: 9500
+> x-cache: cp1085 hit, cp1085 hit/1288
+> x-cache-status: hit-front
+> server-timing: cache;desc="hit-front", host;desc="cp1085"
+> strict-transport-security: max-age=106384710; includeSubDomains; preload
+> report-to: { "group": "wm_nel", "max_age": 604800, "endpoints": [{ "url": "https://intake-logging.wikimedia.org/v1/events?stream=w3c.reportingapi.network_error&schema_uri=/w3c/reportingapi/network_error/1.0.0" }] }
+> nel: { "report_to": "wm_nel", "max_age": 604800, "failure_fraction": 0.05, "success_fraction": 0.0}
+> x-client-ip: 98.190.61.123
+> cache-control: private, s-maxage=0, max-age=0, must-revalidate
+> set-cookie: NetworkProbeLimit=0.001;Path=/;Secure;Max-Age=3600
+> accept-ranges: bytes
+> content-length: 40839
+> 

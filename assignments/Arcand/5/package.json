@@ -1,0 +1,16 @@
+{
+  "dependencies": {
+    "ejs": "^3.1.9",
+    "express": "^4.18.2",
+    "pug": "^3.0.2"
+  },
+  "scripts": {
+    "start": "node server.js"
+  },
+  "name": "5",
+  "description": "Assignment 5 for CS 433/533 Web Security, Fall 2023, is focused on the practical application of web security concepts in which I set up two servers on different ports in order to explore and demonstrate issues related to Same-origin policy, Cross-Origin Resource Sharing (CORS), and Content Security Policy (CSP).",
+  "version": "1.0.0",
+  "main": "server.js",
+  "author": "",
+  "license": "ISC"
+}

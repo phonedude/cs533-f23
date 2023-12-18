@@ -1,0 +1,92 @@
+HTTP/1.1 301 Moved Permanently
+Server: CloudFront
+Date: Tue, 10 Oct 2023 00:37:02 GMT
+Content-Type: text/html
+Content-Length: 167
+Connection: keep-alive
+Location: https://tiktok.com/
+X-Cache: Redirect from cloudfront
+Via: 1.1 9584642257cbfecd967367758cd3e13c.cloudfront.net (CloudFront)
+X-Amz-Cf-Pop: IAD12-P4
+X-Amz-Cf-Id: OZMotA_8OZ9V4bPbZVLsnPNISi9YDA5fP4CCF4cXbUO41FboXTT3-Q==
+
+HTTP/2 301 
+server: CloudFront
+date: Tue, 10 Oct 2023 00:37:02 GMT
+content-length: 0
+location: https://www.tiktok.com/
+x-cache: FunctionGeneratedResponse from cloudfront
+via: 1.1 95de318e1a7dd6c72c9869d80089c7d2.cloudfront.net (CloudFront)
+x-amz-cf-pop: IAD12-P4
+x-amz-cf-id: Ix-LeX8Pe0yNcO1dwM7yOmA6-yLkTM3YvQLFWTThUr57puqqzX0NJw==
+strict-transport-security: max-age=63072000; includeSubDomains; preload
+
+HTTP/2 302 
+server: nginx
+content-type: text/html; charset=utf-8
+content-length: 47
+content-security-policy: script-src 'unsafe-eval' sf16-website-login.neutral.ttwstatic.com s20.tiktokcdn.com *.tiktokcdn-us.com www.google.com recaptcha.google.com js.hcaptcha.com client-api.arkoselabs.com www.gstatic.com connect.facebook.net;frame-src *.tiktok.com accounts.google.com www.google.com recaptcha.google.com www.facebook.com *.kakao.com lf16-web.tiktokcdn.com assets.braintreegateway.com appleid.apple.com access.line.me api.twitter.com h.online-metrix.net bytedance: newassets.hcaptcha.com client-api.arkoselabs.com;worker-src https: blob:
+feature-policy: microphone 'none'; geolocation 'none'
+location: /explore
+referrer-policy: strict-origin-when-cross-origin
+strict-transport-security: max-age=31536000; includeSubdomains
+x-bytefaas-execution-duration: 213.75
+x-bytefaas-request-id: 2023101000370224F6FB3E9CE28B34D8BC
+x-content-type-options: nosniff
+x-download-options: noopen
+x-frame-options: SAMEORIGIN
+x-powered-by: Goofy Node
+x-tt-logid: 2023101000370224F6FB3E9CE28B34D8BC
+x-xss-protection: 1; mode=block
+x-tt-trace-host: 0196a46646f79c38298d2403c31da8c1a7eb1dde7e310d49a7cda6ec2a58186a4d0511f51c74c409c89990b4c712f202ea1137d8a426a89c76a22de116254d8a5aa38f2493b34f6d1f1c6aa4c25d3bc9dd73a0e209de97b2fe8584a3d3abf0fdcb9c5a53fc2e513de5c991c1f7c8e01a2f
+x-tt-trace-id: 00-23101000370224F6FB3E9CE28B34D8BC-7AEA010F148A87FB-00
+x-origin-response-time: 222,23.55.220.60
+x-akamai-request-id: 16b8bc90.d08ca91f
+expires: Tue, 10 Oct 2023 00:37:02 GMT
+cache-control: max-age=0, no-cache, no-store
+pragma: no-cache
+date: Tue, 10 Oct 2023 00:37:02 GMT
+x-cache: TCP_MISS from a23-202-158-11.deploy.akamaitechnologies.com (AkamaiGHost/11.2.5.2-51612204) (-)
+set-cookie: tt_csrf_token=FPBnVk3n-4EZOT1wrhuypXM7i3DfNkD_eASY; path=/; domain=.tiktok.com; samesite=lax; secure; httponly
+set-cookie: ttwid=1%7CUUQslWXwpg1TCT9q_hz1Ej8yLQrfT5EHXk3yDMmMfVE%7C1696898222%7Cfe0086cec03963704e1a85c1d4b538f2ce5de2e4a37d2d7a61db6d796ee339e6; Domain=.tiktok.com; Path=/; Expires=Fri, 04 Oct 2024 00:37:02 GMT; HttpOnly
+x-cache-remote: TCP_MISS from a23-55-220-60.deploy.akamaitechnologies.com (AkamaiGHost/11.2.5.2-51612204) (-)
+x-tt-trace-tag: id=16;cdn-cache=miss;type=dyn
+server-timing: cdn-cache; desc=MISS, edge; dur=20, origin; dur=222
+server-timing: inner; dur=217
+x-parent-response-time: 242,23.202.158.11
+
+HTTP/2 200 
+server: nginx
+content-type: text/html; charset=utf-8
+content-security-policy: script-src 'unsafe-eval' sf16-website-login.neutral.ttwstatic.com s20.tiktokcdn.com *.tiktokcdn-us.com www.google.com recaptcha.google.com js.hcaptcha.com client-api.arkoselabs.com www.gstatic.com connect.facebook.net;frame-src *.tiktok.com accounts.google.com www.google.com recaptcha.google.com www.facebook.com *.kakao.com lf16-web.tiktokcdn.com assets.braintreegateway.com appleid.apple.com access.line.me api.twitter.com h.online-metrix.net bytedance: newassets.hcaptcha.com client-api.arkoselabs.com;worker-src https: blob:
+feature-policy: microphone 'none'; geolocation 'none'
+link: <https://lf16-tiktok-web.tiktokcdn-us.com/obj/tiktok-web-tx/tiktok/webapp/main/webapp-desktop/runtime.678d567f0228b14c966c.js>; rel=preload; as=script, <https://lf16-tiktok-web.tiktokcdn-us.com/obj/tiktok-web-tx/tiktok/webapp/main/webapp-desktop/es-polyfill.c9210a47a68c830e6126.js>; rel=preload; as=script, <https://lf16-tiktok-web.tiktokcdn-us.com/obj/tiktok-web-tx/tiktok/webapp/main/webapp-desktop/npm-xg-plugin.999a60669cbaccbb6682.js>; rel=preload; as=script, <https://lf16-tiktok-web.tiktokcdn-us.com/obj/tiktok-web-tx/tiktok/webapp/main/webapp-desktop/npm-byted-tiktok-icons.c7e51d2dfeda10908869.js>; rel=preload; as=script, <https://lf16-tiktok-web.tiktokcdn-us.com/obj/tiktok-web-tx/tiktok/webapp/main/webapp-desktop/tux-h5-icons.cfac7c79b2f67a4921cb.js>; rel=preload; as=script, <https://lf16-tiktok-web.tiktokcdn-us.com/obj/tiktok-web-tx/tiktok/webapp/main/webapp-desktop/npm-rxjs.69ecb3a352114cdea383.js>; rel=preload; as=script, <https://lf16-tiktok-web.tiktokcdn-us.com/obj/tiktok-web-tx/tiktok/webapp/main/webapp-desktop/npm-react.6c0d59e43203dd09a7d1.js>; rel=preload; as=script, <https://lf16-tiktok-web.tiktokcdn-us.com/obj/tiktok-web-tx/tiktok/webapp/main/webapp-desktop/npm-async-focus-lock.27a4d90a5b22f84eca84.js>; rel=preload; as=script, <https://lf16-tiktok-web.tiktokcdn-us.com/obj/tiktok-web-tx/tiktok/webapp/main/webapp-desktop/npm-sigi.982695a4a294b676af8b.js>; rel=preload; as=script, <https://lf16-tiktok-web.tiktokcdn-us.com/obj/tiktok-web-tx/tiktok/webapp/main/webapp-desktop/npm-dp-byted-tea-sdk-oversea.d76381c1e9ad6d481353.js>; rel=preload; as=script, <https://lf16-tiktok-web.tiktokcdn-us.com/obj/tiktok-web-tx/tiktok/webapp/main/webapp-desktop/npm-byted-web-privacy-sdk.fae8a00e91f00a28907a.js>; rel=preload; as=script, <https://lf16-tiktok-web.tiktokcdn-us.com/obj/tiktok-web-tx/tiktok/webapp/main/webapp-desktop/npm-596046b7.339df02f8e70e79cbe8c.js>; rel=preload; as=script, <https://lf16-tiktok-web.tiktokcdn-us.com/obj/tiktok-web-tx/tiktok/webapp/main/webapp-desktop/npm-d801507b.7e7b14ed88203f02fb48.js>; rel=preload; as=script, <https://lf16-tiktok-web.tiktokcdn-us.com/obj/tiktok-web-tx/tiktok/webapp/main/webapp-desktop/npm-74d9c565.aa026f14eae1b884e25a.js>; rel=preload; as=script, <https://lf16-tiktok-web.tiktokcdn-us.com/obj/tiktok-web-tx/tiktok/webapp/main/webapp-desktop/vendor.82bd53f8f17c3dc2bc26.js>; rel=preload; as=script, <https://lf16-tiktok-web.tiktokcdn-us.com/obj/tiktok-web-tx/tiktok/webapp/main/webapp-desktop/webapp-desktop.04b9b266df5cc74022e0.js>; rel=preload; as=script
+referrer-policy: strict-origin-when-cross-origin
+strict-transport-security: max-age=31536000; includeSubdomains
+x-bytefaas-enable-stream: true
+x-bytefaas-execution-duration: 495.02
+x-bytefaas-request-id: 2023101000370252ED2B550E72643C1D16
+x-content-type-options: nosniff
+x-download-options: noopen
+x-frame-options: SAMEORIGIN
+x-powered-by: Goofy Node
+x-tt-logid: 2023101000370252ED2B550E72643C1D16
+x-xss-protection: 1; mode=block
+x-tt-trace-host: 0196a46646f79c38298d2403c31da8c1a7eb1dde7e310d49a7cda6ec2a58186a4d820fec46298efea144f89515caf045027c5c015e29a835d93ac6ba7c2c48e714bec3655329d3eddd417efcebcf15e67d84299cd59f6db11883da653233538174bb1aafb794d544140dc5c8489552856f
+x-tt-trace-id: 00-23101000370252ED2B550E72643C1D16-416A5E4B52CBC38F-00
+x-origin-response-time: 504,23.55.220.54
+x-akamai-request-id: 2829ea4.d08cafe2
+expires: Tue, 10 Oct 2023 00:37:03 GMT
+cache-control: max-age=0, no-cache, no-store
+pragma: no-cache
+date: Tue, 10 Oct 2023 00:37:03 GMT
+x-cache: TCP_MISS from a23-202-158-11.deploy.akamaitechnologies.com (AkamaiGHost/11.2.5.2-51612204) (-)
+set-cookie: ttwid=1%7CPVZJiW1fWpJEmwPjTyY03YlfBgElQPgjeaZqrJr7L6o%7C1696898222%7C85b2fd729f6eba9aca503511ffd6032978db41f85d233fa9ccae3ecfec20bec1; Domain=.tiktok.com; Path=/; Expires=Fri, 04 Oct 2024 00:37:02 GMT; HttpOnly
+set-cookie: tt_csrf_token=84sTXGeh-PY494kIOJgLSNxXMhXMqIXmPwOI; path=/; domain=.tiktok.com; samesite=lax; secure; httponly
+set-cookie: tt_chain_token=jPg+luZ0Y1tW6HC+RYu+Pg==; path=/; expires=Sun, 07 Apr 2024 00:37:02 GMT; domain=.tiktok.com; secure; httponly
+x-cache-remote: TCP_MISS from a23-55-220-54.deploy.akamaitechnologies.com (AkamaiGHost/11.3.0-51620215) (-)
+x-tt-trace-tag: id=16;cdn-cache=miss;type=dyn
+server-timing: cdn-cache; desc=MISS, edge; dur=36, origin; dur=504
+server-timing: inner; dur=499
+x-parent-response-time: 540,23.202.158.11
+

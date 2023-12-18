@@ -1,0 +1,28 @@
+HTTP/1.1 301 Moved Permanently
+Server: Server
+Date: Tue, 10 Oct 2023 00:36:11 GMT
+Content-Type: text/html
+Content-Length: 163
+Connection: keep-alive
+Location: https://amazon.es/
+
+HTTP/1.1 301 Moved Permanently
+Server: Server
+Date: Tue, 10 Oct 2023 00:36:11 GMT
+Content-Type: text/html
+Connection: keep-alive
+Location: https://www.amazon.es/
+
+HTTP/2 503 
+content-type: text/html
+server: Server
+date: Tue, 10 Oct 2023 00:36:12 GMT
+x-amz-rid: 1XDW09AZM0SY8VWVSH7T
+vary: Content-Type,Accept-Encoding,User-Agent
+strict-transport-security: max-age=47474747; includeSubDomains; preload
+x-cache: Error from cloudfront
+via: 1.1 0cba74644cedf83bb6fb7dc90d8b0980.cloudfront.net (CloudFront)
+x-amz-cf-pop: IAD12-P2
+alt-svc: h3=":443"; ma=86400
+x-amz-cf-id: WBd7DnUU2cPcXngA_xerycK31tdZd5IACz_g5xjL4zggJg4sH_ofFA==
+

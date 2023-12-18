@@ -1,0 +1,81 @@
+HTTP/1.1 301 Moved Permanently
+Content-Type: application/binary
+Cache-Control: no-cache, no-store, max-age=0, must-revalidate
+Pragma: no-cache
+Expires: Mon, 01 Jan 1990 00:00:00 GMT
+Date: Sat, 14 Oct 2023 20:03:34 GMT
+Location: https://adssettings.google.com/
+Content-Length: 0
+P3P: CP="This is not a P3P policy! See g.co/p3phelp for more info."
+Server: ESF
+X-XSS-Protection: 0
+X-Frame-Options: SAMEORIGIN
+X-Content-Type-Options: nosniff
+Set-Cookie: NID=511=po2-4qxKJYppPOP6Mzq4PDBI70TSEo3EkVQqy28syfdixf-VDfADzSCYZILXjNhZmaNizAvKNWUmRBfMJvwDjcBc3zDIy0YTpNqHRr-gcIWRQqtloEAdtEHh4zhGo8ZxfV_CSUjvHPh9LH5V57PF6nYE_ztnIWSLatStUESfJOI; expires=Sun, 14-Apr-2024 20:03:34 GMT; path=/; domain=.google.com; HttpOnly
+
+HTTP/1.1 302 Found
+Content-Type: application/binary
+Vary: Sec-Fetch-Dest, Sec-Fetch-Mode, Sec-Fetch-Site
+Cache-Control: no-cache, no-store, max-age=0, must-revalidate
+Pragma: no-cache
+Expires: Mon, 01 Jan 1990 00:00:00 GMT
+Date: Sat, 14 Oct 2023 20:03:34 GMT
+Location: https://www.google.com/ads/preferences?continue=aHR0cHM6Ly9hZHNzZXR0aW5ncy5nb29nbGUuY29tL2Fub255bW91cw%3D%3D
+Content-Length: 0
+P3P: CP="This is not a P3P policy! See g.co/p3phelp for more info."
+Accept-CH: Sec-CH-UA-Arch, Sec-CH-UA-Bitness, Sec-CH-UA-Full-Version, Sec-CH-UA-Full-Version-List, Sec-CH-UA-Model, Sec-CH-UA-WoW64, Sec-CH-UA-Form-Factor, Sec-CH-UA-Platform, Sec-CH-UA-Platform-Version
+Permissions-Policy: ch-ua-arch=*, ch-ua-bitness=*, ch-ua-full-version=*, ch-ua-full-version-list=*, ch-ua-model=*, ch-ua-wow64=*, ch-ua-form-factor=*, ch-ua-platform=*, ch-ua-platform-version=*
+Cross-Origin-Opener-Policy: same-origin-allow-popups
+Cross-Origin-Resource-Policy: same-site
+Content-Security-Policy: script-src 'nonce-148-ckHsneTyls1gBBG10A' 'unsafe-inline';object-src 'none';base-uri 'self';report-uri /_/AdsSettingsUi/cspreport;worker-src 'self'
+Content-Security-Policy: require-trusted-types-for 'script';report-uri /_/AdsSettingsUi/cspreport
+Server: ESF
+X-XSS-Protection: 0
+X-Frame-Options: SAMEORIGIN
+X-Content-Type-Options: nosniff
+Set-Cookie: NID=511=bMNK3HbsUMEQ-zKIOd7Xj9t9S1kE8t15GWehVnzYp7CPA5AwoDoUj6fiivsXYP4-gyRC_WzBFaSccBZkemIpF3KFO8aiMoJYHAdNeleJVMOLKucnDBZIh1Nk8WaN2_gneJNvZmi8Lygg_wV75MHUF-GIz8ziLqK1fsN9JiAciqc; expires=Sun, 14-Apr-2024 20:03:34 GMT; path=/; domain=.google.com; HttpOnly
+Alt-Svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+
+HTTP/1.1 302 Found
+Location: https://www.google.com/ads/preferences/checkgoog?continue=aHR0cHM6Ly9hZHNzZXR0aW5ncy5nb29nbGUuY29tL2Fub255bW91cw==&hl=en
+Date: Sat, 14 Oct 2023 20:03:35 GMT
+Pragma: no-cache
+Expires: Fri, 01 Jan 1990 00:00:00 GMT
+Cache-Control: no-cache, must-revalidate
+Content-Type: text/html; charset=UTF-8
+X-Content-Type-Options: nosniff
+Server: content-ads-prefmgr
+Content-Length: 321
+X-XSS-Protection: 0
+X-Frame-Options: SAMEORIGIN
+Set-Cookie: pm_sess=ACi0TCjYJ06sbM6BFNdqCwei2oajLiPfjmYIJ6JM-MLXeN-bH5tq9fLcjGPUwyNi1squ3shrky5S; expires=Sat, 14-Oct-2023 20:33:35 GMT; path=/ads/preferences; domain=.google.com; Secure
+Set-Cookie: pm_sess=ACi0TCjYJ06sbM6BFNdqCwei2oajLiPfjmYIJ6JM-MLXeN-bH5tq9fLcjGPUwyNi1squ3shrky5S; expires=Sat, 14-Oct-2023 20:33:35 GMT; path=/anonymous; domain=.google.com; Secure
+Alt-Svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+
+HTTP/1.1 302 Found
+Location: https://www.google.com/ads/preferences/html/blocked-cookies.html
+Cache-Control: private
+Content-Type: text/html; charset=UTF-8
+X-Content-Type-Options: nosniff
+Date: Sat, 14 Oct 2023 20:03:35 GMT
+Server: content-ads-prefmgr
+Content-Length: 261
+X-XSS-Protection: 0
+X-Frame-Options: SAMEORIGIN
+Alt-Svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+
+HTTP/1.1 200 OK
+Content-Type: text/html
+Last-Modified: Mon, 12 Jun 2017 11:45:51 GMT
+Date: Sat, 14 Oct 2023 20:03:36 GMT
+Expires: Sat, 14 Oct 2023 20:03:36 GMT
+Cache-Control: private, max-age=3600
+X-Content-Type-Options: nosniff
+Server: content-ads-prefmgr
+X-XSS-Protection: 0
+X-Frame-Options: SAMEORIGIN
+Transfer-Encoding: chunked
+Alt-Svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+Accept-Ranges: none
+Vary: Accept-Encoding
+

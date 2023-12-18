@@ -1,0 +1,38 @@
+HTTP/1.1 301 Moved Permanently
+Date: Thu, 19 Oct 2023 00:39:27 GMT
+Connection: keep-alive
+Cache-Control: max-age=3600
+Expires: Thu, 19 Oct 2023 01:39:27 GMT
+Location: https://addtoany.com/
+X-Content-Type-Options: nosniff
+Server: cloudflare
+CF-RAY: 8184f6ce888e2429-IAD
+alt-svc: h3=":443"; ma=86400
+
+HTTP/1.1 301 Moved Permanently
+Date: Thu, 19 Oct 2023 00:39:27 GMT
+Connection: keep-alive
+Cache-Control: max-age=3600
+Expires: Thu, 19 Oct 2023 01:39:27 GMT
+Location: https://www.addtoany.com/
+Strict-Transport-Security: max-age=31536000; includeSubDomains; preload
+X-Content-Type-Options: nosniff
+Server: cloudflare
+CF-RAY: 8184f6cf1f19580e-IAD
+alt-svc: h3=":443"; ma=86400
+
+HTTP/1.1 200 OK
+Date: Thu, 19 Oct 2023 00:39:28 GMT
+Content-Type: text/html; charset=utf-8
+Connection: keep-alive
+link: </css/main.17.min.css>; rel=preload; as=style
+vary: Accept-Encoding
+via: e9s
+Last-Modified: Wed, 18 Oct 2023 18:07:49 GMT
+CF-Cache-Status: HIT
+Age: 9526
+Strict-Transport-Security: max-age=31536000; includeSubDomains; preload
+X-Content-Type-Options: nosniff
+Server: cloudflare
+CF-RAY: 8184f6d02aa312c6-IAD
+alt-svc: h3=":443"; ma=86400

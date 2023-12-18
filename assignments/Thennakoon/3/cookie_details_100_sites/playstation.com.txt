@@ -1,0 +1,41 @@
+HTTP/1.1 301 Moved Permanently
+Server: awselb/2.0
+Date: Tue, 10 Oct 2023 00:36:45 GMT
+Content-Type: text/html
+Content-Length: 134
+Connection: keep-alive
+Location: https://playstation.com:443/
+
+HTTP/2 301 
+server: awselb/2.0
+date: Tue, 10 Oct 2023 00:36:45 GMT
+content-type: text/html
+content-length: 134
+location: https://www.playstation.com:443/
+
+HTTP/2 301 
+server: AkamaiGHost
+content-length: 0
+location: https://www.playstation.com/en-us/
+expires: Tue, 10 Oct 2023 00:36:46 GMT
+cache-control: max-age=0, no-cache, no-store
+pragma: no-cache
+date: Tue, 10 Oct 2023 00:36:46 GMT
+set-cookie: country=US; expires=Tue, 10-Oct-2023 12:36:46 GMT; path=/; secure
+
+HTTP/2 200 
+content-type: text/html;charset=utf-8
+etag: "97c12-6074d7ef97088-gzip"
+last-modified: Mon, 09 Oct 2023 19:21:24 GMT
+server: Apache
+strict-transport-security: max-age=63072000; includeSubdomains; preload;
+x-content-type-options: nosniff
+x-dispatcher: dispatcher2uswest1
+x-frame-options: SAMEORIGIN
+x-vhost: publish
+expires: Tue, 10 Oct 2023 00:36:46 GMT
+cache-control: max-age=0, no-cache, no-store
+pragma: no-cache
+date: Tue, 10 Oct 2023 00:36:46 GMT
+set-cookie: country=US; expires=Tue, 10-Oct-2023 12:36:46 GMT; path=/; secure
+

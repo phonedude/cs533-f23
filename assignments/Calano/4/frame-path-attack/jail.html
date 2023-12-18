@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Frame Busting Hulk From Jail</title>
+  <meta charset='utf-8' />
+</head>
+<body style="width: 1000px; height: 1000px">
+    <button id="btnDoor" style="display: inline; margin: 8px">Open Door</button>
+    <button id="btnHacked" style="display: inline; margin: 8px">Upload virus!</button>
+    <h2 id="status" style="display: inline; color: red"></h2>
+    <div style="display: flex; width: 100%; height: 100%">
+        
+        <iframe
+            id="parent"
+            src="http://localhost:9001/jailCell"
+            style="width: 450px; height: 550px; float: left; border-width: 8px; padding: 8px; border-color: grey">
+        </iframe>
+        
+        <img id="escaped-hulk" style="width: 450px; height: 550px; float: right; margin: 16px" />
+    </div>
+    <script src="path-attack.js"></script>
+</body>
+</html>

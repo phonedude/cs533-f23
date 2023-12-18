@@ -1,0 +1,25 @@
+HTTP/1.1 301 Moved Permanently
+Content-Type: text/html
+Content-Length: 178
+Connection: keep-alive
+Date: Tue, 31 Oct 2023 22:59:43 GMT
+Server: nginx
+Location: https://www.biblegateway.com/
+X-Cache: Miss from cloudfront
+Via: 1.1 d0e0fdfe87d75193de6278b5eca393f8.cloudfront.net (CloudFront)
+X-Amz-Cf-Pop: IAD61-P3
+Alt-Svc: h3=":443"; ma=86400
+X-Amz-Cf-Id: z0NIaaBDR00aC6e9F33iPH88yMsOvEh0qRz6s-kui4cKHRuFuQREuw==
+
+HTTP/2 200 
+content-type: text/html; charset=UTF-8
+date: Tue, 31 Oct 2023 22:59:43 GMT
+server: nginx
+vary: Accept-Encoding
+strict-transport-security: max-age=2592000
+x-cache: Miss from cloudfront
+via: 1.1 216cc93d387142758c190b0491dc538c.cloudfront.net (CloudFront)
+x-amz-cf-pop: IAD61-P3
+alt-svc: h3=":443"; ma=86400
+x-amz-cf-id: YQPbI5e7_kyLLGoE-vfZDPpGC5FvgCYiYJdwI5XURwb8mzmKa2ktJg==
+

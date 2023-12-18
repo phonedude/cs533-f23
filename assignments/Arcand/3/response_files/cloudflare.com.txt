@@ -1,0 +1,34 @@
+HTTP/1.1 301 Moved Permanently
+Date: Sat, 14 Oct 2023 20:03:48 GMT
+Connection: keep-alive
+Cache-Control: max-age=3600
+Expires: Sat, 14 Oct 2023 21:03:48 GMT
+Location: https://www.cloudflare.com/
+Set-Cookie: __cf_bm=Qc6WPLqolms0a92gPBEp0hW6sp_ZnoW4GhRPZfrIudE-1697313828-0-ARSUWX6TnqzdEFFRMgvZmhESt+WO0PpJoUhnbhhgsX07WyQDvpd5il4taevCV4zCJzW+xPKw1hR0mLfEtFRMyLw=; path=/; expires=Sat, 14-Oct-23 20:33:48 GMT; domain=.cloudflare.com; HttpOnly; SameSite=None
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=qvMt1GW1aCaP7tcplByXfZ4pnjTHn3v%2FsRX%2BSKRNg%2FCCKCeZYEpXzR82jsnda6sMQwpTbzEb1JYceI0DThGxZeiZR3xCr9g3%2FzU3T%2B3wv16OURsYiMXuB3htpkI5dZ4cSyKqym6vwvc5li3N"}],"group":"cf-nel","max_age":604800}
+NEL: {"success_fraction":0,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+CF-RAY: 81626d819d603b23-IAD
+alt-svc: h3=":443"; ma=86400
+
+HTTP/1.1 200 OK
+Date: Sat, 14 Oct 2023 20:03:48 GMT
+Content-Type: text/html; charset=utf-8
+Connection: keep-alive
+CF-Cache-Status: MISS
+Accept-Ranges: bytes
+Cache-Control: max-age=120
+Expires: Sat, 14 Oct 2023 20:04:03 GMT
+Last-Modified: Sat, 14 Oct 2023 19:20:35 GMT
+Strict-Transport-Security: max-age=31536000
+X-Content-Type-Options: nosniff
+X-Frame-Options: SAMEORIGIN
+x-rm: RDWD
+X-XSS-Protection: 1; mode=block
+Set-Cookie: __cf_bm=MrY39921dw8Qh76oGS9LeEINqfacJ3Lo2cd6LgQRBbU-1697313828-0-Afs7gRTh9wqMmP7WhXVGB5DSnhTKjCWhYmnz5oVdXSOsnyZrIrj5ztu6INmLXhq9VM4Be96xSQTsIelxVahkh4+Vljc2awvqamoWExvYLW5m; path=/; expires=Sat, 14-Oct-23 20:33:48 GMT; domain=.www.cloudflare.com; HttpOnly; Secure; SameSite=None
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=N64cAqK3bZCyiFw%2B0FZj1WFdBm18phyNaa96auLnQm9dLoK9hyurasL%2FPDEJt%2BIUpS0kXs6DDVvoih8fXYfI7DlzEFpzrwJu679E0smPlZM1MEtLU6JqmgDwpAGUeVWzvfulGgxYEAoBLCuLGpMjgg%3D%3D"}],"group":"cf-nel","max_age":604800}
+NEL: {"success_fraction":0,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+CF-RAY: 81626d82fe0813bb-IAD
+alt-svc: h3=":443"; ma=86400
+

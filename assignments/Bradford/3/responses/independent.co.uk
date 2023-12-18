@@ -1,0 +1,42 @@
+> HTTP/1.1 200 OK
+> Connection: keep-alive
+> Content-Length: 81030
+> Content-Type: text/html; charset=utf-8
+> Cache-Tag: independent.co.uk,v5.4.0,us,section_1741,section_45
+> Content-Encoding: gzip
+> Content-Language: en
+> Etag: W/"6954c-rQrwm5Uvwin1u+X1iqVRX4r1VmQ-gzip"
+> Link: <https://static.independent.co.uk>; rel=dns-prefetch, <https://static.independent.co.uk>; rel=preconnect, <https://assets.the-independent.com>; rel=dns-prefetch, <https://assets.the-independent.com>; rel=preconnect
+> Strict-Transport-Security: max-age=63072000;  preload
+> X-Head-Hash: 
+> Accept-Ranges: bytes
+> Via: 1.1 varnish, 1.1 varnish
+> Age: 49
+> Set-Cookie: gdpr=0 ; Path=/ ;
+> Set-Cookie: subscriber_origin=us ; Path=/ ;
+> Set-Cookie: _pc_subscriber_origin=us ; Path=/ ;
+> Set-Cookie: esi-uuid=8e3a9fa3-dfd6-49b3-a65b-66a626c3b154 ; Path=/ ; Secure; HttpOnly; Expires=Sat, 05 Oct 2024 14:11:16 GMT ;
+> Set-Cookie: esi-permutive-id=8e3a9fa3-dfd6-49b3-a65b-66a626c3b154; Path=/ ; Secure
+> Set-Cookie: gdpr=0 ; Path=/ ;
+> Set-Cookie: subscriber_origin=us ; Path=/ ;
+> Set-Cookie: _pc_subscriber_origin=us ; Path=/ ;
+> Set-Cookie: esi-uuid=d9920f54-ad71-4d2e-b0ab-93db82fe3ba3 ; Path=/ ; Secure; HttpOnly; Expires=Sat, 05 Oct 2024 14:11:16 GMT ;
+> Set-Cookie: esi-permutive-id=d9920f54-ad71-4d2e-b0ab-93db82fe3ba3; Path=/ ; Secure
+> Access-Control-Allow-Origin: *
+> Cache-control: no-cache, no-store, max-age=0, must-revalidate
+> Date: Fri, 06 Oct 2023 14:11:16 GMT
+> canary: 1
+> X-Backend: flow-us
+> Content-Security-Policy: default-src https: 'unsafe-inline' data: blob:; frame-src https: data:; script-src https: 'unsafe-inline' 'unsafe-eval' blob: 'unsafe-inline'; media-src https: 'unsafe-inline' blob:; img-src https: http: data: blob:; frame-ancestors https:
+> x-frame-options: SAMEORIGIN
+> x-xss-protection: 1; mode=block
+> x-content-type-options: nosniff
+> referrer-policy: no-referrer-when-downgrade
+> feature-policy: camera 'none'; microphone 'none'; midi 'none'; geolocation 'none'
+> permissions-policy: camera=(), microphone=(), midi=(), geolocation=(), interest-cohort=()
+> X-Served-By: cache-lga21936-LGA, cache-iad-kjyo7100143-IAD
+> X-Cache: HIT, MISS
+> X-Cache-Hits: 1, 0
+> X-Timer: S1696601476.382579,VS0,VE21
+> alt-svc: h3=":443";ma=86400,h3-29=":443";ma=86400,h3-27=":443";ma=86400
+> 

@@ -1,0 +1,35 @@
+HTTP/1.1 301 Moved Permanently
+Date: Sat, 14 Oct 2023 20:05:17 GMT
+Connection: keep-alive
+Cache-Control: max-age=3600
+Expires: Sat, 14 Oct 2023 21:05:17 GMT
+Location: https://themeforest.net/
+Set-Cookie: __cf_bm=g32udY.cNp6FlRqtg66uVflNdbOjrOlI1BPzYPePRe0-1697313917-0-AW9dtDnQsJ03AFSmNIe+EKqpAl+qcF3fvjPHouPpW7dPT5C0t79EZ61rcdv+1ZQYITjY283KaDp9SEOsYbZBe0Q=; path=/; expires=Sat, 14-Oct-23 20:35:17 GMT; domain=.themeforest.net; HttpOnly; SameSite=None
+Server: cloudflare
+CF-RAY: 81626fad9aa407de-ATL
+
+HTTP/1.1 200 OK
+Date: Sat, 14 Oct 2023 20:05:17 GMT
+Content-Type: text/html; charset=utf-8
+Connection: keep-alive
+Strict-Transport-Security: max-age=31536000
+X-Frame-Options: SAMEORIGIN
+X-XSS-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+X-Download-Options: noopen
+X-Permitted-Cross-Domain-Policies: none
+Referrer-Policy: strict-origin-when-cross-origin
+Link: <https://assets.market-storefront.envato-static.com/storefront/assets/styles-450da611fceaff1c1580647f483223debd7d074e388d347bbb75ce20eaeef158.css>; rel=preload; as=style; type=text/css,<https://assets.market-storefront.envato-static.com/storefront/assets/home/themeforest/search-header-05971474482f1a21d041838addc1f022fa748078e6e4d40f6f728e743231b234.webp>; rel=preload; as=image,<https://assets.market-storefront.envato-static.com/storefront/assets/logos/themeforest-dd57a83e1947d49586491f03d1c3eedc4c6a438d2740328c5277e6b67bc46ad9.webp>; rel=preload; as=image,<https://assets.market-storefront.envato-static.com/storefront/assets/styles-450da611fceaff1c1580647f483223debd7d074e388d347bbb75ce20eaeef158.css>; rel=preload; as=style; nopush,<https://assets.market-storefront.envato-static.com/storefront/assets/datadog-15d20e3786a79fbb07b3e6d0aee37da5ea5f774e02d71a18973a4a154bfcae93.js>; rel=preload; as=script; crossorigin=anonymous; nopush,<https://assets.market-storefront.envato-static.com/storefront/assets/legacy-961def1c067a4f75613a6fd8489cebe53796c8e67a543416139aa88785460c0a.js>; rel=preload; as=script; crossorigin=anonymous; nopush
+X-Request-Id: 5799ef43-c58c-4667-b76d-dcd81fdfeb90
+X-Runtime: 0.170651
+x-content-digest: 333d004e3b5a7ee3b9de78e66ac015e61738466d
+cache-control: max-age=1800, public, stale-while-revalidate=300, stale-if-error=28800
+etag: W/"b3d14c4087d7c3e24b503802be2d7a23"
+x-rack-cache: fresh
+CDN-Cache-Control: private, no-store
+Set-Cookie: mk_ex=; domain=.themeforest.net; path=/; expires=Sun, 13 Oct 2024 20:05:17 GMT; SameSite=Lax
+CF-Cache-Status: BYPASS
+Set-Cookie: __cf_bm=Omd4dldu43YrTryuNioPavIILFIl0.TGe3y9tIZhevg-1697313917-0-AREQnn0oJho0HL3zelNU2PkY0tzERaLH7D0KGNturj2oA1YT3UF0tLAbCZKhPLSsMZxAUCj3SKI/shmib9lsnkQ=; path=/; expires=Sat, 14-Oct-23 20:35:17 GMT; domain=.themeforest.net; HttpOnly; Secure; SameSite=None
+Server: cloudflare
+CF-RAY: 81626faeca8312dd-ATL
+

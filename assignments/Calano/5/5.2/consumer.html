@@ -1,0 +1,34 @@
+<br />
+<button id="loadBtn">Get user data!</button>
+<br />
+<p>Favorite band: <span id="band"></span></p>
+<p>Favorite movie: <span id="movie"></span></p>
+<p>Favorite tv show: <span id="tv"></span></p>
+
+<script>    
+    const actionBtn = document.getElementById('loadBtn')
+    const bandEl = document.getElementById('band')
+    const movieEl = document.getElementById('movie')
+    const tvEl = document.getElementById('tv')
+
+    actionBtn.onclick = () => {
+        fetch('http://localhost:9001/users/david/favorites')
+            .then(res => {
+                let bandHeader = res.headers.get('X-CS533f23-band')
+                let movieHeader = res.headers.get('X-CS533f23-movie')
+                let tvHeader = res.headers.get('X-CS533f23-tv')
+                console.log(bandHeader)
+                console.log(movieHeader)
+                console.log(tvHeader)
+                
+                bandEl.textContent = bandHeader !== null ? bandHeader : 'Error!'
+                movieEl.textContent = movieHeader !== null ? movieHeader : 'Error!'
+                tvEl.textContent = tvHeader !== null ? tvHeader : 'Error!'
+            })
+            .catch(err => {
+                bandEl.textContent = 'Error!'
+                movieEl.textContent = 'Error!'
+                bandEl.textContent = 'Error!'
+            })
+    }
+</script>

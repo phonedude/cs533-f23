@@ -1,0 +1,25 @@
+HTTP/1.1 301 Moved Permanently
+Date: Mon, 16 Oct 2023 05:33:15 GMT
+Server: Apache/2.4.29
+Strict-Transport-Security: max-age=63072000; includeSubDomains; preload
+X-Frame-Options: sameorigin
+X-Content-Type-Options: nosniff
+Location: http://www.gnu.org/
+Content-Type: text/html; charset=iso-8859-1
+
+HTTP/1.1 200 OK
+Date: Mon, 16 Oct 2023 05:33:16 GMT
+Server: Apache/2.4.29
+Content-Location: home.html
+Vary: negotiate,accept-language,Accept-Encoding
+TCN: choice
+Strict-Transport-Security: max-age=63072000; includeSubDomains; preload
+X-Frame-Options: sameorigin
+X-Content-Type-Options: nosniff
+Access-Control-Allow-Origin: (null)
+Accept-Ranges: bytes
+Cache-Control: max-age=0
+Expires: Mon, 16 Oct 2023 05:33:16 GMT
+Content-Type: text/html
+Content-Language: en
+

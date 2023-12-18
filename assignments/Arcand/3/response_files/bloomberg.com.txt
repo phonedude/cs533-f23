@@ -1,0 +1,51 @@
+HTTP/1.1 301 Moved Permanently
+Server: awselb/2.0
+Date: Sat, 14 Oct 2023 20:03:42 GMT
+Content-Type: text/html
+Content-Length: 134
+Connection: keep-alive
+Location: https://bloomberg.com:443/
+
+HTTP/1.1 301 Moved Permanently
+Server: awselb/2.0
+Date: Sat, 14 Oct 2023 20:03:43 GMT
+Content-Type: text/html; charset=UTF-8
+Content-Length: 80
+Connection: keep-alive
+Strict-Transport-Security: max-age=31536000
+Location: https://www.bloomberg.com/
+
+HTTP/1.1 307 s2s_high_score
+Connection: close
+Content-Length: 0
+Server: Varnish
+Retry-After: 0
+Location: https://www.bloomberg.com/tosv2.html?vid=&uuid=c6a99d1a-6acc-11ee-b7e2-e3dc9b796b64&url=Lw==
+Accept-Ranges: bytes
+Date: Sat, 14 Oct 2023 20:03:43 GMT
+Set-Cookie: _pxhd=6PpnVzO8qwV7vHatuf87dF-x8X/e2Qj1TfGcqIsxR0q0tvi3sJDQQ4FWuNeWviJ7hHnyrBTJUWz4V8vT5AfOoQ==:8l4S4PIZ4DsDFXqoIYmMrAVjBHSQxriAGSK3PPnx2B8zcZsxUvfiGkgRO1hiJBwYd3d17Y3yEsvM74qwKPLvc/VdMK3mIAtnxyEiPkXaIC0=; Expires=Fri, 01 Jan 2021 00:00:00 GMT; path=/;
+X-Served-By: cache-atl18469-ATL
+X-Cache: HIT
+X-Cache-Hits: 0
+Strict-Transport-Security: max-age=31557600
+
+HTTP/1.1 200 OK
+Connection: keep-alive
+Content-Length: 11722
+Accept-Ranges: bytes
+Cache-Control: public, max-age=5, private, no-store, no-cache, must-revalidate, proxy-revalidate, max-age=0
+Content-Type: text/html
+Content-Type: text/html; charset=utf-8
+ETag: "65299647-2dca"
+Last-Modified: Fri, 13 Oct 2023 19:11:03 GMT
+Server: openresty
+Date: Sat, 14 Oct 2023 20:03:43 GMT
+X-Served-By: cache-iad-kiad7000063-IAD, cache-atl18472-ATL
+X-Cache: MISS, MISS
+X-Cache-Hits: 0, 0
+X-Timer: S1697313824.579097,VS0,VE20
+Strict-Transport-Security: max-age=31557600
+Link: <https://assets.bwbx.io>; rel=preconnect; crossorigin, <https://assets.bwbx.io>; rel=preconnect, <https://sourcepointcmp.bloomberg.com>; rel=preconnect; crossorigin, <https://tpc.googlesyndication.com	>; rel=preconnect; crossorigin, <https://www.google-analytics.com>; rel=preconnect; crossorigin, <https://www.googletagmanager.com>; rel=preconnect, <https://www.googletagmanager.com>; rel=preconnect; crossorigin<https://assets.bwbx.io>; rel=preconnect; crossorigin, <https://assets.bwbx.io>; rel=preconnect, <https://sourcepointcmp.bloomberg.com>; rel=preconnect; crossorigin, <https://tpc.googlesyndication.com	>; rel=preconnect; crossorigin, <https://www.google-analytics.com>; rel=preconnect; crossorigin, <https://www.googletagmanager.com>; rel=preconnect, <https://www.googletagmanager.com>; rel=preconnect; crossorigin
+Vary: Accept-Encoding, Accept-Encoding
+alt-svc: h3=":443";ma=86400,h3-29=":443";ma=86400,h3-27=":443";ma=86400
+

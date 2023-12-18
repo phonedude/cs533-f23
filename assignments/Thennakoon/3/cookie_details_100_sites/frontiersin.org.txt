@@ -1,0 +1,19 @@
+HTTP/1.1 301 Moved Permanently
+Content-length: 0
+Location: https://www.frontiersin.org/
+
+HTTP/2 200 
+cache-control: public, max-age=0
+content-length: 81457
+content-type: text/html; charset=UTF-8
+last-modified: Mon, 09 Oct 2023 12:39:57 GMT
+accept-ranges: bytes
+etag: W/"13e31-18b14738666"
+vary: Accept-Encoding
+x-gateway-server: gate01
+x-request-timestamp: 1696898106
+x-request-counters: 76129/0/3/1/0
+x-cache: CONFIG_NOCACHE
+x-azure-ref: 0h5wkZQAAAAC/0Bz6vDN+QY2GsfRS2pmsTU5aMjIxMDYwNjExMDA5AGI3NjJlMmY3LTg5MWYtNDNiYy1hZDZmLTQ3YzdmOWFhYmVmOA==
+date: Tue, 10 Oct 2023 00:36:22 GMT
+

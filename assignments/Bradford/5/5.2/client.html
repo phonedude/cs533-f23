@@ -1,0 +1,13 @@
+<h1>I'm going to make a request and try to read the response headers.</h1>
+
+<script>
+    const http = new XMLHttpRequest();
+    const url = "http://localhost:8080";
+    http.open("GET", url);
+    http.send()
+    setTimeout( () => {
+        const p = document.createElement('p')
+        p.innerHTML = http.getAllResponseHeaders();
+        document.body.appendChild(p)
+    }, 3000)
+</script>

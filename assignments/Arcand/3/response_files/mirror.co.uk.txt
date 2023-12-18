@@ -1,0 +1,33 @@
+HTTP/1.1 301 Moved Permanently
+Content-Type: text/html; charset=iso-8859-1
+Date: Sat, 14 Oct 2023 20:04:34 GMT
+Location: https://www.mirror.co.uk/
+Server: Apache/2.4.41 (Ubuntu)
+Connection: keep-alive
+
+HTTP/1.1 200 OK
+Content-Type: text/html;charset=UTF-8
+Connection: keep-alive
+Date: Sat, 14 Oct 2023 20:04:34 GMT
+Server: Apache-Coyote/1.1
+X-Frame-Options: SAMEORIGIN
+Content-Security-Policy: frame-ancestors 'self' https://*.cdn.ampproject.org/ https://bing-amp.com/ https://*.tm-aws.com/ https://*.tm-awx.com/;
+Access-Control-Allow-Origin: *
+Cache-Control: max-age=60
+Expires: Sat, 14 Oct 2023 20:13:53 GMT
+X-RemovedCookies: YES
+X-ProcessESI: yes
+X-Cacheable: YES
+X-Varnish: 140715541 140683623
+X-Served-By: nat-cache-plus302.tm-aws.com
+X-Cache-Hits: 36
+Via: 1.1 varnish, 1.1 2b98ef877819781cd86c369994bd8ba6.cloudfront.net (CloudFront)
+Accept-Ranges: bytes
+Set-Cookie: GS_GROUP=2; Path=/; Expires=Mon, 13 Nov 2023 20:04:34 GMT
+Set-Cookie: GS_REVENUE_LOC=1; Path=/; Expires=Mon, 13 Nov 2023 20:04:34 GMT
+Set-Cookie: GS_RESTRICT=0; Path=/
+Vary: Accept-Encoding
+X-Cache: Miss from cloudfront
+X-Amz-Cf-Pop: ATL58-P1
+X-Amz-Cf-Id: Hn9CoHIEV9jOWPJperq9F_rcbOVGrr_bFravbnB0B7Qd2gcMBdoXYw==
+

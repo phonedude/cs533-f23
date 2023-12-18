@@ -1,0 +1,30 @@
+HTTP/1.1 301 Moved Permanently
+Server: awselb/2.0
+Date: Mon, 16 Oct 2023 18:07:23 GMT
+Content-Type: text/html
+Content-Length: 134
+Connection: keep-alive
+Location: https://www.lg.com:443/
+
+HTTP/1.1 301 Moved Permanently
+Server: AkamaiGHost
+Content-Length: 0
+Location: https://www.lg.com/us
+Date: Mon, 16 Oct 2023 18:07:24 GMT
+Connection: keep-alive
+Server-Timing: ak_p; desc="1697479644052_386655692_1123840746_4364_48300_57_59_-";dur=1
+X-N: S
+
+HTTP/1.1 200 OK
+Content-Type: text/html;charset=UTF-8
+Server: 
+Content-Security-Policy: frame-ancestors 'self' www.lgechat.com lgechat.com *.lgsolutions.com b2bmkt.lge.com;
+X-Frame-Options: SAMEORIGIN
+X-XSS-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Cache-Control: max-age=176
+Expires: Mon, 16 Oct 2023 18:10:20 GMT
+Date: Mon, 16 Oct 2023 18:07:24 GMT
+Connection: keep-alive
+Server-Timing: ak_p; desc="1697479644295_386655692_1123840936_2382_12974_56_0_-";dur=1
+

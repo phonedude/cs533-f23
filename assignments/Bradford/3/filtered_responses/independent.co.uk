@@ -1,0 +1,11 @@
+> HTTP/1.1 200 OK
+> Set-Cookie: gdpr=0 ; Path=/ ;
+> Set-Cookie: subscriber_origin=us ; Path=/ ;
+> Set-Cookie: _pc_subscriber_origin=us ; Path=/ ;
+> Set-Cookie: esi-uuid=8e3a9fa3-dfd6-49b3-a65b-66a626c3b154 ; Path=/ ; Secure; HttpOnly; Expires=Sat, 05 Oct 2024 14:11:16 GMT ;
+> Set-Cookie: esi-permutive-id=8e3a9fa3-dfd6-49b3-a65b-66a626c3b154; Path=/ ; Secure
+> Set-Cookie: gdpr=0 ; Path=/ ;
+> Set-Cookie: subscriber_origin=us ; Path=/ ;
+> Set-Cookie: _pc_subscriber_origin=us ; Path=/ ;
+> Set-Cookie: esi-uuid=d9920f54-ad71-4d2e-b0ab-93db82fe3ba3 ; Path=/ ; Secure; HttpOnly; Expires=Sat, 05 Oct 2024 14:11:16 GMT ;
+> Set-Cookie: esi-permutive-id=d9920f54-ad71-4d2e-b0ab-93db82fe3ba3; Path=/ ; Secure

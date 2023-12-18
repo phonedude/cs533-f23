@@ -1,0 +1,22 @@
+HTTP/1.1 301 Moved Permanently
+Server: AkamaiGHost
+Content-Length: 0
+Location: https://indianexpress.com/
+Date: Sat, 14 Oct 2023 20:04:27 GMT
+Connection: keep-alive
+
+HTTP/1.1 200 OK
+Server: nginx
+Content-Type: text/html; charset=UTF-8
+X-Mobile-Class: desktop
+X-hacker: If you're reading this, you should visit wpvip.com/careers and apply to join the fun, mention this header.
+X-Powered-By: WordPress VIP <https://wpvip.com>
+Host-Header: a9130478a60e5f9135f765b23f26593b
+X-FRAME-OPTIONS: SAMEORIGIN
+Link: <https://indianexpress.com/wp-json/>; rel="https://api.w.org/"
+X-rq: atl1 123 242 443
+Cache-Control: must-revalidate, max-age=128
+Date: Sat, 14 Oct 2023 20:04:27 GMT
+Connection: keep-alive
+Alt-Svc: h3=":443"; ma=93600
+

@@ -1,0 +1,47 @@
+HTTP/1.1 301 Moved Permanently
+Content-Type: text/html
+Content-Length: 134
+Connection: keep-alive
+Server: awselb/2.0
+Date: Sat, 14 Oct 2023 20:04:15 GMT
+Location: https://gofundme.com:443/
+Set-Cookie: gdid=fe87ac5c-0f30-4d6f-b831-fbfb995a7852; path=/; domain=gofundme.com
+X-Cache: Miss from cloudfront
+Via: 1.1 68536efcab2672b0482f05414de9f06c.cloudfront.net (CloudFront)
+X-Amz-Cf-Pop: ATL51-C1
+X-Amz-Cf-Id: QvQ31ECQA1eIeXfkJwHPgcddFlrRUF1veajO3aRg6bfog2s4O2XL4w==
+
+HTTP/1.1 301 Moved Permanently
+Content-Type: text/html
+Content-Length: 162
+Connection: keep-alive
+Date: Sat, 14 Oct 2023 20:04:15 GMT
+Server: nginx
+Location: https://www.gofundme.com/
+Content-Security-Policy-Report-Only: frame-ancestors gofundme.com *.gofundme.com *.hopin.com;
+Strict-Transport-Security: max-age=31536000; includeSubDomains; preload
+Set-Cookie: gdid=d10c2f21-cf20-4c01-85f5-bf33903fb68d; path=/; domain=gofundme.com
+X-Cache: Miss from cloudfront
+Via: 1.1 812defed1167ca00304e9ce555dcf6e2.cloudfront.net (CloudFront)
+X-Amz-Cf-Pop: ATL51-C1
+X-Amz-Cf-Id: 4Z7S1k1QUqrf7LoKWvwncHnp1jXP-x7gp5mGOal__nFpw9npzNwbLw==
+
+HTTP/1.1 200 OK
+Content-Type: text/html; charset=utf-8
+Content-Length: 597582
+Connection: keep-alive
+Date: Sat, 14 Oct 2023 20:02:43 GMT
+Server: nginx
+Set-Cookie: visitor={"locale":"en_US","shimLocale":"en_US","country":"US"}; path=/; domain=.gofundme.com
+Set-Cookie: gdid=87eb597a-f1a0-4d46-9a0b-c6c622feae9a; path=/; domain=.gofundme.com
+Cache-Control: max-age=60, s-maxage=60, stale-while-revalidate=6000, stale-if-error=86400
+ETag: "s0x55q4ymrcs3a"
+Content-Security-Policy-Report-Only: frame-ancestors gofundme.com *.gofundme.com *.hopin.com;
+Strict-Transport-Security: max-age=31536000; includeSubDomains; preload
+Vary: Accept-Encoding
+X-Cache: RefreshHit from cloudfront
+Via: 1.1 71e79e1e6108b748582f22a7451be222.cloudfront.net (CloudFront)
+X-Amz-Cf-Pop: ATL51-C1
+X-Amz-Cf-Id: WtYKb0qIqrADaXg5IDN7bYB5XoSaam8rA5b414GMGJNuxOfhA4S3GQ==
+Age: 92
+

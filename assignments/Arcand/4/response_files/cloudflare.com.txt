@@ -1,0 +1,34 @@
+HTTP/1.1 301 Moved Permanently
+Date: Mon, 16 Oct 2023 18:06:44 GMT
+Connection: keep-alive
+Cache-Control: max-age=3600
+Expires: Mon, 16 Oct 2023 19:06:44 GMT
+Location: https://www.cloudflare.com/
+Set-Cookie: __cf_bm=rN.LnG5Lv5P4ymlFuFX1a4i2WjHt0u2doaWZ8CxmvN4-1697479604-0-AZj29Ua91ZuoJOd+n7FwYk9i77Bb6Dz8naSuVM4Y/dkCWmxDecpKapJMJy5Mr+fuzbX1Y6E2eeByO0u0yV063Z0=; path=/; expires=Mon, 16-Oct-23 18:36:44 GMT; domain=.cloudflare.com; HttpOnly; SameSite=None
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=dp%2BbF4d8wMOdZjl9QPA0fmYIP%2Bp7gLtKDG0GpOlPDqUslB9022futrQJJARZuQ69cnDuZ3Fu%2FyUXzall%2BwLgL4pto23EeIM6yhPz4lkQxwg0suE1GCKf1tN4PTZVxLrKBX4QpFfqlLiCNViH"}],"group":"cf-nel","max_age":604800}
+NEL: {"success_fraction":0,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+CF-RAY: 81723cc9f8bf0a87-IAD
+alt-svc: h3=":443"; ma=86400
+
+HTTP/1.1 200 OK
+Date: Mon, 16 Oct 2023 18:06:45 GMT
+Content-Type: text/html; charset=utf-8
+Connection: keep-alive
+CF-Cache-Status: MISS
+Accept-Ranges: bytes
+Cache-Control: max-age=120
+Expires: Mon, 16 Oct 2023 18:06:51 GMT
+Last-Modified: Mon, 16 Oct 2023 17:19:18 GMT
+Strict-Transport-Security: max-age=31536000; includeSubDomains
+X-Content-Type-Options: nosniff
+X-Frame-Options: SAMEORIGIN
+x-rm: RDWD
+X-XSS-Protection: 1; mode=block
+Set-Cookie: __cf_bm=TV61bFzJscudgNsECtnD8JJm49BmPb5Y_pb57DBP56U-1697479605-0-Adkhm1l8kwVqs2Czj7BnWo6YOkxbzm2tvMCRrjDPeyZoYXH6ArOFW9w/hEPlTPvi8SiBy6jBSM4Exv3sNi7gcoWr16XSsOXfQ03JBT5Ui7HD; path=/; expires=Mon, 16-Oct-23 18:36:45 GMT; domain=.www.cloudflare.com; HttpOnly; Secure; SameSite=None
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=4Y%2Bxd%2BE%2FSBBzKmvYO8eOQwwFw1OnOAq1j%2FcuXb5g1sl9yCgy4Oj7ygWAIuAk%2F32qh%2FCjPp3U271w2JFIYLz7bc8uCFtQfVLfopeBBMmuiUaJP2NlsBTDCnvXz0ciqp219alqQmfGPfX%2Fb9bNWpm3ug%3D%3D"}],"group":"cf-nel","max_age":604800}
+NEL: {"success_fraction":0,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+CF-RAY: 81723ccbcf300824-IAD
+alt-svc: h3=":443"; ma=86400
+

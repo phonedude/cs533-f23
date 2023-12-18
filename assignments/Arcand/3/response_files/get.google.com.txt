@@ -1,0 +1,28 @@
+HTTP/1.1 301 Moved Permanently
+Location: https://www.google.com/
+Cross-Origin-Resource-Policy: cross-origin
+Content-Type: text/html; charset=UTF-8
+X-Content-Type-Options: nosniff
+Date: Sat, 14 Oct 2023 20:04:13 GMT
+Expires: Sat, 14 Oct 2023 20:34:13 GMT
+Cache-Control: public, max-age=1800
+Server: sffe
+Content-Length: 220
+X-XSS-Protection: 0
+
+HTTP/1.1 200 OK
+Content-Type: text/html; charset=ISO-8859-1
+Content-Security-Policy-Report-Only: object-src 'none';base-uri 'self';script-src 'nonce-OMMXoy7z71LX5Xci3FMEnA' 'strict-dynamic' 'report-sample' 'unsafe-eval' 'unsafe-inline' https: http:;report-uri https://csp.withgoogle.com/csp/gws/other-hp
+P3P: CP="This is not a P3P policy! See g.co/p3phelp for more info."
+Date: Sat, 14 Oct 2023 20:04:13 GMT
+Server: gws
+X-XSS-Protection: 0
+X-Frame-Options: SAMEORIGIN
+Transfer-Encoding: chunked
+Expires: Sat, 14 Oct 2023 20:04:13 GMT
+Cache-Control: private
+Set-Cookie: 1P_JAR=2023-10-14-20; expires=Mon, 13-Nov-2023 20:04:13 GMT; path=/; domain=.google.com; Secure
+Set-Cookie: AEC=Ackid1Q6F08YSMjy17EAS02FB6gOrLa7U19KDx6uxjro4NYin_GFcGOPtQ; expires=Thu, 11-Apr-2024 20:04:13 GMT; path=/; domain=.google.com; Secure; HttpOnly; SameSite=lax
+Set-Cookie: NID=511=u3OeizhQ0zjOPfI4xLzqh2afjrzicfD5_vCRBT1dodFRDGiokdEIXcJ58kCVtnvyVvw-_pNGoingIqAIM0fczVG-jRwlsrJM8gzJmnwvDTZkmvVIgZugEV31GhXQ6ac4WxQGG2Z0x4bCndJdA1uwSgCMZdl_5gli0YfCJMKa1wA; expires=Sun, 14-Apr-2024 20:04:13 GMT; path=/; domain=.google.com; HttpOnly
+Alt-Svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+

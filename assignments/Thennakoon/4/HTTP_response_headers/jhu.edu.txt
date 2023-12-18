@@ -1,0 +1,31 @@
+HTTP/1.1 301 Moved Permanently
+Server: nginx/1.23.4
+Date: Tue, 31 Oct 2023 22:59:54 GMT
+Content-Type: text/html
+Content-Length: 169
+Connection: keep-alive
+Location: https://www.jhu.edu/
+
+HTTP/2 200 
+content-type: text/html; charset=UTF-8
+x-frame-options: SAMEORIGIN
+x-content-type-options: nosniff
+referrer-policy: strict-origin
+permissions-policy: geolocation=(),midi=(),microphone=(),camera=(),magnetometer=(),gyroscope=(),fullscreen=(self),payment=()
+link: <https://www.jhu.edu/wp-json/>; rel="https://api.w.org/"
+link: <https://www.jhu.edu/wp-json/wp/v2/pages/12375>; rel="alternate"; type="application/json"
+link: <https://www.jhu.edu/>; rel=shortlink
+strict-transport-security: max-age=31536000; includeSubDomains; preload
+x-xss-protection: 1; mode=block
+strict-transport-security: max-age=31536000; includeSubDomains
+x-content-type-options: nosniff
+x-frame-options: SAMEORIGIN
+x-xss-protection: 1; mode=block
+referrer-policy: strict-origin
+cache-control: max-age=1800
+expires: Tue, 31 Oct 2023 23:29:55 GMT
+date: Tue, 31 Oct 2023 22:59:55 GMT
+set-cookie: srv_id=4d92ee06e181f59b476c251848dacc5e; expires=Tue, 31-Oct-23 23:59:54 GMT; max-age=3600; domain=.jhu.edu; path=/
+set-cookie: TS01fe3422=01478956b1fac1da3863c0a867b6e26bc9785500307ad910927ec94cf41c0afc8048b60ad2c4521be958577e41cef94680cdf90440; Path=/; Secure; HttpOnly; SameSite=Strict; 
+set-cookie: TS01995bdd=01478956b1fac1da3863c0a867b6e26bc9785500307ad910927ec94cf41c0afc8048b60ad2c4521be958577e41cef94680cdf90440; path=/; domain=.jhu.edu
+
