@@ -9,6 +9,6 @@ Points available: 15
 This assignment consisted of creating and managing a webserver using Node.js.  Within the webserver you can see ATTEMPTED phishing site to capture login credentials of potential victims.  (EDUCATIONAL PURPOSES ONLY)  
 
 
-This webpage is a user created site of the 2007 myspace.  A recreation used by fans from the original MySpace website. 
+This webpage is a copy of Ikea's webpage that encourages the user to login before entering the site. 
 
 # Link to Youtube Video:  https://youtu.be/pWfzbpmImK4
