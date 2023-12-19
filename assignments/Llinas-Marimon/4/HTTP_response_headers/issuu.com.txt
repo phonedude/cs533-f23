@@ -1,0 +1,33 @@
+HTTP/1.1 301 Moved Permanently
+Content-Length: 0
+Server: Varnish
+Retry-After: 0
+Location: https://issuu.com/
+Accept-Ranges: bytes
+Date: Mon, 04 Dec 2023 01:24:01 GMT
+Via: 1.1 varnish, HTTP/1.1 forward.http.proxy:3128
+X-Served-By: cache-iad-kjyo7100079-IAD
+X-Cache: HIT
+X-Cache-Hits: 0
+X-Timer: S1701653041.356691,VS0,VE0
+Connection: close
+
+HTTP/2 200 
+accept-ch: UA-Arch,UA-Full-Version,UA-Mobile,UA-Model,UA-Platform-Version,UA-Platform,UA,ECT,DPR,Downlink,Save-Data,Width,Viewport-Width
+cache-control: private, no-cache, no-store, must-revalidate
+x-frame-options: SAMEORIGIN
+accept-ranges: bytes
+x-amzn-trace-id: Root=1-656d2a31-30a110c06e12195e6c69cc96
+via: 1.1 varnish, 1.1 varnish
+x-content-type-options: nosniff
+content-type: text/html; charset=utf-8
+etag: W/"27a4e-pPtQgpXlifOcCR/rmlM8S5moXtM"
+x-unique-id: AC100B97:A8D2_AC100099:0050_656D2A31_92C8FC0:187950
+set-cookie: iutk=5ad1f276-ddf9-42c7-8721-3731ee98ff9a; Max-Age=15552000; Domain=issuu.com; Path=/; Expires=Sat, 01 Jun 2024 01:24:01 GMT;Secure;SameSite=None
+date: Mon, 04 Dec 2023 01:24:01 GMT
+x-served-by: cache-iad-kjyo7100153-IAD, cache-iad-kjyo7100153-IAD
+x-cache: MISS, MISS
+x-cache-hits: 0, 0
+x-timer: S1701653042.550916,VS0,VE92
+content-length: 162382
+
