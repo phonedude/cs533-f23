@@ -1,0 +1,26 @@
+HTTP/1.1 301 Moved Permanently
+perf: 7626143928
+location: https://t.co/
+cache-control: no-cache, no-store, max-age=0
+content-length: 0
+x-transaction-id: c98c6e1b28e0d26f
+x-response-time: 1
+x-connection-hash: fb0a68b667f7f38d3885e4d5ba95ddc15c49ff5163828f9276374b882cf7d439
+date: Thu, 19 Oct 2023 20:57:29 GMT
+server: tsa_b
+Via: HTTP/1.1 forward.http.proxy:3128
+Connection: keep-alive
+
+HTTP/2 200 
+date: Thu, 19 Oct 2023 20:57:30 GMT
+perf: 7626143928
+server: tsa_b
+content-type: text/html; charset=utf-8
+cache-control: no-cache, no-store, max-age=0
+content-length: 3367
+x-transaction-id: 57d430b3a1f28e5b
+x-xss-protection: 0
+strict-transport-security: max-age=0
+x-response-time: 4
+x-connection-hash: ca3db3a09cd0f158a1fe46abe39c897a1dae45203bcd8cde2e838f9e75d84667
+

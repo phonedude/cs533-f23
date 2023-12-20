@@ -1,0 +1,458 @@
+HTTP/1.1 301 Moved Permanently
+Cache-Control: private
+Location: https://urbandictionary.com:443/
+Content-Length: 0
+Date: Mon, 04 Dec 2023 01:25:44 GMT
+Content-Type: text/html; charset=UTF-8
+Via: HTTP/1.1 forward.http.proxy:3128
+Connection: keep-alive
+
+HTTP/2 301 
+cache-control: private
+location: https://www.urbandictionary.com/
+content-length: 0
+date: Mon, 04 Dec 2023 01:25:44 GMT
+content-type: text/html; charset=UTF-8
+alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+
+HTTP/2 302 
+location: /define.php?term=
+x-cloud-trace-context: c0ae7c26170e5b60305627f61bbaaefa
+date: Mon, 04 Dec 2023 01:25:44 GMT
+content-type: text/html
+server: Google Frontend
+via: 1.1 google
+alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+
+HTTP/2 302 
+location: /define.php?term=define.php
+x-cloud-trace-context: d35e838eabcfeda051332d9b7dfb247d
+date: Mon, 04 Dec 2023 01:25:45 GMT
+content-type: text/html
+server: Google Frontend
+via: 1.1 google
+alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+
+HTTP/2 302 
+location: /define.php?term=define.php
+x-cloud-trace-context: 90652dae2135435ee9497ce2bb6f5bf2
+date: Mon, 04 Dec 2023 01:25:45 GMT
+content-type: text/html
+server: Google Frontend
+via: 1.1 google
+alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+
+HTTP/2 302 
+location: /define.php?term=define.php
+x-cloud-trace-context: f5268e3e7437f78e4c9258dfcb7b0949
+date: Mon, 04 Dec 2023 01:25:45 GMT
+content-type: text/html
+server: Google Frontend
+via: 1.1 google
+alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+
+HTTP/2 302 
+location: /define.php?term=define.php
+x-cloud-trace-context: 2b2c022d7ae3ca576da0fdadfd8b4e77
+date: Mon, 04 Dec 2023 01:25:46 GMT
+content-type: text/html
+server: Google Frontend
+via: 1.1 google
+alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+
+HTTP/2 302 
+location: /define.php?term=define.php
+x-cloud-trace-context: b2e78e7c1ce77053d77bba59549a1c8a
+date: Mon, 04 Dec 2023 01:25:46 GMT
+content-type: text/html
+server: Google Frontend
+via: 1.1 google
+alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+
+HTTP/2 302 
+location: /define.php?term=define.php
+x-cloud-trace-context: 2dbf9fe352e969ac4727cc3e8b631d3b
+date: Mon, 04 Dec 2023 01:25:46 GMT
+content-type: text/html
+server: Google Frontend
+via: 1.1 google
+alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+
+HTTP/2 302 
+location: /define.php?term=define.php
+x-cloud-trace-context: b6c1b54b2d3e7f7cd4c61499a740a373
+date: Mon, 04 Dec 2023 01:25:46 GMT
+content-type: text/html
+server: Google Frontend
+via: 1.1 google
+alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+
+HTTP/2 302 
+location: /define.php?term=define.php
+x-cloud-trace-context: 14d5f94b5ca9d4ca4d29bf0abde5580b
+date: Mon, 04 Dec 2023 01:25:46 GMT
+content-type: text/html
+server: Google Frontend
+via: 1.1 google
+alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+
+HTTP/2 302 
+location: /define.php?term=define.php
+x-cloud-trace-context: d8ca01648edce60a9a381f4bd0d0bfac
+date: Mon, 04 Dec 2023 01:25:46 GMT
+content-type: text/html
+server: Google Frontend
+via: 1.1 google
+alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+
+HTTP/2 302 
+location: /define.php?term=define.php
+x-cloud-trace-context: 426c084c6e2e32ef0779da5507f8acf0
+date: Mon, 04 Dec 2023 01:25:46 GMT
+content-type: text/html
+server: Google Frontend
+via: 1.1 google
+alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+
+HTTP/2 302 
+location: /define.php?term=define.php
+x-cloud-trace-context: 59fb23a13c727f78571c19b79101cca9
+date: Mon, 04 Dec 2023 01:25:46 GMT
+content-type: text/html
+server: Google Frontend
+via: 1.1 google
+alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+
+HTTP/2 302 
+location: /define.php?term=define.php
+x-cloud-trace-context: 143439f797e701543799486938925260
+date: Mon, 04 Dec 2023 01:25:47 GMT
+content-type: text/html
+server: Google Frontend
+via: 1.1 google
+alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+
+HTTP/2 302 
+location: /define.php?term=define.php
+x-cloud-trace-context: 226bdb2c0025c4297ad73aad964bb4df
+date: Mon, 04 Dec 2023 01:25:47 GMT
+content-type: text/html
+server: Google Frontend
+via: 1.1 google
+alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+
+HTTP/2 302 
+location: /define.php?term=define.php
+x-cloud-trace-context: e2becd587109d72c879439d8cc1906c7
+date: Mon, 04 Dec 2023 01:25:47 GMT
+content-type: text/html
+server: Google Frontend
+via: 1.1 google
+alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+
+HTTP/2 302 
+location: /define.php?term=define.php
+x-cloud-trace-context: ee69016b3840fdbde5eb032e7d4ee5f2
+date: Mon, 04 Dec 2023 01:25:48 GMT
+content-type: text/html
+server: Google Frontend
+via: 1.1 google
+alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+
+HTTP/2 302 
+location: /define.php?term=define.php
+x-cloud-trace-context: b48a0b3c0800bd692ea81a045576bcbc
+date: Mon, 04 Dec 2023 01:25:48 GMT
+content-type: text/html
+server: Google Frontend
+via: 1.1 google
+alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+
+HTTP/2 302 
+location: /define.php?term=define.php
+x-cloud-trace-context: 59decea4d987d2552be9a58d22a4bb90
+date: Mon, 04 Dec 2023 01:25:48 GMT
+content-type: text/html
+server: Google Frontend
+via: 1.1 google
+alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+
+HTTP/2 302 
+location: /define.php?term=define.php
+x-cloud-trace-context: aa28915fcaff103240341b47399466c7
+date: Mon, 04 Dec 2023 01:25:48 GMT
+content-type: text/html
+server: Google Frontend
+via: 1.1 google
+alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+
+HTTP/2 302 
+location: /define.php?term=define.php
+x-cloud-trace-context: 289248cb7459e26407f1a7ef7322c9bd
+date: Mon, 04 Dec 2023 01:25:48 GMT
+content-type: text/html
+server: Google Frontend
+via: 1.1 google
+alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+
+HTTP/2 302 
+location: /define.php?term=define.php
+x-cloud-trace-context: 87ef0d6460862b27efa671c6bfeb66f3
+date: Mon, 04 Dec 2023 01:25:49 GMT
+content-type: text/html
+server: Google Frontend
+via: 1.1 google
+alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+
+HTTP/2 302 
+location: /define.php?term=define.php
+x-cloud-trace-context: 4cdbb430c8633dfbe0a63a89ab228d23
+date: Mon, 04 Dec 2023 01:25:49 GMT
+content-type: text/html
+server: Google Frontend
+via: 1.1 google
+alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+
+HTTP/2 302 
+location: /define.php?term=define.php
+x-cloud-trace-context: 3303d6e744f662be7e7c388911c1a2b7
+date: Mon, 04 Dec 2023 01:25:49 GMT
+content-type: text/html
+server: Google Frontend
+via: 1.1 google
+alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+
+HTTP/2 302 
+location: /define.php?term=define.php
+x-cloud-trace-context: 4eb414bffd97bfee315be4a39d078b0c
+date: Mon, 04 Dec 2023 01:25:50 GMT
+content-type: text/html
+server: Google Frontend
+via: 1.1 google
+alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+
+HTTP/2 302 
+location: /define.php?term=define.php
+x-cloud-trace-context: 9765b6b4e0a3cd79947b9db5884e23e2
+date: Mon, 04 Dec 2023 01:25:50 GMT
+content-type: text/html
+server: Google Frontend
+via: 1.1 google
+alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+
+HTTP/2 302 
+location: /define.php?term=define.php
+x-cloud-trace-context: 58f4ee7aa12e081d9c24dceb62506354
+date: Mon, 04 Dec 2023 01:25:50 GMT
+content-type: text/html
+server: Google Frontend
+via: 1.1 google
+alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+
+HTTP/2 302 
+location: /define.php?term=define.php
+x-cloud-trace-context: b7de9fa3eb897a97ca0ce61428f2743c
+date: Mon, 04 Dec 2023 01:25:50 GMT
+content-type: text/html
+server: Google Frontend
+via: 1.1 google
+alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+
+HTTP/2 302 
+location: /define.php?term=define.php
+x-cloud-trace-context: c0f7cbc227595b8e20f2d74e59178621
+date: Mon, 04 Dec 2023 01:25:50 GMT
+content-type: text/html
+server: Google Frontend
+via: 1.1 google
+alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+
+HTTP/2 302 
+location: /define.php?term=define.php
+x-cloud-trace-context: c12715d5ef153da254b5be3b92f64931
+date: Mon, 04 Dec 2023 01:25:50 GMT
+content-type: text/html
+server: Google Frontend
+via: 1.1 google
+alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+
+HTTP/2 302 
+location: /define.php?term=define.php
+x-cloud-trace-context: 0195a5d4e7787b72a11f6486a288b3d6
+date: Mon, 04 Dec 2023 01:25:50 GMT
+content-type: text/html
+server: Google Frontend
+via: 1.1 google
+alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+
+HTTP/2 302 
+location: /define.php?term=define.php
+x-cloud-trace-context: 3d09b5f895b8ffec5b458da9b63e8406
+date: Mon, 04 Dec 2023 01:25:51 GMT
+content-type: text/html
+server: Google Frontend
+via: 1.1 google
+alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+
+HTTP/2 302 
+location: /define.php?term=define.php
+x-cloud-trace-context: 8c03261859a95012083c4ee5607fc37e
+date: Mon, 04 Dec 2023 01:25:51 GMT
+content-type: text/html
+server: Google Frontend
+via: 1.1 google
+alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+
+HTTP/2 302 
+location: /define.php?term=define.php
+x-cloud-trace-context: ac4a88361250b0d47829c1890636b048
+date: Mon, 04 Dec 2023 01:25:51 GMT
+content-type: text/html
+server: Google Frontend
+via: 1.1 google
+alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+
+HTTP/2 302 
+location: /define.php?term=define.php
+x-cloud-trace-context: df7d594b7b55f96a3ac1865382fb976e
+date: Mon, 04 Dec 2023 01:25:51 GMT
+content-type: text/html
+server: Google Frontend
+via: 1.1 google
+alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+
+HTTP/2 302 
+location: /define.php?term=define.php
+x-cloud-trace-context: 6e4948dd1e0894b9ea7e22fb6d647871
+date: Mon, 04 Dec 2023 01:25:51 GMT
+content-type: text/html
+server: Google Frontend
+via: 1.1 google
+alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+
+HTTP/2 302 
+location: /define.php?term=define.php
+x-cloud-trace-context: 66ec2d366dbaf9770d7aea03360c8fc8
+date: Mon, 04 Dec 2023 01:25:51 GMT
+content-type: text/html
+server: Google Frontend
+via: 1.1 google
+alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+
+HTTP/2 302 
+location: /define.php?term=define.php
+x-cloud-trace-context: 9ed1d812bb3eb05edd9c88b66b6621d9
+date: Mon, 04 Dec 2023 01:25:52 GMT
+content-type: text/html
+server: Google Frontend
+via: 1.1 google
+alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+
+HTTP/2 302 
+location: /define.php?term=define.php
+x-cloud-trace-context: b415b878eb3cbea5b35661c6d188409a
+date: Mon, 04 Dec 2023 01:25:52 GMT
+content-type: text/html
+server: Google Frontend
+via: 1.1 google
+alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+
+HTTP/2 302 
+location: /define.php?term=define.php
+x-cloud-trace-context: 24b56b5e010e867c6449e93bb8282deb
+date: Mon, 04 Dec 2023 01:25:52 GMT
+content-type: text/html
+server: Google Frontend
+via: 1.1 google
+alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+
+HTTP/2 302 
+location: /define.php?term=define.php
+x-cloud-trace-context: 4a8fd0e864484f24358d29d396718f62
+date: Mon, 04 Dec 2023 01:25:52 GMT
+content-type: text/html
+server: Google Frontend
+via: 1.1 google
+alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+
+HTTP/2 302 
+location: /define.php?term=define.php
+x-cloud-trace-context: bdcea05b49c5f937dc1c6a0f738de6d8
+date: Mon, 04 Dec 2023 01:25:52 GMT
+content-type: text/html
+server: Google Frontend
+via: 1.1 google
+alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+
+HTTP/2 302 
+location: /define.php?term=define.php
+x-cloud-trace-context: c2d453a6efc4d5217d6511aad58f2a01
+date: Mon, 04 Dec 2023 01:25:52 GMT
+content-type: text/html
+server: Google Frontend
+via: 1.1 google
+alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+
+HTTP/2 302 
+location: /define.php?term=define.php
+x-cloud-trace-context: 96f8a6e492f45b6f2391926d0f122604
+date: Mon, 04 Dec 2023 01:25:52 GMT
+content-type: text/html
+server: Google Frontend
+via: 1.1 google
+alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+
+HTTP/2 302 
+location: /define.php?term=define.php
+x-cloud-trace-context: 62bf3427c91185bafed6728a4443d8ca
+date: Mon, 04 Dec 2023 01:25:52 GMT
+content-type: text/html
+server: Google Frontend
+via: 1.1 google
+alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+
+HTTP/2 302 
+location: /define.php?term=define.php
+x-cloud-trace-context: 07ae9ede2f47f96eb62e34f4a491acbd
+date: Mon, 04 Dec 2023 01:25:52 GMT
+content-type: text/html
+server: Google Frontend
+via: 1.1 google
+alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+
+HTTP/2 302 
+location: /define.php?term=define.php
+x-cloud-trace-context: e176dab67b2e5ae194c890958cfa5db2
+date: Mon, 04 Dec 2023 01:25:52 GMT
+content-type: text/html
+server: Google Frontend
+via: 1.1 google
+alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+
+HTTP/2 302 
+location: /define.php?term=define.php
+x-cloud-trace-context: 31a820a91e5f376232e522756732d068
+date: Mon, 04 Dec 2023 01:25:52 GMT
+content-type: text/html
+server: Google Frontend
+via: 1.1 google
+alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+
+HTTP/2 302 
+location: /define.php?term=define.php
+x-cloud-trace-context: 748cc47b8e0649b54adc878ac7952548
+date: Mon, 04 Dec 2023 01:25:52 GMT
+content-type: text/html
+server: Google Frontend
+via: 1.1 google
+alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+
+HTTP/2 302 
+location: /define.php?term=define.php
+x-cloud-trace-context: bc88ca83bc23b38b04257db86b91846d
+date: Mon, 04 Dec 2023 01:25:52 GMT
+content-type: text/html
+server: Google Frontend
+via: 1.1 google
+alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+

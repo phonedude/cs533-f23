@@ -1,0 +1,45 @@
+HTTP/1.1 301 Moved Permanently
+Content-Length: 0
+Server: Varnish
+Retry-After: 0
+Location: https://www.theatlantic.com/
+Accept-Ranges: bytes
+Date: Mon, 04 Dec 2023 01:25:24 GMT
+Via: 1.1 varnish, HTTP/1.1 forward.http.proxy:3128
+X-Served-By: cache-iad-kjyo7100127-IAD
+X-Cache: HIT
+X-Cache-Hits: 0
+X-Timer: S1701653125.710699,VS0,VE0
+Set-Cookie: atltestbucketv1=0; Domain=.theatlantic.com; Path=/; Max-Age=7776000
+Vary: Origin
+x-is-gdpr: 0
+Set-Cookie: is_gdpr=0; Domain=.theatlantic.com; Path=/; Max-Age=3600
+Set-Cookie: kppid=i0kw0t5hrdj; Path=/; Max-Age=31536000; Domain=.theatlantic.com
+state: HIT-SYNTH
+Set-Cookie: atl_uuid=e605af6e-97b0-49d0-a6fa-bc2505be2124; Path=/; Expires=Tue, 19 Jan 2038 03:14:07 GMT; Domain=.theatlantic.com
+Strict-Transport-Security: max-age=300
+Connection: close
+
+HTTP/2 200 
+content-type: text/html; charset=utf-8
+cache-control: s-maxage=180
+etag: "8wd0pastlu5jim"
+accept-ranges: bytes
+date: Mon, 04 Dec 2023 01:25:25 GMT
+via: 1.1 varnish
+age: 114
+x-served-by: cache-iad-kiad7000024-IAD
+x-cache: HIT
+x-cache-hits: 1
+x-timer: S1701653126.982832,VS0,VE2
+set-cookie: atltestbucketv1=2; Domain=.theatlantic.com; Path=/; Max-Age=7776000
+vary: X-JWT-State, X-JWT-PaymeterAccess, X-JWT-AdFree, Accept-Encoding, x-is-gdpr,Origin
+x-is-gdpr: 0
+set-cookie: is_gdpr=0; Domain=.theatlantic.com; Path=/; Max-Age=3600
+x-jwt-state: Anonymous
+set-cookie: kppid=ixj8scf1qzh; Path=/; Max-Age=31536000; Domain=.theatlantic.com
+state: HIT-CLUSTER
+set-cookie: atl_uuid=ab607453-58ab-4148-a1f5-5da908d3d62c; Path=/; Expires=Tue, 19 Jan 2038 03:14:07 GMT; Domain=.theatlantic.com
+strict-transport-security: max-age=300
+content-length: 258744
+

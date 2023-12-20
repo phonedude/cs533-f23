@@ -1,0 +1,61 @@
+HTTP/1.1 301 Moved Permanently
+Content-Type: text/html
+Content-Length: 185
+Location: https://paypal.com/
+Via: HTTP/1.1 forward.http.proxy:3128
+Connection: keep-alive
+
+HTTP/2 302 
+content-type: text/html
+content-length: 161
+location: https://www.paypal.com/
+strict-transport-security: max-age=31536000; includeSubDomains
+
+HTTP/2 302 
+server: Varnish
+retry-after: 0
+location: https://www.paypal.com/us/home
+accept-ranges: bytes
+date: Mon, 04 Dec 2023 01:25:12 GMT
+via: 1.1 varnish
+strict-transport-security: max-age=63072000; includeSubDomains; preload
+x-served-by: cache-iad-kjyo7100130-IAD
+x-cache: HIT
+x-cache-hits: 0
+server-timing: content-encoding;desc="",x-cdn;desc="fastly"
+content-length: 0
+
+HTTP/2 200 
+accept-ch: sec-ch-ua-full, sec-ch-ua-arch, sec-ch-ua-model, sec-ch-ua-platform-version, sec-ch-ua-full-version, sec-ch-ua-full-version-list, sec-ch-ua-bitness, sec-ch-ua-wow64
+cache-control: max-age=0, no-cache, no-store, must-revalidate
+content-security-policy: default-src 'self' https://*.paypal.com https://*.paypalobjects.com; frame-src 'self' https://*.paypal.com https://*.paypalobjects.com https://www.youtube-nocookie.com https://www.xoom.com https://*.paypal-mktg.com https://*.qualtrics.com https://6386697.fls.doubleclick.net; script-src 'nonce-xRVtT+pHQP4B/jVZ/4UwXvZzDngBkA73H+FcvB7E8I5k4XNY' 'self' https://*.paypal.com https://*.paypalobjects.com https://assets-cdn.s-xoom.com https://pypd.paypal-mktg.com 'unsafe-inline'; connect-src 'self' https://nominatim.openstreetmap.org https://*.paypal.com https://*.paypalobjects.com https://www.google-analytics.com https://www.analytics.google.com https://region1.google-analytics.com https://region1.analytics.google.com https://*.salesforce.com https://*.force.com https://nexus.ensighten.com https://api.paypal-retaillocator.com https://paypal.us-4.evergage.com https://*.qualtrics.com; style-src 'self' https://*.paypal.com https://*.paypalobjects.com https://assets-cdn.s-xoom.com 'unsafe-inline'; font-src 'self' https://*.paypal.com https://*.paypalobjects.com https://assets-cdn.s-xoom.com data:; img-src 'self' https: data: https://www.google-analytics.com https://www.analytics.google.com https://region1.google-analytics.com https://region1.analytics.google.com; form-action 'self' https://*.paypal.com https://*.salesforce.com https://secure.opinionlab.com https://*.paypal-mktg.com https://*.paypal-corp.com https://signup.partnerize.com; base-uri 'self' https://*.paypal.com; object-src 'none'; frame-ancestors 'self' https://*.paypal.com; upgrade-insecure-requests;; report-uri https://www.paypal.com/csplog/api/log/csp
+content-type: text/html; charset=utf-8
+etag: W/"3a89e-qVVZujbLDNOO3nt+ATkBnfmnjSQ"
+origin-trial: AlIogV3KFtnbfVCyl9Z2NprE7FD8PYCt+TQiYdE3ppeJjJ0xJKcthYwOxXpRCNopxVWdOIENMcNSvQCGAmj0fw0AAAB2eyJvcmlnaW4iOiJodHRwczovL3BheXBhbC5jb206NDQzIiwiZmVhdHVyZSI6IlNlbmRGdWxsVXNlckFnZW50QWZ0ZXJSZWR1Y3Rpb24iLCJleHBpcnkiOjE2ODQ4ODYzOTksImlzU3ViZG9tYWluIjp0cnVlfQ==
+paypal-debug-id: f918812f56cb5
+permissions-policy: ch-ua-platform-version=(self "https://c.paypal.com"),ch-ua-arch=(self "https://c.paypal.com"),ch-ua-wow64=(self "https://c.paypal.com"),ch-ua-model=(self "https://c.paypal.com"),ch-ua-bitness=(self "https://c.paypal.com"),ch-ua-full-version=(self "https://c.paypal.com"),ch-ua-full-version-list=(self "https://c.paypal.com")
+set-cookie: enforce_policy=ccpa; Max-Age=31536000; Domain=.paypal.com; Path=/; Expires=Tue, 03 Dec 2024 01:25:13 GMT; Secure
+set-cookie: cookie_check=yes; Max-Age=315619198; Domain=.paypal.com; Path=/; Expires=Sun, 04 Dec 2033 01:25:11 GMT; HttpOnly; Secure
+set-cookie: LANG=en_US%3BUS; Max-Age=31556; Domain=.paypal.com; Path=/; Expires=Mon, 04 Dec 2023 10:11:09 GMT; HttpOnly; Secure
+set-cookie: tsrce=mppnodeweb; Max-Age=259198; Domain=.paypal.com; Path=/; Expires=Thu, 07 Dec 2023 01:25:11 GMT; HttpOnly; Secure
+set-cookie: cookie_prefs=T%3D0%2CP%3D0%2CF%3D0%2Ctype%3Dinitial; Max-Age=31536000; Domain=.paypal.com; Path=/; Expires=Tue, 03 Dec 2024 01:25:13 GMT; Secure
+set-cookie: x-pp-s=eyJ0IjoiMTcwMTY1MzExMzE4OSIsImwiOiIwIiwibSI6IjAifQ; Domain=.paypal.com; Path=/; HttpOnly; Secure
+set-cookie: nsid=s%3Acd6riRVc8PDE3WXnpO0dCbQGDlbTJxOd.t0v8dnMAgmGS36dGa03tS01YcbpBqdekqNlGNg%2FqZCs; Path=/; HttpOnly; Secure
+set-cookie: ts=vreXpYrS%3D1796347512%26vteXpYrS%3D1701654912%26vr%3D326de70a18c0a551b0c3461af98d4732%26vt%3D326de70a18c0a551b0c3461af98d4731%26vtyp%3Dnew; Path=/; Domain=paypal.com; Expires=Thu, 03 Dec 2026 01:25:13 GMT; HttpOnly; Secure
+set-cookie: ts_c=vr%3D326de70a18c0a551b0c3461af98d4732%26vt%3D326de70a18c0a551b0c3461af98d4731; Path=/; Domain=paypal.com; Expires=Thu, 03 Dec 2026 01:25:13 GMT; Secure
+traceparent: 00-0000000000000000000f918812f56cb5-7c6b07c1ed70d7fd-01
+x-content-type-options: nosniff
+x-xss-protection: 1; mode=block
+dc: ccg11-origin-www-1.paypal.com
+accept-ranges: bytes
+via: 1.1 varnish, 1.1 varnish
+date: Mon, 04 Dec 2023 01:25:13 GMT
+strict-transport-security: max-age=63072000; includeSubDomains; preload
+x-served-by: cache-iad-kjyo7100130-IAD, cache-iad-kjyo7100130-IAD
+x-cache: MISS, MISS
+x-cache-hits: 0, 0
+x-timer: S1701653113.551697,VS0,VE683
+vary: Accept-Encoding
+server-timing: content-encoding;desc="",x-cdn;desc="fastly"
+content-length: 289306
+

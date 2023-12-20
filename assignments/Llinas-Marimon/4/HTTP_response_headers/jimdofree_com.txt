@@ -1,0 +1,37 @@
+HTTP/1.1 301 Moved Permanently
+Content-Length: 0
+Server: Varnish
+Retry-After: 0
+Content-Type: 
+Accept-Ranges: bytes
+Date: Thu, 19 Oct 2023 20:57:17 GMT
+Via: 1.1 varnish, HTTP/1.1 forward.http.proxy:3128
+X-Served-By: cache-iad-kiad7000083-IAD
+X-Cache: MISS
+X-Cache-Hits: 0
+X-Timer: S1697749038.703488,VS0,VE0
+Location: https://www.jimdo.com/
+Connection: close
+
+HTTP/2 200 
+content-type: text/html; charset=UTF-8
+last-modified: Thu, 19 Oct 2023 09:34:58 GMT
+etag: "6530f842-8ee48"
+x-content-type-options: nosniff
+x-frame-options: SAMEORIGIN
+x-xss-protection: 1; mode=block
+referrer-policy: no-referrer-when-downgrade
+content-security-policy: upgrade-insecure-requests; default-src 'self' 'unsafe-eval' 'unsafe-inline' data: https: wss: android-webview-video-poster: blob:;
+cache-control: public, max-age=60
+fastly-restarts: 1
+accept-ranges: bytes
+date: Thu, 19 Oct 2023 20:57:18 GMT
+via: 1.1 varnish
+age: 0
+x-served-by: cache-iad-kiad7000100-IAD
+x-cache: MISS
+x-cache-hits: 0
+vary: Accept-Encoding
+strict-transport-security: max-age=31536000
+content-length: 585288
+

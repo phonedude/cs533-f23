@@ -1,0 +1,23 @@
+HTTP/1.1 301 Moved Permanently
+Server: nginx
+Date: Thu, 19 Oct 2023 20:51:04 GMT
+Content-Type: text/html
+Content-Length: 162
+Location: https://enable-javascript.com/
+Via: HTTP/1.1 forward.http.proxy:3128
+Connection: keep-alive
+
+HTTP/2 301 
+server: nginx
+date: Thu, 19 Oct 2023 20:51:04 GMT
+content-type: text/html
+content-length: 162
+location: https://www.enable-javascript.com/
+strict-transport-security: max-age=31536000; includeSubdomains; preload
+
+HTTP/2 200 
+server: nginx
+date: Thu, 19 Oct 2023 20:51:05 GMT
+content-type: text/html; charset=UTF-8
+strict-transport-security: max-age=31536000; includeSubdomains; preload
+

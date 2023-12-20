@@ -1,0 +1,27 @@
+HTTP/1.1 301 Moved Permanently
+Content-Length: 0
+Location: https://www.linkedin.com/
+X-Li-Fabric: prod-ltx1
+X-Li-Pop: afd-prod-ltx1-x
+X-Li-Proto: http/1.1
+X-LI-UUID: AAYIGABk6kyeFHnH0OQZhw==
+X-Cache: CONFIG_NOCACHE
+X-MSEdge-Ref: Ref A: 4011A4EBF3CC4BD8B3DF991BA9496903 Ref B: BL2AA2030106033 Ref C: 2023-10-19T20:57:19Z
+Date: Thu, 19 Oct 2023 20:57:18 GMT
+Via: HTTP/1.1 forward.http.proxy:3128
+Connection: keep-alive
+
+HTTP/2 429 
+cache-control: no-cache, no-store
+pragma: no-cache
+content-length: 24633
+content-type: text/html
+expires: Thu, 01 Jan 1970 00:00:00 GMT
+x-li-fabric: prod-ltx1
+x-li-pop: afd-prod-ltx1-x
+x-li-proto: http/2
+x-li-uuid: AAYIGABmktKV66YMjS1P0w==
+x-cache: CONFIG_NOCACHE
+x-msedge-ref: Ref A: 2F86FA33408343DB9A8562FA31ABD9A3 Ref B: BL2AA2030107023 Ref C: 2023-10-19T20:57:19Z
+date: Thu, 19 Oct 2023 20:57:18 GMT
+

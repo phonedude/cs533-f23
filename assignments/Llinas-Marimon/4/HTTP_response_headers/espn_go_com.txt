@@ -1,0 +1,38 @@
+HTTP/1.1 301 Moved Permanently
+Content-Type: text/html; charset=iso-8859-1
+Content-Length: 229
+Date: Thu, 19 Oct 2023 19:56:07 GMT
+Server: Apache/2.4.6 (CentOS) PHP/5.4.16 OpenSSL/1.0.2k-fips
+access-control-allow-origin: *
+Location: https://www.espn.com/
+Via: 1.1 varnish (Varnish/6.0), 1.1 4ae0902ea4e10dc74700d1753a74440a.cloudfront.net (CloudFront), HTTP/1.1 forward.http.proxy:3128
+Vary: Accept-Encoding
+X-Cache: Hit from cloudfront
+X-Amz-Cf-Pop: IAD55-P3
+X-Amz-Cf-Id: 4qg60GMvruBjsBzonUpY02hPZOVyJanZriNb9BQcvCde-VhM6UsLGA==
+Age: 3298
+Connection: keep-alive
+
+HTTP/2 200 
+content-type: text/html;charset=UTF-8
+content-length: 858597
+date: Thu, 19 Oct 2023 20:51:05 GMT
+access-control-allow-origin: *
+content-security-policy: frame-ancestors  'self' asia.espn.com:* asia.espnqa.com:* *.espn.com:* *.espnqa.com:* *.espnsb.com:* *.espnsb.com *.espn.co.uk *.espndeportes.espn.com *.espn.com.br *.espn.com.mx *.espn.com.ve *.espn.com.ar *.espn.com.co *.espnfc.com.au *.espn.com.au *.espn.in *.espn.com.sg *.espn.cl *.espn.ph *.espn.ph:* *.espn.com.pe *.espn.com.gt *.espn.com.do *.espn.com.ec *.espn.com.uy *.espn.com.pa *.espn.co.cr qa.abcnews.go.com preview.abcnews.go.com abc7ny.com abc7.com *.abcotvssb.com preview.goodmorningamerica.com http://*.espnqa.com:* http://*.espn.com:* *.abcotvssb.com *.abcnews.go.com *.abcnews.go.com:* http://*.abcnews.go.com:* abc30.com abc7news.com abc13.com abc7chicago.com 6abc.com abc11.com *.goodmorningamerica.com qa.abc7.com qa.abc30.com qa.abc7news.com qa.abc13.com qa.abc7chicago.com qa.6abc.com qa.abc7ny.com qa.abc11.com *.abcnews.go.com:* abcnews.go.com qa.secsports.com *.secsports.com https://*.espn.com:* *.espnqa.com:*
+etag: W/"4e78a30f18b23835bd29183d5c9aeae32413ca01"
+via: 1.1 varnish (Varnish/6.0), 1.1 2755a65ada03bcb40dcec9e77a7c9160.cloudfront.net (CloudFront)
+vary: Accept-Encoding
+accept-ranges: bytes
+set-cookie: country=us; path=/;
+set-cookie: edition-view=espn-en-us; path=/; Expires=Thu, 26 Oct 2023 20:51:05 GMT;
+set-cookie: connectionspeed=full; path=/; Expires=Thu, 26 Oct 2023 20:51:05 GMT;
+set-cookie: edition=espn-en-us; path=/; Expires=Thu, 26 Oct 2023 20:51:05 GMT;
+set-cookie: region=ccpa; path=/; Expires=Thu, 26 Oct 2023 20:51:05 GMT;
+set-cookie: _dcf=1; path=/; Expires=Thu, 26 Oct 2023 20:51:05 GMT;
+set-cookie: SWID=1D336FC3-211E-4B2B-CBBC-82FADF2A4AC5; path=/; Expires=Mon, 19 Oct 2043 20:51:05 GMT; domain=espn.com;
+cache-control: max-age=0, must-revalidate
+set-cookie: userab_1=espn_app_playlists_fallback-171%2Aplethora-b-622%2Cespn_app_playlists_home-166%2Aplethora-a-609%2Cespn_app_playlists_home_article-175%2Aplethora-a-641%2Cespn_app_playlists_score-174%2Aplethora-a-636%2Cespn_my_news_design_a-87%2Amy_news_variation1-308%2Cespn_onefeed_my_news-172%2Aplethora-b-628%2Cespn_watch_for_you-153%2Awatch-fy-c-540%2Cespnplus_paywall_prepurchase-106%2Avariant_a-371%2Cgamecast_video-91%2Agamecast-319%2Cgamecast_video_mlb-124%2Agamecast-439%2Cgamecast_video_nfl-125%2Agamecast-440%2Cweb_index1_pres-99%2Aenhanced-346; Expires=Fri, 20 Oct 2023 00:51:05 GMT; Domain=www.espn.com; Path=/
+x-cache: Miss from cloudfront
+x-amz-cf-pop: EWR53-C2
+x-amz-cf-id: ScZ2U07NjbaJxmnaeeWx7E4sqDcbhjHJXqiRWaktDGUCnfq-1XwR7Q==
+

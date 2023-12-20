@@ -1,0 +1,65 @@
+HTTP/1.1 301 Moved Permanently
+Content-Length: 162
+Content-Type: text/html
+Location: https://utexas.edu/
+Server: nginx
+X-Pantheon-Styx-Hostname: styx-fe4-a-574b8cd764-qrpgh
+X-Styx-Req-Id: 715dba16-6ec1-11ee-9068-5aa81c426098
+Cache-Control: public, max-age=86400
+Date: Thu, 19 Oct 2023 20:57:35 GMT
+X-Served-By: cache-chi-klot8100033-CHI, cache-iad-kiad7000131-IAD
+X-Cache: HIT, HIT
+X-Cache-Hits: 12, 1
+X-Timer: S1697749055.406353,VS0,VE1
+Vary: Cookie, Cookie
+Age: 295
+Accept-Ranges: bytes
+Via: 1.1 varnish, 1.1 varnish, HTTP/1.1 forward.http.proxy:3128
+Connection: keep-alive
+
+HTTP/2 301 
+cache-control: public, max-age=1209600
+content-type: text/html; charset=UTF-8
+location: https://www.utexas.edu/
+server: nginx
+strict-transport-security: max-age=300
+x-pantheon-styx-hostname: styx-fe4-b-75fb65bc5f-8bnfv
+x-styx-req-id: cc64b57b-6c65-11ee-9808-2eb0819c09ba
+date: Thu, 19 Oct 2023 20:57:35 GMT
+x-served-by: cache-chi-klot8100126-CHI, cache-iad-kiad7000124-IAD
+x-cache: HIT, HIT
+x-cache-hits: 2, 1
+x-timer: S1697749055.450468,VS0,VE3
+vary: Cookie, Cookie
+age: 259558
+accept-ranges: bytes
+via: 1.1 varnish, 1.1 varnish
+content-length: 0
+
+HTTP/2 200 
+cache-control: public, max-age=300
+content-language: en
+content-type: text/html; charset=utf-8
+etag: W/"1697747845-0"
+expires: Sun, 19 Nov 1978 05:00:00 GMT
+last-modified: Thu, 19 Oct 2023 20:37:25 GMT
+link: <https://www.utexas.edu>; rel="canonical",<https://www.utexas.edu>; rel="shortlink"
+server: nginx
+strict-transport-security: max-age=300
+x-content-type-options: nosniff
+x-drupal-cache: HIT
+x-frame-options: SAMEORIGIN
+x-generator: Drupal 7 (http://drupal.org)
+x-pantheon-styx-hostname: styx-fe4-a-574b8cd764-7zpm6
+x-styx-req-id: c41898b3-6ec0-11ee-bea2-52ae38af12ee
+date: Thu, 19 Oct 2023 20:57:35 GMT
+x-served-by: cache-chi-klot8100133-CHI, cache-iad-kjyo7100111-IAD
+x-cache: HIT, HIT
+x-cache-hits: 10, 1
+x-timer: S1697749056.567728,VS0,VE2
+vary: Accept-Encoding, Cookie, Cookie, Cookie
+age: 282
+accept-ranges: bytes
+via: 1.1 varnish, 1.1 varnish
+content-length: 84410
+
