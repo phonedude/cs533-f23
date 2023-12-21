@@ -1,0 +1,41 @@
+HTTP/1.1 301 Moved Permanently
+Server: AkamaiGHost
+Content-Length: 0
+Location: https://ikea.com/
+Cache-Control: max-age=0
+Expires: Thu, 19 Oct 2023 20:56:15 GMT
+Date: Thu, 19 Oct 2023 20:56:15 GMT
+Via: HTTP/1.1 forward.http.proxy:3128
+Connection: keep-alive
+
+HTTP/2 301 
+server: AkamaiGHost
+content-length: 0
+location: https://www.ikea.com/
+cache-control: max-age=0
+expires: Thu, 19 Oct 2023 20:56:15 GMT
+date: Thu, 19 Oct 2023 20:56:15 GMT
+strict-transport-security: max-age=31536000
+
+HTTP/2 200 
+content-length: 78403
+content-type: text/html
+content-md5: oQ29xjpbpmIkfjKcJys0PQ==
+last-modified: Thu, 19 Oct 2023 06:59:37 GMT
+accept-ranges: bytes
+etag: "0x8DBD070F52194BD"
+x-ms-request-id: 33e56164-201e-004e-7959-02b3be000000
+x-ms-version: 2018-03-28
+mpulse_cdn_cache: HIT
+mpulse_origin_time: 0
+cache-control: max-age=900
+expires: Thu, 19 Oct 2023 21:11:15 GMT
+date: Thu, 19 Oct 2023 20:56:15 GMT
+x-frame-options: SAMEORIGIN
+x-content-type-options: nosniff
+strict-transport-security: max-age=31536000
+server: IKEA Server
+set-cookie: _abck=69B17E4FD1641AE2597E3F8E6C827B22~-1~YAAQjGjcFzltazqLAQAAv365SQq41VfhJC/GoCPHTZ1TQc+Na/vXXP2Pg1yEaF2ex82OUY5qy4BQQyThgAA2WsDCKl57NOHwj4Vdj+ZU3s0lG05ffk40F3G15DgqL0jV8WV4EjWHLSRR+/wZ5tySTCby1jtcTp/8bQrB3jB8EF5sUVoodIb49EfqhpNvXxU6Xmt+7j0Mo+KSgVItcXrQmAFaOzj3aaliuGOkoLP7yfvZ8AUev+pGJa2SGmWwXktO+Bxq7xBqp6tGbyLVoSfz5EYzm/9Et5/8st8ZADx9F01bbiZ0RYvLPa+aGB3kAo9RiDCvbH98X/aA850rJGHyOdhZcDRrNtl/trFq9ssWaZvc2luWyiNK~-1~-1~1697752501; Domain=.ikea.com; Path=/; Expires=Fri, 18 Oct 2024 20:56:15 GMT; Max-Age=31536000; Secure
+set-cookie: bm_sz=5F544C210D322EBF988C6F24AC6CFD53~YAAQjGjcFzptazqLAQAAv365SRWS0NIaEIru93kc41D3f3e5W8LTY6+LFkavar9ktGabdJWT6pE2IWB6CCa29cVEAnc2yAlKKF2mS3WiyW1utFPQ/GgjtzZE3h52xQfn2EJV6LENC2Qyz3xx0XMOBuOrAlgVP5qsP0s+f5G/yFiFDL7gUYTv/5+ZVcYxE2dDR2iq7SZZQPPpP2cFunQmDQYi23yJoZbfQ6eerRilGo8e2FHyH7TTvGPHLMQfNxtoyH1Q28CNMY7vr8eSFf8ATlwat8OUFYDcTCiwDFgnoHVy~3686725~3355701; Domain=.ikea.com; Path=/; Expires=Fri, 20 Oct 2023 00:56:15 GMT; Max-Age=14400
+server-timing: ak_p; desc="1697748975263_400320652_740016690_39_13206_5_16_15";dur=1
+

@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Brian's website</title>
+</head>
+<body>
+    <h1>Welcome to my page about A5: File 5.1!</h1>
+    <h2>CORS: Blocking and reading responses from another origin</h2>
+    <br>
+    This page is created to demonstrate on how to request a JSON at a cross origin domain.
+    <script>
+        fetch('http://localhost:3001/favorites_a2')
+            .then(response => response.json())
+            .then(data => console.log(data));
+    </script>
+</body>
+</html>
+
+
+

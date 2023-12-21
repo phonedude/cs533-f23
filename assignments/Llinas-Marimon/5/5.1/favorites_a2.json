@@ -1,0 +1,17 @@
+{
+    "Artis": {
+      "name": "Ariana Grande",
+      "reason": "She has a unique falsetto and a variety of songs that have a lot of meaning to them.",
+      "URL": "https://www.arianagrande.com/"
+    },
+    "TV_Show": {
+      "name": "Suits",
+      "reason": "Mike is a lawyer without a degree and he is very smart. Also, is a long serie with a good story.",
+      "URL": "https://en.wikipedia.org/wiki/Suits_(American_TV_series)"
+    },
+    "Band": {
+      "name": "Coldplay",
+      "reason": "They have a unique music style and their concerts are amazing because they have lights show.",
+      "URL": "https://www.coldplay.com/"
+    }
+  }
