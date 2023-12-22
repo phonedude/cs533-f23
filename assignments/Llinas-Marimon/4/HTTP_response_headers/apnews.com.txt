@@ -1,0 +1,26 @@
+HTTP/1.1 301 Moved Permanently
+Cache-Control: private
+Location: https://apnews.com:443/
+Content-Length: 0
+Date: Mon, 04 Dec 2023 01:33:44 GMT
+Content-Type: text/html; charset=UTF-8
+Via: HTTP/1.1 forward.http.proxy:3128
+Connection: keep-alive
+
+HTTP/2 200 
+server: istio-envoy
+strict-transport-security: max-age=31536000; includeSubDomains
+x-powered-by: Brightspot
+x-envoy-upstream-service-time: 2036
+x-envoy-decorator-operation: brightspot-frontend-verify.prod-news.svc.cluster.local:80/*
+via: 1.1 google
+date: Mon, 04 Dec 2023 01:32:24 GMT
+cache-control: max-age=120
+content-type: text/html;charset=UTF-8
+vary: Accept-Encoding
+age: 80
+cdn_cache_id: IAD-adcc5d11
+cdn_cache_status: hit
+origin_request_header: 
+alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+

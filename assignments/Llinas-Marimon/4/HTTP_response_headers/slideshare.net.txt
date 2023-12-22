@@ -1,0 +1,59 @@
+HTTP/1.1 301 Moved Permanently
+Content-Length: 0
+Server: Varnish
+Retry-After: 0
+Location: https://slideshare.net/
+Accept-Ranges: bytes
+Date: Mon, 04 Dec 2023 01:25:17 GMT
+Via: 1.1 varnish, HTTP/1.1 forward.http.proxy:3128
+X-Served-By: cache-iad-kiad7000117-IAD
+X-Cache: HIT
+X-Cache-Hits: 0
+X-Timer: S1701653117.476431,VS0,VE1
+Set-Cookie: browser_id=48be6565-8359-47ae-9285-5958b7ac1095; Domain=.slideshare.net; Path=/; Expires=Sat, 02 Dec 2028 01:25:17 GMT
+Strict-Transport-Security: max-age=63072000; includeSubDomains; preload
+alt-svc: h3=":443";ma=86400,h3-29=":443";ma=86400,h3-27=":443";ma=86400
+Connection: close
+
+HTTP/2 301 
+content-type: text/html
+server: envoy
+location: https://www.slideshare.net/
+p3p: CP="OTI DSP COR CUR ADM DEV PSD IVD CONo OUR IND"
+x-content-type-options: nosniff
+cache-control: private, no-store
+x-envoy-upstream-service-time: 1
+accept-ranges: bytes
+date: Mon, 04 Dec 2023 01:25:17 GMT
+via: 1.1 varnish
+x-served-by: cache-iad-kjyo7100033-IAD
+x-cache: MISS
+x-cache-hits: 0
+x-timer: S1701653118.642761,VS0,VE5
+set-cookie: browser_id=183d2632-a15d-4049-817a-12a2f7c74be6; Domain=.slideshare.net; Path=/; Expires=Sat, 02 Dec 2028 01:25:17 GMT
+strict-transport-security: max-age=63072000; includeSubDomains; preload
+alt-svc: h3=":443";ma=86400,h3-29=":443";ma=86400,h3-27=":443";ma=86400
+content-length: 162
+
+HTTP/2 200 
+content-type: text/html; charset=utf-8
+server: envoy
+x-powered-by: Next.js
+cache-control: private, no-cache, no-store, max-age=0, must-revalidate
+etag: "qx9cmowt6b3qnz"
+x-envoy-upstream-service-time: 359
+p3p: CP="OTI DSP COR CUR ADM DEV PSD IVD CONo OUR IND"
+x-content-type-options: nosniff
+accept-ranges: bytes
+date: Mon, 04 Dec 2023 01:25:18 GMT
+via: 1.1 varnish
+x-served-by: cache-iad-kiad7000170-IAD
+x-cache: MISS
+x-cache-hits: 0
+x-timer: S1701653118.875272,VS0,VE364
+vary: Accept-Encoding
+set-cookie: browser_id=2c51c68a-5edf-4de5-98e6-a27411c30ef0; Domain=.slideshare.net; Path=/; Expires=Sat, 02 Dec 2028 01:25:18 GMT
+strict-transport-security: max-age=63072000; includeSubDomains; preload
+alt-svc: h3=":443";ma=86400,h3-29=":443";ma=86400,h3-27=":443";ma=86400
+content-length: 174581
+
