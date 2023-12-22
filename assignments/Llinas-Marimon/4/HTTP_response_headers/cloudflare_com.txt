@@ -1,0 +1,34 @@
+HTTP/1.1 301 Moved Permanently
+Date: Thu, 19 Oct 2023 20:51:02 GMT
+Cache-Control: max-age=3600
+Expires: Thu, 19 Oct 2023 21:51:02 GMT
+Location: https://www.cloudflare.com/
+Set-Cookie: __cf_bm=uloeV21Uh8eZFgA9KGVR23EZU0IzpGOAjDPYEK2yxTo-1697748662-0-AQk2shL1VTU7Tls+E9Ix3M6Ze6zc7VpBPT7c9s15nv550tAPdHkx3MpfPXOquZknhGedfD/8HcDE1he+vJgqqb8=; path=/; expires=Thu, 19-Oct-23 21:21:02 GMT; domain=.cloudflare.com; HttpOnly; SameSite=None
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=jNkaxypwoxFbyNGa3OQoPfLrGomm0gikOdAmvjzyfZIDmDrr%2Bkif7niq%2FNFzTfTB2jgY3n80H1Voky1GVqI64%2Fx2Uc6e7V20CHJy9Ni4sg%2F2yIZhZBv1Lxq1vqm3eZdO"}],"group":"cf-nel","max_age":604800}
+NEL: {"success_fraction":0,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+CF-RAY: 818be596edd74fdb-ORF
+alt-svc: h3=":443"; ma=86400
+Via: HTTP/1.1 forward.http.proxy:3128
+Connection: keep-alive
+
+HTTP/2 200 
+date: Thu, 19 Oct 2023 20:51:02 GMT
+content-type: text/html; charset=utf-8
+cf-cache-status: MISS
+accept-ranges: bytes
+cache-control: max-age=120
+expires: Thu, 19 Oct 2023 20:51:13 GMT
+last-modified: Thu, 19 Oct 2023 20:22:53 GMT
+strict-transport-security: max-age=31536000; includeSubDomains
+x-content-type-options: nosniff
+x-frame-options: SAMEORIGIN
+x-rm: RDWD
+x-xss-protection: 1; mode=block
+set-cookie: __cf_bm=MpapByXhqceysPrt4M2c2Q1YOKtsZHHfbatDANrHDPM-1697748662-0-Ad85ON8cJ2c+yUHisk3KKUj6dfonZ+zuvIpqcQHE8l/oL8YYL2vC7yK3Z69ICDlkIkQAMuoEDqSqVvWctBrnusYl6O823jY5J+VkLBMG0POe; path=/; expires=Thu, 19-Oct-23 21:21:02 GMT; domain=.www.cloudflare.com; HttpOnly; Secure; SameSite=None
+report-to: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=5YwaMzUT%2FjAJe%2Fox%2F5ECHkg2KbT%2FS2rFUznpo8XvuKvs7iTMTueKqg8nXS6ONvDIQqZsAOEnQ3hlC3N8dPm1fN60sNykh%2Frc8zp23Urn%2BnzAyoaw5d92UNOSJkD6wHi%2B4bIAag%3D%3D"}],"group":"cf-nel","max_age":604800}
+nel: {"success_fraction":0,"report_to":"cf-nel","max_age":604800}
+server: cloudflare
+cf-ray: 818be5972ea34fcc-ORF
+alt-svc: h3=":443"; ma=86400
+

@@ -1,0 +1,40 @@
+HTTP/1.1 301 Moved Permanently
+Server: nginx
+Date: Thu, 19 Oct 2023 20:57:37 GMT
+Content-Type: text/html
+Content-Length: 162
+Location: https://whitehouse.gov/
+Via: HTTP/1.1 forward.http.proxy:3128
+Connection: keep-alive
+
+HTTP/2 301 
+server: nginx
+date: Thu, 19 Oct 2023 20:57:37 GMT
+content-type: text/html; charset=utf-8
+location: https://www.whitehouse.gov/
+x-redirect-by: redirects.php
+x-rq: dca6 96 184 443
+cache-control: max-age=300, must-revalidate
+age: 169
+x-cache: hit
+strict-transport-security: max-age=31536000;includeSubdomains;preload
+
+HTTP/2 200 
+server: nginx
+date: Thu, 19 Oct 2023 20:57:37 GMT
+content-type: text/html; charset=UTF-8
+content-length: 224137
+x-build-back-better: https://usds.gov/
+x-frame-options: DENY
+referrer-policy: strict-origin-when-cross-origin
+x-xss-protection: 1; mode=block
+x-content-type-options: nosniff
+content-security-policy: upgrade-insecure-requests
+x-rq: dca6 96 184 443
+cache-control: max-age=300, must-revalidate
+age: 1232
+x-cache: hit
+vary: Accept-Encoding
+accept-ranges: bytes
+strict-transport-security: max-age=31536000;includeSubdomains;preload
+

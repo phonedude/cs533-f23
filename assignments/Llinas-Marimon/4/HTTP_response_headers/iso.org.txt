@@ -1,0 +1,24 @@
+HTTP/1.0 301 Moved Permanently
+Location: https://www.iso.org/
+Server: BigIP
+Content-Length: 0
+Via: HTTP/1.1 forward.http.proxy:3128
+Connection: keep-alive
+
+HTTP/2 302 
+location: https://www.iso.org/home.html
+server: BigIP
+content-length: 0
+
+HTTP/2 200 
+expires: Wed, 09 May 1979 05:30:00 GMT
+cache-control: no-cache, no-store, must-revalidate, proxy-revalidate, max-age=0
+pragma: no-cache
+set-cookie: JSESSIONID=C158EC87202D45C4E207F98DED6CA0E8; Path=/; Secure; HttpOnly
+vary: accept-encoding
+content-type: text/html;charset=UTF-8
+content-length: 92149
+date: Mon, 04 Dec 2023 01:24:00 GMT
+set-cookie: BIGipServerpool_prod_iso_www-jahia=747131274.36895.0000; path=/; Httponly; Secure
+strict-transport-security: max-age=31536000; includeSubDomains
+

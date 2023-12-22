@@ -1,0 +1,31 @@
+HTTP/1.1 301 Moved Permanently
+Location: http://www.google.ru/
+Content-Type: text/html; charset=UTF-8
+Content-Security-Policy-Report-Only: object-src 'none';base-uri 'self';script-src 'nonce--2UgN07o0oGX27AqRdDF6A' 'strict-dynamic' 'report-sample' 'unsafe-eval' 'unsafe-inline' https: http:;report-uri https://csp.withgoogle.com/csp/gws/other-hp
+Date: Thu, 19 Oct 2023 20:51:08 GMT
+Expires: Sat, 18 Nov 2023 20:51:08 GMT
+Cache-Control: public, max-age=2592000
+Server: gws
+Content-Length: 218
+X-XSS-Protection: 0
+X-Frame-Options: SAMEORIGIN
+Via: HTTP/1.1 forward.http.proxy:3128
+Connection: keep-alive
+
+HTTP/1.1 200 OK
+Content-Type: text/html; charset=windows-1251
+Content-Security-Policy-Report-Only: object-src 'none';base-uri 'self';script-src 'nonce-3zueFnfMZ7wCZ2o6Jf6yGQ' 'strict-dynamic' 'report-sample' 'unsafe-eval' 'unsafe-inline' https: http:;report-uri https://csp.withgoogle.com/csp/gws/other-hp
+P3P: CP="This is not a P3P policy! See g.co/p3phelp for more info."
+Date: Thu, 19 Oct 2023 20:51:08 GMT
+Server: gws
+X-XSS-Protection: 0
+X-Frame-Options: SAMEORIGIN
+Transfer-Encoding: chunked
+Expires: Thu, 19 Oct 2023 20:51:08 GMT
+Cache-Control: private
+Set-Cookie: 1P_JAR=2023-10-19-20; expires=Sat, 18-Nov-2023 20:51:08 GMT; path=/; domain=.google.ru; Secure
+Set-Cookie: AEC=Ackid1TPULZQdFN_Y9CgSVtHEF4ejLCRRehcuSmfSQ5JJO4rVeuNzevUzg; expires=Tue, 16-Apr-2024 20:51:08 GMT; path=/; domain=.google.ru; Secure; HttpOnly; SameSite=lax
+Set-Cookie: NID=511=Sahgi-ZtX3WBYnp4g7mi4B6BQKOuLex9qEUS6VuuL56TKBezez5ZUHhwseplaOMG0Zsr1K-swLIImcWqfgHUAMa30_0MKqY1rmCpkfPSwx-zDc7cndrMsxWUMNz_pcoExchlJ2DGkIMbaE8SQozNMxUZxZ4ez1RuGyflV8QSvQ0; expires=Fri, 19-Apr-2024 20:51:08 GMT; path=/; domain=.google.ru; HttpOnly
+Via: HTTP/1.1 forward.http.proxy:3128
+Connection: keep-alive
+

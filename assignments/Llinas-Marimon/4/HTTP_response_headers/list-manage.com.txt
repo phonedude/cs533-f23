@@ -1,0 +1,24 @@
+HTTP/1.1 302 Found
+Date: Mon, 04 Dec 2023 01:25:04 GMT
+Content-Type: text/html; charset=UTF-8
+Set-Cookie: _mcid=1.230f62be56cc57360806276c5395924e.c122828490d7feb9fabd770d21cc8fdf1de4bf23eaaa137642348c96c9cca50e; expires=Tue, 03-Dec-2024 01:25:04 GMT; Max-Age=31536000; path=/
+Set-Cookie: _mc_anon_id=deleted; expires=Thu, 01-Jan-1970 00:00:01 GMT; Max-Age=0; path=/
+X-UA-Compatible: IE=edge,chrome=1
+Location: https://mailchimp.com/about/mcsv-static
+Referrer-Policy: same-origin
+Via: HTTP/1.1 forward.http.proxy:3128
+Connection: keep-alive
+
+HTTP/2 200 
+server: openresty
+last-modified: Tue, 17 Aug 2021 15:12:35 GMT
+etag: "274-5c9c2bf69316a"
+x-frame-options: SAMEORIGIN
+cache-control: max-age=13298523
+expires: Sun, 05 May 2024 23:27:08 GMT
+date: Mon, 04 Dec 2023 01:25:05 GMT
+content-type: text/plain; charset=utf-8
+set-cookie: _abck=0103A33F99077712873EE67A07143AA2~-1~YAAQVmgBF54KSxGMAQAA0sltMguDaLOm3ctFj/bD5/9Gg4Ip+fwA52ospq5e/t+ooXKjHUrNEYkYX4TpsrroIxB33pn+2/0bj5RVy2cF/Ix6xXxiOissvNvs1L/Cnvy/qlD3761AccF3G8kOZG2lbe4Tf2tTe4s+qK7C4zoBM4jrnJmAeypDSHcGwtjkh6hYvw12RwazhftRAYxMXAt/SJf1jyW5RglZ42uS4NzPHPxyPdzMo4ep//jbL1oHoADv9Spw42cPj6aZn2UGU8DEap6lqBMY2YWN68LiY+NqjFkEJRr9WbM7RtWu+8o1i7f6ob7vdpHs9WQPw6k4JILCQ9pjJpX4TkZp69QAM4o7r/sS/wzuy8uuZyzMx/c=~-1~-1~-1; Domain=.mailchimp.com; Path=/; Expires=Tue, 03 Dec 2024 01:25:05 GMT; Max-Age=31536000; SameSite=None; Secure
+set-cookie: bm_sz=8990852536396D5FB7CDD83394D8DC02~YAAQVmgBF58KSxGMAQAA0sltMha9aDvGKvsx3SvQcQ8J81YzV0V9ZLgRv3inLE0eL9lFJ8ypdE34W7kNMXk8IXOX19EG1F8UkVt9lkF646gtyvBSusBK7WR3onYgZ6TepiApXSZamda7+960VNUW1oTiBGmGHTBhM9UOatlJrYj+I848bLx/FMxlUSmtNyRbtkYX1bFIYuFCpF/AKnp5ey6RnDDG3i0nJeJ7xh80jBPuYy9CTTo87ySqYTzgedIeWLCrXlSqIYZXwbePpo0G/yX8gLZyynp3kfAzCJhzSnewY+AcySk=~3425860~3163191; Domain=.mailchimp.com; Path=/; Expires=Mon, 04 Dec 2023 05:25:05 GMT; Max-Age=14400; SameSite=None; Secure
+server-timing: ak_p; desc="1701653105063_385968214_1635573850_35_7535_14_35_15";dur=1
+

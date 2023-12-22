@@ -1,0 +1,23 @@
+HTTP/1.1 302 Found
+Date: Thu, 19 Oct 2023 20:51:03 GMT
+Content-Type: text/html; charset=iso-8859-1
+Location: https://creativecommons.org/
+CF-Cache-Status: BYPASS
+Server: cloudflare
+CF-RAY: 818be5984ec1505a-ORF
+Via: HTTP/1.1 forward.http.proxy:3128
+Connection: keep-alive
+
+HTTP/2 200 
+date: Thu, 19 Oct 2023 20:51:03 GMT
+content-type: text/html; charset=UTF-8
+link: <https://creativecommons.org/wp-json/>; rel="https://api.w.org/"
+link: <https://creativecommons.org/wp-json/wp/v2/pages/73691>; rel="alternate"; type="application/json"
+link: <https://creativecommons.org/>; rel=shortlink
+vary: Accept-Encoding
+cache-control: max-age=1800
+cf-cache-status: EXPIRED
+last-modified: Thu, 19 Oct 2023 18:41:42 GMT
+server: cloudflare
+cf-ray: 818be598adff4fe3-ORF
+
