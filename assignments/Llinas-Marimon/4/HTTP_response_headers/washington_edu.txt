@@ -1,0 +1,19 @@
+HTTP/1.1 302 Found
+content-length: 0
+location: http://www.washington.edu/
+cache-control: no-cache
+Via: HTTP/1.1 forward.http.proxy:3128
+Connection: keep-alive
+
+HTTP/1.1 200 OK
+date: Thu, 19 Oct 2023 20:57:36 GMT
+server: Apache/2.2.24 (Unix) mod_ssl/2.2.24 OpenSSL/1.0.1e-fips PHP/7.2.23 mod_pubcookie/3.3.4a mod_uwa/3.2.1
+last-modified: Thu, 19 Oct 2023 19:46:08 GMT
+etag: "1805f0-106d2-6081701d0e000"
+accept-ranges: bytes
+content-length: 67282
+vary: Accept-Encoding,User-Agent
+content-type: text/html
+Via: HTTP/1.1 forward.http.proxy:3128
+Connection: keep-alive
+

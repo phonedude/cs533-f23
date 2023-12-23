@@ -1,0 +1,11 @@
+HTTP/1.1 301 Moved Permanently
+Date: Thu, 19 Oct 2023 20:51:13 GMT
+Server: Apache
+Location: https://www.icann.org/
+Cache-Control: max-age=345600
+Expires: Mon, 23 Oct 2023 20:51:13 GMT
+Keep-Alive: timeout=2, max=358
+Content-Type: text/html; charset=iso-8859-1
+Via: HTTP/1.1 forward.http.proxy:3128
+Connection: keep-alive
+

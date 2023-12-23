@@ -1,0 +1,24 @@
+HTTP/1.1 301 Moved Permanently
+Cache-Control: max-age=1000
+Content-Length: 153
+Content-Type: text/html; charset=UTF-8
+Location: https://www.wordreference.com/
+Server: Microsoft-IIS/10.0
+Date: Thu, 19 Oct 2023 20:57:36 GMT
+Via: HTTP/1.1 forward.http.proxy:3128
+Connection: keep-alive
+
+HTTP/2 200 
+cache-control: public, max-age=604800
+content-length: 33507
+content-type: text/html
+expires: Sat, 19 Oct 2024 20:57:37 GMT
+last-modified: Thu, 12 Oct 2023 21:58:31 GMT
+accept-ranges: bytes
+etag: "1d9fd573ce81f63"
+server: Microsoft-IIS/10.0
+service-worker-allowed: /
+x-powered-by: ASP.NET
+x-powered-by: ARR/3.0
+date: Thu, 19 Oct 2023 20:57:36 GMT
+

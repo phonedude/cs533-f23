@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Brian's Iframed page</title>
+</head>
+<body>
+    <h1>Parent page</h1>
+    <iframe src="http://localhost:4000" frameborder="0"></iframe>
+    <script>
+        const cookies = document.cookie;
+        console.log(cookies);
+        alert("cookies: " + cookies);
+        console.log("cookies from iframe page: " + cookies);
+    </script>
+</body>
+</html>

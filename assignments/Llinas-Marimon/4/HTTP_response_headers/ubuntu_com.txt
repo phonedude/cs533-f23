@@ -1,0 +1,24 @@
+HTTP/1.1 301 Moved Permanently
+content-length: 0
+location: https://ubuntu.com/
+Via: HTTP/1.1 forward.http.proxy:3128
+Connection: keep-alive
+
+HTTP/2 200 
+server: nginx/1.14.0 (Ubuntu)
+date: Thu, 19 Oct 2023 20:57:31 GMT
+content-type: text/html; charset=utf-8
+content-length: 111964
+vary: Accept-Encoding
+strict-transport-security: max-age=15724800
+x-view-name: canonicalwebteam.templatefinder.templatefinder.template_finder
+x-clacks-overhead: GNU Terry Pratchett
+permissions-policy: interest-cohort=()
+cache-control: max-age=60, stale-while-revalidate=86400, stale-if-error=300
+x-content-type-options: NOSNIFF
+x-vcs-revision: 1697748935-f35c370
+x-request-id: 0c9394aadbaca884fecd4d4b8e172cf8
+link: <https://assets.ubuntu.com>; rel=preconnect; crossorigin, <https://assets.ubuntu.com>; rel=preconnect, <https://res.cloudinary.com>; rel=preconnect
+x-cache-status: HIT from content-cache-il3/1
+accept-ranges: bytes
+

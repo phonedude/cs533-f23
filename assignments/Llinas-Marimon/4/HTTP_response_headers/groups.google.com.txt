@@ -1,0 +1,103 @@
+HTTP/1.1 301 Moved Permanently
+Content-Type: application/binary
+Cache-Control: no-cache, no-store, max-age=0, must-revalidate
+Pragma: no-cache
+Expires: Mon, 01 Jan 1990 00:00:00 GMT
+Date: Mon, 04 Dec 2023 01:33:56 GMT
+Location: https://groups.google.com/
+Content-Length: 0
+P3P: CP="This is not a P3P policy! See g.co/p3phelp for more info."
+Server: ESF
+X-XSS-Protection: 0
+X-Frame-Options: SAMEORIGIN
+X-Content-Type-Options: nosniff
+Set-Cookie: NID=511=CXQ3RMKL1Xl1QyVPwoZivm3ecmc2p319Krs0ySzL9n_9WsIt7_lfislpQ9s-HcLTN9_OHf5pIE0fUrF2zONKtll6oEw_MdNIGIZDtVgYgEWWoWNEZIH_ZNDmZJRD6VsWXFLR-KNYfpwDh3OerfqE5PrNuCfHzDQseI0-Mr0XgZ0; expires=Tue, 04-Jun-2024 01:33:56 GMT; path=/; domain=.google.com; HttpOnly
+Via: HTTP/1.1 forward.http.proxy:3128
+Connection: keep-alive
+
+HTTP/2 302 
+content-type: application/binary
+vary: Sec-Fetch-Dest, Sec-Fetch-Mode, Sec-Fetch-Site
+location: https://accounts.google.com/ServiceLogin?passive=1209600&osid=1&continue=https://groups.google.com/&followup=https://groups.google.com/
+content-length: 0
+p3p: CP="This is not a P3P policy! See g.co/p3phelp for more info."
+cross-origin-resource-policy: same-site
+accept-ch: Sec-CH-UA-Arch, Sec-CH-UA-Bitness, Sec-CH-UA-Full-Version, Sec-CH-UA-Full-Version-List, Sec-CH-UA-Model, Sec-CH-UA-WoW64, Sec-CH-UA-Form-Factor, Sec-CH-UA-Platform, Sec-CH-UA-Platform-Version
+cross-origin-opener-policy: same-origin-allow-popups
+permissions-policy: ch-ua-arch=*, ch-ua-bitness=*, ch-ua-full-version=*, ch-ua-full-version-list=*, ch-ua-model=*, ch-ua-wow64=*, ch-ua-form-factor=*, ch-ua-platform=*, ch-ua-platform-version=*
+content-security-policy: script-src 'nonce-6q18GrJfeGmMz6tO6fWLyw' 'unsafe-inline';object-src 'none';base-uri 'self';report-uri /_/GroupsFrontendUi/cspreport;worker-src 'self'
+content-security-policy: require-trusted-types-for 'script';report-uri /_/GroupsFrontendUi/cspreport
+date: Mon, 04 Dec 2023 01:33:56 GMT
+server: ESF
+x-xss-protection: 0
+x-frame-options: SAMEORIGIN
+x-content-type-options: nosniff
+set-cookie: NID=511=oSibvJoKF_vddWVwva33NSWL0-qdJVmu0Wxxl0GaDc8bjEb7kyuWw2kr5gkfP5SHJ4chVcSjnhIpk97uQf-C_j_fpA7qo9g_bPG6FOJz34h79wdmLxDyF6bSx3XFcXjdYEiJlJlTxheWMM4poKsHuswcuBQE8iAbByGokdt-S5c; expires=Tue, 04-Jun-2024 01:33:56 GMT; path=/; domain=.google.com; HttpOnly
+alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+
+HTTP/2 302 
+content-type: application/binary
+set-cookie: __Host-GAPS=1:d1L6KCfR4LsdyJaFoagqhqZ9y4Gccg:kFnxnpSPx43Zq37P; Expires=Wed, 03-Dec-2025 01:33:56 GMT; Path=/; Secure; HttpOnly; Priority=HIGH
+cache-control: no-cache, no-store, max-age=0, must-revalidate
+pragma: no-cache
+expires: Mon, 01 Jan 1990 00:00:00 GMT
+date: Mon, 04 Dec 2023 01:33:56 GMT
+location: https://accounts.google.com/InteractiveLogin?continue=https://groups.google.com/&followup=https://groups.google.com/&osid=1&passive=1209600&ifkv=ASKXGp0q7wsSNephbO_-tBgMbCxD34SneeE4ed3OXQyMrF1EsK8-iQf3B4P3LEAosRKPgIY261rP
+content-length: 0
+strict-transport-security: max-age=31536000; includeSubDomains
+accept-ch: Sec-CH-UA-Arch, Sec-CH-UA-Bitness, Sec-CH-UA-Full-Version, Sec-CH-UA-Full-Version-List, Sec-CH-UA-Model, Sec-CH-UA-WoW64, Sec-CH-UA-Form-Factor, Sec-CH-UA-Platform, Sec-CH-UA-Platform-Version
+cross-origin-opener-policy: unsafe-none
+content-security-policy: script-src 'nonce-gyGhL7Yd0YAo9pjFQnWs6w' 'unsafe-inline';object-src 'none';base-uri 'self';report-uri /_/AccountsSigninPassiveLoginHttp/cspreport;worker-src 'self'
+content-security-policy: require-trusted-types-for 'script';report-uri /_/AccountsSigninPassiveLoginHttp/cspreport
+permissions-policy: ch-ua-arch=*, ch-ua-bitness=*, ch-ua-full-version=*, ch-ua-full-version-list=*, ch-ua-model=*, ch-ua-wow64=*, ch-ua-form-factor=*, ch-ua-platform=*, ch-ua-platform-version=*
+cross-origin-resource-policy: cross-origin
+server: ESF
+x-xss-protection: 0
+x-content-type-options: nosniff
+alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+
+HTTP/2 302 
+content-type: text/html; charset=UTF-8
+set-cookie: __Host-GAPS=1:8jx1LgY6iSN5zPe4zcNOHTTn2W90aw:s3d4a5PXSsli3Lul;Path=/;Expires=Wed, 03-Dec-2025 01:33:56 GMT;Secure;HttpOnly;Priority=HIGH
+x-frame-options: DENY
+cache-control: no-cache, no-store, max-age=0, must-revalidate
+pragma: no-cache
+expires: Mon, 01 Jan 1990 00:00:00 GMT
+date: Mon, 04 Dec 2023 01:33:56 GMT
+location: https://accounts.google.com/v3/signin/identifier?continue=https%3A%2F%2Fgroups.google.com%2F&followup=https%3A%2F%2Fgroups.google.com%2F&ifkv=ASKXGp03QlQTZsZ3ctdQNsfDO55OOxwLp7Ww4nildGWkxeBa-mOq6PkZCwhxkB3TMwSnip_pedoL&osid=1&passive=1209600&flowName=WebLiteSignIn&flowEntry=ServiceLogin&dsh=S-2029136732%3A1701653636180222
+content-length: 533
+strict-transport-security: max-age=31536000; includeSubDomains
+cross-origin-opener-policy-report-only: same-origin; report-to="coop_gse_qebhlk"
+report-to: {"group":"coop_gse_qebhlk","max_age":2592000,"endpoints":[{"url":"https://csp.withgoogle.com/csp/report-to/gse_qebhlk"}]}
+content-security-policy: script-src 'nonce--0XLCtiOkCXsZq3eUDdcPg' 'unsafe-inline' 'unsafe-eval';object-src 'none';base-uri 'self';report-uri /cspreport
+content-security-policy: require-trusted-types-for 'script';report-uri /cspreport
+x-content-type-options: nosniff
+x-xss-protection: 1; mode=block
+server: GSE
+alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+
+HTTP/2 200 
+content-type: text/html; charset=utf-8
+x-frame-options: DENY
+vary: Sec-Fetch-Dest, Sec-Fetch-Mode, Sec-Fetch-Site
+set-cookie: __Host-GAPS=1:YJIIopg__Fejzo3wKUIvOAvs92NX8g:PBRm_Xsd2DyY8aWp; Expires=Wed, 03-Dec-2025 01:33:56 GMT; Path=/; Secure; HttpOnly; Priority=HIGH
+x-auto-login: realm=com.google&args=continue%3Dhttps://groups.google.com/
+x-ua-compatible: IE=edge
+cache-control: no-cache, no-store, max-age=0, must-revalidate
+pragma: no-cache
+expires: Mon, 01 Jan 1990 00:00:00 GMT
+date: Mon, 04 Dec 2023 01:33:56 GMT
+content-length: 593852
+strict-transport-security: max-age=31536000; includeSubDomains
+content-security-policy: require-trusted-types-for 'script';report-uri /v3/signin/_/AccountsSignInUi/cspreport
+content-security-policy: script-src 'nonce-9n73Z3vI6x_KWa4u0p5Vkg' 'unsafe-inline';object-src 'none';base-uri 'self';report-uri /v3/signin/_/AccountsSignInUi/cspreport;worker-src 'self'
+report-to: {"group":"AccountsSignInUi","max_age":2592000,"endpoints":[{"url":"https://csp.withgoogle.com/csp/report-to/AccountsSignInUi"}]}
+accept-ch: Sec-CH-UA-Arch, Sec-CH-UA-Bitness, Sec-CH-UA-Full-Version, Sec-CH-UA-Full-Version-List, Sec-CH-UA-Model, Sec-CH-UA-WoW64, Sec-CH-UA-Form-Factor, Sec-CH-UA-Platform, Sec-CH-UA-Platform-Version
+permissions-policy: ch-ua-arch=*, ch-ua-bitness=*, ch-ua-full-version=*, ch-ua-full-version-list=*, ch-ua-model=*, ch-ua-wow64=*, ch-ua-form-factor=*, ch-ua-platform=*, ch-ua-platform-version=*
+cross-origin-opener-policy-report-only: same-origin; report-to="AccountsSignInUi"
+cross-origin-resource-policy: same-site
+server: ESF
+x-xss-protection: 0
+x-content-type-options: nosniff
+alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+
