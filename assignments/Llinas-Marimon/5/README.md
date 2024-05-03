@@ -10,6 +10,8 @@
 * [server_deny.js](5.1/server_deny.js) - server preventing access.
 * [server_allow.js](5.1/server_allow.js) - server allowing access.
 
+### Youtube video is available at: https://youtu.be/iDzgWPW5wwU
+
 ### Summary
 
  1. Demonstrating the request to fetch favs.json from another origin is denied by CORS policy.
@@ -33,6 +35,8 @@
 * [server.js](5.2/server.js) - server used to host website_2.html.
 * [server_deny.js](5.2/server_deny.js) - server without Access-Control-Expose-Headers.
 * [server_allow.js](5.2server_allow.js) - server with Access-Control-Expose-Headers.
+
+### Youtube video is available at: https://youtu.be/-tPcjDp31AU
 
 ### Summary
 
@@ -71,6 +75,8 @@ app.get("/", function (req, res) {
 * [website_3.html](5.3/website_3.html) - html file with iframe
 * [server_deny.js](5.3/server_deny.js) - server with Content-Security-Policy:"default-src 'self'; script-src 'self'".
 * [server_allow.js](5.3server_allow.js) - server with Content-Security-Policy:"default-src 'self' https://www.adobe.com/; script-src 'self' 'unsafe-inline'"
+
+### Youtube video is available at: https://youtu.be/WBEN89qpYqw
 
 ### Summary
 
